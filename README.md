@@ -1,8 +1,8 @@
 # Saudi Architect Skills
 
-### A Claude Desktop skill suite for architectural practice in the Kingdom of Saudi Arabia
+### A professional skill suite for architectural practice in the Kingdom of Saudi Arabia
 
-`Skills-Architect-Saudi` is a localized architecture plugin built for Saudi delivery realities. It centers on one master router skill and domain sub-skills aligned with KSA codes, authority pathways, and project conditions across municipalities and giga-project ecosystems.
+`Skills-Architect-Saudi` is a localized architecture plugin built for Saudi delivery realities. It centers on one master router skill and domain subskills aligned with KSA codes, authority pathways, and project conditions across municipalities and giga-project ecosystems.
 
 The suite is tuned for:
 - **SBC-based compliance strategy** across core code families (including life safety, accessibility, and energy-related checks)
@@ -14,14 +14,17 @@ The suite is tuned for:
 ---
 
 - `SKILL.md`: Main entry skill (master router) with routing logic and quick-reference behavior.
-- `sub_skills/*.md`: Specialized KSA sub-skills for compliance, technical coordination, delivery, and practice workflows.
-- `core/calculators.py`: Calculation helpers used by calculator workflows.
-- `main.py`: Runtime entry point for loading sub-skills and tool dispatch.
+- `references/`: Governance (`compliance.md`, `operational.md`, `config.json`, `domain_terms.json`, `templates/`).
+- `subskills/<id>/<id>.md`: Specialized KSA subskills for compliance, technical coordination, delivery, and practice workflows.
+- `scripts/calculators.py`: Calculation helpers used by calculator workflows.
+- `main.py`: Runtime entry point for loading subskills and tool dispatch.
+- `evals/evals.json`: Formal eval test cases; `saudi-architect-master-workspace/` for run outputs.
+- `VERIFICATION.md`: Golden test prompts; `AGENTS.md` at repo root for Cursor activation.
 
 - [Quick Start](#quick-start)
 - [What You Get](#what-you-get)
 - [How It Works](#how-it-works)
-- [Router-Declared Sub-skills](#router-declared-sub-skills)
+- [Router-Declared Subskills](#router-declared-subskills)
 - [Calculators](#calculators)
 - [Folder Structure](#folder-structure)
 - [Example Prompts](#example-prompts)
@@ -37,16 +40,17 @@ The suite is tuned for:
 1. Copy or clone this folder into your Claude Desktop skills workspace.
 2. Keep the package structure unchanged:
    - `SKILL.md`
-   - `sub_skills/`
-   - `core/`
+   - `references/`
+   - `subskills/`
+   - `scripts/`
    - `main.py`
-3. Load the skill package from this directory.
+3. Load the skill package from the `saudi-architect-master` directory.
 4. Start a new chat and ask a Saudi architecture question.
 
 ### Option 2: Plugin directory launch
 
 ```bash
-claude --plugin-dir "/path/to/Skills-Architect-Saudi/Claude Desktop"
+claude --plugin-dir "/path/to/Skills-Architect-Saudi/saudi-architect-master"
 ```
 
 ---
@@ -56,7 +60,7 @@ claude --plugin-dir "/path/to/Skills-Architect-Saudi/Claude Desktop"
 - **1 master router skill** in `SKILL.md` for intake and specialist routing
 - **Saudi-focused routing tree** covering code, authority, design, delivery, and practice operations
 - **Built-in quick-reference behavior** for practical first-pass guidance before deep dive routing
-- **Calculation support** via `core/calculators.py`
+- **Calculation support** via `scripts/calculators.py`
 - **Structured dispatch flow** through `load_saudi_sub_skill` and `run_saudi_calculator`
 
 ---
@@ -69,7 +73,7 @@ The system follows a progressive routing flow:
    The master skill handles straightforward queries with concise KSA-oriented guidance where possible.
 
 2. **Route to a specialist when needed**  
-   For deeper or risk-sensitive topics, it dispatches to the best-matching sub-skill using `load_saudi_sub_skill`.
+   For deeper or risk-sensitive topics, it dispatches to the best-matching subskill using `load_saudi_sub_skill`.
 
 3. **Run computations for numeric checks**  
    For quantitative tasks, it calls calculator workflows through `run_saudi_calculator`.
@@ -78,9 +82,9 @@ This keeps routine architectural support fast while preserving depth for high-ri
 
 ---
 
-## Router-Declared Sub-skills
+## Router-Declared Subskills
 
-The master router in `Claude Desktop/SKILL.md` currently declares the following sub-skills:
+The master router in `saudi-architect-master/SKILL.md` currently declares the following subskills:
 
 - `sa-building-codes`
 - `sa-fire-life-safety`
@@ -136,16 +140,29 @@ The calculator module currently supports:
 ## Folder Structure
 
 ```text
-Claude Desktop/
+saudi-architect-master/
 ├── SKILL.md                            # Master router entry
-├── main.py                             # Runtime entry and dispatch
-├── core/
-│   └── calculators.py                  # Calculator workflows
-└── sub_skills/
-    ├── sa-building-services/
-    ├── sa-minor-works/
-    ├── ... (Saudi specialist skills)
-    └── sa-*/                           # Future expansion pattern
+├── main.py                             # Claude Desktop stdin/stdout entry
+├── references/
+│   ├── config.json                     # Strict mode and governance flags
+│   ├── compliance.md
+│   ├── operational.md
+│   ├── domain_terms.json
+│   └── templates/                      # Memo, gap log, punch-list, catalog
+├── subskills/<id>/
+│   ├── <id>.md
+│   └── references/                     # Deep refs (selected modules)
+├── scripts/
+│   ├── dispatcher.py
+│   ├── calculators.py
+│   └── inject_when_to_use.py
+├── evals/
+│   ├── evals.json
+│   └── files/
+└── VERIFICATION.md
+
+saudi-architect-master-workspace/       # Sibling — eval run outputs
+└── iteration-1/
 ```
 
 ---

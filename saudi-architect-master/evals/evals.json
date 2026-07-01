@@ -1,0 +1,69 @@
+{
+  "skill_name": "saudi-architect-master",
+  "evals": [
+    {
+      "id": 1,
+      "slug": "eval-routine-question",
+      "prompt": "What authorities typically govern a high-rise residential tower permit in Riyadh, and what are the first three documents I should lock before schematic design?",
+      "expected_output": "Answers from master quick reference (AHJ, SBPS, SCD) without loading every subskill; asks for occupancy/AHJ if assuming details; no invented SBC clause numbers.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 2,
+      "slug": "eval-subskill-routing",
+      "prompt": "Our SCD integrated systems test failed on smoke pressurization. What should we fix before re-inspection, and which module owns this?",
+      "expected_output": "Routes to sa-scd-licensing-compliance and/or sa-fire-life-safety; cites halt conditions if IST records or NOC status unknown; may reference scd-closeout-checklist.md when loaded via dispatcher.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 3,
+      "slug": "eval-edge-halt",
+      "prompt": "We changed egress on site without SBPS amendment. Can we take TOC next week and issue the occupancy certificate?",
+      "expected_output": "Halts or flags SCD red line per references/compliance.md; does not affirm occupancy readiness; offers remediated pathway (as-built amendment, resubmission).",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 4,
+      "slug": "eval-procurement-routing",
+      "prompt": "Client wants fastest programme on a NEOM hospitality tower. Should we go DBB or EPC, and what contract risks should we flag before tender?",
+      "expected_output": "Routes to sa-procurement-strategy; compares routes with KSA SBPS/SCD ripple on design changes; references FIDIC or NEC context; does not give legal advice on Particular Conditions.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 5,
+      "slug": "eval-deliverables-routing",
+      "prompt": "We are at DD freeze next week. What should be in the issue pack and who signs off on the transmittal?",
+      "expected_output": "Routes to sa-deliverables-workstages; mentions RACI, status codes, stage-gate checklist; may cross-link sa-plan-of-work; references deliverables catalog T-XX where relevant.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 6,
+      "slug": "eval-pow-routing",
+      "prompt": "What are the KSA-specific gate requirements for RIBA Stage 4 before we issue to tender?",
+      "expected_output": "Routes to sa-plan-of-work; maps Stage 4 to DD/SBC 601/SCD NOC; references sa-pow-stages-0-7.md; asks for AHJ if missing.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 7,
+      "slug": "eval-site-establishment-routing",
+      "prompt": "Building permit issued yesterday. What must we complete before crane erection, including STC fibre protection on the haul route?",
+      "expected_output": "Routes to sa-site-establishment; cross-checks sa-consent-scheduling for PtC; lists hoarding, TMP, telecom protection; references site-establishment-checklist.md.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 8,
+      "slug": "eval-construction-programme-routing",
+      "prompt": "Contractor proposes 5-day floor cycle with façade 2 floors behind structure. What hold points should the architect insist on for SCD?",
+      "expected_output": "Routes to sa-construction-programme; lists indicative hold points; cross-links sa-scd-licensing-compliance and sa-fire-life-safety; states durations are illustrative.",
+      "files": [],
+      "assertions": []
+    }
+  ]
+}

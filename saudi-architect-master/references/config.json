@@ -1,0 +1,17 @@
+{
+  "skill_metadata": {
+    "name": "saudi-architect-master",
+    "version": "2.0.0",
+    "strict_mode": true
+  },
+  "operational_boundaries": {
+    "allow_assumptions": false,
+    "fallback_to_standard_baselines": true,
+    "maximum_iteration_depth": 3
+  },
+  "compliance_verification": {
+    "require_framework_citations": true,
+    "enforce_jurisdictional_bounds": true,
+    "target_governance_framework": "SBC + SCD + SBPS/MoMRAH + special authorities (NEOM, RSG, DGDA, Qiddiya, ROSHN, MODON, RC)"
+  }
+}
