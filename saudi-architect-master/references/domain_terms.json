@@ -7,6 +7,8 @@
   "SBC701": "SBC 701 — plumbing, sanitary drainage, and water efficiency",
   "SBC801": "SBC 801 — mechanical systems; HVAC, ventilation, and related building services",
   "SBC1001": "SBC 1001 — accessibility and universal design; MoMRAH audit focus area",
+  "A117.1": "ICC A117.1 — Accessible and Usable Buildings and Facilities; technical criteria often referenced for SBC accessibility (use 2017 edition unless project specifies otherwise)",
+  "ICCA1171": "ICC A117.1 shorthand — same as A117.1; Digital Codes id ICCA11712017P2 for the 2017 edition",
   "SBCNC": "Saudi Building Code National Committee — publishes and maintains SBC editions",
   "SBPS": "Saudi Building Permit System — centralized municipal building permit portal",
   "BP": "Building Permit — full construction authority approval via SBPS or special authority",

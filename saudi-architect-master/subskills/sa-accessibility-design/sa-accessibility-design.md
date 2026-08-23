@@ -20,8 +20,15 @@ disable-model-invocation: true
 
 - Stop and request data if **AHJ**, occupancy, or approval status is unknown (see `../../references/compliance.md`).
 - Do not assert regulatory compliance without verified code edition and authority pathway.
+- Do not treat ICC A117.1 paraphrases in this skill as stamped compliance — verify against the licensed A117.1-2017 PDF and project SBC edition.
 
+## References
 
+| File | Use |
+|------|-----|
+| [`references/icc-a1171-2017-sbc-crosswalk.md`](references/icc-a1171-2017-sbc-crosswalk.md) | SBC 1001 / Ch.11 topics → A117.1-2017 section map |
+| [`references/accessibility-dims-quickref.md`](references/accessibility-dims-quickref.md) | Practice mm values with A117.1 citations |
+| Licensed PDF (gitignored) | `reference/private/icc-a117.1-2017.pdf` — drop official purchase here; see `reference/private/README.md` |
 
 # KSA Accessibility Design (SBC 1001 & Universal Design)
 

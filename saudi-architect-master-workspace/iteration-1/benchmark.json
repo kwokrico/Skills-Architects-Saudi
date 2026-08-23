@@ -1,0 +1,19 @@
+{
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": { "mean": null, "stddev": null },
+      "time_seconds": { "mean": null, "stddev": null },
+      "tokens": { "mean": null, "stddev": null }
+    },
+    "without_skill": {
+      "pass_rate": { "mean": null, "stddev": null },
+      "time_seconds": { "mean": null, "stddev": null },
+      "tokens": { "mean": null, "stddev": null }
+    },
+    "delta": {
+      "pass_rate": null,
+      "time_seconds": null,
+      "tokens": null
+    }
+  }
+}

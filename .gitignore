@@ -1,1 +1,5 @@
 .env
+
+# Licensed ICC / proprietary standards PDFs — do not commit
+reference/private/**
+!reference/private/README.md
