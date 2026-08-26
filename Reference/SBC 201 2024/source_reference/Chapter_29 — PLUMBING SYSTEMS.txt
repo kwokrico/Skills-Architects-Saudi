@@ -1,0 +1,691 @@
+===== Page 1873 =====
+# CHAPTER 29—PLUMBING SYSTEMS
+
+## General Comments
+
+Determining the exact number of plumbing fixtures needed by the maximum number of possible users in any given building continues to be a challenging problem for the plumbing industry. Various methods have been used to evaluate the number and type of plumbing fixtures needed for an occupancy. Studies of office buildings have produced design guidelines based on occupancy times, arrival rates and patterns of fixture use that offer insight into the number of required plumbing fixtures for a desired level of service. The Building Technology Research Laboratory at the Stevens Institute of Technology conducted a study based on the Queueing Theory, which involves probabilities for waiting times and fixture use times based on a preferred level of service. The study resulted in design guidelines for the quantities of fixtures needed in public toilet facilities. For residential type buildings and health care facilities, plumbing fixture numbers are based on the minimum need, resulting in at least one water closet and one lavatory for each dwelling unit, guestroom, or hospital room.
+
+Fixture requirements for factory and industrial uses are based on the same requirements as for storage facilities. This method establishes a realistic minimum requirement for factory occupancies. The reasonableness in the number of plumbing fixtures was established through a limited study of factory projects in Henrico County, Virginia.
+
+The fixture needs for the remaining occupancies were determined based on empirical data, experience and tradition. There are no exact studies providing values that are definitively supportable; the values have been modified periodically based on general observations. Various studies will most likely continue to be performed in order to develop a completely rational method for determining the minimum number of plumbing fixtures for any occupancy.
+
+## Purpose
+
+The purpose of Chapter 29 is to provide a building with the necessary number of plumbing fixtures of a specific type and quality. The fixtures must be properly installed to be usable by the individuals occupying the building. The quality and design of every fixture must be in accordance with SBC 701.
+
+## SECTION 2901 GENERAL
+
+2901.1 Scope. The provisions of this chapter and SBC 701 shall govern the design, construction, erection and installation of plumbing components, appliances, equipment and systems used in buildings and structures covered by this code. Toilet and bathing rooms shall be constructed in accordance with Section 1210. Private sewage disposal systems shall conform to SBC 702. SBC 801, the International Property Maintenance Code and SBC 701 shall govern the use and maintenance of plumbing components, appliances, equipment and systems. SBC 901 and SBC 701 shall govern the alteration, repair, relocation, replacement and addition of plumbing components, appliances, equipment and systems.
+
+This section contains the scoping requirements for Chapter 29. Compliance with this chapter will result in a building or structure having adequate plumbing fixtures for the sanitary, hygienic, cleaning, washing and food preparation needs of the occupants. This section also refers the reader to Section 1209 of the code, which covers specific requirements about surface finishes within toilet and bathing rooms. The requirements of this chapter are duplicated from the requirements of SBC 701, Chapter 4, for the convenience of the architect, who is often responsible for the layout and number of plumbing fixtures when creating the floor plan of a building.
+
+## SECTION 2902 MINIMUM PLUMBING FACILITIES
+
+2902.1 Minimum number of fixtures. Plumbing fixtures shall be provided in the minimum number as shown in Table 2902.1 based on the actual use of the building or space. Uses not shown in Table 2902.1 shall be considered individually by the building official. The number of occupants shall be determined by this code.
+
+This section requires that plumbing fixtures be based on the actual use of an occupancy and the occupant load as determined for the means of egress for a building or space. Occupancy loads are from SBC 201. Table 2902.1 has ratios for the maximum number of occupants that can be served by one fixture of each type. For example, “1 per 75” means one fixture will serve up to 75 occupants. These “ratios” are applied to the occupant load of the building or
+
+===== Page 1874 =====
+space in order to determine the total number of each required fixture type.
+
+The “description” of plumbing fixture use determines which set of fixture ratios is used for calculating plumbing fixture requirements. In most cases, the description of plumbing fixture use will match SBC occupancy classification. However, there are situations where a description of fixture use is different than SBC occupancy classification.
+
+## Educational Facilities
+
+Consider an educational facility (Grades 1-12) with a gymnasium with a stage. The code, in Chapter 3, states that assembly areas that are accessory to Group E occupancies are not to be considered as a separate occupancy (classification). Therefore, the number of water closets should be determined from Section 3 of Table 2902.1, which requires one water closet per 50 occupants. Because this gymnasium has a stage, a greater occupant density than for a gymnasium-only space must be chosen as nonfixed chairs will most likely be set up for viewing on-stage activities. Therefore, for egress purposes, the gymnasium is considered to be an assembly area with an occupant density of 0.65 m² per person. The resulting occupant load number applied with a Group E occupancy plumbing fixture ratio would result in an excessive number of plumbing fixtures for the building. The correct approach is to consider the plumbing fixture ratios in the fourth row of Table 2902.1 for gymnasium space, since these ratios reflect how the space is intended to be used with respect to the occupancy density chosen for the space. In other words, fixture ratios must be chosen to "agree" with the actual use of the space.
+
+A question that is often asked about Group E occupancies is whether the concept of nonsimultaneous occupancy could be considered in order to further reduce the number of required plumbing fixtures. For example, where a school auditorium is occupied by only the students within the school, the students are in either the classroom or the auditorium, but not in both places at the same time. Therefore, why should each area require a number of fixtures as if both areas were occupied simultaneously? The code does not recognize a nonsimultaneous use concept for any building, as simultaneous use could easily occur. For example, while students are in the classrooms, a school auditorium could be used temporarily for blood drives, regional science fairs and town meetings. However, this is not to say that in some circumstances, a nonsimultaneous use could, in some way, be completely guaranteed such that the building official might entertain a proposed reduction in the required number of plumbing fixtures for the building.
+
+## Business Facilities
+
+Consider a barber college where the code classifies the entire building as a Group B occupancy. The building has several large assembly rooms where the intent is to have training sessions for large groups of students. Clearly, these areas are used for assembly; therefore, the use of the fixture ratios in Section 1, Description Row 5 of Table 403.1 should be used.
+
+The choice of an occupancy use for the purposes of determining plumbing fixtures does not affect the occupancy group chosen for SBC 201 purposes, that being for egress. In other words, using a previous example, the school gymnasium with stage space should be chosen to be “assembly use” for plumbing fixture requirements, but the entire building is still a Group E occupancy for the purposes of egress as far as SBC 201 is concerned.
+
+Note that Section 1004.1.2 has an exception that allows for the designer to present (propose) an "actual" occupancy load number to the building official for approval instead of the calculated load for the occupancy square meter. While this exception would allow a smaller occupancy load to be chosen for the purposes of determining the required number of plumbing fixtures, building official s must carefully consider and appropriately justify the reduction. The building official should consider the potential for the space to be loaded with more persons than proposed by the designer, future use by different tenants of the same occupancy classification and the difficulty of enforcement of the maximum occupancy load for the limited number of plumbing fixtures provided.
+
+In Table 2902.1, the brief wording in the "description" column is not intended to be complete or inclusive of all uses for a particular building or space. However, the descriptions do identify a majority of the types of uses encountered in the design of most buildings. Because the descriptions guide the user toward the row of ratios to use, using the description column as the entry point into the table is beneficial. The "number" and "classification" columns are intended only for reference purposes. The requirements for type and number of plumbing fixtures are driven by the actual use of a building or space, which is usually consistent with the occupancy group classification, but not always.
+
+Some use description rows have a different ratio for male and female water closets, and in some cases, for lavatories. The smaller ratio for female fixtures provides an “equality of fixture
+
+===== Page 1875 =====
+availability" in those particular use descriptions. The buildings or spaces having these use descriptions have historically had numerous situations where there were long lines (queue) of females waiting to use toilet facilities while male facilities had very short or no lines. The reasons for this include the following:
+
+For a variety of social and physical reasons, women generally take a longer period of time to use the facilities.
+
+2 Women outnumber men in the general population, which becomes especially evident in large groups of people.
+
+3 Women, in general, tend to use the facilities more frequently.
+
+In a general sense, the term “potty parity” means that plumbing fixtures have been allocated such that women do not have to wait any longer than men (in a queue or line) to use an equivalent type of fixture. In a specific sense, “potty parity” also indicates the ratio of male to female fixtures of the same type. For example, if 24 male and 48 female water closets are installed in a building, then the potty parity is stated to be “1 to 2.” The term “potty parity” is not used in the code, but the concept is embedded in some of the ratios indicated in the table.
+
+The code does not require specific quantities of child-sized water closets. In a childcare facility having children ages 6 and under, the provision of child sized water closets (and sinks mounted at child height) could be beneficial to a facility's operation. Generally, for children over 6 years old, standardized fixtures are suitable because most children have learned to use the same size fixtures in a home setting. Note that the accessibility standard, ICC A117.1, as referenced by Section 404 of SBC 701, has specific dimensional requirements for where accessible child-sized water closets are to be installed.
+
+Some school facilities are designed to have a single-user toilet room that can be accessed only from within the classroom. The code is silent on whether the fixtures in this limited access toilet room can be counted toward the required number of plumbing fixtures for the building. Typically, the facility designer's intent for having these toilet rooms is for a student (or perhaps a teacher) to have access to a toilet facility while a class is in session. This mitigates the security/ protection issue of a student having to leave the teacher-controlled classroom to walk around in hallways that may not be as well monitored during class time. However, classrooms that are not in use are often locked, which prevents access to the classroom-accessed, single-user toilet room during the time periods between class sessions, when toilet facilities are often in high demand. The building official must decide if classroom-accessed, single user toilet rooms must be in excess of the required toilet facilities (outside the classroom).
+
+Table Note d, concerning outdoor seating and entertainment areas, is intended to require that outdoor patios, decks, balconies and similar areas, whether those areas have seating or not, be included for calculating the number of plumbing fixtures. While seating does provide a definitive occupant load for these types of areas, there are many situations where these areas are not provided with seating in order to accommodate as many customers as possible. Therefore, the occupant load should be based on standing space density. This occupant load number must be applied to the ratios found in the description row in Table 2902.1. For example, a restaurant has a fixed seating area with fixed booths and an outdoor entertainment area that has no seating or tables. The fixed seating area load is simply a count of the number of seats, according to Section 1004.6. The restaurant fixture ratios (Description Row 3 of the Assembly section of Table 2902.1) are then applied to this load to determine the number of plumbing fixtures for the fixed seating area. The outdoor area requires a different approach as it is a standing space area, not fixed seating. The occupant load is calculated from the area using Table 1004.5. Even though the building is a restaurant, this outdoor entertainment area might be used not as a restaurant, but as a dance floor. Therefore, the fixture ratios in Description Row 2 of Table 2902.1 (for dance halls) are applied to the standing occupant load. Using Row 3 fixture ratios for this area would be inappropriate. The use of proper occupant loads and use ratios will ensure that an adequate number of plumbing fixtures is provided where the occupant load is substantially increased by the addition of outdoor seating or standing areas.
+
+Choosing the proper description for a restaurant serving food can be challenging. Some restaurant operations evolve into a dance hall in the late evening. Bars with dance floors often have kitchens for preparing food to serve to patrons at the bar. The code is silent on how to determine which description (restaurant) is the best "fit" for the demand on the toilet facilities. The answer to this question lies in determining what use is primary. Is the bar's main purpose to support the restaurant operation? Or is the serving of food in support of the bar operation? In situations where there is no clear answer, perhaps considering the occupancy as a mixed-use arrangement is a practical answer.
+
+===== Page 1876 =====
+The drinking fountain ratio indicated for a description does not necessarily imply that every tenant space must have a drinking fountain within that building. Just as toilet facilities are only required to be provided when a building or space is in use, the provision of a drinking fountain follows similar logic. For example, consider a strip center with multiple-tenant spaces, each tenant space having the required number of plumbing fixtures for and within each space. The drinking fountain for that space (and all the adjacent spaces) could be located exterior to all the tenant spaces in a common area. The calculation for the required number of drinking fountains to be used by multiple occupancies is performed in the same manner as for other plumbing fixtures. See the Sample Problems in this commentary section. The "service sinks" required by Table 2902.1 are intended to be of a type suitable for janitorial and building maintenance purposes. Service sinks include mop sinks/basins, utility tub/sinks, janitor sinks, slop sinks and laundry trays. Only one service sink is required for the entire building, except that hospitals are required to have a service sink on each floor. The one service sink per building should be in a location that can be accessed from all portions of the building. For example, in a building that has multiple tenant spaces, locating the service sink for the entire building in a tenant space that cannot be accessed by janitors for a different tenant would be inappropriate. Persons responsible for janitorial and building maintenance must have access to the required sink without the need to enter one tenant space in order to service a different tenant space. This does not mean that the service sink must be in an open area of the building for use by any occupant, such as visitors. The service sink can be located in a locked janitor's closet for which all persons responsible for maintenance have access by key or door lock code. Note to the table allows business and mercantile occupancies of 15 or fewer persons to not require a service sink. Service sinks in these small occupancies are rarely used.
+
+Although Chapter 3 classifies parking garages as Group S occupancies, there is no indication in the description column for parking lot use. Furthermore, the exception in Section 2902.3 exempts “no attendant” parking garages from having public toilet facilities. A parking garage is similar to a parking lot in that it is not normally the final destination of a person parking a car. The only reason a person is in a parking garage is to park their car and then leave. A parking lot, having no enclosing structure, is not required to provide toilet facilities for the occupants who are parking their vehicles, so it stands to reason that a parking garage would not be required to provide toilet facilities. When people drive into a parking garage, their normal expectation is that the toilet facilities will be located in the building or buildings served by the parking garage. If public toilet facilities were provided in a parking garage, significant maintenance, vandalism and security issues would probably result in the eventual closure of such facilities. However, not requiring public toilet facilities in a parking garage does not provide justification for not providing toilet facilities for parking garage employees (such as ticket kiosk attendants). These employees must be provided with toilet facilities in accordance with Section 2902.3. However, these facilities are not required to be located in the parking garage but only within the travel limitations of Section 2902.3.4.
+
+Note f points to Section 609 of the ISPSC for the plumbing fixture requirements for outdoor public swimming pools. Description Row 8 covers the requirements for indoor swimming pools. Chapter 2 of the ISPSC has the definition for “Public swimming pools.”
+
+See Table 2902.1.
+
+See the commentary to Section 2902.1.
+
+2902.1.1 Fixture calculations. To determine the occupant load of each sex, the total occupant load shall be divided in half. To determine the required number of fixtures, the fixture ratio or ratios for each fixture type shall be applied to the occupant load of each sex in accordance with Table 2902.1. Fractional numbers resulting from applying the fixture ratios of Table 2902.1 shall be rounded up to the next whole number. For calculations involving multiple occupancies, such fractional numbers for each occupancy shall first be summed and then rounded up to the next whole number.
+
+Exceptions:
+
+1. The total occupant load shall not be required to be divided in half where approved statistical data indicates a distribution of the sexes of other than 50 percent of each sex.
+
+2. Where multiple-user facilities are designed to serve all genders, the minimum fixture count shall be calculated 100 percent, based on total occupant load. In such multiple-user user facilities, each fixture type shall be in accordance with ICC A117.1 and each urinal that is provided shall be located in a stall.
+
+3. Distribution of the sexes is not required where single-user water closets and bathing room fixtures are provided in accordance with Section 2902.1.2.
+
+===== Page 1877 =====
+This section requires that the occupant be divided by 2 in order to determine the quantities of males and females. This is known as a 50-50 gender distribution, meaning that 50 percent of the occupants are male, and 50 percent of occupants are female. While a 50-50 gender distribution is used most of the time, there might be situations where this assumption is inaccurate. The exception to this section allows for a different gender distribution if statistical data are submitted and approved by the building official for a building or space. An example that might require a modified distribution would be an all-women's health club, a males-only boarding school.
+
+Once the appropriate use description row in Table 2902.1 is chosen, the ratios for each fixture type and for each gender are used to determine the minimum number of plumbing fixtures for a building or space.
+
+Although not specifically indicated in this code section, prior to performing any plumbing fixture calculations for a building or space, the exceptions of Section 2902.2 must be reviewed for applicability. For example, a small restaurant could have two employees and 12 seats. If the fixture calculations were performed without consideration of Section 2902.2, this restaurant would be required to have a toilet facility for each gender. However, because the occupancy load is less than 15, a single toilet facility is all that is required.
+
+This section includes three exceptions, each of which impacts the number of required plumbing fixtures for any given use. Exception 1 allows for the 50-50 gender distribution to be altered where statistical data approved by the building official justifies. This may be appropriate at an all-female college, a factory with a predominantly male workforce, or a number of other scenarios. Exception 2 allows for multiple-user facilities to be designed to serve all genders; however, the full occupant load must be used to determine the required number of fixtures. In addition, each fixture must comply with ICC A117.1, and each urinal must be in its own stall. Exception 3 accounts for uses where single-user water closets and bathing rooms are provided per Section 403.1.2.
+
+The following sample problems illustrate calculation methods for various situations.
+
+Sample Problem 1: A mixed-use building has a business-use occupant load of 538, a library-use occupant load of 115 and a storage-use occupant load of 82. The occupancies are not separate tenant spaces. Determine the total number of required plumbing fixtures for the building.
+
+Problem Approach
+
+Check Section 2902.2 for applicability. If not applicable, proceed with calculations.
+
+Apply the gender distribution for each space use, calculate the number of fixtures required by each gender, total those numbers for each type of fixture from all spaces and round up the number of each type of fixture for each gender to a whole number. Note that drinking fountains are not gender specific. Therefore, the total number of occupants for the building is applied to the drinking fountain fixture ratio.
+
+Solution—Part I
+
+For the business-use spaces, find the required ratios in Table 2902.1, Section 2. Because a gender distribution was not specified, the number of occupants must be divided by 2 to obtain the number of occupants for each gender (refer to Section 2902.1.1). Therefore, in this business-use space, there will be:
+
+538/2 = 269 occupants of each gender
+
+1. Calculate the number of water closets for 269 males:
+
+For the first 50 males, the ratio of 1 per 25 is applied:
+
+ \( 50 \times 1/25 = 2 \)  water closets
+
+For the remaining number of males, the ratio of 1 per 50 is applied:
+
+ \( (269 - 50) \times 1/50 = 219 \times 1/50 = 4.38 \)  water closets
+
+The required number of water closets for males is:
+
+ \( 2 + 4.38 = 6.38 \)
+
+Because the gender distribution is equal and the water closet ratio for females is the same as for males, the number of water closets for females is also 6.38.
+
+2. Calculate the number of lavatories for 269 males:
+
+For the first 80 males, the ratio of 1 per 40 is applied:
+
+ \( 80 \times 1/40 = 2 \)  lavatories
+
+For the remaining males, the ratio of 1 per 80 is applied:
+
+ \( (269 - 80) \times 1/80 = 189 \times 1/80 = 2.36 \)  lavatories
+The required number of lavatories for males is:
+
+ \( 2 + 2.36 = 4.36 \)
+
+2 + 2.36 = 4.36
+
+Because the gender distribution is equal and the lavatory ratio for females is the same as for males, the number of lavatories for females is also 4.36.
+
+3. Calculate the number of drinking fountains for 538 occupants:
+
+The ratio of 1 per 100 is applied:
+
+ \( 538 \times 1/100 = 5.38 \)  drinking fountains for male and female use
+
+Solution—Part II
+
+For the library-use spaces, find the required ratios in Table 2902.1, Section 1. Because a gender distribution was not specified, the number of occupants must be divided by 2 to
+
+===== Page 1878 =====
+obtain the number of occupants for each gender (refer to Section 2902.1.1). Therefore, in this library-use space, there will be:
+
+115/2 = 57.5 occupants of each gender
+1. Calculate the number of water closets for males: The ratio of 1 per 125 is applied:
+
+57.5 × 1/125 = 0.46 water closet for males
+
+2. Calculate the number of water closets for females:
+
+The ratio of 1 per 65 is applied:
+
+57.5 × 1/65 = 0.88 water closet for females
+
+3. Calculate the number of lavatories for 57.5 males:
+
+The ratio of 1 per 200 is applied:
+
+57.5 × 1/200 = 0.29 lavatory for males
+
+Because the gender distribution is equal and the lavatory ratio for females is the same as for males, the number of lavatories for females is also 0.29.
+
+4. Calculate the number of drinking fountains for 115 occupants:
+
+The ratio of 1 per 500 is applied:
+
+115 × 1/500 = 0.23 drinking fountain for both males and females
+
+Solution—Part III
+
+For the storage-use space, find the required ratios in Table 2902.1, Section 8. Because a gender distribution was not specified, the number of occupants must be divided by 2 to obtain the number of occupants for each gender (refer to Section 2902.1.1). Therefore, in this storage-use space, there will be:
+
+82/2 = 41 occupants of each gender
+
+1. Calculate the number of water closets for 41 males:
+
+The ratio of 1 per 100 is applied:
+
+41 × 1/100 = 0.41 water closet for males
+
+Because the gender distribution is equal and the water closet ratio for females is the same as for males, the number of water closets for females is also 0.41.
+
+2. Calculate the number of lavatories for 41 males:
+
+The ratio of 1 per 100 is applied:
+
+41 × 1/100 = 0.41 lavatory for males
+
+Because the gender distribution is equal and the lavatory ratio for females is the same as for males, the number of lavatories for females is also 0.41.
+
+3. Calculate the number of drinking fountains for 82 occupants:
+
+The ratio of 1 per 1000 is applied:
+
+82 × 1/1000 = 0.082 drinking fountains for males and females
+
+Solution—Summary
+
+See Commentary Figure 2902.1.1(1) for the solution summary for Sample Problem 1. Note that if the raw fixture numbers were rounded up prior to summation for the building, the calculated minimum fixture requirements would have been increased by one water closet for each gender, one lavatory for each gender and two drinking fountains.
+
+Sample Problem 2: A mixed-use building has a business-use occupant load of 940 and a restaurant-use occupant load of 360. The occupancies are separate tenant spaces. The toilet facilities are to be located in each tenant space. For the business occupancy, bottled water coolers are to be substituted for drinking fountains to the maximum allowable extent. Determine the total number of required plumbing fixtures for the building.
+
+Problem Approach
+Check Section 2902.2 for applicability. If not applicable, proceed with calculations.
+
+Note that the plumbing fixtures required by each occupancy will be located in each tenant space. Thus, the required number of plumbing fixtures for each tenant space is calculated as if the space stood alone (in other words, in its own building).
+
+Solution—Part I
+
+For the business-use space, find the required ratios in Table 2902.1, Section 2. Because a gender distribution was not specified, the number of occupants must be divided by 2 to obtain the number of occupants for each gender (refer to Section 2902.1.1). Therefore, in this business-use space, there will be:
+
+940/2 = 470 occupants of each gender
+
+1. Calculate the number of water closets for 470 males:
+
+For the first 50 males, the ratio of 1 per 25 is applied:
+
+50 × 1/25 = 2 water closets
+
+For the remaining number of males, the ratio of 1 per 50 is applied:
+
+ \( (470 - 50) \times 1/50 = 420 \times 1/50 = 8.4 \)  water closets
+
+The required number of water closets for males is:
+
+2 + 8.4 = 10.4
+
+Because the gender distribution is equal and the water closet ratio for females is the same as for males, the number of water closets for females is also 10.4.
+
+2. Calculate the number of lavatories for 470 males:
+
+For the first 80 males, the ratio of 1 per 40 is applied:
+
+80 × 1/40 = 2 lavatories
+
+For the remaining males, the ratio of 1 per 80 is applied:
+
+ \( (470 - 80) \times 1/80 = 390 \times 1/80 = 4.88 \)  lavatories
+
+The required number of lavatories for males is:
+
+2 + 4.88 = 6.88
+
+2 + 4.88 = 6.88
+
+Because the gender distribution is equal and the lavatory ratio for females is the same as for
+
+===== Page 1879 =====
+males, the number of lavatories for females is also 6.88.
+
+3. Calculate the number of drinking fountains for 940 occupants:
+
+The ratio of 1 per 100 is applied:
+
+ \( 940 \times 1/100 = 9.4 \)  drinking fountains for males and females
+
+Solution—Part II
+
+For the restaurant-use space, find the required ratios in Table 2902.1, Section 1. Because a gender distribution was not specified, the number of occupants must be divided by 2 to obtain the number of occupants for each gender (refer to Section 2902.1.1). Therefore, in this restaurant-use space, there will be:
+
+360/2 = 180 occupants of each gender
+
+1. Calculate the number of water closets for males:
+
+The ratio of 1 per 75 is applied:
+
+180 × 1/75 = 2.4 water closets for males
+
+Therefore, 2.4 male water closets are needed. Because the gender distribution is equal and the water closet ratio for females is the same as for males, the number of water closets for females is also 2.4.
+
+If Exception 2 were applied the calculations would be  \( 360 \times 1/75 = 4.8 \)  water closets. In this case, rather than three male water closets, and three female water closets for a total of six fixtures, the requirement would be met by five water closets designed to serve all genders.
+
+2. Calculate the number of lavatories for 180 males:
+
+The ratio of 1 per 200 is applied:
+
+180 × 1/200 = 0.9 lavatory for males is required
+
+Therefore, 0.9 male lavatory is needed.
+
+Because the gender distribution is equal and the lavatory ratio for females is the same as for males, the number of lavatories for females is also 0.9.
+
+If Exception 2 were applied the calculations would be  \( 360 \times 1/200 = 1.8 \)  lavatories needed. Therefore, the requirement would be met by two lavatories designed to serve all genders.
+
+3. Calculate the number of drinking fountains for 360 occupants:
+
+The ratio of 1 per 500 is applied:
+
+ \( 360 \times 1/500 = 0.72 \)  drinking fountain for both males and females
+
+Solution—Part III
+
+The number of required drinking fountains is allowed to be reduced by up to 50 percent by substitution with bottled water coolers or bottled water dispensers (see SBC 701 Section 410.1 and related commentary). In restaurants, drinking fountains are not required if drinking water is served. Chapter 11 requires that any drinking fountains that are provided must be accessible. Where only one drinking fountain is being provided, either two installed at different heights or one combination unit with two bowls (each with a spout) at different heights must be installed. (The spout height requirements are specified in ICC/ANSI A117.1—2009.)
+
+Bottled water cooler (or dispenser) substitution might not be appropriate for applications where located in areas that are completely open to the public. For example, a bottled water cooler to substitute for one of three required drinking fountains that are to be placed outdoors at a large strip center would most likely be subject to vandalism. However, a bottled water cooler substituted for one of three required drinking fountains in a large office building (a more controlled environment) would not be inappropriate. Where this chapter requires two drinking fountains, the accessibility regulations of Chapter 11 require two drinking fountains, one with a high spout and one with a low spout. The following example illustrates how the accessibility requirements for drinking fountains relate to the plumbing code requirements for drinking fountains and bottled water cooler substitution.
+
+Consider an occupancy requiring 10 drinking fountains. Bottled water dispensers can substitute for five of the 10 required drinking fountains. Of the five drinking fountains to be installed, two are mounted at the high spout level, two are mounted at the low spout level and the third can be mounted at either the high or low spout level. A bottled water cooler is not a drinking fountain. While the code provides accessibility requirements for drinking fountains, it does not address bottled water coolers.
+
+Solution—Summary
+
+See Commentary Figure 2902.1.1(2) for the solution summary for Sample Problem 2. Note that if the raw fixture numbers were rounded prior to summation for the building, the calculated minimum fixture requirements would have increased by one water closet for each gender, one lavatory for each gender and two drinking fountains.
+
+Sample Problem 3: A stadium has an occupant load of 5,200. Urinals are to be substituted for male water closets to the maximum extent allowed. Determine the total number of required plumbing fixtures for the stadium.
+
+Problem Approach
+
+Check Section 2902.2 for applicability. If not applicable, proceed with calculations.
+
+Apply the gender distribution, calculate the number of fixtures required by each gender, total those numbers for each type of fixture and round up the number of each type of fixture for each gender to a whole number. Apply the urinal substitution (Section 424.2) to reduce the number of male water closets.
+
+===== Page 1880 =====
+## Solution
+
+For the stadium-use occupancy, find the required ratios in Table 2902.1, Row 8. Because a gender distribution was not specified, the number of occupants must be divided by 2 to obtain the number of occupants for each gender (refer to Section 2902.1.1). Therefore, in this stadium-use building, there will be:
+
+5,200/2 = 2,600 occupants of each gender
+1. Calculate the number of water closets for 2,600 males:
+
+For the first 1,500 males, the ratio of 1 per 75 is applied:
+
+1,500 × 1/75 = 20 water closets
+
+For the remaining number of males, the ratio of 1 per 120 is applied:
+
+ \( (2,600 - 1,500) \times 1/120 = 1,100 \times 1/120 = 9.17 \)  water closets
+
+The required number of water closets for males is:
+
+20 + 9.17 = 29.17 (round to 30)
+
+2. Calculate the number of water closets for 2,600 females:
+
+For the first 1,520 females, the ratio of 1 per 40 is applied:
+
+1,520 × 1/40 = 38 water closets
+
+For the remaining number of females, the ratio of 1 per 60 is applied:
+
+ \( (2,600 - 1,520) \times 1/60 = 1,080 \times 1/60 = 18 \)  water closets
+
+The required number of water closets for females is:
+
+38 + 18 = 56
+
+3. Calculate the number of lavatories for 2,600 males:
+
+The ratio of 1 per 200 is applied:
+
+2,600 × 1/200 = 13 lavatories for males
+
+4. Calculate the number of lavatories for 2,600 females:
+
+The ratio of 1 per 150 is applied:
+
+2,600 × 1/150 = 17.3 lavatories (round to 18)
+
+5. Calculate the number of drinking fountains for 5,200 occupants:
+
+The ratio of 1 per 1,000 is applied:
+
+5,200 × 1/1,000 = 5.2 (round to 6)
+
+6. Calculate the number of urinals to be substituted for male water closets. Because a stadium is in the assembly classification, 67 percent of the water closets can be replaced with urinals.
+
+The ratio of 67/100 is applied:
+
+30 × 67/100 = 20.1 urinals (round down to 20 because rounding up would result in the number of urinals exceeding 67 percent of the required number of water closets)
+
+Solution—Summary
+
+See Commentary Figure 2902.1.1(3) for the solution summary for Sample Problem 3.
+2902.1.2 Single-user toilet facility and bathing room fixtures. The plumbing fixtures located in single-user toilet and bathing rooms, including family or assisted-use toilet and bathing rooms that are required by Section 1110.2.1, shall contribute toward the total number of required plumbing fixtures for a building or tenant space. Single-user toilet and bathing rooms, and family or assisted-use toilet rooms and bathing rooms shall be identified as being available for use by all persons regardless of their sex.
+
+The total number of fixtures shall be permitted to be based on the required number of separate facilities or based on the aggregate of any combination of single-user or separate facilities.
+
+☑ Fixtures located in single-user and family or assisted-use toilet facilities or bathing rooms in assembly and mercantile occupancies are allowed to contribute to the total number of required fixtures for the building or tenant space. After the calculations in Section 2902.1.1 are performed, the quantities of male and female fixtures are known. Where single-user toilet facilities are chosen for the location of the fixtures, or where family or assisted-use toilet facilities or bathing rooms are required by Chapter 11, the fixtures in those rooms reduce the quantity of either male or female fixtures that need to be located elsewhere in the building or tenant space. Although such toilet facilities and bathing rooms are usable by either sex (as the last sentence of this section indicates); the fixtures in those rooms cannot be “double-counted” to result in an overall reduction in the required quantity of fixtures for the building or tenant space.
+
+The code does not require that the water closets and lavatories for each sex be located in "gang-type" toilet facilities for each sex as opposed to being located (all or in part) in single-user user toilet facilities. This is a choice made by the designer of the building or tenant space. A building design having all single-user toilet facilities complies with the code. A building having half of the required quantity of water closets and lavatories for each sex in separate sex "gang-type" toilet facilities and the other half in single-user user toilet facilities also complies. Note that accessibility features of single-user facilities will need to be addressed with respect to whether such facilities are considered "clustered" or "not clustered." See Exception 3 of Section 1109.2.
+
+A family or assisted-use toilet room is required by the code in assembly or mercantile occupancies where an aggregate total of six or more male and female water closets is required. The term “aggregate total” means the combined number of required male and female
+
+===== Page 1881 =====
+water closets before any urinal substitutions. A family or assisted-use bathing room is required by the code in recreational facilities having separate-sex bathing rooms except where the separate-sex bathing rooms only have one shower or bathing fixture. Family or assisted-use toilet (and bathing room) facilities are intended for use by individuals who need the assistance of a family member or care provider to properly use plumbing fixtures in a private and dignified manner.
+
+Sample Problem 4: A theater has an occupant load of 520. Urinals are to be substituted for male water closets to the maximum extent allowed. Determine the total number of plumbing fixtures that will be in the building. Problem Approach
+
+Apply the gender distribution, calculate the number of fixtures required by each gender, total those numbers for each type of fixture and round up the number of each type of fixture for each gender to a whole number. Consider the code requirement for a family or assisted-use toilet room. Apply the urinal substitution (SBC 701 Section 419.2) to reduce the number of male water closets to the maximum extent possible.
+
+## Solution
+
+Calculation method is similar to Sample Problem 1 — Part II.
+Solution—Summary
+See Commentary Figure 2902.1.1(4) and Figure 2902.1.1(5) for the solution summary for Sample Problem 4.
+
+Because a theater is a use description of Assembly and the aggregate total of required water closets is seven, one family or assisted-use toilet facility is required. The designer has the choice of reducing the number of fixtures in either the male or female toilet rooms by one lavatory and one water closet. In this case, the designer chose to reduce the number of required male fixtures. It may be more logical to reduce the male fixture count because of the greater need for fixtures in the female facilities. The code is silent as to whether the fixtures in a voluntarily added family or assisted-use toilet facility can be counted toward the required number of fixtures in any occupancy. For example, in Sample Problem 3, perhaps the building owner chooses to have three family or assisted-use toilet facilities in addition to the required number of fixtures in the public toilet facilities. If the fixtures in these "extra" family or assisted-use toilet facilities are allowed to count toward the required number of fixtures, which gender toilet facility should have fixture counts reduced? Note that voluntarily added family or assisted-use toilet facilities should not count toward the required number of fixtures, no matter the occupancy, because the code does not specify a maximum reduction, and any reductions seem to go against the intent that the code provide ample gender-specific toilet facilities.
+
+Where the calculations require multiple fixtures for a gender, the code is silent as to whether those required fixtures can be provided in multiple single-occupant toilet rooms. For example, if two water closets for each gender are required, could four single-occupant toilet facilities (two labeled male, two labeled female) be provided? While the arrangement of multiple fixtures in one toilet room is cost-efficient and space saving, some business owners might perceive a "marketing advantage" for their business by having all single-occupant toilet facilities. For example, families with young children and elderly customers might be more attracted to a restaurant that has all single-occupant toilet facilities so that a family member can privately assist another family member using the facility. Or simply, some customers might prefer the extra privacy that a single-occupant toilet room offers.
+
+The provision of the required number of plumbing fixtures in single-occupant toilet facilities should be discouraged because the ratios provided in Table 2902.1 never anticipated such arrangements. Users of single-occupant toilet rooms will generally take longer as they have the security of a locking door. Users in multiple-user toilet facility environments are "encouraged" to be quick due to the bustle of activity in the more open environment (people waiting outside stalls or standing in line at urinals). In other words, (four) single-use toilet facilities (marked two male and two female) do not provide the level of use efficiency as does a multiple-user public toilet facility. Even though the code doesn't discuss efficiency with regard to toilet facilities, the desired outcome of Table 2902.1 is to prevent long waiting lines and, thus, use efficiency is a significant factor.
+
+Note that where multiple single-occupancy toilet rooms are provided, Chapter 11 requires that at least 50 percent of the single-occupancy toilet rooms within a cluster of toilet rooms must be of accessible design. If the single-occupant toilet rooms are not clustered but are located individually throughout a building or tenant space, all toilet rooms are required to be of accessible design. For example, four single-occupant toilet rooms, two labeled "men" and two labeled "women" are clustered together. Only one of each gender of those toilet rooms must be of accessible design. However, if the single-occupant toilet rooms are not grouped together in the building, all of those single-
+
+===== Page 1882 =====
+occupant toilet rooms must be of accessible design.
+
+2902.1.3 Lavatory distribution. Where two or more toilet rooms are provided for each sex, the required number of lavatories shall be distributed proportionately to the required number of water closets.
+
+Some buildings and larger tenant spaces could be designed with several gang toilet facilities for each sex. The required number of lavatories for the building or tenant space should be distributed proportionately between each gang toilet facility. For example, a building requires seven water closets and four lavatories for females. The ratio of lavatories to water closets is 4:7. Two gang toilet facilities are to be provided for those fixtures. With two water closets in one facility, the required number of lavatories in the facility is  \( (2 \times 4)/7 = 1.14 \) . Because the code does not indicate that this number be rounded up to the next whole number, simple mathematical rounding rules can apply. Using the ratio, the number of lavatories =  \( (5 \times 4)/7 = 2.86 \)  or 3. It does not appear that this section is requiring more lavatories than what the original required total was for the building or tenant space. Note, however, the definition of a toilet facility is not less than one lavatory and one water closet. In other words, where the result of the calculation (using the ratio) is less than 0.5 for a toilet facility, then there has to be at least one lavatory for that facility. A building or tenant space that is designed with all single-user toilet facilities will possibly require more lavatories than what is required by Table 403.1 of SBC 701.
+
+2902.2 Separate facilities. Where plumbing fixtures are required, separate facilities shall be provided for each sex.
+
+Exception:
+
+1. Separate facilities shall not be required for dwelling units and sleeping units.
+
+2. Separate facilities shall not be required in structures or tenant spaces with a total occupant load, including both employees and customers, of 15 or fewer.
+
+3. Separate facilities shall not be required in mercantile occupancies in which the maximum occupant load is 100 or fewer.
+
+4. Separate facilities shall not be required in business occupancies in which the maximum occupant load is 25 or fewer.
+
+Separate facilities are required for males and females. Exception 1 is redundant as Table 2902.1 already indicates the types of occupancies where one single-occupancy toilet room is sufficient.
+2902.2.1 Family or assisted-use toilet facilities serving as separate facilities. Where a building or tenant space requires a separate toilet facility for each sex and each toilet facility is required to have only one water closet, two family or assisted-use toilet facilities shall be permitted to serve as the required separate facilities. Family or assisted-use toilet facilities shall not be required to be identified for exclusive use by either sex as required by Section 2902.4.
+
+For a building or space having only one male water closet and one female water closet, two-family/assisted-use toilet rooms increase the overall availability of a toilet room when needed. A single gender based toilet can be unavailable for periods of up to 15 minutes when, for example, the current occupant is using it for companion care, to change diapers or to change a colostomy bag. Also, there is less impact to availability when one toilet room is being cleaned or serviced. For decades, males and females have used the same toilet facility on airliners.
+
+2902.3 Employee and public toilet facilities. For structures and tenant spaces intended for public utilization, customers, patrons and visitors shall be provided with public toilet facilities. Employees associated with structures and tenant spaces shall be provided with toilet facilities. The number of plumbing fixtures located within the required toilet facilities shall be provided in accordance with Section 2902 for all users. Employee toilet facilities shall be either separate or combined employee and public toilet facilities.
+
+Exception: Public toilet facilities shall not be required for:
+
+1. Parking garages where there are no parking attendants.
+
+2. Structures and tenant spaces intended for quick transactions, including takeout, pickup and drop-off, having a public access area less than or equal to 30 m².
+
+Toilet facilities must be available for all structures and tenant spaces that are used by persons (customers, patrons and visitors) engaged in the activities involved with the purpose of those structures and tenant spaces. SBC 701 Chapter 2 definition of "public" (and "public utilization") offers a sample list of the typical structures and tenant spaces that are required to have public plumbing fixtures. Customers, patrons and visitors could be, for example, buyers of merchandise, food or drink; recipients of services; viewers of displays or sporting events; receivers of information or training passengers of transportation systems; visitors to persons in detention centers or
+
+===== Page 1883 =====
+hospitals; and persons in attendance with those persons engaging in such activities.
+
+The code is not especially clear about whether the public plumbing fixtures in structures and tenant spaces are for use by persons not engaged in the activities involved with the purpose of the structure or tenant space. For example, are the public plumbing fixtures in a structure or tenant space intended to be used by passersby, street maintenance workers, nearby construction site workers, or vagrants where such persons have no other reason for entering the structure or tenant space other than to use the toilet facilities? Does this code section require that all building owners and lessees allow use of their public plumbing fixtures to serve the needs of the community at large (and not just their customers, patrons or visitors)? Because the number of plumbing fixtures for structure or tenant space is based on the intended use of the structure or tenant space, it is the author's opinion that the code is intended to provide public plumbing fixtures for serving only the persons involved with the description of use of the structure or tenant space. The photo of the front door of a restaurant shown in Commentary Figure 2902.3 captures this concept. For further discussion concerning access, see Section 2902.3.1.
+
+Employees associated with structures and tenant spaces must be provided with toilet facilities whether those facilities are separate from or combined with any required public toilet facilities for those spaces. Note the specific requirements of I-2 occupancies, I-3 occupancies and Note b of Table 2902.1, which requires employee toilet facilities to be separate from other toilet facilities (such as patient, inmate and visitor facilities). There is not a code requirement for providing an employee toilet facility within a tenant space where a public toilet facility for serving the tenant space's customers, patrons or visitors is provided. For example, a covered mall building has numerous tenant spaces and one or more central toilet facilities. It is the choice of the mall building or tenant space designer to have an employee toilet facility in the tenant space, provided that the distance of travel limit for the employees in a mall building is not exceeded (see Section 2902.3.4).
+
+The quantities of various plumbing fixtures required for any structure or tenant space is determined from the appropriate ratios indicated in Table 2902.1, applied to the occupant load (maximum number of persons) for the structure or space. The requirements of other sections in Section 2902 could affect those quantities. For example, where a family or assisted-use toilet facility is required, Section 2902.1.2 allows for reducing the quantity of required fixtures in either the male or female toilet facilities by the quantity required in the family or assisted-use toilet facility.
+
+Exception 1 indicates that public toilet facilities are not required for parking garages that are operated without parking attendants (such as would be necessary in manned payment kiosks). Even though SBC 201 classifies these types of structures as Group S (storage), the use description in Table 2902.1 for classification "S" does not include parking garages. Thus, parking garages do not require public toilet facilities regardless of whether the garage has parking attendants. However, because parking garage attendants are employees, they must be provided with toilet facilities. Such facilities could be at the parking garage location or at a nearby building, provided that the distance of travel is not exceeded (see Section 2902.3.4).
+
+Exception 2 allows for small public access areas in buildings and tenant spaces that are used by patrons, customers and visitors for the purpose of quick transactions, such as automated teller machine lobbies, shoe repair drop-off/pickup, dry cleaners, take-out only counters at restaurants (such as delicatessens, pizza and other takeout food) and entertainment ticket purchase/pickup lobbies, to not have public toilet facilities.
+
+There is not a definition for quick transaction. This provides some flexibility for the building official to review the circumstances of the intended operation of the establishment and the layout of the public access area to make the determination as to whether only quick transactions will occur. The customer should not spend any appreciable time in the area waiting, such as might be necessary for waiting for orders to be prepared (food ordered upon walking in), filling out extensive forms, waiting on an order to be pulled or loaded (such as for parts and materials at supply houses), waiting for a fuel tank to be filled, waiting for items to be repaired ("while-u-wait" services), waiting on estimates for repairs to be determined or shopping for merchandise on racks or shelves within the public access area. These small public access areas typically would not have chairs, stools, benches, bars, merchandise shelving, catalog viewing/ordering desks or racks for products. The presence of these items might cause the customer to be inclined to spend more time than needed to make a simple and quick transaction. However, this is not to say that just because the area has, for example, a rack for merchandise, that it can't be considered a quick transaction area. The rack
+
+===== Page 1884 =====
+might have newspapers, candy, and other similar merchandise that are usually chosen and paid for very quickly as opposed to a rack of clothing where choices are not as quickly made.
+
+2902.3.1 Access. The route to the public toilet facilities required by Section 2902.3 shall not pass through kitchens, storage rooms or closets. Access to the required facilities shall be from within the building or from the exterior of the building. The public shall have access to the required toilet facilities at all times that the building is occupied.
+
+It is inappropriate and dangerous to locate toilet facilities intended for use by persons who are not employees of the establishment such that the path of travel is through kitchens, storage rooms or closets. This provision avoids placing occupants from the general public in an unfamiliar area of the building where they could be confused about the path of egress. Especially during an emergency situation, public users of the toilet facility will instinctively want to try to exit the building along the same path of travel used to access the toilet facilities, which could be through an area where the emergency condition exists, such as a kitchen [see Commentary Figure 2902.3.1(1)]. Note that Section 1209.5 prohibits toilet rooms from directly opening into a room used for the preparation of food to be served to the public. It has been common practice in many areas that the required toilet facilities were located on the outside of a building such as sometimes found in automotive service stations and convenience store buildings. Outlet mall complexes sometimes elect to have a central toilet facility building separate from the tenant spaces. While the code is silent as to whether the required toilet facilities are allowed to be in another building not under the direct control of the owner or tenant of the building from where the toilet user travels to the toilet facilities, the intent is that public toilet facilities will be available (and open for use) when anyone is using a building or tenant space. However, it is unreasonable for toilet facilities in a building under different ownership or in a tenant space under different control to serve as the required toilet facilities for a building or tenant space.
+
+Walk-up and drive-through service windows are unique applications with regard to the requirement for toilet facilities. Where these establishments do not allow customers to enter the building, the code is silent on whether toilet facilities for the public are required. However, if facilities were required, how would one calculate the occupant loading to determine the required number of fixtures? Examples are ice cream shops with only a walk-up window, coffee shops with only a drive-up window and 24-hour fast food drive-throughs that close the building entrances to walk-in customers during late night/early morning hours. Where outdoor seating for customers is made available by these types of businesses, public toilet facilities for these walk-up/drive-through establishments should be available [see Commentary Figure 2902.3.1(2)]. If such outdoor seating areas can be “closed for public use” such as by a perimeter fence and locked entry gates, the seating area is not available for use and no requirement would exist to provide public toilet facilities.
+
+Variations of such service window applications are dry cleaners, pizza pickups, and banks that provide service or products to customers from indoor counters or kiosks. Because the public must walk into these buildings for service, public toilet facilities are required (except where the public area complies with Exception 2 of Section 2902.3). Obviously, these establishments are required to have toilet facilities for the employees; however, those facilities might not be properly located to also serve for public access. For example, if the location of the toilet facilities in a dry-cleaning establishment requires that the public walk a convoluted path around machinery and hanging clothes racks, the user could become confused about how to safely exit the toilet facilities and return to where he or she started. Public toilet facilities must be provided along an obvious and safe path of travel. Note that this path of travel must also meet the accessible route requirements for disabled persons. In the pizza pickup situation, because the public is not allowed to pass through a kitchen, the toilet facilities would have to be located on the customer side of the pickup counter. Banks (and check cashing establishments) do not have code restrictions for the areas that the public cannot pass through; however, the operators of these establishments might wish to restrict public access to “backroom” areas for security reasons. These self-imposed restrictions do not justify denying public access to the toilet facilities located in restricted areas. If the toilet facilities are located in restricted areas, public toilet facilities must be provided outside of those business-imposed restricted areas.
+
+2902.3.2 Prohibited toilet room location. Toilet rooms shall not open directly into a room used for the preparation of food for service to the public.
+
+This section provides a safeguard against a toilet room being used for food preparation functions, such as dumping of waste liquids and food scraps in a water closet.
+
+===== Page 1885 =====
+2902.3.3 Location of toilet facilities in occupancies other than malls. In occupancies other than covered and open mall buildings, the required public and employee toilet facilities shall be located not more than one story above or below the space required to be provided with toilet facilities, and the path of travel to such facilities shall not exceed a distance of 150 m.
+
+Exception: The location and maximum distances of travel to required employee facilities in factory and industrial occupancies are permitted to exceed that required by this section, provided that the location and maximum distance of travel are approved.
+
+To prevent health problems for building occupants related to difficulty in accessing a needed toilet facility in a timely fashion, the code clearly provides two conditions that must be met:
+
+The required toilet facilities must be located within a certain travel distance and
+
+2 The building occupant must not be required to travel beyond the next adjacent story above or below his or her location.
+
+2902.3.4 Location of toilet facilities in malls. In covered and open mall buildings, the required public and employee toilet facilities shall be located not more than one story above or below the space required to be provided with toilet facilities, and the path of travel to such facilities shall not exceed a distance of 90 m. In mall buildings, the required facilities shall be based on total square meter within a covered mall building or within the perimeter line of an open mall building, and facilities shall be installed in each individual store or in a central toilet area located in accordance with this section. The maximum distance of travel to central toilet facilities in mall buildings shall be measured from the main entrance of any store or tenant space. In mall buildings, where employees' toilet facilities are not provided in the individual store, the maximum distance of travel shall be measured from the employees' work area of the store or tenant space.
+
+In covered and open malls, the path of travel to required toilet facilities must not exceed a distance of 90 m and is measured from the main entrance of any store or tenant space. Note, however, that if the tenant space does not have toilets for the employees, the starting point for measuring the travel path is the employee's work area. As for other occupancies, the facilities must be located not more than one story above or below the
+occupant's location. This shorter travel distance addresses the fact that covered malls are frequently very congested and occupants are unfamiliar with their surroundings. It is also logical to reduce the travel time for employees for security reasons. The minimum number of required plumbing facilities is based on total square footage of the mall, including tenant spaces. This section does not prohibit the installation of separate employee toilet facilities in individual tenant spaces; however, such facilities are not deductible from the total number of common facilities required (see commentary, Section 2902.3).
+
+2902.3.5 Pay facilities. Where pay facilities are installed, such facilities shall be in excess of the required minimum facilities. Required facilities shall be free of charge.
+
+Pay facilities have been included in some public areas to prevent vagrants from loitering in the public bathrooms. They may also be installed to offer customers greater amenities where the customer desires such upgrades. This section does not prevent pay facilities from being installed; rather, it requires that such facilities be in excess of those required by Section 2902.
+
+2902.3.6 Door locking. Where a toilet room is provided for the use of multiple occupants, the egress door for the room shall not be lockable from the inside of the room. This section does not apply to family or assisted-use toilet rooms.
+
+Some multiple-occupant toilet rooms have a locking door to facilitate closure of the toilet facility for maintenance or for security when the toilet room is closed after a building's occupancy hours. However, this section prohibits this type of lock or any other lock from being engaged on the inside of the door so that persons cannot lock themselves in the toilet room for whatever reason. This requirement is to prevent multiple occupant toilet rooms from becoming safe havens for illicit activities. Because family/assisted use toilet rooms are provided to offer privacy to a user and a family member or caretaker, the lock prohibition does not apply to those types of toilet rooms.
+
+2902.4 Signage. Required public facilities shall be provided with signs that designate the sex as required by Section 2902.2. Signs shall be readily visible and located near the entrance to each toilet facility.
+
+Public facilities must be designated by a legible sign for each sex and located at the entrance to such facilities. The code is silent on the specifics of how gender designation is displayed or stated. Where a toilet or bathing room is accessible, the signage must comply with Section 1111 of the code, which requires
+
+===== Page 1886 =====
+the International Symbol of Accessibility to be displayed at any accessible toilet or bathing room, including a family/assisted-use toilet or bathing room. In addition, Section 1111.2 requires directional signage (with the International Symbol of Accessibility) at inaccessible toilet and bathing rooms indicating the direction of accessible toilet or bathing facilities, and at separate sex toilet and bathing facilities indicating the direction of family or assisted-use toilet and bathing facilities, if provided.
+
+2902.4.1 Directional signage. Directional signage indicating the route to the required public toilet facilities shall be posted in a lobby, corridor, aisle or similar space, such that the sign can be readily seen from the main entrance to the building or tenant space.
+
+This section, reinforcing Section 2902.3, is intended to ensure that public toilet facilities are provided for spaces intended for public use. Where the public facilities are not clearly visible from within the public areas or the facilities are locked, patrons and visitors are sometimes told that public toilet facilities are not available or are for employee use only. Mandated directional signs will inform the public that public restrooms do exist and where they are located. It is difficult to tell a customer or patron that there are no public facilities when there is an obvious sign advertising their existence. This code requirement provides to the building official the means for issuing a citation to the building owner if the signs are found to be removed in an attempt by the building owner or tenant to limit public access to toilet facilities. The location of the sign is to be near the entrance to the facilities in either an aisle or corridor where it will be readily seen. The code is silent on specific details of the signage such as wording, size, color or mounting height. Note that Section 1110 covering signage for accessibility requires that directional signage must be provided at the location of separate-sex toilet facilities indicating the location of family or assisted-use toilet facilities, if such facilities are required. The location of the sign must be near the main entrance to the building or tenant space. The code is silent on specific details of the signage such as wording, size, color or mounting height.
+
+Note that Section 1110, covering signage for accessibility, requires that directional signage be provided at the location of separate-sex toilet facilities indicating the location of family or assisted-use toilet facilities, if such separate-sex facilities are required.
+2902.5 Drinking fountain location. Drinking fountains shall not be required to be located in individual tenant spaces provided that public drinking fountains are located within a distance of travel of 150 m of the most remote location in the tenant space and not more than one story above or below the tenant space. Where the tenant space is in a covered or open mall, such distance shall not exceed 90 m. Drinking fountains shall be located on an accessible route.
+
+This section clarifies the required location for drinking fountains with respect to the spaces that require access to drinking fountains. Drinking fountains are not required to be near toilet facilities, but because of the similar travel distance limitations, they might be in the same area as the toilet facility. Because all installed drinking fountains are required to be of accessible design (either for standing or wheelchair seated persons), they must be on an accessible route.
+
+2902.6 Small occupancies. Drinking fountains shall not be required for an occupant load of 15 or fewer.
+
+The requirement for drinking fountains in all occupancies puts an undue hardship on small establishments where the floor space is usually limited.
+
+2902.7 Service sink location. Service sinks shall not be required to be located in individual tenant spaces in a covered mall provided that service sinks are located within a distance of travel of 91 m of the most remote location in the tenant space and not more than one story above or below the tenant space. Service sinks shall be located on an accessible route.
+
+This section allows for individual tenant spaces in a covered mall to utilize service sinks located anywhere within the mall, provided that they are within a 90 m travel distance and not located more than one story above or below the tenant space. This concept is justified given that various small tenants in a covered mall, such as shoe stores, jewelry stores and clothing stores, can easily share and do not warrant extensive use of a common service sink. Having a service sink within a reasonable distance ensures the ability to clean up spills, etc. without undue difficulty.
+
+## SECTION 2903 INSTALLATION OF FIXTURES
+
+2903.1 2903.1 Setting. Fixtures shall be set level and in proper alignment with reference to adjacent walls.
+
+The operational design of plumbing fixtures and the connections to those fixtures requires that the fixture be installed with certain
+
+===== Page 1887 =====
+surfaces either level or plumb. This level fixture setting is required regardless of any out-of-level or out-of-plumb condition of the building structure that the fixture attaches to or rests upon. For example, a floor surface around a water closet connection may be out of level, but when the water closet is installed, the base of the water closet must be either shimmed or grouted such that the fixture is in level condition. Where a water closet is in an out-of-level condition, the integral trap may not provide the required water seal depth and the flushing action within the fixture may be compromised. Where a wall-mounted lavatory is mounted to an out-of-plumb wall, water in the basin may not completely drain and the trap below may not have the required water seal depth due to also being in an out-of-plumb condition. The lavatory must be installed so as to be level, regardless of the wall condition.
+
+Proper alignment to adjacent walls is a subjective requirement, but the intent is that the installed fixture appear to be "square" and "in alignment" with the walls that are in close proximity to the fixture. An example would be the clearance from the back of a water closet flush tank to the wall behind it. The gap should appear to be even. Another example is a one-piece lavatory countertop with bowl on a vanity. The backsplash of the countertop should appear to be even against the wall so as to prevent large gaps that are difficult to caulk and maintain a seal against possible splashing. While the code is not specific on the precision of the alignments, the intent is to ensure that fixtures are installed with attention to details that could affect the operation and future sanitary condition of the fixture.
+
+2903.1.1 Water closets, urinals, lavatories and bidets. A water closet, urinal, lavatory or bidet shall not be set closer than 375 mm from its center to any side wall, partition, vanity or other obstruction. Where partitions or other obstructions do not separate adjacent fixtures, fixtures shall not be set closer than 750 mm center to center between adjacent fixtures. There shall be not less than a 525 mm clearance in front of a water closet, urinal, lavatory or bidet to any wall, fixture or door. Water closet compartments shall be not less than 750 mm in width and not less than 1500 mm in depth for floor-mounted water closets and not less than 750 mm in width and 1400 mm in depth for wall-hung water closets.
+
+Exception: An accessible children's water closet shall be set not closer than 300 mm from its center to the required partition or to the wall on one side.
+In the context of this section only, bathtubs and showers are not considered to be “fixtures” but “obstructions” for which the minimum clearance dimensions from the indicated fixtures must be observed. Except for bathtubs and showers required to have one of the levels of accessibility (see Section 404), the required minimum clearance in front of bathtubs and showers is not addressed in the code. However, Section 421.4.2 of SBC 701 does require not less than 450 mm of unobstructed width for entry into a shower enclosure. As this was based on the average width of an adult’s shoulders, the dimension could be used a guide for determining whether the space in front of a bathtub or shower is reasonable for the approach to enter and exit those fixtures. Where the bathtub or shower is fitted with a door, then the location of the door opening could impact whether the space in front of the fixture is adequate to open the door 90 degrees from the closed position and provide the 450 mm width necessary for an adult to gain access to the fixture.
+
+The requirements for placement and installation of plumbing fixtures for accessibility in toilet and bathing facilities “override” this section’s dimensional requirements for “nonaccessible” plumbing fixture installation (see commentary, Section 404 of SBC 701). A critical point that is often overlooked by designers and contractors is the accessibility requirement that the distance between urinal partitions for the wheelchair-accessible urinal must be at least 900 mm. The centerline of the wheelchair-accessible urinal must be at least 450 mm from the face of each partition and not the minimum of 375 mm as required for a nonaccessible urinal.
+
+Even though the code section is silent on exactly how the dimensions indicated in this section are to be measured, the intent is that the dimensions are to be measured to finished surfaces of walls (including tile or other coverings) and to imaginary vertical planes located against the most exterior feature of a fixture or obstruction. The code is also silent on whether minor protrusions from walls such as paper product dispensers, hand dryers, cove moldings, diaper-changing units, display cases, wall-mounted vending machines and grab bars impact the measurements discussed in this section.
+
+The centers of the fixtures discussed in this section are not specific points on the fixtures, but a point that is “derived.” For example, a centerline of a lavatory bowl is typically ascertained by calculating the “halfway” dimension between the widest outside dimensions of the bowl. Given the difficulty in
+
+===== Page 1888 =====
+locating an exact center of a fixture and a lack of coordination between trades, establishing an inspection tolerance for the spacing and clearance dimensions required by this code section is next to impossible. However, building officials will necessarily impart their own acceptance criteria (i.e., tolerances) during an inspection in order to accept or reject a required clearance dimension. Therefore, designers of toilet facilities are cautioned against creating layouts, which require building to the exact minimum clearance dimensions. A fixture layout having greater-than-the-minimum clearance dimensions is inherently easier to build and results in far fewer inspection difficulties.
+
+Note that all of the minimum dimensions stated in this code section might be overridden by the accessibility requirements of Chapter 11. See the commentary to Section 404 of SBC 701 for more information.
+
+Good design practices for toilet facilities and bathrooms usually provide clearances in excess of the minimum requirements in consideration of appealing aesthetics and user friendliness.
+
+The 525 mm minimum clearance from the front edge of a fixture to any wall, fixture or door applies only to water closets, urinals, lavatories and bidders. This dimension has been determined to be the necessary space required by a user to properly and safely use these fixtures. A frequent question is: "Does the intent of the requirement for providing at least 525 mm clearance in front of a water closet, urinal, lavatory or bidet to any wall, fixture or door include the door in any position of its swing path?" The answer is no. The purpose of the 525 mm clearance is to provide the user adequate space in front of the fixture to use it comfortably. As the door in any open position is an object that can be moved out of the way to provide the user space, there is no need to provide additional clearance from the door in any position of its opening swing path. Toilet room doors are normally closed when the fixtures are being used, which is another reason why it is assumed that the user will have adequate space to be able to use the fixture after moving the door out of their way.
+
+There are many real-world examples of where doors swing into this 525 mm clearance zone. One example is a typical three-fixture, minimum size, hotel/motel bathroom where the door swings through the clearance area in front of all three fixtures in the bathroom. Typical powder rooms in dwellings and single-occupant toilet rooms in commercial occupancies are commonly designed with doors that swing into the space in front of water closets and lavatories. Another example is the typical (nonaccessible) minimum-size [750 mm by 1500 mm)] water closet compartment, where the door swings into the compartment. If the many users of the code enforced this section to require the clearance for the door swing path, there would have been many attempts over numerous past code cycles to change the code text to specifically state that requirement; however, there have been no such proposals brought forth. And, because it has been common practice to allow door swing paths into the fixture user area (as evidenced by the examples presented), the commentary authors have concluded that this code section is not intended to prohibit doors from swinging into the 525 mm clearance. In other words, if the code was intended to measure from the door swing, there would be evidence that the code is being enforced that way, but it is apparently not being enforced that way.
+
+Could there be some multiple-user toilet room arrangements where allowing the door swing path to encroach into the 525 mm user clearance area would, in some cases, be aggravating to the users of the toilet facility? There are bound to be some; however, in most cases, this potential problem is rarely encountered in real-world scenarios because accessibility travel path and clear floor space requirements automatically require larger spaces in toilet rooms. If the code were intended to apply to the door swing path, it would be stated outright, similar to the way the code addresses doors that swing into corridors, for example.
+
+Note that the egress requirements of this code require that egress doors not be prevented from fully opening. See Commentary Figure 2903.1.3.
+
+If there are two fixtures facing each other, the 525 mm clearance in front of each fixture can overlap; however, the minimum egress width requirements in this code would most likely prevent a complete overlap of the frontal minimum clearances. Accessibility requirements for fixtures that are required to be accessible will require greater frontal approach dimensions. Door swing paths, in some accessible situations, are not allowed to overlap the accessible frontal approach dimensions.
+
+The 375 mm minimum clearance dimension from the center of a fixture to any sidewall, partition, vanity or other obstruction only applies to water closets, urinals, lavatories and biddets. Note that the requirement does not include "to any fixture" as the 750 mm minimum center to center for fixtures, as discussed below, controls the spacing between fixtures. Fixtures that are required to be accessible require greater
+
+===== Page 1889 =====
+clearances from centerline to sidewall, partition, vanity or other obstructions (see commentary, Section 404 of SBC 701).
+
+The 750 mm minimum center-to-center dimension is only between the centers of water closets, urinals, lavatories and bidets. Public restrooms, having the requirement for partitions and compartments separating fixtures, cannot have fixtures located at the minimum of 750 mm center to center. The controlling aspect is the 375 mm minimum dimension from the center of the fixture to the required partition or compartment wall, not the center of the adjacent fixture. In other words, the thicknesses of partitions must be considered, thereby necessitating dimensions greater than 750 mm center to center.
+
+Lavatories, both private and public, that are part of vanities require special attention. As indicated in the previous paragraph, a vanity, an "obstruction" in the context of this section, can be not closer than 375 mm to the centerline of an adjacent fixture. The center of the lavatory bowl, which is in the lavatory top that rests on the vanity, must be not closer than 750 mm to the centerline of an adjacent fixture. If the center of the lavatory is less than 375 mm from the side edge of the lavatory top, then the 750 mm center-to-center minimum dimension controls. If the center of the lavatory is greater than 375 mm, then the 375 mm from the centerline of the adjacent fixture to the nearest obstruction (i.e., the edge of the lavatory top, not necessarily the vanity cabinet) controls. See Commentary Figure 2903.1.1(1). Note that locating the vanity cabinet at 375 mm from the centerline of the adjacent fixture would not necessarily provide the required minimum clearance, as most lavatory tops overhang the edge of the vanity cabinet to some extent [e.g., 20 mm]. For example, a 1200 mm vanity cabinet is provided with a 1225 mm cultured marble integral lavatory bowl countertop. Theoretically, this countertop could overhang along one side as much as 25 mm.
+
+Improper location of lavatories and lavatory vanities narrower than 750 mm, offset-to-one-side bowls in lavatory countertops, and corner lavatory arrangements can unknowingly cause code violations. Where there is a strong emphasis on minimizing bathroom spaces, designers might be tempted to reduce the space for the lavatory by choosing a narrow vanity width or providing a wall mount or pedestal lavatory of a narrow dimension with the intent of locating this fixture as close as possible to a side wall. This can be a violation. Bowls in lavatory countertops are often located offset to one side in order to provide clearance for vanity cabinet drawers beneath. Again, a violation can be created if there is not sufficient clearance from the center of the lavatory (bowl) to the adjacent sidewall or to an adjacent fixture to provide for proper use of the lavatory.
+
+The code does not offer any specific insight concerning corner sinks. One possible method for determining the required clearances would be to establish a vertical plane perpendicular to a horizontal centerline extending from the corner though the center of the lavatory bowl and positioning this plane at the front edge of the fixture. This "user width" could be determined by measuring horizontally within the established plane from the centerline of the lavatory to a point where the plane intersects the adjacent wall. This section is intended to provide a "user width" of at least 750 mm. If the measured dimensions left and right of the lavatory centerline are 375 mm or more, then the "user width" requirement of this section is satisfied. The front clearance measurement for this type of fixture could also utilize the imaginary front edge plane as a reference point. This section is intended to provide a "user depth" of at least 525 mm. Therefore, for a corner lavatory, the "user space" of 750 mm wide by 525 mm deep must not be encroached upon by other fixtures, closed doors or walls. See Commentary Figure 2903.1.1(2).
+
+2903.1.2 Public lavatories. In employee and public toilet rooms, the required lavatory shall be located in the same room as the required water closet.
+
+In employee and public toilet rooms, the required lavatory must be located in the same room as the required water closet or in an adjacent room connected by openings without doors. This provides the user with necessary sanitary facilities to promote proper hygiene and to prevent the spread of infectious diseases. In some public toilet arrangements, the water closets and urinals are located in a separate room from the lavatories, thereby requiring the user to engage doors to access the lavatories after using a urinal or water closet. Such an arrangement would be a violation of this section as the intent is that the lavatories be available to allow the user to wash his/her hands prior to contacting any door handle or push plate for exiting the toilet facility.
+
+2903.1.3 Location of fixtures and piping. Piping, fixtures or equipment shall not be located in such a manner as to interfere with the normal operation of windows, doors or other means of egress openings.
+
+Fixtures and piping located in washrooms or toilet rooms cannot adversely affect the operation of building components such as windows and doors. The location of the fixtures
+
+===== Page 1890 =====
+and piping should not interfere with or block an occupant's egress to or from that space. See Commentary Figure 2903.1.3. Obstructions caused by fixtures or piping can seriously hamper egress in an emergency condition or cause injury to the occupants.
+
+## 2903.1.4 Water closet compartment.
+
+Each water closet utilized by the public or employees shall occupy a separate compartment with walls or partitions and a door enclosing the fixtures to ensure privacy.
+
+Exceptions:
+
+1. Water closet compartments shall not be required in a single-occupant toilet room with a lockable door.
+
+2. Toilet rooms located in child day care facilities and containing two or more water closets shall be permitted to have one water closet without an enclosing compartment.
+
+3. This provision is not applicable to toilet areas located within Group I-3 housing areas.
+
+Psychological studies have proven that lack of privacy places a burden on an individual's physical ability to use bathroom facilities. This is caused by uneasiness, inhibition or indignation. A partitioned compartment can provide the necessary privacy. Also, a single-occupant toilet room with a lockable door can provide the required privacy as stated in Exception 1. Exception 2, allowing an unenclosed water closet in a childcare facility, recognizes the need for people to be able to assist children. Exception 3 is to allow for security personal to better monitor for illicit activities of inmates in Group I-3 occupancies.
+
+2903.1.5 Urinal partitions. Each urinal utilized by the public or employees shall occupy a separate area with walls or partitions to provide privacy. The horizontal dimension between walls or partitions at each urinal shall be not less than 750 mm. The walls or partitions shall begin at a height not greater than 300 mm from and extend not less than 1500 mm above the finished floor surface. The walls or partitions shall extend from the wall surface at each side of the urinal not less than 450 mm or to a point not less than 150 mm beyond the outermost front lip of the urinal measured from the finished backwall surface, whichever is greater.
+
+Exceptions:
+
+1. Urinal partitions shall not be required in a single-occupant or family/assisted-use toilet room with a lockable door.
+
+2. Toilet rooms located in child day care facilities and containing two or more urinals shall be permitted to have one urinal without partitions.
+
+Users of urinals in a public toilet room need to be afforded a level of privacy for the reasons stated in the commentary to Section 2903.1.4. In addition, partitions aid in protecting adjacent users from splashing. Because of the likelihood of splashing, the partition surfaces must be designed so that they can be easily cleaned and sanitized during normal restroom maintenance. Exception 1 assumes that in a single-occupant toilet room or a family/assisted-use toilet room, privacy is afforded by locking the door. Exception 2 allows day care and childcare centers to have one urinal out of two or more urinals in a toilet room to be without partitions. This affords care providers the ability to assist or supervise certain children with the use of the urinal (e.g., those just learning to use a urinal or those with difficult clothing arrangements). Where urinal partitions are provided, occupants are more inclined to use a urinal rather than using a water closet for urination. This will result in less soiling of water closet seats and surrounding surfaces. See Commentary Figure 2903.1.5(1) and Figure 2903.1.5(2). Note that where partitions are used, the distance from the center of the urinal to the face of the partition must be at least 375 mm to be in compliance with Section 2903.1.1. The thickness of partitions cannot encroach into the required spaces for fixtures.
+
+===== Page 1891 =====
+TABLE 29.21 PLUMBING SYSTEMS
+
+TABLE 29.21 PLUMBING SYSTEMS AND FIGURES OF CHAPTER 29
+
+<table><td rowspan="2">No.<td rowspan="2">CLASSIFICATION<td rowspan="2">DESCRIPTION<td colspan="4">TABLE 29.21<td rowspan="2">OTHERWATER CLOSES (SEE SECTION 29.21.1 AND 29.20.2) (SEE SECTION 29.20.1 AND 29.20.2)LATATOREES SHOWERSBATHTUBS (SEE SECTION 29.20.1 AND 29.20.2)DRINKING FOOTLANDS (SEE SECTION 29.20.1 AND 29.20.2)1</table>
+
+===== Page 1892 =====
+CHAPTER 29—PLUMBING SYSTEMS
+
+<table><td colspan="11">TABLE 29.01.1. CONTINUEDNo.CLASSIFICATIONDESCRIPTIONLAVA TATURESLAVA TATURESLAVA TATURESLAVA TATURESLAVA TATURESLAVA TATURESLAVA TATURESLAVA TATURES2BusinessBuildings for the transportation of business professional services, other non-engineering and engineering related building facilities, light industrial and small businessMALEMALEMALEMALEMALEMALEMALEMALE3Educational facilitiesEducational facilitiesMALEMALEMALEMALEMALEMALEMALEMALE4Factory and IndustrialStructural and non-structural components of work facilities, assembly or processingMALEMALEMALEMALEMALEMALEMALEMALE5InstitutionalIndustrial careMALEMALEMALEMALEMALEMALEMALEMALE</table>
+
+===== Page 1893 =====
+CHAPTER 29—PILUMBING SYSTEMS
+
+<table>No.CLASSIFICATIONDESCRIPTIONWATER CLOSETS (ORINHASSES) EET (410 or 8BC ton)LAVATORIES SHOWERSBATHROWS SHOWERSFOOTWALTS (SEE SECTION 10.10 OF SBC 10)OTHER6MerchantsRetail stores, service stations, gas stations, markets and shopping centers1 per 3001 per 750—1 per 1001 service sinkModels, boarding houses, hotels, (hotels), restaurants, and boarding houses1 per 101 per 101 per 81 per 1001 service sinkApartment houses1 per 101 per 101 per 8—1 service sinkOne- and two-family dwellings1 per dwelling unit1 per dwelling unit1 per dwelling unit—1 service sinkSingle-family dwellings with five or fewer rooms1 per 101 per 101 per 81 per 1001 service sinkTwo-family dwellings with five or fewer rooms1 per 101 per 101 per 81 per 1001 service sinkCouple dwellings, families living together1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sinkSingle-family homes and other single family dwellings1 per 101 per 101 per 81 per 1001 service sink
+
+===== Page 1894 =====
+SOUTHERN SYMPHONY SUMMIT FOR SAHPLE PROBLEM 1
+
+CHAPTER 29 - PLUMBING SYSTEMS
+
+<table><td rowspan="2">SPACE<td colspan="4">WATER COSTS<td colspan="4">LATATORS<td colspan="4">DRINKING POINT LAPS<td colspan="4">SERVICE SKYLOADRATIORATIORATIORATIORATIORATIORATIORATIORATIORATIORATIORATIORATIORATIOBusiness5381 per 25 for the first 50 and 1 per 50 for the remainder exceeding 506.381 per 25 for the first 50 and 1 per 50 for the remainder exceeding 506.381 per 25 for the first 50 and 1 per 50 for the remainder exceeding 504.361 per 40 for the first 50 and 1 per 40 for the remainder exceeding 504.361 per 40 for the first 50 and 1 per 40 for the remainder exceeding 504.361 per 40 for the first 50 and 1 per 40 for the remainder exceeding 504.361 per 40 for the first 50 and 1 per 40 for the remainder exceeding 504.36Industrial, public, menaces, etc.1151.12%1.650.381.20%0.290.290.290.290.290.290.290.290.290.29Storage821.10%0.411.10%0.411.10%0.411.10%0.411.10%0.411.10%0.411.10%0.41Subtotal
+
+===== Page 1895 =====
+CHAPTER 29—PLUMBING SYSTEMS
+
+<table>STATEL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0ADL0AD
+
+===== Page 1896 =====
+CHAPTER 29 - PLUMBING SYSTEMS
+
+<table><td rowspan="2">OCCUPANCY<td colspan="3">WATER COSTS<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="3">TATURES<td colspan="
+
+===== Page 1897 =====
+# PROHIBITED INSTALLATION
+
+FIGURE 2903.1.3
+FIXTURE AND DOOR OBSTRUCTION
+
+FIGURE 2903.1.5(1)
+URINAL PARTITIONS
+(PHOTO COURTESY OF FALCON WATER FREE TECHNOLOGIES)
+
+===== Page 1898 =====
+450 mm MINIMUM OR 150 mm BEYOND LIP, WHICHEVER IS GREATER
+
+FIGURE 2903.1.5(2)
+URINAL PARTITIONS
+
+===== Page 1899 =====
+FIGURE 2902.3
+RESTAURANT ENTRY SIGN
+
+FIGURE 2902.3.1(1)
+CUSTOMER TOILET ACCESS
+
+===== Page 1900 =====
+FIGURE 2902.3.1(2)
+WALK-UP ICE CREAM SHOP WITH OUTDOOR SEATING
+
+===== Page 1901 =====
+FIGURE 2903.1.1(1)
+MINIMUM CLEARANCE BETWEEN FIXTURES
+
+===== Page 1902 =====
+FIGURE 2903.1.1(2)
+CORNER SINK USER CLEARANCE
+
+===== Page 1903 =====
+This page left intentionally blank
+

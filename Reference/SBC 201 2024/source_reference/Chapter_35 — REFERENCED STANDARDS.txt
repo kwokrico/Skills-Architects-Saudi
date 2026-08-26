@@ -1,0 +1,434 @@
+===== Page 2005 =====
+# CHAPTER 35—REFERENCED STANDARDS
+
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard identification, the effective date and title, and the section or sections of this document that reference the standard.
+
+The application of the referenced standards shall be as specified in Section 102.4. These standards are listed here for guidance; however, for enforcement, they shall be adopted and/or approved by the appropriate governmental authority (SASO or SBCNC) as per their mandates, before being considered part of this code.
+
+## General Comments
+
+Chapter 35 contains a comprehensive list of all standards that are referenced in the code. It is organized in a manner that makes it easy to locate specific document references.
+
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the agency that publishes the standard, the standard identification, the date and title, and the section or sections of this document that reference the standard. The application of the referenced standards shall be as specified in Section 102.4.
+
+It is important to understand that not every document related to building design and construction is qualified to be a “referenced standard.” SBCNC has adopted criteria that standards referenced in and intended for adoption into the Saudi Codes must meet in order to qualify as a referenced standard. The policy is summarized as follows:
+
+- Code references: The scope and application of the standard must be clearly identified in the code text.
+
+- Standard content: The standard must be written in mandatory language and appropriate for the subject covered. The standard shall not have the effect of requiring proprietary materials or prescribing a proprietary testing agency.
+
+- Standard promulgation: The standard must be readily available, and developed and maintained in a consensus process, such as ASTM or ANSI.
+
+It should be noted that the ICC Code Development Procedures, of which the standards policy is a part, are updated periodically. A copy of the latest version can be obtained from the ICC offices.
+
+Once a standard is incorporated into the code through the code development process, it becomes an enforceable part of the code. When the code is adopted by a jurisdiction, the standard also is part of that jurisdiction's adopted code. It is for this reason that the criteria were developed. Compliance with this policy ensures that documents incorporated into the code are developed through the use of a consensus process, are written in mandatory language and do not mandate the use of proprietary materials or agencies. The requirement for a standard to be developed through a consensus process is vital, as it means that the standard will be representative of the most current body of available knowledge on the subject as determined by a broad spectrum of interested or affected parties without dominance by any single interest group. A true consensus process has many attributes, including but not limited to:
+
+- An open process that has formal (published) procedures that allow for the consideration of all viewpoints;
+
+- A definitive review period that allows for the standard to be updated or revised;
+
+- A process of notification to all interested parties.
+
+• An appeals process.
+
+Many available documents related to design, installation and construction, though useful, are not “standards” and are not appropriate for reference in the code. Often, these documents are developed or written with the intention of being used for regulatory purposes and are unsuitable for use as a regulation due to extensive use of recommendations, advisory comments and nonmandatory terms. Typical examples of such documents include installation instructions, guidelines and practices.
+
+The objective of ICC’s standards policy is to provide regulations that are clear, concise and enforceable; thus the requirement for standards to be written in mandatory language.
+
+===== Page 2006 =====
+This requirement is not intended to mean that a standard cannot contain informational or explanatory material that will aid the user of the standard in its application. When it is the desire of the standard's promulgating (i.e., publishing) agency for such material to be included, however, the information must appear in a non-mandatory location, such as an annex or appendix, and be clearly identified as not being part of the standard.
+
+Overall, standards referenced by the code must be authoritative, relevant, up-to-date and, most important, reasonable and enforceable. Standards that comply with ICC's standards policy fulfill these expectations.
+
+## Purpose
+
+As a performance-oriented code, the code contains numerous references to documents that are used to regulate materials and methods of construction. The references to these documents within the code text consist of the promulgating agency's acronym and its publication designation (e.g., ASTM B88) and a further indication that the document being referenced is the one that is listed in Chapter 35. Chapter 35 contains all of the information that is necessary to identify the specific referenced document. Included is the following information on a document's promulgating agency:
+
+The promulgating agency (i.e., the agency’s title);
+
+The promulgating agency’s acronym.
+
+The promulgating agency’s address.
+
+For example, a reference to an ASTM standard within the code indicates that the document is promulgated by ASTM International (ASTM), which is located in Pennsylvania. This chapter lists the standards agencies alphabetically for ease of identification. This chapter also includes the following information on the referenced document itself:
+
+The document’s publication designation.
+
+The document’s edition year.
+
+The document's title.
+
+• Any addenda or revisions to the document that are applicable.
+
+• Every section of the code in which the document is referenced.
+
+For example, a reference to ASTM B88 indicates that this document can be found in Chapter 35 under the heading ASTM. The specific standards designation is B88. For convenience, these designations are listed in alphanumeric order. This chapter identifies that ASTM B88 is titled Specification for Seamless Copper Water Tube, the applicable edition (i.e., its year of publication) is 2009 and it is referenced in Section 909.13.1 of the code.
+
+This chapter will also indicate when a document has been discontinued or replaced by its promulgating agency. When a document is replaced by a different one, a note will appear to tell the user the designation and title of the new document.
+
+The key aspect of the manner in which standards are referenced by the code is that a specific edition of a specific standard is clearly identified. In this manner, the requirements necessary for compliance can be readily determined. The basis for code compliance is, therefore, established and available on an equal basis to the building official, contractor, designer and owner.
+
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard identification, the effective date and title and the section or sections of this document that reference the standard. The application of the referenced standards shall be as specified in Section 102.4.
+
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard identification, the effective date and title, and the section or sections of this document that reference the standard. The application of the referenced standards shall be as specified in Section 102.4.
+
+===== Page 2007 =====
+AA
+
+Aluminum Association 1525 Wilson Boulevard, Suite 600 Arlington, VA 22209
+
+<table>Standard reference numberTitleReferenced in code Section numberADM1—2015Aluminum Design Manual: Part 1—A Specification for Aluminum Structures1604.3.5, 2002.1ASM 35—00Aluminum Sheet Metal Work in Building Construction (Fourth Edition)2002.1</table>
+
+AAMA
+
+American Architectural Manufacturers Association 1827 Waldon Office Square, Suite 550 Schaumburg, IL 60173
+
+<table>Standard reference numberTitleReferenced in code Section number1402—09AAMA/WDMA/CSAAStandard Specifications for Aluminum Siding, Soffit and Fascia1403.5.1 1404.5.1101/I.S.2/A440—11North American Fenestration Standard/Specifications for Windows, Doors and Skylights1709.5.1, 2405.5</table>
+
+ACI
+
+American Concrete Institute 38800 Country Club Drive Farmington Hills, MI 48331
+
+<table>Standard reference numberTitleReferenced in code Section number216.1—14Code Requirements for Determining Fire Resistance of Concrete and Masonry Construction AssembliesTable 721.1(2), 722.1530.1—13Specifications for Masonry Structures1405.6.1, 1705.4, 1807.1.6.3, 2103.1, 2103.2.1, 2103.3, 2103.4, 2105.1</table>
+
+<table>SBCNC<td colspan="2">Saudi Building Code National Committee, Riyadh, Saudi ArabiaStandard reference numberTitleReferenced in code Section numberSBC 304Building Code Requirements for Structural Concrete1604.3.5, 1615.3.1, 1615.4.1, 1704.5, Table 1705.3, 1705.3.2, 1705.12.1, 1808.8.2, Table 1808.8.2, 1808.8.5, 1808.8.6, 1810.1.3, 1810.2.4.1, 1810.3.2.1.1, 1810.3.2.1.2, 1810.3.8.3.1, 1810.3.8.3.3, 1810.3.9.4.2.1, 1810.3.9.4.2.2, 1810.3.10.1, 1810.3.11.1, 1901.2, 1901.3, 1902.1, 1903.1, 1904.1, 1904.2, 1905.1, 1905, 1905.1.2, 1905.1.3, 1905.1.4, 1905.1.5,</table>
+
+===== Page 2008 =====
+<table>1905.1.6, 1905.1.7, 1905.1.8, 1906.1, 2108.3, 2206.1<td rowspan="5">SBC 305<td rowspan="5">Building Code Requirements for Masonry Structures1405.6, 1405.6.1, 1405.6.2, 1405.10, 1604.3.4, 1705.4, 1705.4.1, 1807.1.6.3, 1807.1.6.3.2, 1808.9, 2101.2, 2106.1, 2107.1, 2107.2, 2107.3, 2107.4, 2108.1, 2108.2, 2108.3, 2109.1, 2109.1.1, 2109.2, 2109.2.1, 2109.3, 2110.1</table>
+
+AISC American Institute of Steel Construction
+One East Wacker Drive, Suite 700 Chicago, IL 60601-18021
+
+<table>Standard reference numberTitleReferenced in code Section number341—10Seismic Provisions for Structural Steel Buildings1613.4.1, 1705.12.1.1, 1705.12.1.2, 1705.13.1.1, 1705.13.1.2, 2205.2.1.1, 2205.2.1.2, 2205.2.2, 2206.2.1</table>
+
+AISI American Iron and Steel Institute 25 Massachusetts Avenue, NW
+Suite 800 Washington, DC 20001
+
+<table>Standard reference numberTitleReferenced in code Section numberAISI S100—12North American Specification for the Design of Cold-formed Steel Structural Members, 20121604.3.3, 1905.1.8, 2203.1, 2203.2, 2210.1, 2210.2, 2111.2, 2111.4, 2111.6AISI S110—07/S1-09 (2012)Standard for Seismic Design of Cold-Formed Steel Structural Systems—Special Moment Frames, 2007 with Supplement 1, dated 2009 (Reaffirmed 2012)2210.2AISI S200—12North American Standard for Cold-Formed Steel Framing-General Provisions, 20122203.1, 2203.2, 2111.1, Table 2603.13.1, Table 2603.13.2AISI S210—07(2012)North American Standard for Cold-Formed Steel Framing-Floor and Roof System Design, 2007 (Reaffirmed 2012)2111.5 2111.5AISI S211—07/S1-12(2012)North American Standard for Cold-Formed Steel Framing-Wall Stud Design, 2007 including Supplement 1, dated 2012 (Reaffirmed 2012)2111.4 2111.4AISI S212—07(2012)North American Standard for Cold-Formed Steel Framing-Header Design, 2007, (Reaffirmed 2012)2111.2AISI S213—07/S1-09 (2012)North American Standard for Cold-Formed Steel Framing-Lateral2111.6</table>
+
+===== Page 2009 =====
+<table>Design, 2007, with Supplement 1, dated 2009, (Reaffirmed 2012)AISI S214—12North American Standard for Cold-formed Steel Framing-Truss Design, 20122111.3, 2111.3.1, 2211.3.2AISI S220—11North American Standard for Cold-formed Steel Framing-Nonstructural Members2203.1, 2203.2, 2111.1, Table 2506.2, Table 2507.2AISI S230—07/S3-12(2012)Standard for Cold-formed Steel Framing-Prescriptive Method for One- and Two-family Dwellings, 2007, with Supplement 3, dated 2012 (Reaffirmed 2012)1609.1.1, 1609.1.1.1, 2211.7</table>
+
+ALI
+
+Automotive Lift Institute P.O. Box 85 Courtland, NY 13045
+
+<table>Standard reference numberTitleReferenced in code Section numberALI ALCTV—2011Standard for Automotive Lifts—Safety Requirements for Construction, Testing and Validation (ANSI)3001.3 3001.2</table>
+
+AMCA Air Movement and Control Association International 30 West University Drive Arlington Heights, IL 60004
+
+<table>Standard reference numberTitleReferenced in code Section number540—08Test Method for Lowers Impacted by Wind Borne Debris1609.2.1 1609.1.2.1</table>
+
+ANSI American National Standards Institute 25 West 43rd Street, Fourth Floor New York, NY 10036
+
+<table>Standard reference numberTitleReferenced in code Section numberA13.1—2007Scheme for the Identification of Piping Systems415.11.7.5 415.11.6.5A108.1A—99Installation of Ceramic Tile in the Wet-set Method, with Portland Cement Mortar2103.2.3A108.1A—99Installation of Ceramic Tile, quarry Tile on a Cured Portland Cement Mortar Setting Bed with Dry-set or Latex-Portland Mortar2103.2.3A108.4—99Installation of Ceramic Tile with Organic Adhesives or Water-cleanable Tile-setting Epoxy Adhesive2103.2.3.6A108.5—99Installation of Ceramic Tile with Dry-set Portland Cement Mortar or Latex-Portland Cement Mortar2103.2.3.1, 2103.2.3.2</table>
+
+===== Page 2010 =====
+<table>A108.6—99Installation of Ceramic Tile with Chemical-resistant, Water Cleanable Tile-setting and -grouting Epoxy2103.2.3.3A108.8—99Installation of Ceramic Tile with Chemical-resistant Furan Resin Mortar and Grout2103.2.3.4A108.9—99Installation of Ceramic Tile with Modified Epoxy Emulsion Mortar/Grout2103.2.3.5A108.10—99Installation of Grout in Tilework2103.2.3.7A118.1—99American National Standard Specifications for Dry-set Portland Cement Mortar2103.2.3.1A118.3—99American National Standard Specifications for Chemical-resistant, Water-cleanable Tile-setting and -grouting Epoxy and Water Cleanable Tile-setting Epoxy Adhesive2103.2.3.3A118.4—99American National Standard Specifications for Latex-Portland Cement Mortar2103.2.3.2, 2103.3.2.4A118.5—99American National Standard Specifications for Chemical Resistant Furan Mortar and Grouts for Tile Installation2103.2.3.4A118.6—99American National Standard Specifications for Cement Grouts for Tile Installation2103.2.3.7A118.8—99American National Standard Specifications for Modified Epoxy Emulsion Mortar/Grout2103.2.3.5A136.1—99American National Standard Specifications for Organic Adhesives for Installation of Ceramic Tile2103.2.3.6A137.1—12American National Standard Specifications for Ceramic Tile202ANSI/A 190.1—12Structural Glued Laminated Timber2303.1.3, 2306.1Z 97.1—14Safety Glazing Materials Used in Buildings—Safety Performance Specifications and Methods of Test2406.1.2, 2406.2, Table 2406.2(2), 2406.3.1, 2407.1, 2407.1.4.1, 2408.2.1, 2408.3, 2409.2, 2409.3, 2409.4.1</table>
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI/A 190.1—12Structural Glued Laminated Timber2303.1.3, 2306.1ANSI/APA PRP 210—08Standard for Performance-Rated Engineered Wood Siding2303.1.5, 2304.7, 2306.3, Table 2306.3(1)</table>
+
+===== Page 2011 =====
+<table>ANSI/APA PRR 410—11Standard for Performance-Rated Engineered Wood Rim Boards2303.1.13 2303.1.13APA PDS—12Panel Design Specification2306.1APA PDS Supplement 1—12Design and Fabrication of Plywood Curved Panels (revised 2013)2306.1APA PDS Supplement 2—12Design and Fabrication of Plywood-lumber Beams (revised 2013)2306.1APA PDS Supplement 3—12Design and Fabrication of Plywood Stressed-skin Panels (revised 2013)2306.1APA PDS Supplement 4—12Design and Fabrication of Plywood Sandwich Panels (revised 2013)2306.1APA PDS Supplement 5—12Design and Fabrication of All-plywood Beams (revised 2013)2306.1APA PRG 320—11Standard for Performance-Rated Cross-Laminated Timber2303.1.4EWS R540—12Builders Tips: Proper Storage and Handling of Glulam Beams2306.1EWS S475—07Glued Laminated Beam Design Tables2306.1EWS S560—10Field Notching and Drilling of Glued Laminated Timber Beams2306.1EWS T300—07Glulam Connection Details2306.1EWS X440—08Product Guide-Glulam2306.1EWS X450—01Glulam in Residential Construction-Western Edition2306.1</table>
+
+ASABE American Society of Agricultural and Biological Engineers 2950 Niles Road St. Joseph, MI 49085
+
+<table>Standard reference numberTitleReferenced in code Section numberEP 484.2 June 1998 (R2008)Diaphragm Design of Metal-clad, Wood-frame Rectangular Buildings2306.1EP 486.2 OCT 2012Shallow-post and Pier Foundation Design2306.1EP 559.1 W/Cor.1 AUG 2010Design Requirements and Bending Properties for Mechanically Laminated Wood Assemblies2306.1</table>
+
+ASCE/SEI American Society of Civil Engineers Structural Engineering Institute 1801 Alexander Bell Drive Reston, VA 20191-4400
+
+<table>Standard reference numberTitleReferenced in code Section number5—13Building Code Requirements for Masonry Structures1405.6, 1405.6.1, 1405.6.2, 1405.10, 1604.3.4, 1705.4, 1705.4.1, 1807.1.6.3, 1807.1.6.3.2, 1808.9, 2101.2, 2106.1, 2107.1, 2107.2, 2107.3, 2107.4, 2108.1, 2108.2, 2108.3, 2109.1,</table>
+
+===== Page 2012 =====
+<table>2109.1.1, 2109.2, 2109.2.1, 2109.3, 2110.16—13Specification for Masonry Structures1405.6.1, 1705.4, 1807.1.6.3, 2103.1, 2103.2.1, 2103.3, 2103.4, 2104.1, 2105.18—14Standard Specification for the Design of Cold-formed Stainless Steel Structural Members1604.3.3, 2210.1, 2210.219—09Structural Applications of Steel Cables for Buildings2208.1, 2208.224—14Flood Resistant Design and Construction1203.4.2, 1612.4, 1612.5, 2702.1.7, 3001.229—14Standard Calculation Methods for Structural Fire Protection722.132—01Design and Construction of Frost Protected Shallow Foundations1809.549—07Wind Tunnel Testing for Buildings and Other Structures1609.1.1 1609.1.155—10Tensile Membrane Structures3102.1.1</table>
+
+ASME American Society of Mechanical Engineers Two Park Avenue New York, NY 10016-5990
+
+<table>Standard reference numberTitleReferenced in code Section numberASME/A17.1—13CSA B44—2013Safety Code for Elevators and Escalators907.3.3, 911.1.5, 1009.4, 1607.9.1, 3001.2, 3001.4, 3002.5, 3003.2, 3007.1, 3008.1.3, 3008.7.1A17.7—2007/CSA B44—07Performance-Based Safety Code for Elevators and Escalators3001.3 3001.2A18.1—2008Safety Standard for Platform Lifts and Stairway Chairlifts1110.9 1109.8A90.1—09Safety Standard for Belt Manlifts3001.3 3001.2B16.18—2012Cast Copper Alloy Solder Joint Pressure Fittings909.13.1B16.22—2001(R2010)Wrought Copper and Copper Alloy Solder Joint Pressure Fittings909.13.1B20.1—2009Safety Standard for Conveyors and Related Equipment3001.2, 3004.3B31.3—2012Process Piping415.11.7 415.11.6</table>
+
+ASSE American Society of Safety Engineers 1800 East Oakton Street Des Plaines, IL 60018
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI/ASSE Z359.1-2007Safety Requirements for Personal Fall Arrest Systems, Subsystems and Components, Part of the Fall Protection Code1015.6, 1015.7</table>
+
+===== Page 2013 =====
+ASTM International 100 Barr Harbor Drive West Conshohocken, PA 19428-2959
+
+<table>Standard reference numberTitleReferenced in code Section numberA6/A6M—11Standard Specification for General Requirements for Rolled Structural Steel Bars, Plates, Shapes and Sheet1810.3.2.3, 1810.3.5.3.1, 1810.3.5.3.3A36/A36M—08Specification for Carbon Structural Steel1810.3.2.3A153/A153M—09Specification for Zinc Coating (Hot-dip) on Iron and Steel Hardware2304.10.5A240/A240M—13AStandard Specification for Chromium and Chromium-nickel Stainless Steel Plate, Sheet and Strip for Pressure Vessels and for General ApplicationsTable 1507.4.3(1)A252—10Specification for Welded and Seamless Steel Pipe Piles1810.3.2.3A283/A283M—12ASpecification for Low and Intermediate Tensile Strength Carbon Steel Plates1810.3.2.3A416/A416M—12ASpecification for Steel Strand, Uncoated Seven-wire for Pre-stressed Concrete1810.3.2.2A463/A463M—10Standard Specification for Steel Sheet, Aluminum-coated, by the Hot-dip ProcessTable 1507.4.3(2)A572/A572M—12ASpecification for High-strength Low-alloy Columbium-Vanadium Structural Steel1810.3.2.3A588/A588M—10Specification for High-strength Low-alloy Structural Steel with 50 ksi (345 MPa) Minimum Yield Point with Atmospheric Corrosion Resistance1810.3.2.3A615/A615M—12Specification for Deformed and Plain Billet-steel Bars for Concrete Reinforcement1704.5, 1810.3.10.2A653/A653M—11Specification for Steel Sheet, Zinc-coated Galvanized or Zinc-iron Alloy-coated Galvannealed by the Hot-dip ProcessTable 1507.4.3(1), Table 1507.4.3(2), 2304.10.5.1A690/A690M—07(2012)Standard Specification for High-strength Low-alloy Nickel, Copper, Phosphorus Steel H-piles and Sheet Piling with Atmospheric Corrosion Resistance for Use in Marine Environments1810.3.2.3A706/A706M—09bSpecification for Low-alloy Steel Deformed and Plain Bars for Concrete Reinforcement1704.5, 2107.4, 2108.3</table>
+
+===== Page 2014 =====
+<table>A722/A722M—12Specification for Uncoated High-strength Steel Bar for Pre-stressing Concrete1810.3.10.2A755/A755M—2011Specification for Steel Sheet, Metallic-coated by the Hot-dip Process and Pre-painted by the Coil-coating Process for Exterior Exposed Building ProductsTable 1507.4.3(1), Table 1507.4.3(2)A792/A792M—10Specification for Steel Sheet, 55% Aluminum-zinc Alloy-coated by the Hot-dip ProcessTable 1507.4.3(1), Table 1507.4.3(2)A875/A875M—13Standard Specification for Steel Sheet Zinc-5 percent, Aluminum Alloy-coated by the Hot-dip ProcessTable 1507.4.3(2)A924/A924M—13Standard Specification for General Requirements for Steel Sheet, Metallic-coated by the Hot-dip ProcessTable 1507.4.3(1)B42—10Specification for Seamless Copper Pipe, Standard Sizes909.13.1B43—09Specification for Seamless Red Brass Pipe, Standard Sizes909.13.1B68—11Specification for Seamless Copper Tube, Bright Annealed (Metric)909.13.1B88—09Specification for Seamless Copper Water Tube909.13.1B101—12Specification for Lead-coated Copper Sheet and Strip for Building Construction1404.5.3, Table 1507.2.8.2, Table 1507.4.3(1)B209—10Specification for Aluminum and Aluminum Alloy Steel and PlateTable 1507.4.3(1)B251—10Specification for General Requirements for Wrought Seamless Copper and Copper-alloy Tube909.13.1B280—08Specification for Seamless Copper Tube for Air Conditioning and Refrigeration Field Service909.13.1B370—12Specification for Copper Sheet and Strip for Building Construction1404.5.2, Table 1507.2.8.2, Table 1507.4.3(1)B695—04(2009)Standard Specification for Coatings of Zinc Mechanically Deposited on Iron and Steel Strip for Building Construction2304.10.5.1, 2304.10.5.3C5—10Specification for Quickline for Structural PurposesTable 2507.2C22/C22M-00(2010)Specification for GypsumTable 2506.2C27—98(2008)Specification for Classification of Fireclay and High-alumina Refractory Brick2111.6</table>
+
+===== Page 2015 =====
+<table>C28/C28M—10Specification for Gypsum PlastersTable 2507.2C31/C31M—12Practice for Making and Curing Concrete Test Specimens in the FieldTable 1705.3C33/C33M—13Specification for Concrete Aggregates722.3.1.4, 722.4.1.1.3C35/C35M-1995(2009)Specification for Inorganic Aggregates for Use in Gypsum PlasterTable 2507.2C55—2011Specification for Concrete Building BrickTable 722.3.2C59/C59M—00 (2011)Specification for Gypsum Casting Plaster and Molding PlasterTable 2507.2C61/C61M—00 (2011)Specification for Gypsum Keene&#x27;s CementTable 2507.2C62—13Standard Specification for Building Brick (Solid Masonry Units Made from Clay or Shale)1807.1.6.3C67—13Test Methods of Sampling and Testing Brick and Structural Clay Tile721.4.1.1.1, 2109.3.1.1C73—10Specification for Calcium Silicate Brick (Sand-lime Brick)Table 722.3.2C90—13Specification for Loadbearing Concrete Masonry UnitsTable 722.3.2, 1807.1.6.3C91—12Specification for Masonry CementTable 2507.2C94/C94M—13Specification for Ready-Mixed Concrete110.3.1C140—13Test Method Sampling and Testing Concrete Masonry Units and Related Units722.3.1.2 722.3.1.2C150—12Specification for Portland Cement1903.1, Table 2507.2C172/C172M—10Practice for Sampling Freshly Mixed ConcreteTable 1705.3C199—84 (2011)Test Method for Pier Test for Refractory Mortars2111.6, 2111.9, 2113.12C206—13Specification for Finishing Hydrated LimeTable 2507.2C208—12Specification for Cellulosic Fiber Insulating BoardTable 1508.2, 2303.1.6C216—13Specification for Facing Brick (Solid Masonry Units Made from Clay or Shale)1807.1.6.3C270—12aSpecification for Mortar for Unit Masonry2103.3.2.4C315—07(2011)Specification for Clay Flue Liners and Chimney Pots2111.9, 2113.11.1, Table 2113.16 (1)C317/C317M—00(2010)Specification for Gypsum Concrete2514.1 2514.1C330/C330M—2009Specification for Lightweight Aggregates for Structural Concrete202</table>
+
+===== Page 2016 =====
+<table>C331/C331M—2010Specification for Lightweight Aggregates for Concrete Masonry Units722.3.1.4, 722.4.1.1.3C406/C406M—2010Specification for Roofing Slate1507.7.5C472—99 (2009)Specification for Standard Test Methods for Physical Testing of Gypsum, Gypsum Plasters and Gypsum ConcreteTable 2506.2C473—12Test Method for Physical Testing of Gypsum Panel ProductsTable 2506.2C474—13Test Methods for Joint Treatment Materials for Gypsum Board ConstructionTable 2506.2C475/C475M—12Specification for Joint Compound and Joint Tape for Finishing Gypsum BoardTable 2506.2C514—04(2009)e1Specification for Nails for the Application of Gypsum BoardTable 721.1(2), Table 721.1(3), Table 2306.7, Table 2506.2C516—08Specifications for Vermiculite Loose Fill Thermal Insulation722.3.1.4, 722.4.1.1.3C547—12Specification for Mineral Fiber Pipe InsulationTable 721.1(2), Table 721.1(3)C549—06(2012)Specification for Pelite Loose Fill Insulation722.3.1.4, 722.4.1.1.3C552—12bStandard Specification for Cellular Glass Thermal InsulationTable 1508.2C557—03(2009)e01Specification for Adhesives for Fastening Gypsum Wallboard to Wood FramingTable 2506.2C578—12bStandard Specification for Rigid, Cellular Polystyrene Thermal InsulationTable 1508.2, 2603.10, Table 2603.12.1, Table 2603.12.2C587—04(2009)Specification for Gypsum Veneer PlasterTable 2507.2C595/C595—13Specification for Blended Hydraulic Cements1903.1, Table 2507.2C631—09Specification for Bonding Compounds for Interior Gypsum PlasteringTable 2507.2C635/C635M—13Specification for the Manufacture, Performance and Testing of Metal Suspension Systems for Acoustical Tile and Lay-in Panel Ceilings808.1.1, 2506.2.1C636/C636M—08Practice for Installation of Metal Ceiling Suspension Systems for Acoustical Tile and Lay-in Panels808.1.1.1C645—13Specification for Nonstructural Steel Framing MembersTable 2506.2, Table 2507.2</table>
+
+===== Page 2017 =====
+<table>C652—13Specification for Hollow Brick (Hollow Masonry Units Made from Clay or Shale)1807.1.6.3C726—12Standard Specification for Mineral Roof Insulation BoardTable 1508.2C728—05(2013)Standard Specification for Perlite Thermal Insulation BoardTable 1508.2C744—11Specification for Prefaced Concrete and Calcium Silicate Masonry UnitsTable 722.3.2C754—11Specification for Installation of Steel Framing Members to Receive Screw-attached Gypsum Panel ProductsTable 2508.1, Table 2511.1.1C836/C836M—12Specification for High-solids Content, Cold Liquid-applied Elastomeric Waterproofing Membrane for Use with Separate Wearing Course1507.15.2C840—11Specification for Application and Finishing of Gypsum BoardTable 2508.1, 2509.2C841—03(2008)E1Specification for Installation of Interior Lathing and FurringTable 2508.1, Table 2511.1.1C842—05(2010)E1Specification for Application of Interior Gypsum PlasterTable 2511.1.1, 2511.3, 2511.4C843—99 (2012)Specification for Application of Gypsum Veneer PlasterTable 2511.1.1C844—04(2010)Specification for Application of Gypsum Base to Receive Gypsum Veneer PlasterTable 2508.1C847—12Specification for Metal LathTable 2507.2C887—05(2010)Specification for Packaged, Dry Combined Materials for Surface Bonding Mortar1805.2.2, 2103.2.2C897—05(2009)Specification for Aggregate for Job-Mixed Portland Cement-based PlasterTable 2507.2C920—11Standard for Specification for Elastomeric Joint SealantsTable 2506.2C926—13Specification for Application of Portland Cement-based Plaster2109.3.4.8, 2510.3, Table 2511.1.1, 2511.3, 2511.4, 2512.1, 2512.1.2, 2512.2, 2512.6, 2512.8.2, 2512.9, 2513.7C932—06(2013)Specification for Surface-applied Bonding Compounds for Exterior PlasteringTable 2507.2C933—13Specification for Welded Wire LathTable 2507.2C946—10Specification for Construction of Dry-stacked, Surface-bonded Walls2103.2.2, 2109.2.2</table>
+
+===== Page 2018 =====
+<table>C954—11Specification for Steel Drill Screws for the Application of Gypsum Panel Products or Metal Plaster Bases to Steel Studs from 1 to 3 mm in ThicknessTable 2506.2, Table 2507.2C955—11CStandard Specification for Load-bearing Transverse and Axial Steel Studs, Runners Tracks, and Bracing or Bridging, for Screw Application of Gypsum Panel Products and Metal Plaster BasesTable 2506.2, Table 2507.2C956—04(2010)Specification for Installation of Cast-in-place Reinforced Gypsum Concrete2514.1 2514.1C957—10Specification for High-solids Content, Cold Liquid-applied Elastomeric Waterproofing Membrane with Integral Wearing Surface1507.15.2C1002—07Specification for Steel Self-piercing Tapping Screws for the Application of Gypsum Panel Products or Metal Plaster Bases to Wood Studs or Steel StudsTable 2506.2, Table 2507.2C1007—11aSpecification for Installation of Load Bearing (Transverse and Axial) Steel Studs and Related AccessoriesTable 2508.1, Table 2511.1.1C1029—13Specification for Spray-applied Rigid Cellular Polyurethane Thermal Insulation1507.14.2C1032—06(2011)Specification for Woven Wire Plaster BaseTable 2507.2C1047—10ASpecification for Accessories for Gypsum Wallboard and Gypsum Veneer BaseTable 2506.2, Table 2507.2C1063—12DSpecification for Installation of Lathing and Furing to Receive Interior and Exterior Portland Cement-based Plaster2109.3.4.8, 2510.3, Table 2511.1.1, 2512.1.1C1088—13Specification for Thin Veneer Brick Units Made from Clay or ShaleTable 721.1(2)C1157/C1157M—11Standard Performance Specification for Hydraulic Cement1903.1, Table 2507.2C1167—11Specification for Clay Roof Tiles1507.3.4C1177/C1177M—08Specification for Glass Mat Gypsum Substrate for Use as SheathingTable 1508.2, Table 2506.2C1178/C1178M—11Specification for Coated Mat Water-resistant Gypsum Backing PanelTable 2506.2, Table 2509.2</table>
+
+===== Page 2019 =====
+<table>C1186—08(2012)Specification for Flat Fiber Cement Sheets1404.10, 1405.16.1, 1405.16.2C1261—10Specification for Fiberbox Brick for Residential Fireplaces2111.6, 2111.9 C 1278/C1278M—07a(2011)Specification for Fiber-reinforced Gypsum PanelsTable 1508.2, Table 2506.2C1280—13Specification for Application of Exterior Gypsum Panel Products for Use as SheathingTable 2508.1, 2508.2C1283—11Practice for Installing Clay Flue Lining2113.9.1, 2113.12C1288—99(2010)Standard Specification for Discrete Non-asbestos Fiber-cement Interior Substrate SheetsTable 2509.2 Table 2509.2C1289—13E1Standard Specification for Faced Rigid Cellular Polyisocyanurate Thermal Insulation BoardTable 1508.2, 2603.0, Table 2603.12.1, Table 2603.12.2C1313/C1313M—12Standard Specification for Sheet Radiant Barriers for Building Construction Applications1509.4C1325—08bStandard Specification for Non-asbestos Fiber-mat Reinforced Cement Backer UnitsTable 2509.2 Table 2509.2C1328/C1328M—12Specification for Plastic (Stucco Cement)Table 2507.2C1364—10BStandard Specification for Architectural Cast Stone2103.1 2103.1C1386—07Specification for Precast Autoclaved Aerated Concrete (AAC) Wall Construction Units202C1396M/C1396M—13Specification for Gypsum BoardFigure 722.5.1(2), Figure 722.5.1(3)C1492—03(2009)Standard Specification for Concrete Roof Tile1507.3.5C1600/C 1600M—11Standard Specification for Rapid Hardening Hydraulic CementTable 2507.2C1629/ C1629M—06(2011)Standard Classification for Abuseresistant Non-decorated Interior Gypsum Panel Products and Fiber-reinforced Cement Panels403.2.3.1, 403.2.3.2, 403.2.3.4C1658/C1658M—12Standard Specification for Glass Mat Gypsum PanelsTable 2506.2D25—12Specification for Round Timber Piles1810.3.2.4, 2303.1.12D41—05Specification for Asphalt Primer Used in Roofing, Dampproofing and WaterproofingTable 1507.10.2D43—00 (2006)Specification for Coal Tar Primer Used in Roofing, Dampproofing and WaterproofingTable 1507.10.2</table>
+
+===== Page 2020 =====
+<table>D56—05(2010)Test Method for Flash Point By Tag Closed Tester202D86—2012Test Method for Distillation of Petroleum Products at Atmospheric Pressure202D93—2012Test Method for Flash Point By Pensky-Martens Closed Cup Tester202D225—07Specification for Asphalt Shingles (Organic Felt) Surfaced with Mineral Granules1507.2.5D226/D226M—09Specification for Asphalt-saturated Organic Felt Used in Roofing and Waterproofing1404.2, 1505.2, 1507.2.3, 1507.2.8.1, 1507.3.3, 1507.4.5, 1507.5.3, 1507.6.3, 1507.6.3.1, 1507.7.3, Table 1507.8, 1507.8.3, 1507.9.3, 1507.9.5, Table 1507.10.2, 1507.17.3, 1507.17.4.1D227/D227M—03(2011)E1Specification for Coal-tar-saturated Organic Felt Used in Roofing and WaterproofingTable 1507.10.2D312—00 (2006)Specification for Asphalt Used in RoofingTable 1507.10.2D422—63 (2007)Test Method for Particle-size Analysis of Soils1803.5.3D448—08Standard Classification for Sizes of Aggregate for Road and Bridge Construction1507.12.3, 1507.13.3D450—07Specification for Coal-tar Pitch Used in Roofing, Dampproofing and WaterproofingTable 1507.10.2D635—10Test Method for Rate of Burning and/or Extent and Time of Burning of Plastics in a Horizontal Position2606.4 2606.4D1143/D1143M—07e1Test Method for Piles Under Static Axial Compressive Load1810.3.3.1.2D1227—95 (2007)Specification for Emulsified Asphalt Used as a Protective Coating for RoofingTable 1507.10.2, 1507.15.2D1557—12Test Method for Laboratory Compaction Characteristics of Soil Using Modified Effort [2,700 KN m/m³]1705.6, 1804.5D1863/D1863M—05(2011)E1Specification for Mineral Aggregate Used on Built-up RoofsTable 1507.10.2D1929—12Test Method for Determining Ignition Temperature of Plastics402.6.4.4, 406.7.2, 1407.11.2.1, 1407.11.3.3, 1407.11.4.2, 2606.4D1970/D1970M—2013Specification for Self-adhering Polymer Modified Bituminous Sheet1507.2.4, 1502.2.8.1, 1507.2.9.2, 1507.3.3.3,</table>
+
+===== Page 2021 =====
+<table>Materials Used as Steep Roof Underlayment for Ice Dam Protection1507.3.9, 1507.4.5, 1507.5.3.1, 1507.5.7, 1507.6.3.1, 1507.7.3.1, 1507.8.8, 1507.9.3.1, 1507.9.9, 1507.17.4.1D2178—04Specification for Asphalt Glass Felt Used in Roofing and WaterproofingTable 1507.10.2D2487—2011Practice for Classification of Soils for Engineering Purposes (Unified Soil Classification System)Table 1610.1, 1803.5.1D2626/D2626M—04(2012)E1Specification for Asphalt Saturated and Coated Organic Felt Base Sheet Used in Roofing1507.3.3, Table 1507.10.2D2822/D2822M-05(2011)E1Specification for Asphalt Roof Cement, Asbestos ContainingTable 1507.10.2D2823/D2823M—05(2011)E1Specification for Asphalt Roof Cement, Asbestos ContainingTable 1507.10.2D2824—06(2012)E1Standard Specification for Aluminum-Pigmented Asphalt Roof Coating, Non-fibered, Asbestos Fibered and Fibered without AsbestosTable 1507.10.2D2843—10Test for Density of Smoke from the Burning or Decomposition of Plastics2606.4 2606.4D2859—06(2011)Standard Test Method for Ignition Characteristics of Finished Textile Floor Covering Materials804.4.1 804.4.1D2898—10Test Methods for Accelerated Weathering of Fire-retardant-treated Wood for Fire Testing1505.1, 2303.2.4, 2303.2.6D3019—08Specification for Lap Cement Used with Asphalt Roll Roofing, Nonfibered, Asbestos Fibered and Nonasbestos FiberedTable 1507.10.2D3161/D3161M—13Test Method for a Wind Resistance of Asphalt Shingles (Fan Induced Method)1504.1.1, Table 1504.1.1, 1507.17.8D3200—74 (2012)Standard Specification and Test Method for Establishing Recommended Design Stresses for Round Timber Construction Poles2303.1.12 2303.1.12D3201—2013Test Method for Hygroscopic Properties of Fire-retardant-treated Wood and Wood-based Products2303.2.7D3278—1996 (2011)Test Methods for Flash Point of Liquids by Small Scale Closed-cup Apparatus202</table>
+
+===== Page 2022 =====
+<table>D3462/D3462M—10ASpecification for Asphalt Shingles Made from Glass Felt and Surfaced with Mineral Granules1507.2.5D3468—99 (2006) e01Specification for Liquid-applied Neoprene and Chlorosulfonated Polyethylene Used in Roofing and Waterproofing1507.15.2D3679—11Specification for Rigid Poly (Vinyl Chloride) (PVC) Siding1404.9, 1405.14D3689—2013E1Test Methods for Deep Foundations Under Static Axial Tensile Load1810.3.3.1.5D3737—2012Practice for Establishing Allowable Properties for Structural Glued Laminated Timber (Gilulam)2303.1.3D3746—85 (2008)Test Method for Impact Resistance of Bituminous Roofing Systems1504.7D3747—79 (2007)Specification for Emulsified Asphalt Adhesive for Adhering Roof InsulationTable 1507.10.2D3909/ D3909M—97b (2012)e1Specification for Asphalt Roll Roofing (Glass Felt) Surfaced with Mineral Granules1507.2.9.2, 1507.6.5, Table 1507.10.2D3957—09Standard Practices for Establishing Stress Grades for Structural Members Used in Log Buildings2303.1.11 2303.1.11D4022/D4022M—2007(2012)E1Specification for Coal Tar Roof Cement, Asbestos ContainingTable 1507.10.2D4272—09Test Method for Total Energy Impact of Plastic Films by Dart Drop1504.7D4318—10Test Methods for Liquid Limit, Plastic Limit and Plasticity Index of Soils1803.5.3D4434/D4434M—12Specification for Poly (Vinyl Chloride) Sheet Roofing1507.13.2D4479/D4479M—07(2012)E1Specification for Asphalt Roof Coatings-Asbestos-freeTable 1507.10.2D4586/D4586M—07(2012)E1Specification for Asphalt Roof Cement-Asbestos-freeTable 1507.10.2D4601/D4601M—04(2012)E1Specification for Asphalt-coated Glass Fiber Base Sheet Used in RoofingTable 1507.10.2D4637/D4637M—13Specification for EPDM Sheet Used in Single-ply Roof Membrane1507.12.2D4829—11Test Method for Expansion Index of Soils1803.5.3D4869/D4869M—05(2011)e01Specification for Asphalt-saturated (Organic Felt) Underlayment Used in Steep Slope Roofing1507.2.3, 1507.2.8.1, 1507.4.5, 1507.5.3, 1507.5.3.1, 1507.6.3, 1507.7.3, 1507.7.3.1, 1507.8.3, 1507.8.3.1, 1507.9.3,</table>
+
+===== Page 2023 =====
+<table>1507.9.3.1, 1507.17.4.11507.17.3,D4897/D4897M—01(2009)Specification for Asphalt-coated Glass Fiber Venting Base Sheet Used in RoofingTable 1507.10.2D4945—12Test Method for High-strain Dynamic Testing of Piles1810.3.3.1.2D4990—97a (2005) e01Specification for Coal Tar Glass Felt Used in Roofing and WaterproofingTable 1507.10.2D5019—07aSpecification for Reinforced Non-vulcanized Polymeric Sheet Used in Roofing Membrane1507.12.2D5055—13Specification for Establishing and Monitoring Structural Capacities of Prefabricated Wood I-joists2303.1.2 2303.1.2D5456—12Specification for Evaluation of Structural Composite Lumber Products2303.1.10 2303.1.10D5516—09Test Method of Evaluating the Flexural Properties of Fire-retardant treated Softwood Plywood Exposed to the Elevated Temperatures2303.2.5.1 2303.2.5.1D5643/D5643M—06(2012)E1Specification for Coal Tar Roof Cement, Asbestos-freeTable 1507.10.2D5664—10Test Methods for Evaluating the Effects of Fire-retardant Treatment and Elevated Temperatures on Strength Properties of Fire-retardant treated Lumber2303.2.5.2 2303.2.5.2D5665—99a (2006)Specification for Thermoplastic Fabrics Used in Cold-applied Roofing and WaterproofingTable 1507.10.2D5726—98 (2005)Specification for Thermoplastic Fabrics Used in Hot-applied Roofing and WaterproofingTable 1507.10.2D6083—05e01Specification for Liquid Applied Acrylic Coating Used in RoofingTable 1507.10.2, Table 1507.13.3, 1507.15.2D6162—2000A (2008)Specification for Styrene-butadiene-styrene (SBS) Modified Bituminous Sheet Materials Using a Combination of Polyester and Glass Fiber Reinforcements1507.11.2D6163—00 (2008)Specification for Styrene-butadiene-styrene (SBS) Modified Bituminous Sheet Materials Using Glass Fiber Reinforcements1507.11.2D6164/D6164M—11Specification for Styrene-butadiene-styrene (SBS) Modified Bituminous1507.11.2</table>
+
+===== Page 2024 =====
+<table>Sheet Metal Materials Using Polyester ReinforcementsD6222/D6222M—11Specification for Atactic Polypropylene (APP) Modified Bituminous Sheet Materials Using Polyester Reinforcements1507.11.2D6223/D6223M—02(2011)E1Specification for Atactic Polypropylene (APP) Modified Bituminous Sheet Materials Using a Combination of Polyester and Glass Fiber Reinforcements1507.11.2D6298—05e1Specification for Fiberglass Reinforced Styrene-butadiene-styrene (SBS) Modified Bituminous Sheets with a Factory Applied Metal Surface1507.11.2D6305—08Practice for Calculating Bending Strength Design Adjustment Factors for Fire-retardant-treated Plywood Roof Sheathing2303.2.5.1 2303.2.5.1D6380—03 (2009)Standard Specification for Asphalt Roll Roofing (Organic) Felt1507.2.9.2, 1507.3.3, 1507.6.5D6509/D6509M—09Standard Specification for Atactic Polypropylene (APP) Modified Bituminous base Sheet Materials Using Glass Fiber Reinforcements1507.11.2D6694—08Standard Specification for Liquid-applied Silicone Coating Used in Spray Polyurethane Foam Roofing SystemsTable 1507.13.3, 1507.15.2D6754/D6745M—10Standard Specification for Ketone Ethylene Ester Based Sheet Roofing1507.13.2D6757—2013Standard Specification for Underlayment for Use with Steep Slope Roofing1507.2.3, 1507.17.4.1D6841—08Standard Practice for Calculating Design Value Treatment Adjustment Factors for Fire-retardant-treated Lumber2303.2.5.2 2303.2.5.2D6878/D6878M—11aStandard Specification for Thermoplastic Polyolefin Based Sheet Roofing1507.13.2D6947—07Standard Specification for Liquid Applied Moisture Cured Polyurethane Coating Used in Spray Polyurethane Foam Roofing SystemTable 1507.13.3, 1507.15.2D7032—10aStandard Specification for Establishing Performance Ratings for Wood, Plastic Composite Deck2612.2.1, 2612.4, 2612.5.1</table>
+
+===== Page 2025 =====
+<table>Boards and Guardrail Systems (Guards or Rails)D7147—05Specification for Testing and Establishing Allowable Loads of Joist Hangers2303.5, 2304.10.3D7158/D7158M—11Standard Test Method for Wind Resistance of Sealed Asphalt Shingles (Uplift Force/Uplift Resistance Method)1504.1.1, Table 1504.1.1D7254—07Standard Specification for polypropylene (PP) siding1403.12 1404.12D7655—12Standard Classification for Size of Aggregate Used as Ballast for Roof Membrane Systems1507.12.3, 1507.13.3D7672—2012Standard Specification for Evaluating Structural Capacities of Rim Board Products and Assemblies2303.1.13 2303.1.13E84—2013ATest Methods for Surface Burning Characteristics of Building Materials202, 402.6.4.4, 406.7.2, 703.5.2, 720.1, 720.4, 803.1.1, 803.1.4, 803.10, 803.11, 806.7, 1404.12.1, 1407.9, 1407.10.1, 1409.9, 1409.10.1, 1510.6.2, 1510.6.3, 2303.2, 2603.3, 2603.4.1.13, 2606.3.5.4, 2603.7.1, 2603.7.2, 2603.7.3, 2604.2.4, 2606.4, 2612.3, 2614.3, 3105.4E90—09Test Method for Laboratory Measurement of Air-borne Sound Transmission Loss of Building Partitions and Elements1207.2, 1207.2.1E96/E96M—2013Test Method for Water Vapor Transmission of Materials202E108—2011Test Methods for Fire Tests of Roof Coverings1505.1, 2603.6, 2610.2, 2610.3E119—2012AStandard Test Methods for Fire Tests of Building Construction and Materials703.2, 703.2.1, 703.2.3, 703.3, 703.4, 703.6, 704.12, 705.7, 705.8.5, 711.3.2, 714.3.1, 714.4.1, 715.1, 716.2, Table 716.3, 716.5.6, 716.5.8.1.1, Table 716.6, 716.6.7.1, 717.5.2, 717.5.3, 717.6.1, 717.6.2.1, Table 721.1(1), 1409.10.2, 2103.1, 2603.5.1E136—2012Test Method for Behavior of Materials in a Vertical Tube Furnace at 750℃703.3.1 703.5.1E283—04Standard Test Method for Determining Rate of Air Leakage Through Exterior Windows Curtain202</table>
+
+===== Page 2026 =====
+<table>Walls, and Doors Under Specified Pressure Difference Across the SpecimenE330—02Test Method for Structural Performance of Exterior Windows, Curtain Walls and Doors by Uniform Static Air Pressure Difference1409.10.2, 1709.5.2E331—00 (2009)Test Method for Water Penetration of Exterior Windows, Skylights, Doors and Curtain Walls by Uniform Static Air Pressure Difference1402.2 1403.2E492—09Test Method for Laboratory Measurement of Impact Sound Transmission Through Floor-ceiling Assemblies Using the Tapping Machine1206.3 1207.3E605—93 (2011)Test Method for Thickness and Density of Sprayed Fire-resistive Material (SFRM) Applied to Structural Members1705.14.4.1, 1705.14.4.2, 1705.14.4.5, 1705.14.5E681—2009Test Methods for Concentration Limits of Flammability of Chemical Vapors and Gases202E736—00 (2011)Test Method for Cohesion/Adhesion of Sprayed Fire-resistive Materials Applied to Structural Members704.13.2, 1705.14.4.6E814—2013Test Method of Fire Tests of Through-penetration Firestops202, 714.3.1.2, 714.3.2, 7143.4.1.1.2E970—2010Test Method for Critical Radiant Flux of Exposed Attic Floor Insulation Using a Radiant Heat Energy Source720.3.1 720.3.1E1300—12AE1Practice for Determining Load Resistance of Glass in Buildings2404.1, 2404.2, 2404.3.1, 2404.3.2, 2404.3.3, 2404.3.4, 2404.3.5E1354—2013Standard Test Method for Heat and Visible Smoke Release Rates for Materials and Products Using an Oxygen Consumption Calorimeter424.2E1592—05(2012)Test Method for Structural Performance of Sheet Metal Roof and Siding Systems by Uniform Static Air Pressure Difference1504.4.2 1504.3.2E1602—02(2010)E1Guide for Construction of Solid Fuel-burning Masonry Heaters2112.2E1886—05Test Method for Performance of Exterior Windows, Curtain Walls, Doors and Storm Shutters Impacted by Missiles and Exposed to Cyclic Pressure Differentials1609.2 1609.1.2</table>
+
+===== Page 2027 =====
+<table>E1966—07A(2011)Test Method for Fire-resistant Joint Systems202,715.3E1996—2012ASpecification for Performance of Exterior Windows, Curtain Walls, Doors and Impact Protective Systems Impacted by Windborne Debris in Hurricanes1609.1.2, 1609.1.2.2E2072—10Standard Specification for Photoluminescent (Phosphorescent) Safety Markings1025.3E2174—10AE1Standard Practice for On-Site Inspection of Installed Firestops1705.17.1E2178—13Standard Test Method for Air Permeance of Building Materials202E2273—03(2011)Standard Test Method for Determining the Drainage Efficiency of Exterior Insulation and Finish Systems (EIFS) Clad Wall Assemblies1407.4.1 1408.4.1E2307—2010Standard Test Method for Determining Fire Resistance of a Perimeter Joint System Between an Exterior Wall Assembly and Floor Assembly Using the Intermediate-scale, Multistory Test Apparatus715.4 715.4E2393—10AStandard Practice for On-Site Inspection of Installed Fire Resistive Joint Systems and Perimeter Fire Barrier1705.17.2E2404—2013E1Standard Practice for Specimen Preparation and Mounting of Textile, Paper or Vinyl Wall or Ceiling Coverings to Assess Surface Burning Characteristics803.5.2 803.1.4E2556—10Standard Specification for Vapor Permeable Flexible Sheet Water-Resistive Barriers Intended for Mechanical Attachment1404.2, 2510.6E2568—09e1Standard Specification for PB Exterior Insulation and Finish Systems1408.2E2570—07Standard Test Method for Evaluating Water-resistive Barrier (WRB) Coatings Used Under Exterior Insulation and Finish Systems (EIFS) for EIFS with Drainage1408.4.1.1, 1705.16.1E2573—12Standard Practice for Specimen Preparation and Mounting of Site-fabricated Stretch Systems to Assess Surface Burning Characteristics803.15 803.13</table>
+
+===== Page 2028 =====
+<table>E2599—11Standard Practice for Specimen Preparation and Mounting of Reflective Insulation Materials and Vinyl Stretch Ceiling Materials for Building Applications to Assess Surface Burning Characteristics2614.3 2614.3E2634—11Standard Specification for Flat Wall Insulating Concrete Form (ICF) Systems1903.4E2751—11Standard Practice for Design and Performance of Supported Glass Walkways2409.1F547—(2012)Terminology of Nails for Use with Wood and Wood-based MaterialsTable 2506.2F1667—11AE1Specification for Driven Fasteners: Nails, Spikes and StaplesTable 721.1(2), Table 721.1(3), 1507.2.6, 1507.17.5, 2303.6, Table 2506.2F2006—00 (2005) 10Standard/Safety Specification for Window Fall Prevention Devices for Nonemergency Escape (Egress) and Rescue (Ingress) Windows1015.8 1015.8F2090—10Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms1015.8, 1015.8.1F2200—2013Standard Specification for Automated Vehicular Gate Construction3110.3G152—06Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials1504.6G154—06Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials1504.6G155—05aPractice for Operating Xenon Arc Light Apparatus for Exposure of Nonmetallic Materials1504.6</table>
+
+AWC
+
+American Wood Council 222 Catoctin SE, Suite 201
+Leesburg, VA 20175
+
+<table>Standard reference numberTitleReferenced in code Section numberAWC WCD No. 4—2003Wood Construction Data—Plank and Beam Framing for Residential Buildings2306.1.2AWC WFCM—2015Wood Frame Construction Manual for One- and Two-Family Dwellings1609.1.1, 1609.1.1.1, 2301.2, 2309.1ANSI/AWC NDS—2015National Design Specification (NDS) for Wood Construction with 2015 NDS Supplement202, 722.1, Table 1604.3, 1809.12, 1810.3.2.4, Table 1810.3.2.6, 1905.1.8, 2304.13,</table>
+
+===== Page 2029 =====
+<table>2306.1, Table 2306.2(1), Table 2306.2(2), Table 2306.3(1), Table 2306.3(2), 2307.1AWC STJR—2015Span Tables for Joists and Rafters2306.1.1, 308.7.1,ANSI/AWC PWF—2015Permanent Wood Foundation Design Specification1805.2, 1807.1.4, 2304.10.5.2AWC SDPWS—2015Special Design Provisions for Wind and Seismic202, 2305.1, 2305.2, 2305.3, 2306.1, 2306.2, 2306.3, Table 2306.3(1), Table 2306.3(3), 2307.1</table>
+
+Association of the Wall and Ceiling Industry 513 West Broad Street, Suite 210 Falls Church, VA 22046
+
+<table>Standard reference numberTitleReferenced in code Section number12-B—04Technical Manual 12-B Standard Practice for the Testing and Inspection of Field Applied Thin Film Intumescent Fire-resistive Materials; an Annotated Guide, Second Edition1705.15</table>
+
+American Wood Protection Association P.O. Box 361784
+Birmingham, AL 35236-1784
+
+<table>Standard reference numberTitleReferenced in code Section numberC1—03All Timber Products-Preservative Treatment by Pressure Processes1505.6M4—11Standard for the Care of Preservative-treated Wood Products1810.3.2.4.1, 2303.1.9U1—14USE CATEGORY SYSTEM: User Specification for Treated Wood Except Section 6, Commodity Specification H1403.6, Table 1507.9.6, 1807.1.4, 1807.3.1, 1809.12, 1810.3.2.4.1, 2303.1.9, 2304.12.1, 2304.12.2, 2304.12.3, 2304.2.4, 2304.12.5</table>
+
+American Welding Society 8669 NW 36 Street, #130 Doral, FL 33166
+
+<table>Standard reference numberTitleReferenced in code Section numberD1.4/D1.4M—2011Structural Welding Code-Reinforcing Steel Including Metal Inserts and Connections In Reinforced Concrete Construction1704.5, 1705.3.1, Table 1705.3, 2107.4</table>
+
+Builders Hardware Manufacturers' Association
+355 Lexington Avenue, 17th Floor New York, NY 10017-6603
+
+<table>Standard reference numberTitleReferenced in code Section numberA 156.10—2011Power Operated Pedestrian Doors1010.3.2 1010.1.4.2</table>
+
+===== Page 2030 =====
+<table>A 156.19—2013Standard for Power Assist and Low Energy Operated Doors1010.3.2 1010.1.4.2A 156.27—11Power and Manual Operated Revolving Pedestrian Doors1010.3.1 1010.1.4.1</table>
+
+## CEN
+
+European Committee for Standardization (CEN)
+Central Secretariat Rue de Stassart 36 B-10 50 Brussels
+
+<table>Standard reference numberTitleReferenced in code Section numberEN 1081—98Resilient Floor Coverings—Determination of the Electrical Resistance406.7.1BS EN 15250—2007Slow Heat Release Appliances Fired By Solid Fuel Requirements and Test Methods2112.2, 2112.5</table>
+
+## CGSB
+
+Canadian General Standards Board Place du Portage 111, 6B1 11 Laurier Street Gatineau, Quebec, Canada KIA 1G6
+
+<table>Standard reference numberTitleReferenced in code Section number37-GP-52M (1984)Roofing and Waterproofing Membrane, Sheet Applied, Elastomeric1504.7, 1507.12.237-GP-56M (1980)Membrane, Modified, Bituminous, Prefabricated and Reinforced for Roofing—with December 1985 Amendment1507.11.2CAN/CGSB 37.54—95Polyvinyl Chloride Roofing and Waterproofing Membrane1507.13.2</table>
+
+## CPA
+
+Composite Panel Association 19465 Deerfield Avenue, Suite 306
+Leesburg, VA 20176
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI A135.4—2012Basic Hardboard1404.3.1, 2303.1.7ANSI A135.5—2012Prefinished Hardboard Paneling2303.1.7, 2304.7ANSI A135.6—2012Engineered Wood Siding1404.3.2, 2303.1.7A208.1—09Particleboard2303.1.8, 2303.1.8.1</table>
+
+## CPSC
+
+Consumer Product Safety Commission 4330 East West Highway Bethesda, MD 20814-4408
+
+<table>Standard reference numberTitleReferenced in code Section number16 CFR Part 1201 (2002)Safety Standard for Architectural Glazing Material2406.2, Table 2406.2(1), 2406.3.1, 2407.1, 2407.1.4.1, 2408.2.1, 2408.3, 2409.2, 2409.3.1, 2409.4.116 CFR Part 1209 (2002)Interim Safety Standard for Cellulose Insulation720.6 720.616 CFR Part 1404 (2002)Cellulose Insulation720.6 720.6</table>
+
+===== Page 2031 =====
+<table>16 CFR Part 1500 (2009)Hazardous Substances and Articles; Administration and Enforcement Regulations20216 CFR Part 1500.44(2009)Method for Determining Extremely Flammable and Flammable Solids20216 CFR Part 1507 (2002)Fireworks Devices20216 CFR Part 1630 (2007)Standard for the Surface Flammability of Carpets and Rugs804.4.1</table>
+
+CSA Canadian Standards Association 8501 East Pleasant Valley Cleveland, OH 44131-5516
+
+<table>Standard reference numberTitleReferenced in code Section numberAAMA/WDMA/CSA 101/1.S.2/A440—11Specifications for Windows, Doors and Unit Skylights1709.5.1, 2405.5</table>
+
+CSSB Cedar Shake and Shingle Bureau P. O. Box 1178 Sumas, WA 98295-1178
+
+<table>Standard reference numberTitleReferenced in code Section numberCSSB—97Grading and Packing Rules for Western Red Cedar Shakes and Western Red Shingles of the Cedar Shake and Shingle BureauTable 1507.8.5, Table 1507.9.6</table>
+
+DASMA Door and Access Systems Manufacturers Association International 1300 Summer Avenue Cleveland, OH 44115-2851
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI/DASMA 107—1997 (R2012)Room Fire Test Standard for Garage Doors Using Foam Plastic Insulation2603.4.1.9 2603.4.1.9108—12Standard Method for Testing Sectional Garage Doors and Rolling Doors: Determination of Structural Performance Under Uniform Static Air Pressure Difference1709.5.2115—12Standard Method for Testing Sectional Garage Doors and Rolling Doors: Determination of Structural Performance Under Missile Impact and Cyclic Wind Pressure1609.2.3 1609.1.2.3</table>
+
+DOC U.S. Department of Commerce National Institute of Standards and Technology 1401 Constitution Avenue NW Washington, DC 20230
+
+<table>Standard reference numberTitleReferenced in code Section numberPS-1—09Structural Plywood2303.1.5, 2304.7, Table 2304.7(4), Table 2304.7(5), Table 2306.2(1), Table 2306.2(2)</table>
+
+===== Page 2032 =====
+<table>PS-2—10Performance Standard for Wood-based Structural-use Panels2303.1.5, 2304.7, Table 2304.7(5), Table 2306.2(1), Table 2306.2(2)PS 20—05American Softwood Lumber Standard202, 1810.3.2.4, 2303.1.1 2303.1.1</table>
+
+## DOL
+
+U.S. Department of Labor Frances Perkins Building 200 Constitution Avenue NW Washington, DC 20210Washington, DC 20230
+
+<table>Standard reference numberTitleReferenced in code Section number29 CFR Part 1910.1000 (2009)Air Contaminants202</table>
+
+## DOTn
+
+U.S. Department of Transportation c/o Superintendent of Documents East Building, 2nd floor Washington, DC 20590
+
+<table>Standard reference numberTitleReferenced in code Section number49 CFR Parts 100—185 2005Hazardous Materials Regulations20249 CFR Parts 173.137 (2009)Shippers—General Requirements for Shipments and Packaging—Class 8—Assignment of Packing Group20249 CFR—1998Specification of Transportation of Explosive and Other Dangerous Articles, UN 0335, UN 0336 Shipping Containers202</table>
+
+## FEMA
+
+Federal Emergency Management Agency Federal Center Plaza 500 C Street S.W. Washington, DC 20472
+
+<table>Standard reference numberTitleReferenced in code Section numberFEMA-TB-11—01Crawlspace Construction for Buildings Located in Special Flood Hazard Areas1805.1.2.1</table>
+
+## FM
+
+Factory Mutual Global Research Standards Laboratories Department 1301 Atwood Avenue, P.O. Box 7500 Johnston, RI 02919
+
+<table>Standard reference numberTitleReferenced in code Section number4430 (2012)Approval Standard for Heat and Smoke Vents910.3.14470 (2012)Approval Standard for Single-Ply Polymer-Modified Bitumen Sheet, Built-Up Roof (BUR) And Liquid Applied Roof Assemblies for use in Class 1 and Noncombustible Roof Deck Construction1504.74474 (2011)American National Standard for Evaluating the Simulated Wind Uplift Resistance of Roof Assemblies Using Static Positive and/or Negative Differential Pressures1504.3.1, 1504.3.2</table>
+
+===== Page 2033 =====
+<table>4880-2010Approval Standard for Class 1 Fire Rating of Insulated Wall or Wall and Roof/ Ceiling Panels, Interior Finish Materials or Coatings and Exterior Wall Systems2603.4, 2603.9GA<td colspan="2">Gypsum Association 6525 Belcrest Road, Suite 480 Hyattsville, MD 20782</table>
+
+<table>Standard reference numberTitleReferenced in code Section numberGA 216—13Application and Finishing of Gypsum Panel ProductsTable 2508.1, 2509.2GA 600—12Fire-Resistance Design Manual, 20th EditionTable 721.1(1), Table 721.1(2), Table 721.1(3)</table>
+
+## HPVA
+
+Hardwood Plywood Veneer Association 1825 Michael Faraday Drive Reston, VA 20190
+
+<table>Standard reference numberTitleReferenced in code Section numberHP-1—2013Standard for Hardwood and Decorative Plywood2303.3, 2304.7</table>
+
+## ICC
+
+International Code Council, Inc. 500 New Jersey Ave, NW 6th Floor, Washington, DC 20001
+
+<table>Standard reference numberTitleReferenced in code Section numberICC A117.1—09Accessible and Usable Buildings and Facilities202, 907.5.2.3.3, 1009.8.2, 1009.9, 1009.11, 1010.1.9.7, 1012.1, 1012.6.5, 1012.10, 1013.4, 1023.9, 1101.2, 1111.2, 1111.3, 1111.4, 1111.4.2ICC 300—12ICC Standard on Bleachers, Folding and Telescopic Seating and Grandstands1029.1.1, Table 1607.1ICC 400—12Standard on Design and Construction of Log Structures2302.1, 2301.2ICC 500—14ICC/NSSA Standard on the Design and Construction of Storm Shelters202, 423.1, 423.3, 423.4ICC 600—14Standard for Residential Construction in High-wind Regions1609.1.1, 1609.1.1.1IWUIC—15International Wildland-Urban Interface Code®Table 1505.1SBCCI SSTD 11—97Test Standard for Determining Wind Resistance of Concrete or Clay Roof Tiles1504.2.1.1, 1504.2.1.2</table>
+
+## ISO
+
+International Organization for Standardization ISO Central Secretariat 1 ch, de la Voie-Creuse, Case Postale 56 CH-1211 Geneva 20, Switzerland
+
+<table>Standard reference numberTitleReferenced in code Section number</table>
+
+===== Page 2034 =====
+<table>ISO 8115—86Cotton Bales—Dimensions and DensityTable 307.1(1), Table 415.11.1.1.1ISO 8336—09Fiber-Cement Flat Sheets - Product Specification and Test Methods1404.10, 1405.16.1, 1405.16.2, Table 2509.2</table>
+
+MHI Material Handling Institute 8720 Red Oak Blvd. Suite 201 Charlotte, NC 28217
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI MH29.1—08Safety Requirements for Industrial Scissors Lifts3001.3 3001.2</table>
+
+NAAMM National Association of Architectural Metal Manufacturers 800 Roosevelt Road, Bldg. C, Suite 312 Glen Ellyn, IL 60137
+
+<table>Standard reference numberTitleReferenced in code Section numberFP 1001—07Guide Specifications for Design of Metal Flag Poles1609.1.1 1609.1.1</table>
+
+NCMA National Concrete Masonry Association 13750 Sunrise Valley Herndon, VA 22071-4662
+
+<table>Standard reference numberTitleReferenced in code Section numberTEK 5—84 (1996)Details for Concrete Masonry Fire WallsTable 721.1(2)</table>
+
+NFPA National Fire Protection Association 1 Batterymarch Park Quincy, MA 02169-7471
+
+<table>Standard reference numberTitleReferenced in code Section number10—13Standard for Portable Fire Extinguishers906.2, 906.3.2, 906.3.4, Table 906.3(1), Table 906.3(2)11—10Standard for Low Expansion Foam904.712—11Standard on Carbon Dioxide Extinguishing Systems904.8, 904.1112A—09Standard on Halon 1301 Fire Extinguishing Systems904.913—13Installation of Sprinkler Systems708.2, 903.3.1.1, 903.3.2, 903.3.8.2, 903.3.8.5, 904.11, 905.3.4, 907.6.4, 1019.313D—13Standard for the Installation of Sprinkler Systems in One- and Two Family Dwellings and Manufactured Homes903.3.1.3 903.3.1.313R—13Standard for the Installation of Sprinkler Systems in Low Rise Residential Occupancies903.3.1.2, 903.3.5.2, 903.414—13Standard for the Installation of Standpipe and Hose System905.2, 905.3.4, 905.4.2, 905.6.2, 905.816—15Standard for the Installation of Foam-water Sprinkler and Foam water Spray Systems904.7, 904.11</table>
+
+===== Page 2035 =====
+<table>17—13Standard for Dry Chemical Extinguishing Systems904.6, 904.1117A—13Standard for Wet Chemical Extinguishing Systems904.5, 904.1120—13Standard for the Installation of Stationary Pumps for Fire Protection913.1, 913.2.1, 913.530—12Flammable and Combustible Liquids Code415.6, 507.8.1.1.1, 507.8.1.1.231—11Standard for the Installation of Oil-burning Equipment2113.1532—11Standard for Dry Cleaning Plants415.9.340—11Standard for the Storage and Handling of Cellulose Nitrate Film409.158—14Liquefied Petroleum Gas Code415.9.261—13Standard for the Prevention of Fires and Dust Explosions in Agricultural and Food Product Facilities426.170—14National Electrical Code108.3, 415.11.1.8, 904.3.1, 907.6.1, 909.12.2, 909.16.3, 1205.4.1, 2701.1, 2702.1.2, G501.4, G1001.6, H106.1, H106.2, K101, K111.172—13National Fire Alarm and Signaling Code407.4.4.3, 407.4.4.5, 407.4.4.5.1, 901.6, 903.4.1, 904.3.5, 907.2, 907.2.6, 907.2.11, 907.2.13.2, 907.3, 907.3.3, 907.3.4, 907.5.2.1.2, 907.5.2.2, 907.5.2.2.5, 907.6, 907.6.1, 907.6.2, 907.6.6, 907.7, 907.7.1, 907.7.2, 907.2.9.3, 911.1.5, 2702.2.4, 3005.5, 3007.780—13Standard for Fire Doors and Other Opening Protectives410.3.5, 509.4.2, 716.5, 716.5.7, 716.5.8.1, 716.5.9.2, 716.6, 716.6.4, 1010.1.4.382—14Standard on Incinerators and Waste and Linen Handling Systems and Equipment713.13, 713.1385—15Boiler and Combustion System Hazards Code415.8.1, 415.8.192—15Standard for Smoke Control Systems909.7, 909.899—15Health Care Facilities Code407.10, 425.1101—15Life Safety Code1030.6.2, 1029.6.2105—13Standard for Smoke Door Assemblies and Other Opening Protectives405.4.2, 710.5.2.2, 716.5.3.1, 909.20.4.1110—13Standard for Emergency and Standby Power Systems2702.1.2</table>
+
+===== Page 2036 =====
+<table>111—13Standard on Stored Electrical Energy Emergency and Standby Power Systems2702.1.2120—15Standard for Fire Prevention and Control in Coal Mines426.1170—15Standard for Fire Safety and Emergency Symbols1025.2.6.1211—13Standard for Chimneys, Fireplaces, Vents and Solid Fuel-burning Appliances2112.5221—15Standard for High Challenge Fire Walls, Fire Walls, and Fire Barrier Walls706.2252—12Standard Methods of Fire Tests of Door Assemblies715.4.2, 715.4.3, 715.4.7.3.1, Table 716.3, 716.3.1, 716.4, 716.5.1, 716.5.3, 716.5.8, 716.5.8.1.1253—15Standard Method of Test for Critical Radiant Flux of Floor Covering Systems Using a Radiant Heat Energy Source406.8.3, 424.2, 804.2, 804.3257—12Standard for Fire Test for Window and Glass Block AssembliesTable 716.3, 716.4, 716.5.3.2, 716.6, 716.6.1, 716.6.2, 716.6.7.3259—13Standard Test Method for Potential Heat of Building Materials2603.4.1.10, 2603.5.3265—11Standard Methods of Fire Tests for Evaluating Room Fire Growth Contribution of Textile Wall Coverings on Full Height Panels and Walls803.1.3, 803.1.3.1268—12Standard Test Method for Determining Ignitability of Exterior Wall Assemblies Using a Radiant Heat Energy Source1406.2.1.1, 1406.2.1.1.1, 1406.2.1.1.2, 2603.5.7, D105.1275—13Standard Method of Fire Tests for the Evaluation of Thermal Barriers1407.10.2, 2603.4276—11Standard Method of Fire Tests for Determining the Heat Release Rate of Roofing Assemblies With Combustible Above-Deck Roofing Components1508.1, 2603.3, 2603.4.1.5285—12Standard Fire Test Method for the Evaluation of Fire Propagation Characteristics of Exterior Nonload-bearing Wall Assemblies Containing Combustible Components718.2.6, 1403.5, 1407.10.4, 1409.10.4, 1510.6.2,286—15Standard Methods of Fire Test for Evaluating Contribution of Wall and Ceiling Interior Finish to Room Fire Growth402.6.4.4, 803.1.2, 803.1.2.1, 803.11, 2603.4, 2603.7.2, 2603.9, 2604.2.4, 2614.4</table>
+
+===== Page 2037 =====
+<table>288—12Standard Methods of Fire Tests of Horizontal Fire Door Assemblies Installed in Horizontal in Fire-resistance-rated Floor Systems712.1.13.1 712.1.13.1289—13Standard Method of Fire Test for Individual Fuel Packages402.6.2, 424.2409—11Standard for Aircraft Hangars412.4.6, Table 412.4.6, 412.4.6.1, 412.6.5418—11Standard for Heliports412.7.4 412.8.4484—15Standard for Combustible Metals426.1654—13Standard for the Prevention of Fire &amp; Dust Explosions from the Manufacturing, Processing and Handling of Combustible Particulate Solids426.1655—12Standard for the Prevention of Sulfur Fires and Explosions426.1664—12Standard for the Prevention of Fires and Explosions in Wood Processing and Wood-working Facilities426.1701—10Standard Method of Fire Tests for Flame-Propagation of Textiles and Films410.3.6, 424.2, 801.4, 806.1, 806.3, 806.4, 3102.3, 3102.3.1, 3102.6.1.1, 3105.4, D102.2.8, H106.1.1704—12Standard System for the Identification of the Hazards of Materials for Emergency Response202, 415.5.2720—15Standard for the Installation of Carbon Monoxide (CO) Detection and Warning Equipment9151.6.1, 915.1.6.2750—15Standard on Water Mist Fire Protection Systems904.12.1.11124—06Code for the Manufacture, Transportation and Storage of Fireworks and Pyrotechnic Articles415.6.4.1 415.6.1.12001—15Standard on Clean Agent Fire Extinguishing Systems904.10 904.10</table>
+
+PCI Precast Prestressed Concrete Institute 200 West Adams Street, Suite 2100 Chicago, IL 60606-6938
+
+<table>Standard reference numberTitleReferenced in code Section numberMNL 124—11Design for Fire Resistance of Precast Prestressed Concrete722.2.3.1, 722.2.3.1MNL 128—01Recommended Practice for Glass Fiber Reinforced Concrete Panels1903.3</table>
+
+PTI Post-Tensioning Institute 38800 Country Club Drive Farmington Hills, MI 48331
+
+<table>Standard reference numberTitleReferenced in code Section number</table>
+
+===== Page 2038 =====
+<table>PTIDC—10.5-12Standard Requirements for Design and Analysis of Shallow Concrete Foundations on Expansive Soils1808.6.2</table>
+
+RMI
+
+Rack Manufacturers Institute 8720 Red Oak Boulevard, Suite 201
+Charlotte, NC 28217
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI/MH16.1—12Specification for Design, Testing and Utilization of Industrial Steel Storage Racks2209.1</table>
+
+SBCA
+
+Structural Building Components Association 6300 Enterprise Lane Madison, WI 53719
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI/FS 100-12Standard Requirements for Wind Pressure Resistance of Foam Plastic Insulating Sheathing Used in Exterior Wall Covering Assemblies2603.10 2603.10</table>
+
+SDI
+
+Steel Deck Institute P. O. Box 426 Glenshaw, PA 15116
+
+<table>Standard reference numberTitleReferenced in code Section numberANSI/NC1.0—10Standard for Non-composite Steel Floor Deck2210.1.1.1 2210.1.1.1ANSI/RD1.0—10Standard for Steel Roof Deck2210.1.1.2 2210.1.1.2SDI-C—2011Standard for Composite Steel Floor Deck Slabs2210.1.1.3 2210.1.1.3SDI-QA/QC—2011Standard for Quality Control and Quality Assurance for Installation of Steel Deck1705.2.2 1705.2.2</table>
+
+SJI
+
+Steel Joist Institute 1173B London Links Drive Forest, VA 24551
+
+<table>Standard reference numberTitleReferenced in code Section numberCJ—10Standard Specification for Composite Steel Joists, CJ-series1604.3.3, 2203.2, 2207.1JG—10Standard Specification for Joist Girders1604.3.3, 2203.2, 2207.1K—10Standard Specification for Open Web Steel Joists, K-series1604.3.3, 2203.2, 2207.1LH/DLH—10Standard Specification for Long span Steel Joists, LH-series and Deep Long span Steel Joists, DLH-series1604.3.3, 2203.2, 2207.1</table>
+
+SPRI
+
+Single-Ply Roofing Institute 411 Waverly Oaks Road, Suite 331B Waltham, MA 02452
+
+<table>Standard reference numberTitleReferenced in code Section number</table>
+
+===== Page 2039 =====
+<table>ANSI/SPRI/ FM4435-ES-1—11Wind Design Standard for Edge Systems Used with Low Slope Roofing Systems1504.6 1504.5ANSI/SPRI RP-4—13Wind Design Guide for Ballasted Single-ply Roofing Systems1504.5 1504.4ANSI/SPRI VF1—10External Fire Design Standard for Vegetative Roofs1505.10</table>
+
+Telecommunications Industry Association 1320 N. Courthouse Road Arlington, VA 22201-3834
+
+<table>Standard reference numberTitleReferenced in code Section number222-G—05Structural Standards for Antenna Supporting Structures and Antennas, including—Addendum 1, 222-G-1, Dated 2007, Addendum 2, 222-G-2 Dated 2009 Addendum 3, 222-3 dated 2013 and Addendum 4, 222-G-4 dated 20141609.1.1, 3108.1, 3108.2</table>
+
+TMS The Masonry Society 105 South Sunset Street, Suite Q Longmont, CO 80501
+
+<table>Standard reference numberTitleReferenced in code Section number216—2013Standard Method for Determining Fire Resistance of Concrete and Masonry Construction AssembliesTable 721.1(2), 722.1302—2012Standard Method for Determining the Sound Transmission Class Rating for Masonry Walls1206.2.1 1207.2.1402—2013Building Code for Masonry Structures1405.6, 1405.6.1, 1405.6.2, 1405.10, 1604.3.4, 1705.4, 1705.4.1, 1807.1.6.3, 1807.1.6.3.2, 1808.9, 2101.2, 2106.1, 2107.1, 2107.2, 2107.3, 2107.4, 2108.1, 2108.2, 2108.3, 2109.1, 2109.1.1, 2109.2, 2109.2.1, 2109.3, 2110.1403—2013Direct Design Handbook for Masonry Structures2101.2602—2013Specification for Masonry Structures1405.6.1, 1705.4, 1807.1.6.3, 2103.1, 2103.2.1, 2103.3, 2103.4, 2104.1, 2105.1</table>
+
+TPI
+
+Truss Plate Institute 218 N. Lee Street, Suite 312 Alexandria, VA 22314
+
+<table>Standard reference numberTitleReferenced in code Section number</table>
+
+===== Page 2040 =====
+<table>TPI 1—2014National Design Standard for Metal-plate-connected Wood Truss Construction2303.4.6, 2306.1<td colspan="3">UL LLC 333 Pfingsten Road Northbrook, IL 60062-2096</table>
+
+UL LLC 333 Pfingsten Road Northbrook, IL 60062-2096
+
+<table>Standard reference numberTitleReferenced in code Section number9—2009Fire Tests of Window Assemblies715.5.2, 716.3.2, 716.4, 716.5.3.2, 716.6, 716.6.1, 716.6.2, 716.6.8.110A—2009Tin Clad Fire Doors716.510B—2008Fire Tests of Door Assemblies—with Revisions through April 2009716.5.210C—2009Positive Pressure Fire Tests of Door Assemblies716.5.1, 716.5.3, 1010.1.10.114B—2008Sliding Hardware for Standard Horizontally mounted Tin Clad Fire Doors—with Revisions Through May 3, 2013716.514C—06Swinging Hardware for Standard Tin Clad Fire Doors Mounted Singly and in Pairs—with Revisions through May 2013716.555A—04Materials for Built-Up Roof Coverings1507.10.2103—2010Factory-built Chimneys, for Residential Type and Building Heating Appliances—with Revisions through July 2012718.2.5.1127—2011Factory-built Fireplaces718.2.5.1, 2111.11199E—04Outline of Investigation for Fire Testing of Sprinklers and Water Spray Nozzles for Protection of Deep Fat Fryers904.11.4.1217—06Single and Multiple Station Smoke Alarms—with Revisions through April 2012907.2.11263—11Standard for Fire Tests of Building Construction and Materials703.2, 703.2.1, 703.2.3, 703.2.3, 703.3, 703.4, 703.6, 704.12, 705.7, 705.8.5, 707.7, 711.3.2, 714.3.1, 714.4.1.1, 715.1, 716.2, Table 716.3, 716.5.6, 716.5.8.1.1, 716.7.1, 717.5.2, 717.5.3, 717.6.2.1, Table 721.1(1), 1407.10.2, 2103.1, 2603.4, 2603.5.1268—09Smoke Detectors for Fire Alarm Systems407.8, 907.2.6.2, 907.2.11.7294—1999Access Control System Units—with Revisions through September 20101010.1.9.6, 1010.1.9.8, 1010.1.9.9</table>
+
+===== Page 2041 =====
+<table>300—05(R2010)Fire Testing of Fire Extinguishing Systems for Protection of Commercial Cooking Equipment—with Revisions through July 16, 2010904.11300A—06Outline of Investigation for Extinguishing System Units for Residential Range Top Cooking Surfaces407.2.6, 904.13305—2012Panic Hardware1010.1.10.1325—02Door, Drapery, Gate, Louver and Window Operations and Systems—with Revisions through June 2013406.3.6, 3110.4555—2006Fire Dampers—with Revisions through May 2012717.3555C—2006Ceiling Dampers—with Revisions through May 2010717.3555S—99Smoke Dampers—with Revisions through May 2012717.3, 717.3.1580—2006Test for Uplift Resistance of Roof Assemblies—with Revisions through July 20091504.3.1, 1504.3.2641—2010Type L Low-temperature Venting Systems—with Revisions through May 20132113.11.1.4710B—2011Recirculating Systems904.11723—2008Standard for Test for Surface Burning Characteristics of Building Materials—with Revisions through September 2010202, 402.6.4.4, 406.7.2, 703.5.2, 720.1, 720.4, 803.1.1, 803.1.4, 803.10, 803.11, 806.7, 1404.12.1, 1407.9, 1407.10.1, 1409.9, 1409.10.1, 1510.6.2, 1510.6.3, 2303.2, 2603.3, 2603.4.1.13, 2606.3.5.4, 2603.7.1, 2603.7.2790—04Standard Test Methods for Fire Tests of Roof Coverings—with Revisions through October 20081505.1, 2603.6, 2610.2, 2610.3793—08Standards for Automatically Operated Roof Vents for Smoke and Heat—with Revisions through September 2011406.8.5.1.1, 910.3.1864—03Standards for Control Units and Accessories for Fire Alarm Systems—with Revisions through August 2012421.6.2, 909.12924—06Standard for Safety Emergency Lighting and Power Equipment—with Revisions through February 20111013.51040—96Fire Test of Insulated Wall Construction—with Revisions through October 20121407.10.3, 1409.10.3, 2603.4, 2603.9</table>
+
+===== Page 2042 =====
+<table>1256—02Fire Test of Roof Deck Construction—with Revisions through January 20071508.1, 2603.3, 2603.4.1.51479—03Fire Tests of Through-penetration Firestops—with Revisions through October 2012202, 714.3.1.2, 714.3.2, 714.4.1.2, 714.4.41482—2011Solid-Fuel-type Room Heaters2112.2, 2112.51703—02Flat-Plate Photovoltaic Modules and Panels—with Revisions through November 20141505.9, 1507.17.1, 1507.17.6, 1509.7.41715—97Fire Test of Interior Finish Material—with Revisions through January 20131407.10.3, 1409.10.2, 1409.10.3, 2603.4, 2603.9, 2614.41777—2007Chimney Liners—with Revisions through July 20092113.11.1, 2113.191784—01Air Leakage Tests of Door Assemblies—with Revisions through July 2009710.5.2.2, 710.5.2.2.1, 716.5.3.1, 716.5.7.1, 716.5.7.3, 3006.3, 3007.6.3, 3008.6.31897—12Uplift Tests for Roof Covering Systems1504.4.1 1504.3.11975—06Fire Test of Foamed Plastics Used for Decorative Purposes402.6.2, 402.6.4.5, 424.21994—04Luminous Egress Path Marking Systems—with Revisions through November 2010411.7, 1025.2.1, 1025.2.3, 1025.2.4, 1025.42017—2008Standards for General-purpose Signaling Devices and Systems—with Revisions through May 2011406.8.5.1.12034—2008Standard for Single- and Multiple-Station Carbon Monoxide Alarm—with Revisions through February 2009915.4.2, 915.4.32075—2013Standard for Gas and Vapor Detectors and Sensors421.6.2, 406.8.5.1.1, 915.5.1, 915.5.32079—04Tests for Fire Resistance of Building Joint Systems—with Revisions through December 2012202, 715.3, 715.62196—2001Tests for Fire Resistive Cables—with Revisions through March 2012913.2.2, 2702.32200—2012Stationary Engine Generator Assemblies—with Revisions through June 20132702.1.1 2702.1.1</table>
+
+===== Page 2043 =====
+<table>ULC<td colspan="3">Underwriters Laboratories of Canada 7 Underwriters Road Toronto, Ontario, Canada M1R3B4Standard reference numberTitleReferenced in code Section numberCAN/ULC S 102.2—2010Standard Method of Test for Surface Burning Characteristics of Flooring, Floor Coverings and Miscellaneous Materials and Assemblies—with 2000 Revisions720.4 720.4USC<td colspan="3">United States Code c/o Superintendent of Documents U.S. Government Printing Office 732 North Capitol Street NW Washington, DC 20401Standard reference numberTitleReferenced in code Section number18 USC Part 1, Ch.40Importation, Manufacture, Distribution and Storage of Explosive Materials202WCLIB<td colspan="3">West Coast Lumber Inspection Bureau P. O. Box 23145 Portland, OR 97281Standard reference numberTitleReferenced in code Section numberAITC Technical Note 7—96Calculation of Fire Resistance of Glued Laminated Timbers722.6.3.3AITC 104—03Typical Construction Details2306.1AITC 110—01Standard Appearance Grades for Structural Glued Laminated Timber2306.1AITC 113—10Standard for Dimensions of Structural Glued Laminated Timber2306.1AITC 117—10Standard Specifications for Structural Glued Laminated Timber of Softwood Species2306.1AITC 119—96Standard Specifications for Structural Glued Laminated Timber of Hardwood Species2306.1AITC 200—09Manufacturing Quality Control Systems Manual for Structural Glued Laminated Timber2306.1WDMA<td colspan="3">Window and Door Manufacturers Association 2025 M Street, NW Suite 800 Washington, DC 20036-3309Standard reference numberTitleReferenced in code Section numberAAMA/WDMA/CSA 101/I.S.2/A440—11Specifications for Windows, Doors and Unit Skylights1709.5.1, 2405.5WRI<td colspan="3">Wire Reinforcement Institute, Inc. 942 Main Street, Suite 300 Hartford, CT 06103Standard reference numberTitleReferenced in code Section numberWRI/CRSI—81Design of Slab-on-ground Foundations—with 1996 Update1808.6.2</table>
+
+===== Page 2044 =====
+This page left intentionally blank
+

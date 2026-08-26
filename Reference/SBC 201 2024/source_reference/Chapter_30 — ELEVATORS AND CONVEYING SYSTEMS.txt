@@ -1,0 +1,909 @@
+===== Page 1904 =====
+# CHAPTER 30—ELEVATORS AND CONVEYING SYSTEMS
+
+## General Comments
+
+Chapter 30 regulates vertical and horizontal transportation and material-handling systems installed in buildings. The installation must comply with the requirements in this chapter and the standards referenced herein.
+
+Section 3001.1 contains the scope of the chapter.
+
+Section 3001.2 addresses emergency elevator communication systems for the deaf, hard of hearing and speech impaired.
+
+Section 3001.3 identifies the standards to which elevators and conveying systems must comply. Section 3001.4 contains requirements for accessible elevators.
+
+Sections 3002.1 through 3002.7 contain requirements for elevator hoistway enclosures such as emergency doors in blind hoistways.
+
+Sections 3003.1 through 3003.3 include requirements for emergency operation of elevators.
+
+Sections 3004.1 through 3004.4 address requirements for conveying systems and personnel and material hoists.
+
+Sections 3005.1 through 3005.6 address machine room requirements.
+
+Sections 3006.1 through 3006.4 address the need and requirements for hoistway opening protection.
+
+Sections 3007.1 through 3007.9 provide the requirements for fire service access elevators. Sections 3008.1 through 3008.10 provide the requirements for occupant evacuation elevators.
+
+## Purpose
+
+The purpose of this chapter is to regulate the installation, testing, inspection, maintenance, alteration and repair of vertical and horizontal transportation and material-handling systems installed in buildings. Compliance with the requirements in this chapter provides for life safety and promotes public welfare. The chapter is also intended to be used as a minimum safety standard by architects, engineers, insurance companies, manufacturers and contractors and as standard safety practice for owners and managers of buildings where equipment covered by this chapter is installed and used.
+
+The chapter provides several elements that protect occupants and assist emergency responders during fires, including Section 3003, Emergency Operations; Section 3006, Elevator Lobbies and Hoistway Opening Protection; Section 3007, Fire Service Access Elevators; and Section 3008, Occupant Evacuation Elevators.
+
+The provisions found in Chapter 30 of the code and associated standards are specifically coordinated to work together.
+
+## SECTION 3001 GENERAL
+
+3001.1 Scope. This chapter governs the design, construction, installation, alteration and repair of elevators and conveying systems and their components.
+
+This chapter provides requirements for building features associated with elevators and hoistway enclosures such as elevator lobbies and hoistway opening protection requirements. The actual design, construction and installation requirements of the elevators and conveying systems are addressed by the referenced standards in Section 3001.3. Therefore, the focus of this chapter is only on the building elements associated with elevators and conveying systems. The equipment itself is addressed by the standards.
+
+3001.2 Emergency elevator communication systems for the deaf, hard of hearing and speech impaired. An emergency two-way communication system shall be provided. The system shall provide visible text and audible modes that meet all of the following requirements:
+
+1 When operating in each mode, include a live interactive system that allows back and forth conversation between the elevator occupants and emergency personnel.
+
+2 Is operational when the elevator is operational.
+
+3 Allows elevator occupants to select the text-based or audible mode depending on their communication needs to interact with emergency personnel.
+
+This section clarifies what type of features and assistance are required for an emergency, text-based system (consisting of keyboard, visual indicators and buttons) to be used by entrapped deaf, hard of hearing and speech-impaired passengers. The terms “visual text and audible modes” and “live interactive system” are strongly intended to address the need for totally accessible communication in elevators between emergency authorities and individuals who are deaf, hard of hearing or speech impaired. Current technologies should
+
+===== Page 1905 =====
+be able to be readily adapted to meet these requirements.
+
+3001.3 Referenced standards. Except as otherwise provided for in this code, the design, construction, installation, alteration, repair and maintenance of elevators and conveying systems and their components shall conform to the applicable standard specified in Table 3001.3 and ASCE 24 for construction in flood hazard areas.
+
+This section establishes the enforceability of the standards cited in Table 3001.3, and ASCE 24, and that they apply wherever the provisions of this chapter do not otherwise indicate a requirement. Therefore, even if a standard is not referenced anywhere else in this chapter it will be applicable to such systems and equipment. For example, automotive lifts are addressed by the reference to ALI ALC/TV, but no further requirements are found in Chapter 30. This standard is fully applicable to such automotive lifts. Table 3001.3 contains specific referenced standards and indicates the type of elevator and conveying system components and equipment to which those standards are applicable. Reference is also made to ASCE 24 for construction in flood hazard areas.
+
+Elevators installed in buildings and structures located in designated flood hazard areas may be subject to additional flood-resistant design and construction requirements. The application of these additional requirements depends on whether the elevator or components of the elevator equipment are to be located below the design flood elevation. Those not familiar with the subtle differences that make a standard applicable to a specific equipment design should review both the standard's scope and definitions. ASCE 24 applies to the construction of elevators and conveying systems located in flood hazard areas. Section 7.5 of ASCE 24-05 and FEMA FIA-TB #4, Elevator Installation for Buildings Located in Special Flood Hazard Areas, provide extensive guidance on the proper method of installing elevators in buildings and structures located in designated flood hazard areas. In addition to raising elevator service equipment above the design flood elevation, a concern would be determining if the fire fighters' emergency operation requirements of Section 3003 do not require the elevator car to descend automatically to a level below the design flood elevation during conditions of flooding. The safety of occupants may be jeopardized and the elevator car may be damaged if it descends below the design flood elevation during flooding.
+
+Referenced standards have a long history of providing minimum safety requirements for the equipment covered by their scope. As an example, ASME A17.1 was first published in 1921 and 18 subsequent editions have been published.
+
+Interpretations of the referenced standards can be obtained through the committee responsible for developing and maintaining the standard. The ASME A17.1/CSA B44, ASME A90.1 and ASME B20.1 standards committees have also published interpretations and include copies of all recent interpretations for purchasers of these documents. The publisher of ASME A17.1/CSA B44 also has available a handbook that explains and augments the requirements. While every effort has been made to eliminate conflicts between the code and the referenced standards, such conflicts may occasionally occur. Where differences occur, the requirements of the code take precedence (see Section 102.4).
+
+In terms of the maintenance of elevators, it should be noted that ASME A17.1/CSA B44 contains Appendix N, which specifies frequency of maintenance. This appendix must be specifically adopted by a jurisdiction to become effective.
+
+3001.4 Accessibility. Passenger elevators required to be accessible or to serve as part of an accessible means of egress shall comply with Sections 1009 and 1110.8.
+
+Section 1110.8 requires elevators that form part of an accessible route to be accessible. Section 1009 provides that elevators may be required to be part of an accessible means of egress from a building. The ICC A117.1 standard addresses the accessibility requirements for elevators, including elevator location and access; operation and leveling; door operation; door size; door protective and reopening devices; door delay (dwell time) from hall and car calls; car inside dimensions, controls and position indicators and signals; telephone or intercom systems; floor coverings; minimum illumination; hall buttons; hall lanterns; door jamb markings; and clearance between sills. This standard provides acceptable and appropriate service for all users and makes multistory buildings accessible and usable by people with physical disabilities. The standard provides requirements for destination-oriented elevators, limited use/limited application elevators (LU/LA), private residential elevators as well as standard passenger elevators. Each type can be used to provide an accessible route. The choice of which type of elevator may be used depends on the limits of their use established in ASME A17.1/CSA B44. For example, private residence elevators may only be used to or in a private dwelling.
+
+===== Page 1906 =====
+3001.5 Change in use. A change in use of an elevator from freight to passenger, passenger to freight, or from one freight class to another freight class shall comply with Section 8.7 of ASME A17.1/CSA B44.
+
+This section is intended to require enforcement of Section 8.7 of ASME A17.1/CSA B44 whenever the elevator changes in use or freight class. The application of these requirements results in an elevator that will operate safely and comply with requirements that are unique to and necessary for the new use or freight class.
+
+## SECTION 3002 HOISTWAY ENCLOSURES
+
+3002.1 Hoistway enclosure protection. Elevator, dumbwaiter and other hoistway enclosures shall be shaft enclosures complying with sections 712 and 713.
+
+Reference is made to Section 712 for general vertical opening requirements and Section 713 for the required fire resistance and construction of hoistway enclosures.
+
+Section 712, in addition to referencing Section 713, contains requirements for vertical openings including: openings in dwelling units, parking garages and mezzanines; escalator and story openings; atrium and masonry chimneys; penetrations and joints in vertical openings; openings for stairways and ramps; fire access doors; and skylight openings in rated assemblies.
+
+Section 713 contains fire-resistance rating requirements, as well as construction requirements for shafts, which are typically the methods used to satisfy the requirements for a hoistway enclosure. It should be noted that this section of the code does not require hoistway enclosures for all elevators and dumbwaiters. See Section 2.1.1.3 of ASME A17.1 for the protection requirements for partially enclosed hoistways.
+
+3002.1.1 Opening protectives. Openings in hoistway enclosures shall be protected as required in Chapter 7.
+
+Exception: The elevator car doors and the associated hoistway enclosure doors at the floor level designated for recall in accordance with Section 3003.2 shall be permitted to remain open during Phase I Emergency Recall Operation.
+
+Reference is made to Chapter 7 for protection of openings in hoistway enclosures. Chapter 7 contains minimum hourly rating requirements for openings based on the fire-resistance rating required for the enclosure. For example, if a hoistway enclosure was required to be 2-hour fire-resistance rated, a 1.5-hour fire door assembly would be required in accordance with Table 716.1(2). It should be noted that additional requirements are found in Sections 3006, 3007 and 3008 for elevator lobbies and protection of hoistway openings.
+
+Where an elevator opens into a corridor that is required to be of fire-resistance-rated construction, the opening between the elevator shaft and the corridor must be protected to meet not only the shaft's fire protection rating but also the additional smoke and draft protection requirements necessary to limit the spread of smoke into the corridor. This additional smoke and draft control requirement is found in Section 716.2.2.1.1. The elevator hoistway shaft doors opening into such rated corridors must either be separated in accordance with Section 3006.3 or provide a shaft door meeting both the smoke and draft protection requirements for corridor doors in Section 716.2.2.1.1 and the appropriate fire protection rating of Table 716.1(2) for the shaft. It should be noted that Section 3006.2 requires protection of hoistway openings in buildings once three or more stories are connected by a hoistway. This is not the case if the building is a low- to mid-rise sprinkled building, but the corridor ratings may no longer be required in sprinkled buildings. Taller sprinkled buildings (see Section 3006.2) would require this protection regardless of whether rated corridors are provided. Therefore, the applicability of this requirement is likely limited as the subject is primarily addressed by the elevator lobby and hoistway opening protection requirements found in Section 3006 for most buildings.
+
+While many elevator hoistway shaft doors are tested and labeled for the 1-hour or 1.5-hour fire resistance rating (Section 716.1.2), very few, if any, of the doors typically sold in the U.S. will also meet the smoke and draft requirements (Section 716.2.2.1.1) that would allow them to open directly into a fire resistance-rated corridor. Section 3006.3 provides several methods to protect these hoistway openings.
+
+3002.1.2 Hardware. Hardware on opening protectives shall be of an approved type installed as tested, except that approved interlocks, mechanical locks and electric contacts, door and gate electric contacts and door-operating mechanisms shall be exempt from the fire test requirements.
+
+In order to verify that hardware used with elevator doors will not affect their fire-resistance rating, door hardware not specifically exempt by this section is required to be part of the door assembly during the fire test. The devices that are exempt from the fire test have minimum fire and physical
+
+===== Page 1907 =====
+requirements contained in ASME A17.1/CSA B44. Passenger elevator door hardware consists of a header, track hangers, pendant bolts, floor sill with guides, sill support plates, sill brackets, retaining angles and closer assemblies. Each component may bear a separate label, or the assembly may have one label to cover all components. The label should clearly identify the assembly or component to which it applies. Typically, labels are viewed from inside the hoistway.
+
+3002.2 Number of elevator cars in a hoistway. Where four or more elevator cars serve all or the same portion of a building, the elevators shall be located in not fewer than two separate hoistways. Not more than four elevator cars shall be located in any single hoistway enclosure.
+
+The number of elevators provided in a building is not mandated by the code, but is a design decision. The code does limit the maximum number of elevator cars in a single hoistway to four. This limits the potential of a single hoistway fire incident causing the removal of all elevators from service, particularly in larger structures, such as high-rise buildings.
+
+3002.3 Emergency signs. An approved pictorial sign of a standardized design shall be posted adjacent to each elevator call station on all floors instructing occupants to use the exit stairways and not to use the elevators in case of fire. The sign shall read: IN CASE OF FIRE, ELEVATORS ARE OUT OF SERVICE. USE EXIT STAIRS.
+
+Exceptions:
+
+1. The emergency sign shall not be required for elevators that are part of an accessible means of egress complying with Section 1009.4.
+
+2. The emergency sign shall not be required for elevators that are used for occupant self-evacuation in accordance with Section 3008.
+
+Elevators may be unsafe during a fire because:
+
+Persons may push a corridor button and then wait for an elevator that may never respond. Note that the button will not illuminate if the elevator is in fire fighter emergency operation. Valuable time in which to leave the building safely is lost.
+
+Elevators cannot start until the car and hoistway doors are closed. A panic could lead to overcrowding of an elevator and blockage of the doors, thus preventing closing.
+
+Power failure during a fire can happen at any time and thus lead to entrapment.
+Elevators respond to car and corridor calls. One of these calls may be at the fire floor.
+
+Dangerous delivery of the elevator to the fire floor can be caused by:
+
+An elevator passenger pressing the car button for the fire floor.
+
+• One or both of the corridor call buttons being pushed on the fire floor.
+
+- Heat melting or deforming the corridor push button or its wiring at the fire floor.
+
+It should be noted that if the conditions on the fire floor or any floor have become dangerous within the lobby, the elevator will automatically recall to the lobby as the smoke detectors in the lobby would have activated.
+
+In a fire emergency, an occupant will normally try to exit the building by the route he or she entered (elevators). The pictorial sign will indicate that the occupants not use the elevators, but rather use the exit stairways to exit the building.
+
+There are two exceptions to this requirement. Exception 1 recognizes that elevators may be used as part of the accessible means of egress in accordance with Section 1009.4. Exception 2 recognizes that passenger elevators may be used for occupant self-evacuation during fire emergencies in accordance with Section 3008. In either case, the sign required by this section would not be appropriate since it would be communicating a contradictory message. Section 1009.4 dictates specific methods to permit the use of elevators as an element of an accessible means of egress.
+
+Section 1009.4 does not anticipate the unassisted use of an elevator by a person with disabilities but instead anticipates assisted rescue during Phase II operations. At that point, the fire department has control of the elevator and will provide the needed assistance. Section 3008, specifically, permits the use of an elevator by the general public for unassisted evacuation prior to a Phase I recall. Elevators serving floors or elevators served by different lobbies where smoke detection has not activated the Phase I recall will continue to operate normally and are permitted to be used by the public.
+
+See Commentary Figure 3002.3 for an example of an emergency pictorial sign. Note that where occupant evacuation elevators in accordance with Section 3008 are used, ASME A17.1/CSA B44 Section 2.27.11.2 notes that this sign is not to be installed. Instead, a variable message sign (Defined in A117.1) is required.
+
+3002.4 Elevator car to accommodate ambulance stretcher. Where elevators are provided in
+
+===== Page 1908 =====
+buildings four or more stories above, or four or more stories below, grade plane, not fewer than one elevator shall be provided for fire department emergency access to all floors. The elevator car shall be of such a size and arrangement to accommodate an ambulance stretcher 600 mm by 2100 mm with not less than 125 mm radius corners, in the horizontal, open position and shall be identified by the international symbol for emergency medical services (star of life). The symbol shall be not less than 75 mm in height and shall be placed inside on both sides of the hoistway door frame.
+
+A key aspect of the applicability of this section is limited to situations where elevators are already being provided. This section does not require elevators to be installed but simply specifies size requirements where elevators are provided. This particular section is intended to aid rescue efforts in taller buildings (greater than three stories above or below grade plane). One of the provided elevators must be sized to accommodate a typical ambulance stretcher and emergency personnel. The elevator meeting this requirement does not need to be the same elevator throughout the entire building, but each floor must be served by such an elevator. This becomes more of an issue in very tall buildings that generally do not have any elevators that extend the entire height of the building, or that serve all floors. Often, there are transfer floors to connect different banks of elevators. Additionally, to aid the emergency personnel in identifying which elevator is sized to accommodate a stretcher, the international symbol (star of life) is required to be located on each side of the hoistway door frame.
+
+The size of the ambulance stretcher is based on the typical size of a stretcher commonly used by general directorate of fire department in The Kingdom of Saudi Arabia. It is necessary to have the patient in a horizontal position on the elevator to avoid further injury to the patient and to facilitate many of the medical tasks being performed by the paramedics while on the elevator.
+
+This section also recognizes that stretchers do not have right-angle corners but are rounded and thus an allowance for the recognition of 125 mm radius corners is provided. This gives more flexibility in elevator car sizing. For example, 1600 kg cars with a 1050 mm side slide door or an 1800 kg car with a center slide door can comply with this requirement. Commentary Figure 3002.4(1) and Figure 3002.4(2) demonstrate the application of the radius corners when determining elevator car size.
+It is also important to note that fire service access elevators (FSAE) required in Section 403.6.1 will also be required to comply with this section. The FSAE are those being used by the fire department and should be able to accommodate a stretcher.
+
+3002.5 Emergency doors. Where an elevator is installed in a single blind hoistway or on the outside of a building, there shall be installed in the blind portion of the hoistway or blank face of the building, an emergency door in accordance with ASME A17.1/CSA B44.
+
+To allow emergency personnel reasonable access to a single blind elevator hoistway, emergency doors are required to be provided. A single blind hoistway is a hoistway for one elevator without openings. For example, an express elevator that opens at the lobby and serves only floors 10 through 20 is a blind hoistway from floors two through nine. Therefore, emergency doors are required in accordance with ASME A17.1/CSA B44, which contains requirements for opening sizes, opening access, door operation and door location. This requirement does not apply to blind hoistways that have multiple elevators.
+
+3002.6 Prohibited doors. Doors, other than hoistway doors and the elevator car door, shall be prohibited at the point of access to an elevator car unless such doors are readily openable from the car side without a key, tool, special knowledge or effort.
+
+Where a door is installed in front of the hoistway door to meet the hoistway opening protection requirements in Section 3006.3, Item 3, or for security purposes this section requires that occupants be able to open the door. Inappropriate installation of these doors could lead to occupants becoming trapped in the area between the elevator doors and the additional set of doors. See Commentary Figure 3002.6 for a picture of an additional door located at the hoistway opening.
+
+3002.7 Common enclosure with stairway. Elevators shall not be in a common shaft enclosure with a stairway.
+
+Exception: Elevators within open parking garages need not be separated from stairway enclosures.
+
+To avoid the potential of a fire spreading from the elevator or elevator hoistway and affecting an exit stairway, separate protective enclosures are required for each. There is an exception to this section that acknowledges that a separate shaft enclosure is not required for elevators in an open parking garage. This correlates with Section 712.1.10 and Exception 3 of Section 1006.3.1. More specifically,
+
+===== Page 1909 =====
+Section 712.1.10.2 allows elevators in open parking garages without a shaft enclosure. Exception 3 of Section 1006.3.1 allows exit stairways in open parking structures to not be enclosed within a shaft enclosure. Thus, elevators need not be separated from exit stairways in open parking structures as the stairways and elevators do not require a shaft enclosure.
+
+3002.8 Glass in elevator enclosures. Glass in elevator enclosures shall comply with Section 2409.2.
+
+The purpose of this section is simply to remind the code user that Section 2409.2 contains provisions regarding glass in elevator enclosures. Please see the commentary to Section 2409.2. It should be noted that other provisions of the code may also be applicable to the glass, such as Section 2406, where human impact loads are possible. Note that Section 2409.3 deals with vision panels in elevator hoistway doors and Section 2409.4 deals with glass in elevator cars.
+
+3002.9 Plumbing and mechanical systems. Plumbing and mechanical systems shall not be located in an elevator hoistway enclosure.
+
+Exception: Floor drains, sumps and sump pumps shall be permitted at the base of the hoistway enclosure provided that they are indirectly connected to the plumbing system.
+
+If a pipe or duct that conveys gases, vapors or liquids and passes through a hoistway were to fail, operation of the elevator equipment could be affected in such a manner as to make it unsafe. Water could cause the malfunctioning of hoistway door interlocks, thereby allowing an elevator to leave a floor with the hoistway door open. A wet brake would also cause an extremely hazardous condition. The exception allows for a floor drain, sump or sump pump to be installed at the base of the shaft. However, the discharge is required to indirectly connect to the plumbing system and not be connected directly to any drain. This requirement is intended to eliminate the possibility of sewer gases, which could create an explosion hazard, entering into the hoistway.
+
+This section is not intended to prohibit mechanical systems associated with hoistway pressurization or cooling or elevator equipment from being located within the hoistway enclosure.
+
+## SECTION 3003 EMERGENCY OPERATIONS
+
+3003.1 Standby power. In buildings and structures where standby power is required or furnished to operate an elevator, the operation shall be in accordance with Sections 3003.1.1 through 3003.1.4.
+
+The purpose of this section is not to require standby power but to provide the specifics as to how standby power must be provided for elevators where required by other sections of the code. The applicable sections that require standby power include:
+
+• High-rise buildings, Section 403.4.8.2.
+
+• Accessible egress via elevators, Section 1009.4.
+
+• Fire service access elevators, Section 3007.8
+
+• Occupant evacuation elevators, Section 3008.8.
+
+Generally, standby power provides both a means to bring all elevators to the designated level and operate elevators during a loss of power.
+
+Once standby power is provided, ASME A17.1/CSA B44 also has specific requirements for standby power operation of elevators, such as absorption of regenerative power (see Section 2.26.10, ASME A17.1/CSA B44) and selection of elevator(s) that are provided standby power (see Section 2.27.2, ASME A17.1/CSA B44).
+
+Note that the requirement of standby power for fire service access elevators and occupant evacuation elevators may be considered more specific and restrictive. In other words, for occupant evacuation, all elevators technically need to be available. Section 3003 allows the transfer of power from one elevator to another. This is not appropriate for occupant evacuation. Section 3008 requires all elevators used for occupant evacuation to be available and on standby power. Approaches using fewer elevators on standby power for egress or a reduced capacity or duration of standby power availability would be considered an alternative that would need to be addressed through the application of Section 104.11. Traditionally, evacuation in high-rise buildings involves the fire floor and two above and two below.
+
+3003.1.1 Manual transfer. Standby power shall be manually transferable to all elevators in each bank.
+
+To allow emergency personnel to provide standby power to any elevator(s) at any time, this section requires a manual means of transferring standby power to all elevators in each bank. This does not mean that all elevators need to be running on standby power at the same time but that all elevators are capable of being switched to standby power individually. This manual transfer system could
+
+===== Page 1910 =====
+assist emergency personnel in evacuating building occupants (see also the requirements in ASME A17.1/CSA B44, Section 2.27.2).
+
+3003.1.2 One elevator. Where only one elevator is installed, the elevator shall automatically transfer to standby power within 60 seconds after failure of normal power.
+
+In the case where a building is equipped only with one elevator, a standby power system must automatically restore power to the elevator within 60 seconds after failure of the primary power supply.
+
+3003.1.3 Two or more elevators. Where two or more elevators are controlled by a common operating system, all elevators shall automatically transfer to standby power within 60 seconds after failure of normal power where the standby power source is of sufficient capacity to operate all elevators at the same time. Where the standby power source is not of sufficient capacity to operate all elevators at the same time, all elevators shall transfer to standby power in sequence, return to the designated landing and disconnect from the standby power source. After all elevators have been returned to the designated level, not less than one elevator shall remain operable from the standby power source.
+
+Where a building is equipped with two or more elevators, this section provides alternative methods of standby power operation. Where the standby power system is sized to accommodate all of the elevators, then all are required to automatically switch to standby power 60 seconds after failure of the primary power supply. If a standby power system is sized smaller and is only capable of providing standby power to the elevators in sequence, it must return all elevators to their designated landings by standby power and at least one must remain operable through standby power. This section is not requiring a building to place all elevators on standby power simultaneously. This is only required where the standby power is designed with sufficient capacity to do so. See also the requirements in ASME A17.1/CSA B44, Section 2.27.2 (see also the commentary to Sections 3007.8 and 3008.8).
+
+3003.1.4 Venting. Where standby power is connected to elevators, the machine room ventilation or air conditioning shall be connected to the standby power source.
+
+To allow elevator equipment in the machine room to operate normally, the venting system serving the machine room must be connected to the standby power system that serves the elevators.
+
+3003.2 Fire fighters' emergency operation. Elevators shall be provided with Phase I emergency recall operation and Phase II emergency in-car operation in accordance with ASME A17.1/CSA B44.
+
+Two key fire fighter features are required for essentially all elevators. There are two objectives of these fire fighter features required by ASME A17.1/CSA B44:
+
+Phase I emergency recall operation encompasses either an elevator being automatically recalled to the designated level due to detection of smoke in the lobby, hoistway or machine room, or being manually recalled and removed from normal service by fire fighters.
+
+- Phase II emergency in-car operation is the capability of the elevator to be controlled by fire fighters during a fire or other emergency.
+
+Such features are not required by ASME A17.1/CSA B44 in certain cases where the hoistway or a portion thereof is not required to be of fire-resistance-rated construction (see Section 2.1.1.1 of the standard), the rise of the elevator does not exceed 2000 mm, and the hoistway does not penetrate a floor.
+
+Additionally, ASME A17.1/CSA B44 exempts LU/LA elevators from requirements for Phase I or II emergency operation. However, if emergency operation features are installed, they are required to be installed in accordance with ASME A17.1/CSA B44.
+
+Elevators are required to have recall capability to reduce the possibility of taking passengers to the fire floor or trapping them during a fire, and to allow the fire fighters to capture the elevators to use them on Phase II for firefighting and rescue operations. Also, Phase II emergency operation allows fire fighters to access the building much faster than depending solely on the stairways. This is especially necessary in high-rise buildings to allow faster access to a fire or other emergencies or to offer aid in rescue or evacuation of injured persons and persons with disabilities.
+
+3003.3 Standardized fire service elevator keys. All elevators shall be equipped to operate with a standardized fire service elevator key in accordance with SBC 801.
+
+When fire departments and other emergency response agencies respond to emergencies, their ability to quickly access the location of the emergency can be the deciding factor of a successful response. Elevators are increasingly being relied on for emergency operations, and their importance has been highlighted by the addition to the code of Section 3007, which requires the installation of fire service access elevators. One of the
+
+===== Page 1911 =====
+difficulties fire service and other emergency response agencies have when accessing facilities and attempting to use elevators is the number of nonstandardized keys that may not be available at the time of response. Even when emergency responders are provided the necessary keys, the correct key may have to be identified from a large collection of keys for any one building. In larger jurisdictions, the sheer number of keys makes possession of the keys unwieldy for the emergency responders. An elevator key is an important tool to fire fighters. The key allows fire fighters to access the interior of the shaft housing of an elevator cabin to initiate rescue in case of a malfunction or the loss of building power. More often, an elevator key is used to capture and control an elevator in emergencies. This section establishes requirements for elevator keys used by the fire service that will only apply to those buildings that have elevators with Phase I or II emergency service or to those buildings equipped with a fire service access elevator. It should be noted that in some jurisdictions the building code and the elevator code are adopted under separate legislation such that one does not take precedence over the other. In these cases the jurisdiction's elevator inspector may be required to enforce the ASME A17.1/CSA B44 requirements for fire fighter keys that are different than those specified in SBC 801.
+
+## SECTION 3004 CONVEYING SYSTEMS
+
+3004.1 General. Escalators, moving walks, conveyors, personnel hoists and material hoists shall comply with the provisions of Sections 3004.2 through 3004.4.
+
+Conveying systems include escalators, moving walks, conveyors and personnel and material hoists. Section 3004 contains requirements specific to these types of conveying systems.
+
+3004.2 Escalators and moving walks. Escalators and moving walks shall be constructed of approved noncombustible and fire-retardant materials. This requirement shall not apply to electrical equipment, wiring, wheels, handrails and the use of 0.9 mm wood veneers on balustrades backed up with noncombustible materials.
+
+The intent of this requirement is to limit fire fuel loading. The presence of large amounts of combustible material would create a large fuel load, and result in an increased migration of fire and smoke from floor to floor, or from space to space.
+
+3004.2.1 Enclosure. Escalator floor openings shall be enclosed with shaft enclosures complying with Section 713.
+
+Escalator floor openings are required to be enclosed in shaft enclosures unless they are constructed in accordance with Section 712.1.3. Section 712.1.3 provides two methods of protection that would allow the floor opening without a shaft enclosure.
+
+The first method is to provide draft curtains and sprinklers. The area of the floor opening is also limited to twice the area of the escalator. This is necessary since the protection method is not adequate for every size opening, especially when the floor area within the perimeter of the opening is used for stock storage, displays and similar uses (the atrium provisions of Section 404 are more appropriate for those use conditions). The use of this method is acceptable for connecting an unlimited number of stories in buildings with occupancies of Groups B and M. In buildings other than Groups B and M, the alternative can only be utilized to connect four stories. This provision acknowledges the current uses of this concept but also limits its use in buildings with higher fuel load and more hazardous occupancy characteristics, such as those occupancies where people sleep (Groups I and R).
+
+The sprinkler draft curtain method is detailed in NFPA 13. The method consists of surrounding the escalator opening, in an otherwise fully sprinkled building, with 450 mm deep draft curtain located on the underside of the floor to which the escalator or moving walk ascends. This serves to delay the heat, smoke and combustion gases (developed in the early stages of a fire) on that floor from entering into the escalator or moving walk well. A row of closely spaced automatic sprinklers located outside of the draftstop also surrounds the opening. When activated by heat, the sprinklers provide a water curtain. A typical installation is shown in Commentary Figure 3004.2.1. In combination with the sprinkler system in the building, this system delays fire spread to allow time for evacuation.
+
+The second method is to provide power-operated automatic fire shutters at all floor openings. The rolling shutter completely closes off the opening between floors in the event of a fire. When the shutter is actuated, power to the escalator or moving walk must be automatically disconnected. To provide protection against entrapment of an occupant, the shutter is required to have a sensitive leading edge such that it stops closing when it comes in contact with an obstacle. Once the obstacle is removed, the shutter continues to close. ASME A17.1/CSA B44 does not have requirements for protection against falls at escalator floor openings; rather, it specifies compliance with the provisions of the applicable building code.
+
+===== Page 1912 =====
+3004.2.2 Escalators. Where provided in below-grade transportation stations, escalators shall have a clear width of not less than 0.8 m.
+
+A minimum 0.8 m width for escalators servicing below-grade transportation systems, such as subways, is based on minimum accessibility requirements to permit carrying a person in a wheelchair up a stopped escalator in an emergency.
+
+3004.3 Conveyors. Conveyors and conveying systems shall comply with ASME B20.1.
+
+ASME B20.1 applies to the design, construction, installation, maintenance, inspection and operation of conveyors and conveying systems in relation to hazards. The conveyors may be of bulk material, package or unit-handling types where the installation is designed for permanent, temporary or portable operation. This standard must apply, along with the requirements noted below, to all conveyor installations.
+
+This standard specifically excludes any conveyor designed, installed or used primarily for the movement of human beings. It does, however, apply to certain conveying devices that have incorporated platforms or control rooms specifically designed for authorized operating personnel within their supporting structure.
+
+This standard does not apply to equipment, such as industrial trucks, tractors and trailers, tiering machines (except pallet load tiers), cranes, hoists, power shovels, power scoops, bucket drag lines, trenchers, elevators, manilfts, moving walks, escalators, highway or rail vehicles, cableways, tramways or pneumatic conveyors.
+
+3004.3.1 Enclosure. Conveyors and related equipment connecting successive floors or levels shall be enclosed with shaft enclosures complying with Section 713.
+
+Protection against the migration of smoke and fire must be maintained whenever a conveyor penetrates a floor/ceiling assembly, and thus connects floor levels. This section references Section 713 for the requirements for shaft enclosures.
+
+3004.3.2 Conveyor safeties. Power-operated conveyors, belts and other material-moving devices shall be equipped with automatic limit switches that will shut off the power in an emergency and automatically stop all operation of the device.
+
+Conveyor controls must be arranged such that in an emergency, the conveyor will stop all operation. All safety devices, including wiring of electrical safety devices, are required to be arranged to operate in a "fail-safe" manner. That is, if power failure or failure of the device itself occurs, a hazardous condition must not result.
+
+3004.4 Personnel and material hoists. Personnel and material hoists shall be designed utilizing an approved method that accounts for the conditions imposed during the intended operation of the hoist device. The design shall include, but is not limited to, anticipated loads, structural stability, impact, vibration, stresses and seismic restraint. The design shall account for the construction, installation, operation and inspection of the hoist tower, car, machinery and control equipment, guide members and hoisting mechanism. Additionally, the design of personnel hoists shall include provisions for field testing and maintenance that will demonstrate that the hoist device functions in accordance with the design. Field tests shall be conducted upon the completion of an installation or following a major alteration of a personnel hoist.
+
+In lieu of a referenced standard, personnel and material hoists are to be designed and installed using a method that includes structural stability, anticipated loads, impact vibration, stresses and seismic restraint. The building official should examine aspects of the hoists, such as construction, installation and operation of the hoist tower, before final approval. Personnel hoist design must also include field tests upon completion of installation or major alteration and maintenance, which demonstrate that hoist device functions are in accordance with the design.
+
+## SECTION 3005 MACHINE ROOMS
+
+3005.1 Access. An approved means of access shall be provided to elevator machine rooms, control rooms, control spaces and machinery spaces.
+
+A means of access to the elevator machine room, control room, control spaces and machinery spaces is required by this section and must be specifically approved by the building official. Things to consider in providing for this access are the maintenance and replacement of the equipment, and the necessary inspections to be performed. Note that Section 1009.14 requires a stairway to the roof to access elevator equipment and would not allow ladders or alternating tread devices.
+
+3005.2 Venting. Elevator machine rooms, machinery spaces that contain the driving machine, and control rooms or spaces that contain the operation or motion controller for elevator operation shall be provided with an independent ventilation or air-conditioning system to protect against the overheating of the electrical equipment. The system shall be capable of maintaining temperatures within the range established for the elevator equipment.
+
+===== Page 1913 =====
+Elevator machine rooms, machinery spaces that contain the driving machine, and control rooms or spaces that contain the operation or motion controller for elevator operation sometimes contain equipment that is temperature sensitive. If this equipment is not kept within its safe-temperature range, the possibility exists for a malfunction, which could trap occupants within the elevator. Additionally, if this malfunction occurred during an emergency condition, it could impede emergency personnel in their efforts to perform fire-fighting or rescue duties. ASME A17.1/CSA B44, Section 2.7.9.2, requires a tag in the machine room that specifies the temperature and humidity range required to be maintained for operation of the elevator equipment.
+
+Elevator technology has, in some cases, eliminated machine rooms (machine room less elevators or MRLs), but equipment still exists that may be temperature sensitive. Therefore the language contains several other locations where this venting is required.
+
+3005.3 Pressurization. The elevator machine room, control rooms or control space with openings into a pressurized elevator hoistway shall be pressurized upon activation of a heat or smoke detector located in the elevator machine room, control room or control space.
+
+To prevent the migration of smoke and heat into machine rooms, control rooms and control spaces from pressurized hoistway enclosures, the machine rooms, control rooms and control spaces are required to be pressurized as well. However, the machine rooms, control rooms and control spaces only need to be pressurized when heat or smoke is present. The pressurization is required to occur upon activation of smoke or heat detectors located in the machine rooms, control rooms and control spaces. This is only a requirement when the hoistway is pressurized.
+
+3005.4 Machine rooms, control rooms, machinery spaces, and control spaces. The following rooms and spaces shall be enclosed with fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both:
+
+1 Machine rooms.
+
+2 Control rooms.
+
+3 Control spaces.
+
+4 Machinery spaces outside of the hoistway enclosure.
+
+The fire-resistance rating shall be not less than the required rating of the hoistway enclosure served by the machinery. Openings in the fire barriers shall be protected with assemblies having a fire protection rating not less than that required for the hoistway enclosure doors.
+
+## Exceptions:
+
+1. For other than fire service access elevators and occupant evacuation elevators, where machine rooms, machinery spaces, control rooms and control spaces do not abut and do not have openings to the hoistway enclosure they serve, the fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both, shall be permitted to be reduced to a 1-hour fire-resistance rating.
+
+2. For other than fire service access elevators and occupant evacuation elevators, in buildings four stories or less above grade plane where machine room, machinery spaces, control rooms and control spaces do not abut and do not have openings to the hoistway enclosure they serve, the machine room, machinery spaces, control rooms and control spaces are not required to be fire-resistance rated.
+
+This section acknowledges that there will inherently be openings between hoistways and machine rooms, control rooms, control spaces and machinery spaces. It is essentially an extension of the hoistway protection and is required to be both vertical and horizontal. Therefore, to maintain the fire-resistance rating required for the hoistways, the machine rooms, control rooms, control spaces and machinery spaces must be protected with a fire barrier and horizontal assemblies, both with opening protectives. There are two exceptions to this requirement (see Commentary Figure 3005.4). Exception 1 allows the reduction of the fire-resistance-rated enclosure to 1 hour where the machine rooms, control rooms, control spaces or machinery spaces do not abut the hoistway. Generally, this reduction would only be applicable where hoistways connect four stories or more. This is related to the fact that Section 713.4 requires 1-hour fire-resistance shafts for buildings connecting three stories or fewer and 2-hour shaft construction where the shaft extends more than three stories.
+
+Exception 2 provides that, for buildings four stories or fewer above grade plane, no fire-resistance rating is required for machine rooms, control rooms, control spaces or machinery spaces not abutting and having no openings into the hoistway.
+
+3005.5 Shunt trip. Where elevator hoistways, elevator machine rooms, control rooms and control spaces containing elevator control equipment are
+
+===== Page 1914 =====
+protected with automatic sprinklers, a means installed in accordance with Section 21.4 of NFPA 72 shall be provided to automatically disconnect the main line power supply to the affected elevator prior to the application of water. This means shall not be self-resetting. The activation of automatic sprinklers outside the hoistway, machine room, machinery space, control room or control space shall not disconnect the main line power supply.
+
+This section acknowledges the hazards that a sprinkler system presents to an operating elevator and the elevator equipment contained in the machine room, control room, control space or machinery space. Therefore, the main power supply line to the affected elevator(s) is required to automatically disconnect, and not be reset, before the suppression system is activated.
+
+3005.6 Plumbing systems. Plumbing systems shall not be located in elevator equipment rooms.
+
+If a pipe or duct that conveys gases, vapors or liquids and passes through a machine room or machinery space were to fail, the operation of the equipment could be affected in such a manner as to make it unsafe. Water could cause the malfunctioning of a safety circuit, such as hoistway door interlocks, thereby allowing an elevator to leave a floor with the hoistway door open.
+
+## SECTION 3006 ELEVATOR
+AND
+HOISTWAY
+OPENING
+PROTECTION
+
+3006.1 General. Elevator hoistway openings and enclosed elevator lobbies shall be provided in accordance with the following:
+
+1 Where hoistway opening protection is required by Section 3006.2, such protection shall be in accordance with Section 3006.3.
+
+2 Where enclosed elevator lobbies are required for underground buildings, such lobbies shall comply with Section 405.4.3.
+
+3 Where an area of refuge is required and an enclosed elevator lobby is provided to serve as an area of refuge, the enclosed elevator lobby shall comply with Section 1009.6.
+
+4 Where fire service access elevators are provided, enclosed elevator lobbies shall comply with Section 3007.6.
+
+5 Where occupant evacuation elevators are provided, enclosed elevator lobbies shall comply with Section 3008.6.
+
+There are various requirements throughout the code for the protection of hoistway openings. In some cases this protection will specifically require an enclosed lobby, and in others it will provide options as to how the hoistway openings are to be protected. The different sections referenced also have different purposes as to why a hoistway opening needs protection.
+
+Item 1 deals with what is sometimes termed "traditional elevator lobby requirements." In other words, elevators used for building circulation that have the potential to spread smoke through the building need some level of protection in certain cases.
+
+Item 2 deals with the specific requirement for underground buildings and the hazards associated with being far below grade. This section specifically requires a lobby enclosure. Item 3 is related to the choice to use an elevator lobby enclosure for an area of refuge. It is not mandatory but is a design option.
+
+Item 4 references the requirements for fire service access elevators. Where one is required, Section 3007 provides the package of requirements. This would specifically require an elevator lobby enclosure. When a fire service access elevator (FSAE) is used, the lobby requirements would be more specific and restrictive than those required in Sections 3006.2 and 3006.3.
+
+Item 5 references the requirements for lobbies as they relate to occupant evacuation elevators. If this design option is applied in the building, then a physical elevator lobby enclosure is required in accordance with Section 3008.6.2. Similar to the requirements of Section 3007, these requirements would be more specific and restrictive than those required in Sections 3006.2 and 3006.3.
+
+3006.2 Hoistway opening protection required. Elevator hoistway door openings shall be protected in accordance with Section 3006.3 where an elevator hoistway connects more than three stories, is required to be enclosed within a shaft enclosure in accordance with Section 712.1.1 and any of the following conditions apply:
+
+1 The building is not protected throughout with an automatic sprinkler system in accordance with Section 903.3.1.1 or 903.3.1.2.
+
+2 The building contains a Group I-1 Condition 2 occupancy.
+
+3 The building contains a Group I-2 occupancy.
+
+4 The building contains a Group I-3 occupancy.
+
+5 The building is a high rise and the elevator hoistway is more than 23 m in height. The height of the hoistway shall be measured from the lowest floor to the highest floor of the floors served by the hoistway.
+
+Exceptions:
+
+1. Protection of elevator hoistway door openings is not required where the elevator
+
+===== Page 1915 =====
+serves only open parking garages in accordance with Section 406.5.
+
+2. Protection of elevator hoistway door openings is not required at the level(s) of exit discharge, provided the level(s) of exit discharge is equipped with an automatic sprinkler system in accordance with Section 903.3.1.1.
+
+3. Enclosed elevator lobbies and protection of elevator hoistway door openings are not required on levels where the elevator hoistway opens to the exterior.
+
+The hoistway enclosure is the fixed structure, consisting of vertical walls or partitions, that isolates the enclosure from all other building areas or from an adjacent enclosure in which the hoistway doors and door assemblies are installed.
+
+Elevator shafts are among the largest vertical shafts in multistory buildings. Hoistways have the potential for accumulating and spreading smoke and gases from a fire to other stories in a building. The chimney or stack effect helps with the upward spread of the products of combustion. It is recognized that smoke is a major factor in fire deaths and smoke often migrates to areas remote from the source of the fire. Due to the typical operation and movement of the hoistway doors, they generally cannot reduce air leakage to a level that adequately reduces the spread of smoke. The concern of smoke spread is less in sprinkled buildings where the fire is either controlled or suppressed. Even when a fire is controlled, smoke is generated and has the potential to spread. Note that smoke from a sprinkled fire is typically less abundant and hazardous than that from an unsprinkled fire.
+
+Analyses of fires in multistory buildings have documented the movement of smoke to upper levels. In the 1980 fire at the MGM Grand Hotel in Las Vegas, 70 of the 84 deaths occurred on the 14th to 24th floors, although the fire was on the first level. A 1989 Christmas Eve fire at a high-rise retirement residence in Johnson City, Tennessee, also had a fire originating on the first level with all but two of the 16 fatalities occurring on the upper floors because of smoke movement via vertical shafts that included the elevator hoistway. Please note that in these two examples, the buildings were either protected only partially or not at all by an automatic sprinkler system.
+
+These provisions are intended to prevent the infiltration of smoke into the hoistway enclosure. As noted in Section 3006.1, there are other provisions in the code that have elevator lobby enclosure requirements or hoistway protection requirements. The provisions have several conditions where such protection is required.
+
+The primary condition, where “traditional hoistway opening protection” is required, is where an elevator shaft connects more than three stories. In addition, this will apply to any building that is not sprinkled throughout in accordance with NFPA 13 or NFPA 13R. Other vulnerable occupancies regardless of being protected by sprinklers must also provide hoistway opening protection. This includes Group I-1, I-2 and I-3 occupancies. Finally, because of the added concern of height as it affects stack effect, hoistways in high-rise buildings where the height of the hoistway exceeds 23 m must be protected in accordance with Section 3006.3. Note the importance of the measurement of the hoistway height. This provides some relief to elevators that only travel a couple of stories, where the concern for smoke spread is similar to that of a low- or mid-rise building protected throughout with sprinklers.
+
+There are several exceptions. The first does not require hoistway opening protection where the elevator is located in an open parking garage. This is consistent with Section 712.1.10.2. The concept is that an open parking garage has plenty of ventilation and various components therein, such as ramps and duct systems, do not need shaft protection. Exception 2 does not require hoistway opening protection at the level of exit discharge. This is only permitted where the level of exit discharge is protected with sprinklers. It should be noted that there can be multiple levels of exit discharge. As currently written, this can be applicable for any of those levels. The exception is notable in that it is conditioned on only the level of exit discharge, not the entire building being sprinkled. Fully sprinkled buildings would be relieved of the elevator lobby requirements on the floor of exit discharge.
+
+Exception 3 allows hoistway openings that open to the exterior. Such locations will not allow smoke to build up, thus reducing the chances of smoke entering the hoistway. A large stadium may have conditions where the elevator opens to the exterior.
+
+Although a specific exception for atrium is not provided, Section 712.1.7 is often considered to allow elevator hoistways located entirely within the atrium to be unenclosed. If an elevator is not required to have a fire-resistance-rated enclosure, it serves no purpose to require a fire-resistance-rated elevator enclosure or hoistway protection.
+
+===== Page 1916 =====
+3006.2.1 Rated corridors. Where corridors are required to be fire-resistance rated in accordance with Section 1020.2, elevator hoistway openings shall be protected in accordance with Section 3006.3.
+
+This section requires protection of elevator hoistway openings based on the requirement for rated corridor construction. To further clarify this intent, Section 1020.2.1 has been referenced as a pointer to these specific lobby requirements. It should be noted that this requirement has limited application. The following is a list of the buildings not already addressed by Section 3006.2 that are required to have rated corridors:
+
+Unsprinklered buildings:
+
+- Group A, B, E, F, M, S and U occupancies with an occupant load served by a corridor greater than 30.
+
+• Hoistways connecting only 3 stories.
+
+Sprinklered buildings:
+
+- Group R occupancies greater than 10 occupants served by a corridor (1/2 hr)
+
+• Group H1, H-2, H-3 occupancies (1 hr)
+
+- Group H4 and H5 occupancies greater than 30 served by a corridor (1 hr)
+
+• Non-high-rise buildings
+
+3006.3 Hoistway opening protection. Where Section 3006.2 requires protection of the elevator hoistway door opening, the protection shall be provided by one of the following:
+
+1 An enclosed elevator lobby shall be provided at each floor to separate the elevator hoistway shaft enclosure doors from each floor by fire partitions in accordance with Section 708. In addition, doors protecting openings in the elevator lobby enclosure walls shall comply with Section 716.2.2.1 as required for corridor walls. Penetrations of the enclosed elevator lobby by ducts and air transfer openings shall be protected as required for corridors in accordance with Section 717.5.4.1.
+
+2 An enclosed elevator lobby shall be provided at each floor to separate the elevator hoistway shaft enclosure doors from each floor by smoke partitions in accordance with Section 710 where the building is equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2. In addition, doors protecting openings in the smoke partitions shall comply with Sections 710.5.2.2, 710.5.2.3 and 716.2.6.1. Penetrations of the enclosed elevator lobby by ducts and air transfer openings shall be protected as required for corridors in accordance with Section 717.5.4.1.
+
+3 Additional doors shall be provided at each elevator hoistway door opening in accordance with Section 3002.6. Such door shall comply with the smoke and draft control door assembly requirements in Section 716.2.2.1.1 when tested in accordance with UL 1784 without an artificial bottom seal.
+
+4 The elevator hoistway shall be pressurized in accordance with Section 909.21.
+
+Section 3006.2 sets out where hoistway opening protection is required. From there, Section 3006.3 provides the various ways this can be accomplished.
+
+The first option is to provide a lobby enclosure that separates the hoistway opening from the rest of the building by 1-hour fire-resistance-rated partitions constructed as fire partitions. As a point of difference, the chute access rooms require fire barrier construction, whereas the elevator lobby requirements are for fire partition construction. Unlike a chute access room, an elevator lobby enclosure does not require a horizontal assembly for the floor/ceiling assembly. This section references Sections 716.2.2.1 and 717.5.4.1 for door openings and duct openings. Therefore, the elevator lobby separation requires the 20-minute doors to be smoke- and draft-control doors (Section 716.2.2.1) and also requires duct penetrations to have smoke and fire dampers (Section 717.5.4.1) unless exempted by those sections. The purpose of the special opening protectives in the elevator lobby enclosures is to delay or prevent the vertical spread of smoke to other floors through the hoistway doors and the shaft.
+
+The second option is also an enclosed elevator lobby. However, unlike Option 1, it allows non-fire resistance-rated smoke partitions in accordance with Section 710 to enclose the elevator lobby. This option requires either an NFPA 13 or 13R sprinkler system. The door openings in the lobby enclosure must also meet the air leakage rate in Section 716.2.2.1.1 and must be self- or automatic closing (Section 716.2.6.1). Any duct penetrations through the smoke partitions must also be provided with smoke dampers in accordance with Section 717.5.4.1.
+
+Option 3 eliminates the need for an enclosed lobby, but still requires the additional layer of fire resistance and smoke control. Doors in addition to the normal hoistway door are provided in front of the hoistway opening.
+
+===== Page 1917 =====
+These doors must meet two requirements. First, they must be easily opened in accordance with Section 3002.6. This ensures that if the doors do close, they can be opened by someone who arrives at that level on the elevator, such as fire department personnel. This is very important if the doors are horizontal power-operated doors, such as those in Section 1010.3.3 of the code. Section 3002.6 states that the doors shall be readily openable from the car side without a key, tool, special knowledge or effort. The second requirement is the testing of the additional door or doors. They must be tested in accordance with UL 1784. This test is titled "Air Leakage Tests of Door Assemblies." This test does not provide a fire-resistance rating for the door. It also has no failure criteria as it only measures the leakage rate. The leakage rate for smoke and draft control doors in Section 716.2.2.1.1 is a maximum of 15.24 liters per second per square meter of door opening at 25 pascals pressure. It is assumed that they must meet the leakage rate requirements in Section 716.2.2.1.1 and they must be identified as smoke and draft control doors in accordance with Section 716.2.9.3.
+
+Option 4 allows elevator hoistway pressurization to be used in lieu of enclosed elevator lobbies in all buildings, regardless of height. This is similar to pressurization of interior exit stairways, which is used in lieu of smokeproof enclosures for interior exit stairways in Section 909.20.5. The hoistway pressurization requirements are found in Section 909.21.
+
+3006.4 Means of egress. Elevator lobbies shall be provided with at least one means of egress complying with Chapter 10 and other provisions in this code. Egress through an enclosed elevator lobby shall be permitted in accordance with Item 1 of Section 1016.2.
+
+There are two requirements in this section. The first requires at least one means of egress from the elevator lobby enclosure to an exit access. Multiple-story buildings have increasing security concerns that often result in controlled access from elevator lobbies to the remainder of the floor. This ensures that no occupant in a lobby is restricted from leaving the lobby to access the exits on the floor. This may require an interior exit stairway door in the lobby if access is otherwise locked from the lobby. Elevators are not intended to be available in a fire situation since they are recalled during Phase I emergency recall, as required by this chapter. Note that occupant evacuation elevators, as addressed in Section 3008, do permit evacuation through the use of elevators.
+A common question regarding the first requirement is whether an interior exit stairway can open into an elevator lobby. Yes, an elevator lobby is a normally occupied space in the same manner that a corridor is a normally occupied space. As noted, if the lobby is locked to the rest of the floor, an interior exit stairway may be required in that lobby. Elevator hoistway doors are not permitted to open into an interior exit stairway.
+
+The second requirement in this section addresses whether occupants are permitted to pass through elevator lobbies in the case of a rated corridor. Egress through elevator lobbies from corridors on both sides is allowed. The reference to Section 1016.2 makes it clear that although occupants can pass through an elevator lobby, it is not permitted to be the only way to access an interior exit stairway from the rated corridor. This is consistent with Section 1020.6, which requires fire-resistance-rated corridors to be continuous from the point of entry to an exit. This wording means only one path needs to be continuous. This eliminates the allowance for a single tenant to send all occupants through the elevator lobby to exit the building.
+
+## SECTION 3007 FIRE SERVICE ACCESS
+ELEVATOR
+
+3007.1 General. Where required by Section 403.6.1, every floor above and including the lowest level of fire department vehicle access of the building shall be served by fire service access elevators complying with Sections 3007.1 through 3007.9. Except as modified in this section, fire service access elevators shall be installed in accordance with this chapter and ASME A17.1/CSA B44.
+
+Exceptions:
+
+1. Elevators that only service an open or enclosed parking garage and the lobby of the building shall not be required to serve as fire service access elevators.
+
+2. The elevator shall not be required to serve the top floor of a building where that floor is utilized only for equipment for building systems.
+
+Section 3007 provides a package of requirements for what is termed a fire service access elevator (FSAE). A minimum of two such elevators is required in buildings with an occupied floor more than 36 m above the lowest level of fire department vehicle access in accordance with Section 403.6.1. These requirements were developed based on a research initiative by the U.S. General Services Administration (GSA) and the National Institute of Standards and Technology (NIST), which
+
+===== Page 1918 =====
+focused on the development of performance requirements for the use of elevators for occupant egress and fire service access in buildings. Section 3007 is a byproduct of this research as well as preliminary information provided by a task group of ASME A17.1/CSA B44 for determining the required system features necessary for safe operation by trained fire fighters during a fire emergency.
+
+The requirements in Section 3007 are intended to provide a reasonable degree of safety for fire fighters operating the fire service access elevator to a location for staging fire fighters and equipment. In a typical situation, the staging area will be set up one or two floors below the fire. The staging location already will have access to an exit stairway and standpipe that will allow for fire-fighting operations to be conducted from just above the staging area.
+
+It is important to note that these requirements are in addition to the requirements for Phase I Recall and Phase II Emergency Operation. Therefore, these elevators would also have these standard features plus the additional package of requirements.
+
+It should also be noted that, unlike Occupant Evacuation Operation, ASME A17.1/CSA B44 has no specific requirements for fire service access elevators beyond the Phase I/Phase II requirements that apply to all elevators.
+
+A fire service access elevator may be an elevator typically used as a service elevator, or a passenger elevator for general public use. Every floor within a building must be served by at least two fire service access elevators.
+
+The fire service access elevator requirements are intended to work in conjunction with requirements in other codes and standards, especially those that will appear in the elevator code, ASME A17.1/CSA B44. A key part of these requirements is the operation protocol for the fire service access elevator.
+
+It is important to stress that this elevator can be any elevator in the building, whether a passenger or service elevator. In addition, this elevator can also be the same elevator used for accessible egress in accordance with Section 1110.4. There are no restrictions on using the FSAE for this purpose. In fact, some fire departments may prefer this arrangement.
+
+The first exception exempts elevators that only serve parking garages and their associated lobbies from the requirement to serve as a fire service elevator, as FSAEs are not necessary in parking garages. The fire department is more likely to use FSAEs due to the height of the building. In addition, fire fighters typically are not willing to take an elevator past the fire floor. In such cases, they would generally prefer the use of the stairway. The second exception provides clarification that the fire service elevator is not required to serve an unoccupied top floor that only contains building systems equipment such as a mechanical room.
+
+3007.2 Automatic sprinkler system. The building shall be equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, except as otherwise permitted by Section 903.3.1.1.1 and as prohibited by Section 3007.2.1.
+
+This section is intended to provide for specific requirements regarding automatic sprinkler systems associated with fire service access elevators.
+
+3007.2.1 Prohibited locations. Automatic sprinklers shall not be installed in machine rooms, elevator machinery spaces, control rooms, control spaces and elevator hoistways of fire service access elevators.
+
+This section is intended to further clarify that the installation of automatic sprinklers is prohibited in elevator machine rooms, elevator machine spaces, control rooms and control spaces associated with fire service access elevators. In such locations, sprinklers may be a detriment to the use of elevators. If sprinklers are located in a machine room, elevator machine spaces, control rooms or control spaces and they activate, damage to the elevators may occur and threaten the safety of fire fighters. Additionally, such spaces should be protected by smoke detection that would initiate Phase I recall prior to sprinkler activation (see also commentary, Section 903.3.1.1.1, Exception 6).
+
+3007.2.2 Sprinkler system monitoring. The sprinkler system shall have a sprinkler control valve supervisory switch and water-flow-initiating device provided for each floor that is monitored by the building’s fire alarm system.
+
+This section allows the origin of the fire to be better determined and will assist in managing a fire emergency. In the future it is anticipated that such monitoring will assist in determining the priority for elevator locations in order to evacuate buildings more efficiently.
+
+3007.3 Water protection. Water from the operation of an automatic sprinkler system outside the enclosed lobby shall be prevented from infiltrating into the hoistway enclosure in accordance with an approved method.
+
+This section provides performance-based language to prevent water from the discharge of automatic sprinklers located outside the elevator lobby from infiltrating the hoistway opening. It is important to stress that this requirement is only for protection from sprinkler system water and not water from fire fighter hoses. Also, the language is performance
+
+===== Page 1919 =====
+oriented, as there are several strategies that could be used to address this problem and a single solution may not fit in all situations. Solutions include concepts such as a door sweep, trench drains, sloped floors, curbs and gasketed openings, which may be used individually or in combination. Other methods may also be available to meet this intent. It should be stressed that the intent of this section is focused on the actual hoistway opening versus the walls surrounding the hoistway. The most water-sensitive aspects of the elevator are located at the hoistway opening. Further, this section does not necessarily require that the hoistway opening itself be protected. This protection could come at the entrance to the lobby.
+
+3007.4 Shunt trip. Means for elevator shutdown in accordance with Section 3005.5 shall not be installed on elevator systems used for fire service access elevators.
+
+This section is intended to further clarify that the installation of a shunt trip for fire service access elevators is prohibited. The subject language is similar to the language in Section 3008.4 for occupant evacuation elevators.
+
+3007.5 Hoistway enclosures. The fire service access elevator hoistway shall be located in a shaft enclosure complying with Section 713.
+
+Reference is made to Section 713 of the code for the required fire resistance and construction of the hoistway enclosure. Section 713 contains fire-resistance rating requirements, as well as construction requirements for shafts, which is typically the method used to satisfy the requirements for a hoistway enclosure. Section 403.2.1.2 provides additional standards, and some exceptions, for hoistway construction in high-rise buildings, but the exceptions do not apply to elevator hoistway enclosures.
+
+3007.5.1 Structural integrity of hoistway enclosures. The fire service access elevator hoistway enclosure shall comply with Sections 403.2.2.1 through 403.2.2.4.
+
+This section requires additional structural integrity for fire service access elevator hoistway enclosures. See the commentaries to Sections 403.2.3.1 through 403.2.3.4.
+
+3007.5.2 Hoistway lighting. When firefighters' emergency operation is active, the entire height of the hoistway shall be illuminated at not less than 11 lux as measured from the top of the car of each fire service access elevator.
+
+The focus of this section is to provide illumination to assist fire fighters as they ascend in a building. The prescribed procedure without hoistway illumination before leaving the designated level (DL) is to shine a light up into the hoistway to try and detect smoke, flame or water above them. They will repeat this step every five floors until they safely arrive at their staging floor, which is two floors below the lowest reported floor in alarm. If fire fighters become trapped in a stopped elevator and need to self-rescue through the top of the car's emergency exit, they need adequate light to safely escape. Hoistway lighting will make their life-safety maneuver much more effective. The illumination level is the same as that used in Section 1006.
+
+3007.6 Fire service access elevator lobby. The fire service access elevator shall open into an enclosed fire service access elevator lobby in accordance with Sections 3007.6.1 through 3007.6.5. Egress is permitted through the enclosed elevator lobby in accordance with Item 1 of Section 1016.2.
+
+Exception: Where a fire service access elevator has two entrances onto a floor, the second entrance shall be permitted to be protected in accordance with Section 3006.3.
+
+All fire service access elevators must open into an enclosed elevator lobby meeting specific requirements (e.g., direct access to an exit enclosure and a minimum fire-resistance rating for lobby enclosure and door assemblies). The lobby must provide a reasonable degree of safety for fire fighters operating the fire service access elevator and a location for staging fire fighters and equipment one or two floors below the fire.
+
+The exception clarifies that if the fire service access elevator has two entrances, the second entrance is permitted to open into an enclosed or otherwise protected hoistway opening meeting the requirements in Section 3006.3.
+
+The code would not prohibit fire service access elevators and occupant evacuation elevators from sharing the same elevator lobby. See also Commentary Figure 3007.6 for a comparison of lobby requirements between fire service access elevators and elevators used for occupant self-evacuation.
+
+As noted in the commentary to Section 3006.1, this particular requirement for an elevator lobby is more specific and more restrictive than that required in Sections 3006.2 and 3006.3. These requirements would be applied regardless of what options were chosen in Section 3006.3. The same is true of the application of the occupant evacuation elevator allowance. If that allowance is chosen, the requirements for an enclosed elevator lobby would need to be in accordance with Section 3008.6.
+
+3007.6.1 Access to interior exit stairway or ramp. The enclosed fire service access elevator
+
+===== Page 1920 =====
+lobby shall have direct access from the enclosed elevator lobby to an enclosure for an interior exit stairway or ramp.
+
+Exception: Access to an interior exit stairway or ramp shall be permitted to be through a protected path of travel that has a level of fire protection not less than the elevator lobby enclosure. The protected path shall be separated from the enclosed elevator lobby through an opening protected by a smoke and draft control assembly in accordance Section 716.2.2.1.
+
+As part of the package of requirements, fire service access elevators need to have direct access to an exit enclosure. This relates to the fire fighters' staging requirements during a fire. The exit stairways are critical to bringing water hoses to the fire floor. Keeping the elevators protected by a lobby and then locating an interior exit stairway that the fire fighters can directly access will assist in the fire-fighting activities. See also the commentary to Section 3008.6.1 for a discussion regarding using the same interior exit stairway for both the fire service access elevator and occupant evacuation elevators.
+
+There is an exception that provides flexibility for direct access to an exit stairway. Essentially, it allows a protected path equivalent to that of the enclosed elevator lobby. The opening between the lobby and protected path still requires separation with a smoke and draft control door. This helps to keep the lobby protected from smoke that could infiltrate the lobby from the protected path. Note that there is no restriction on what type of doors (office, bathroom, supply closet, etc.) can open onto this protected path as long as the opening is properly protected.
+
+3007.6.2 Lobby enclosure. The fire service access elevator lobby shall be enclosed with a smoke barrier having a fire-resistance rating of not less than 1 hour, except that lobby doorways shall comply with Section 3007.6.3.
+
+Exception: Enclosed fire service access elevator lobbies are not required at the levels of exit discharge.
+
+The fire service access elevator lobby is required to be enclosed by a smoke barrier having a minimum 1-hour fire-resistance rating that provides both protection from smoke and a level of fire resistance. This smoke barrier is specifically protecting the fire service access elevator lobby and would not be required to be constructed from outside wall to outside wall. See Section 709.4.2, which specifically addresses smoke barriers and elevator lobbies. Note that the elevator lobby located on the street floor entrance to a building does not require an enclosed lobby. In many cases, such a lobby would be impractical to construct. In the event of a fire on the street level, the elevator would be directed to the alternate level once smoke is detected on that level.
+
+It should be additionally noted that the enclosure created by smoke barriers protects the elevator and the associated lobby from the building. Therefore, protection between the elevator lobby and the elevator is not required.
+
+3007.6.3 Lobby doorways. Other than doors to the hoistway, elevator control room or elevator control space, each doorway to an enclosed fire service access elevator lobby shall be provided with a 3/4-hour fire door assembly complying with Section 716. The fire door assembly shall comply with the smoke and draft control door assembly requirements of Section 716.2.2.1.1, and tested in accordance with UL 1784 without an artificial bottom seal.
+
+The requirement for a 3/4-hour door is more restrictive than what is required for smoke barriers in Section 716. Section 716 and Table 716.1(2) require a 20-minute rating for doors located in smoke barriers. The reference back to Section Section 716 is primarily related to how the door is to be tested and the criteria for acceptance. More specifically, Section 716.2.1.4 requires doors used in smoke and draft control to be tested in accordance with UL 1784 and installed in accordance with NFPA 105. Additionally, a provision is included requiring the test be performed without an artificial bottom seal installed across the full width of the bottom of the door assembly in order to measure the complete leakage rate for the door assembly on the assumption that leakage could occur under the bottom of the door in this application. This will ensure that the doorways not only have an adequate fire protection rating for protecting the fire service access elevator lobbies, but also protect against smoke intrusion into the lobby where the fire service may be staging its operations before attacking a fire on the fire floor. This is a very important component of the overall protection package for fire service access elevators.
+
+3007.6.4 Lobby size. Regardless of the number of fire service access elevators served by the same elevator lobby, the enclosed fire service access elevator lobby shall be not less than 14 m² in an area with a dimension of not less than 2.4 m.
+
+A minimum lobby size of 14 m² with a minimum dimension of 2.4 m has been included to ensure that the lobby is of adequate size for conducting necessary fire fighter operations. This size was intended for one or more FSAE.
+
+===== Page 1921 =====
+In other words, where there are two FSAE required, the lobby is only required to be 14 m² in area. A majority of fire departments operate with high-rise fire attack teams composed of either three or four fire fighters. The lobby should be large enough to accommodate one team preparing to enter the fire area (floor) and one team needing to withdraw from the fire area, while leaving access to the hoistway and exit enclosure doors clear. A minimum lobby size of 14 m² is intended to meet the above criteria. The minimum dimension of 2.4 m is included to avoid a long, narrow lobby.
+
+3007.6.5 Fire service access elevator symbol. A pictorial symbol of a standardized design designating which elevators are fire service access elevators shall be installed on each side of the hoistway door frame on the portion of the frame at right angles to the fire service access elevator lobby. The fire service access elevator symbol shall be designed as shown in Figure 3007.6.5 and shall comply with the following:
+
+1 The fire service access elevator symbol shall be not less than 75 mm in height.
+
+2 The helmet shall contrast with the background, with either a light helmet on a dark background or a dark helmet on a light background.
+
+3 The vertical center line of the fire service access elevator symbol shall be centered on the hoistway door frame. Each symbol shall be not less than 1.9 m, and not more than 2 m above the finished floor at the threshold.
+
+The “fire hat” symbol (see Figure 3007.6.5) is already used inside the elevator cab and is, therefore, instantly recognizable by the fire service. This provision is intended to aid in the quick identification of fire service access elevators and will assist the fire service in quickly identifying these elevators and beginning to use them.
+
+3007.7 Elevator system monitoring. The fire service access elevator shall be continuously monitored at the fire command center by a standard emergency service interface system meeting the requirements of NFPA 72.
+
+As an added layer of protection, these critical elevators must be specifically monitored in the fire command center by a standard emergency service interface system in accordance with NFPA 72. More specifically, Section 7.11 of NFPA 72 addresses this interface. Basically, it requires that interface components such as annunciators, information display systems and controls, work with the needs of the fire department in terms of design, arrangement and location. The building official in the adopting jurisdiction must determine whether these fairly general requirements have been met. It should be noted that Annex F of NFPA 72 contains NEMA Standards Publication SB 30-2005, Fire Service Annunciator and Interface, which provides more detailed information about the design and layout of such systems. This document is written more as a guide and is not directly referenced in NFPA 72.
+
+3007.8 Electrical power. The following features serving each fire service access elevator shall be supplied by both normal power and Type 60/Class 72.
+
+1 Elevator equipment.
+
+2 Elevator hoistway lighting.
+
+3 Ventilation and cooling equipment for elevator machine rooms, control rooms, machine spaces and control spaces.
+
+4 Elevator car lighting.
+
+This section provides specific requirements for normal and standby power for fire service access elevators. The standby power would additionally include the power supply for the ventilation equipment for the machine room, machine spaces, control rooms or control spaces associated with the fire service access elevator and hoistway lighting as required in Section 3007.5.2.
+
+3007.8.1 Protection of wiring or cables. Wires or cables that are located outside of the elevator hoistway and machine room and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning, ventilation and fire-detecting systems to fire service access elevators shall be protected using one of the following methods:
+
+1 Cables used for survivability of required critical circuits shall be listed in accordance with UL 2196 and shall have a fire-resistance rating of not less than 2 hours.
+
+2 Electrical circuit protective systems shall have a fire-resistance rating of not less than 2 hours. Electrical circuit protective systems shall be installed in accordance with their listing requirements.
+
+3 Construction having a fire-resistance rating of not less than 2 hours.
+
+Exception: Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase II emergency in-car operations.
+
+This section provides additional requirements for the protection of specific wiring and cables for each fire service access elevator. Typical building elevators do not require this level of protection for these wires and cables. Several
+
+===== Page 1922 =====
+options are provided. The first requires that critical circuit cables be listed in accordance with UL 2196 and have a fire-resistance rating of at least 2 hours. The second alternative is a listed electrical protective system with a 2-hour rating. The third requires that the wires and cables be protected by construction with at least a 2-hour fire-resistance rating. Note that protection is not required where the wiring or cable serves no purpose during the use of such elevators during Phase II operations. Phase II is the key fire-fighting and rescue aspect of elevator operation.
+
+3007.9 Standpipe hose connection. A Class I standpipe hose connection in accordance with Section 905 shall be provided in the interior exit stairway and ramp having direct access from the enclosed fire service access elevator lobby.
+
+* Locating the hose connection in the exit enclosure having direct access to the enclosed elevator lobby relates directly to the needs of fire fighters.
+
+Fire fighters typically attack a fire from the floor below, and this allows the shortest path for the fire hose to be laid. If the standpipe were located in the lobby itself, it would simply mean that the exit enclosure door would be propped open on the floor below the fire floor.
+
+Keeping the standpipe within the exit enclosure also provides a protected location for the fire department to gain access to the hose while keeping the enclosed elevator lobby, and thus the elevator, more protected. This particular issue has also been reviewed extensively by the ASME task group looking at the use of elevators for fire fighting, and similar conclusions in terms of placement within the exit enclosure were made.
+
+3007.9.1 Access. The exit enclosure containing the standpipe shall have access to the floor without passing through the enclosed fire service access elevator lobby.
+
+* Access from the exit enclosure containing the standpipe to the floor is necessary so that the fire department can advance its attack hose onto the fire floor without opening the door between the enclosed elevator lobby and the floor, which could permit smoke contamination of the lobby and cause recall of the elevator(s). This access to the floor could be direct or through an access corridor or vestibule between the elevator lobby and the exit enclosure, as long as there is a smoke barrier enclosing the elevator lobby.
+
+An access corridor is consistent with the exception to Section 3007.6.1.
+
+## SECTION 3008 OCCUPANT EVACUATION ELEVATORS
+
+3008.1 General. Elevators used for occupant self-evacuation during fires shall comply with Sections 3008.1 through 3008.10.
+
+This section provides options for architects to consider, particularly when designing tall buildings. More specifically, Section 403.6.2 permits the use of all passenger elevators for general public use to be designated as occupant evacuation elevators in accordance with the provisions in this section. It should be noted that these provisions could be used in buildings other than high-rise buildings as long as all the requirements in Section 3008 are met. The use of these elevators is intended for all building occupants prior to Phase I recall activation of the elevators.
+
+Based on GSA/NIST research and the efforts of the ASME A17/CSA B44, Task Groups on Elevators and Fire, the use of these elevators by building occupants will improve overall building evacuation time compared to only utilizing the required exit stairways. Additionally, using elevators will also provide improved evacuation capability for persons with mobility impairments. The requirements provide the necessary safeguards to ensure a reasonable degree of safety for the use of elevators by occupants during building evacuations in normal elevator operating mode prior to Phase I emergency recall.
+
+provide the necessary safeguards to ensure a reasonable degree of safety for the use of elevators by occupants during building evacuations in normal elevator operating mode prior to Phase I emergency recall. The minimum lobby size is based on what is needed to accommodate 25 percent of the occupant load of the floor at 0.27 m² per person, plus one wheelchair space [0.75 m by 1.20 m] for each 50 people (or fraction). See Section 3008.6.4 for more information on sizing lobbies.
+
+It should be noted that this section implies that only passenger elevators designed for general public use and not elevators designated as private elevators or freight elevators are required to meet all of the provisions in this section. However, elevators that are not for general public use could be used for occupant self-evacuation but would need to meet the requirements of Section 3008.
+
+There are also some instances where elevators were not intended to be included, such as those that simply travel between the parking garage and the main lobby that are technically passenger elevators. This is addressed by Exception 2 to Section 3008.6.1.
+
+Although elevators are specifically being used for evacuation, that would not prohibit building occupants from taking the exit stairways during a fire. Occupant evacuation elevators are an
+
+===== Page 1923 =====
+option that will decrease the time needed for evacuation and reduce the likelihood of interfering with the fire-fighting and rescue operations.
+
+Note that ASME A17.1/CSA B44 has specific provisions related to occupant evacuation elevators that must also be met. These provisions, which are focused on the operations of the elevators, are found in Section 2.27.11, Occupant Evacuation Operation. This includes provisions such as status indicators and how the elevator operations need to be prioritized.
+
+3008.1.1 Number of occupant evacuation elevators. The number of elevators available for occupant evacuation shall be determined based on an egress analysis that addresses one of the following scenarios:
+
+1 Full-building evacuation where the analysis demonstrates that the number of elevators provided for evacuation results in an evacuation time less than 1 hour.
+
+2 Evacuation of the five consecutive floors with the highest cumulative occupant load where the analysis demonstrates that the number of elevators provided for evacuation results in an evacuation time less than 15 minutes.
+
+Not less than one elevator in each bank shall be designated for occupant evacuation. Not less than two shall be provided in each occupant evacuation elevator lobby where more than one elevator opens into the lobby. Signage shall be provided to denote which elevators are available for occupant evacuation.
+
+The alternative to the third stairway in Section 403.5.2 is to use occupant evacuation elevators. This is a viable and more efficient option, but can require an excessive amount of standby power. In a building with many elevators, for example, standby power requirements become excessive and may be much more conservative than necessary where occupant loads are low.
+
+This section provides a reasonable performance-based approach while retaining the capacity to evacuate buildings more quickly than with stairs alone. Two options are provided to determine the number of occupant evacuation elevators necessary to meet the performance intent.
+
+The first option focuses on full building evacuation. This does not mandate full building evacuation but instead is a benchmark to use for analysis. The use of a 1-hour threshold sets an upper limit on evacuation time and is based on conclusions, reached during review of events such as the World Trade Center bombing in 1993, that buildings should not take longer than an hour to evacuate. The 1-hour criterion is consistent with the upper limit that the elevator industry typically uses to determine the use of elevators during the busier times of the day within buildings during normal operation. It is also consistent with the basis for the current code language.
+
+The second option is more closely associated with a more typical phased evacuation. The 15-minute criterion is intended to remove occupants from the area to which the fire department will respond. In reviewing a number of resources, the time of arrival of most fire departments in a typical city is approximately 4 minutes. This does not include time for set-up at the scene. NFPA 1710 specifically requires a 240-second arrival time to 90 percent of the incidents in a jurisdiction. Again, this is only arrival time of the first due company. Several fire service officers have stated that an additional 10 minutes are needed to begin incident assessment, leading to the 15-minute criterion. Using the highest occupant load for five consecutive floors will provide a safety factor for the required number of occupant evacuation elevators.
+
+Since the initial publication of occupant evacuation elevator requirements, ASME A17.1 has been updated and revised to address occupant evacuation elevators. This also includes the interface with fire department features on elevators. Elevators can now be individually recalled by the fire department, thus leaving more elevators available for evacuation if necessary. ASME A17.1 also provides requirements for the prioritization of elevators during emergencies. This provides another underlying level of rigor to the requirements of this section.
+
+3008.1.2 Additional exit stairway. Where an additional means of egress is required in accordance with Section 403.5.2, an additional exit stairway shall not be required to be installed in buildings provided with occupant evacuation elevators complying with Section 3008.1.
+
+This section simply explains that occupant self-evacuation with elevators is an alternative to the additional exit stairway required for high-rise buildings over 128 m in building height.
+
+3008.1.3 Fire safety and evacuation plan. The building shall have an approved fire safety and evacuation plan in accordance with the applicable requirements of Section 404 of SBC 801. The fire safety and evacuation plan shall incorporate specific procedures for the occupants using evacuation elevators.
+
+This section requires a fire safety and evacuation plan in accordance with Section
+
+===== Page 1924 =====
+404 of SBC 801. In high-rise buildings, occupant evacuation elevators are specifically required to be addressed. Occupant evacuation elevators are not necessarily limited to high-rise buildings and are individually addressed in Section 404. Two resources for discussions on high-rise building evacuation strategies can be found in Egress Design Solutions (Tubbs and Meacham 2007) and SFPE Engineering Guide, Fire Safety for Tall Buildings (SFPE/ICC 2013).
+
+SBC 201 and SBC 801 do not mandate how a building is to be evacuated, but instead provide the elements to assist in evacuation, including proper exit width; limitations on travel distance; life safety features such as sprinklers; and many other elements that assist occupants in exiting a building safely. Therefore, the way in which the elevators are used for evacuation must be tailored to the individual building and occupants. In most cases, when a fire occurs in a high-rise building, the protocol is not to evacuate the entire building but to phase the evacuation and possibly limit it only to the fire floor and the two floors above and below. Therefore, the use of elevators for evacuation must be coordinated with that procedure. An example of how such an operation would work is as follows:
+
+A phased evacuation of the fire zone (fire floor and two floors above and below the fire floor) is initiated with appropriate voice announcements and the elevators take occupants of these five floors to the level of exit discharge. While in evacuation operation, the elevators operate in shuttle mode between the five affected floors and the level of exit discharge, with the car buttons disabled and the hall call buttons arranged to tell the controller that there are occupants waiting on the other floors but not controlling the elevator operation. It should be noted that ASME A17.1/CSA B44 has specific requirements for occupant evacuation elevators, termed occupant evacuation operation (OEO), that are consistent with the five initial floors strategy.
+
+In most cases, evacuation of the fire zone should be completed at about the time of fire department arrival. Once complete, the occupant evacuation elevators can be taken out of service [Fire-Fighter Emergency Operation (FEO) Phase I] until or if a decision for full evacuation is made by the fire department. Once a full evacuation decision is made, the occupant egress elevators are placed in evacuation mode [Emergency Evacuation Operation (EEO)] and announcements are made on the affected floors. The elevators then begin to move occupants from their floor to the level of exit discharge in shuttle mode, from the highest floors downward, so that occupants with the greatest distance to travel are moved first. Should any occupants left arrive in the lobby on a floor already evacuated and push the hall call button, a single elevator would be dispatched to that floor to pick them up. Alternatively, evacuation assistance can be provided by the fire service using the access elevator under manual (FEO Phase II) operation.
+
+It is important to note that elevators can be individually recalled by the fire department versus having to require all elevators to recall simultaneously. Individual switches are now required by ASME A17.1/CSA B44 that would allow egress to continue via the elevators while the fire department is conducting operations with one or two of the elevators.
+3008.1.4 Operation. The occupant evacuation elevators shall be used for occupant self-evacuation in accordance with the occupant evacuation operation requirements in ASME A17.1/CSA B44 and the building's fire safety and evacuation plan.
+
+The use of an occupant self-evacuation elevator is only allowed until the elevator is recalled on Phase I. Once Phase I has been activated either automatically or manually, the continued use of the elevators for self-evacuation would be considered unsafe and they would no longer be available for such use. After the elevator is recalled, the building occupants served by those elevators would then need to take the exit stairways (and persons with mobility impairments would need to be evacuated by fire fighters using FEO Phase II). In some buildings, there may be multiple banks of elevators. Depending on the fire safety and evacuation plan and the particular building design, occupants could seek other elevators that have not been recalled. As discussed in the commentary to Section 3008.1.3, the use of elevators for evacuation in a building prior to Phase I is dependent on the specific building and its associated fire safety and evacuation plan.
+
+3008.2 Automatic sprinkler system. The building shall be equipped throughout with an approved, electrically supervised automatic sprinkler system in accordance with Section 903.3.1.1, except as otherwise permitted by Section 903.3.1.1.1 and as prohibited by Section 3008.2.1.
+
+All high-rise buildings are required to have a supervised sprinkler system. However, Section 3008 can apply to buildings that may or may not require such systems. This section simply ensures that all buildings using this option contain supervised sprinklered systems.
+
+===== Page 1925 =====
+3008.2.1 Prohibited locations. Automatic sprinklers shall not be installed in elevator machine rooms, machinery spaces, control rooms, control spaces and elevator hoist-ways of occupant evacuation elevators.
+
+There are a few locations wherein sprinklers may be a detriment to the use of elevators for evacuation. If sprinklers are located in a machine room, machine space, control room or control space and they activate, damage to the elevators may occur and threaten the safety of building occupants. Additionally, such spaces should be protected by smoke detection, which would initiate Phase I recall prior to sprinkler activation. See also the commentary to Section 903.3.1.1.1, Exception 6.
+
+3008.2.2 Sprinkler system monitoring. The automatic sprinkler system shall have a sprinkler control valve supervisory switch and water-flow-initiating device provided for each floor that is monitored by the building's fire alarm system.
+
+The monitoring required by this section allows the origin of the fire to be better determined and will assist in managing a fire emergency. Many of the provisions of Section 3008 are in place because using elevators for evacuation is a new concept and many safety factors were deemed necessary. In the future it is anticipated that such monitoring will assist in determining the priority for elevator location when evacuating buildings using elevators.
+
+3008.3 Water protection. Water from the operation of an automatic sprinkler system outside the enclosed lobby shall be prevented from infiltrating into the hoistway enclosure in accordance with an approved method.
+
+This section provides performance-based language to prevent water from the discharge of automatic sprinklers located outside the enclosed elevator lobby from infiltrating the hoistway opening. It is important to stress that this requirement is only for protection from sprinkler system water and not water from fire fighter hoses. Also, as a single solution may not fit in all situations, the language is performance oriented, allowing for several strategies that could be used to address this problem. Solutions include concepts such as a door sweep, trench drains, sloped floors, curbs and gasketed openings, which may be used individually or in combination. Other methods may also be available to meet this intent. It should be stressed that this section is intended to apply to the actual hoistway opening versus the walls surrounding the hoistway. The most water-sensitive aspects of the elevator are located at the hoistway opening. Further, this section does not necessarily require that the hoistway opening itself be protected. This protection could come at the entrance to the enclosed elevator lobby.
+
+3008.4 Shunt trip. Means for elevator shutdown in accordance with Section 3005.5 shall not be installed on elevator systems used for occupant evacuation elevators.
+
+A shunt trip has the possibility of inappropriately shutting down elevators that are removing people from a hazardous situation. Section 3008.2.1 prohibits sprinklers in machine rooms and machine spaces to prevent the shutdown of elevators due to water damage (see commentary, Section 3008.2.1).
+
+3008.5 Hoistway enclosure protection. Occupant evacuation elevator hoist-ways shall be located in shaft enclosures complying with Section 713.
+
+Reference is made to Section 713 of the code for the required fire resistance and construction of the hoistway enclosure. Section 713 contains fire-resistance rating requirements as well as construction requirements for shafts, which are typically the method used to satisfy the requirements for a hoistway enclosure. Section 403.2 provides additional standards, and some exceptions, for hoistway construction in high-rise buildings, but the exceptions do not apply to elevator hoistway enclosures. Also note that Section 403.2.3 would require additional structural integrity for elevator hoistway enclosures in buildings more than 128 m in building height.
+
+3008.5.1 Structural integrity of hoistway enclosures. Occupant evacuation elevator hoistway enclosures shall comply with Sections 403.2.2.1 through 403.2.2.4.
+
+The code requires special structural provisions for exit stairways and elevator shaft enclosures in super high-rise buildings [greater than 128 m in height]. It follows that the structural integrity requirements for super high-rise building exit stairway and elevator hoistway shaft enclosures should also apply to elevator hoistway shaft enclosures provided for occupant evacuation elevators, which are just as critical for life-safety protection. This new technology for evacuation of occupants must be provided with the highest level of fire protection that is reasonably possible in order to ensure that the elevators will be available during a fire emergency to serve their intended purpose of evacuating the occupants. This section requires that elevator hoistway shaft enclosures have some reasonable degree of physical protection to ensure that the hoistway shaft enclosures will remain in place during a fire or other emergency.
+
+3008.6 Occupant evacuation elevator lobby. Occupant evacuation elevators shall open into an
+
+===== Page 1926 =====
+enclosed elevator lobby in accordance with Sections 3008.6.1 through 3008.6.6. Egress is permitted through the elevator lobby in accordance with Item 1 of Section 1016.2.
+
+One of the concerns when using elevators for evacuation is the protection of occupants while they wait for elevators. Therefore, an enclosed elevator lobby is offered to occupants. As will be seen, these requirements have some similarities to the lobbies required for fire service access elevators. A major difference, however, is that lobbies be provided for all passenger elevators for general public use, not simply for one elevator designated as a fire service access elevator.
+
+Since elevators used for occupant evacuation will be at a minimum all passenger elevators for general public use in buildings, it is very likely that one of these elevators will also be the fire service access elevator. Therefore, they will likely share the same lobby and the most restrictive provisions will apply. See Table 3007.4 for a comparison of lobby requirements.
+3008.6.1 Access to interior exit stairway or ramp. The occupant evacuation elevator lobby shall have direct access from the enclosed elevator lobby to an interior exit stairway or ramp.
+
+Exceptions:
+
+1. Access to an interior exit stairway or ramp shall be permitted to be through a protected path of travel that has a level of fire protection not less than the elevator lobby enclosure. The protected path shall be separated from the enclosed elevator lobby through an opening protected by a smoke and draft control assembly in accordance with Section 716.2.2.1.
+
+2. Elevators that only service an open parking garage and the lobby of the building shall not be required to provide direct access.
+
+As with the fire service access elevators, there must be direct access to an exit enclosure from the lobby. However, the purpose is slightly different. The reason is not to facilitate firefighting activities but instead provide an exit in close proximity if the elevators are no longer available, thus facilitating a quick evacuation. This also allows those who no longer want to wait to leave via the exit stairways without having to leave the protected environment provided by the lobby enclosure.
+
+Neither Section 3007 nor 3008 prohibits the interior exit stairway directly accessed by the elevator lobbies for occupant evacuation from being the same lobby that is for the fire service access elevator. Note that occupant evacuation using elevators will be much faster than using the exit stairways and will also greatly reduce the load on the exit stairways. This decrease in evacuation time will, therefore, reduce the likelihood that the occupants and fire fighters will interfere with one another. This is especially true if the building is only being partially evacuated.
+
+Exception 1 provides flexibility for direct access to an exit stairway. Essentially, it allows a protected path equivalent to that of the enclosed elevator lobby. The opening between the lobby and protected path does still require separation with a smoke and draft control door. This helps to keep the lobby protected from smoke that could infiltrate the lobby from the protected path. Note that there is no restriction on what type of doors can open onto this protected path as long as the opening is properly protected. Such doors could include offices, bathrooms and supply closets.
+
+Exception 2 exempts elevators that only serve parking garages and the lobby of the parking garage from the requirements of this section. Requiring occupant evacuation elevators to extend from a parking garage to the main lobby was not contemplated or intended to be addressed by the requirements for occupant evacuation elevators. Such elevators were intended to address portions of the building where height became an issue for evacuation. Although it was felt that these elevators should still be available for occupant evacuation, the direct access requirement was felt to be overly restrictive for open parking garages. The direct access requirement often affects the location of the stairways, possibly leading to an additional stairway. Exception 1 requires protection be provided to that stairway, but smoke accumulation in an open parking garage is much less due to the open nature of the structure. The additional construction required to create that protected path would serve little benefit in a parking garage scenario.
+
+3008.6.2 Lobby enclosure. The occupant evacuation elevator lobby shall be enclosed with a smoke barrier having a fire-resistance rating of not less than 1 hour, except that lobby doorways shall comply with Section 3008.6.3.
+
+Exception: Enclosed occupant evacuation elevator lobbies are not required at the levels of exit discharge.
+
+The enclosure rating is the same as that required for the fire service access elevator lobby, which is a 1-hour smoke barrier. A smoke barrier provides both a fire-resistance rating and an increased level of protection from smoke. This is more specific and restrictive than the hoistway opening protection requirements found in Section 3006.3. Again, the use of elevators for evacuation makes
+
+===== Page 1927 =====
+lobbies more critical, as they are now part of the life safety systems of a building.
+
+Similar to the fire service access elevators, there is a single exception to the enclosure requirement. In the case of occupant evacuation elevators, this exception is at the level of exit discharge.
+
+3008.6.3 Lobby doorways. Other than the doors to the hoistway, elevator machine rooms, machinery spaces, control rooms and control spaces within the lobby enclosure smoke barrier, each doorway to an occupant evacuation elevator lobby shall be provided with a 3/4-hour fire door assembly complying with Section 716. The fire door assembly shall comply with the smoke and draft control assembly requirements of Section 716.2.2.1.1 and be tested in accordance with UL 1784 without an artificial bottom seal.
+
+This section requires elevator lobby doorway assemblies to be a 3/4-hour protected and comply with the applicable opening protective requirements of Section 716. The requirement for a 3/4-hour door is more restrictive than what is required for smoke barriers in Table 716.1(2). Table 716.1(2) requires a 20-minute rating for doors located in smoke barriers. The reference back to Section 716 in this section is primarily related to how the door is to be tested and the criteria for acceptance. More specifically, Section 716.2.1.4 requires doors used in smoke and draft control to be tested in accordance with UL 1784 and installed in accordance with NFPA 105.
+
+3008.6.3.1 Vision panel. A vision panel shall be installed in each fire door assembly protecting the lobby doorway. The vision panel shall consist of fire-protection-rated glazing and shall comply with the requirements of Section 716 and shall be located to furnish clear vision of the occupant evacuation elevator lobby.
+
+The vision panel allows occupants located in the elevator lobby to be aware of the conditions outside the lobby and also allows the building occupants outside the lobby to see how crowded the lobby is during a fire. If the lobby is crowded, the occupants can choose to return to the exit stairways for egress. This is not a requirement for fire service access elevators.
+
+3008.6.3.2 Door closing. Each fire door assembly protecting the lobby doorway shall be automatic-closing upon receipt of any fire alarm signal from the emergency voice/alarm communication system serving the building.
+
+In addition to providing tenability for the lobby, the automatic door closing requirement will provide a longer period of elevator use before Phase I Recall occurs. Essentially, it will delay smoke infiltrating the lobbies and the activation of the smoke detectors in the lobby. Such detectors or other fire alarm-initiating devices are among the mechanisms for the activation of Phase I Recall.
+
+3008.6.4 Lobby size. Each occupant evacuation elevator lobby shall have minimum floor area as follows:
+
+1 The occupant evacuation elevator lobby floor area shall accommodate, at 0.27 m² per person, not less than 25 percent of the occupant load of the floor area served by the lobby.
+
+2 The occupant evacuation elevator lobby floor area shall accommodate one wheelchair space of 0.75 m by 1.2 m for each 50 persons, or portion thereof, of the occupant load of the floor area served by the lobby.
+
+Exception: The size of lobbies serving multiple banks of elevators shall have the minimum floor area approved on an individual basis and shall be consistent with the building's fire safety and evacuation plan.
+
+This section provides the basic criteria for a minimum amount of lobby floor space. The lobby needs to provide space for all occupants, not just for those with a disability. Therefore, there is wheelchair space provided and also 0.27 m² per person for 25 percent of the occupant load. Some percentage of occupants may take the exit stairways, and, because of the speed of the elevator egress, the need to house the entire occupant load is unnecessary. The following is an example of how large a lobby in a story containing 200 occupants would need to be:
+
+• 200 occupants/4 (25% of occupants) = 50 occupants
+
+• 50 occupants × 0.27 m² per occupant = 13.5 m²
+
+In addition, wheelchair space is required as follows:
+
+• 200 occupants/1 wheelchair space for each 50 occupants = 4 wheelchair spaces
+
+• 4 chair spaces × 0.75 m × 1.2 m = 3.6 m²
+
+• Total square meters of lobby space = 14 m² + 3.6 m² = 17.6 m²
+
+3008.6.5 Signage. An approved sign indicating elevators are suitable for occupant self-evacuation shall be posted on all floors adjacent to each elevator call station serving occupant evacuation elevators.
+
+Since this is such a departure from what the general public has been trained to do during a fire emergency, signage is imperative to let
+
+===== Page 1928 =====
+occupants know that elevators are available for evacuation during a fire. Occupants have been historically told to take the exit stairways during a fire. Additionally, only some buildings will have this feature, so signage needs to differentiate from buildings that do not anticipate this type of evacuation procedure.
+
+3008.6.6 Two-way communication system. A two-way communication system shall be provided in each occupant evacuation elevator lobby for the purpose of initiating communication with the fire command center or an alternate location approved by the fire department. The two-way communication system shall be designed and installed in accordance with Sections 1009.8.1 and 1009.8.2.
+
+In addition to informing occupants of whether they can use the elevator in normal service or for evacuation, there needs to be a means of communication between building occupants and emergency responders. This is especially important if all people have not been able to evacuate prior to Phase I emergency recall operation. This communication system will assist in prioritizing rescue by the fire department once the elevators are no longer available for those who cannot take the exit stairways. The communication system required is the same as for an area of refuge. This provides consistency with the accessible means of egress requirements and with ICC A117.1 (See also the commentaries to Sections 3007.8 and 3008.8).
+
+3008.7 Elevator system monitoring. The occupant evacuation elevators shall be continuously monitored at the fire command center or a central control point approved by the fire department and arranged to display all of the following information:
+
+1 Floor location of each elevator car.
+
+2 Direction of travel of each elevator car.
+
+3 Status of each elevator car with respect to whether it is occupied.
+
+4 Status of normal power to the elevator equipment, elevator machinery and electrical apparatus cooling equipment where provided, elevator machine room, control room and control space ventilation and cooling equipment.
+
+5 Status of standby or emergency power system that provides backup power to the elevator equipment, elevator machinery and electrical cooling equipment where provided, elevator machine room, control room and control space ventilation and cooling equipment.
+
+6 Activation of any fire alarm initiating device in any elevator lobby, elevator machine room, machine space containing a motor controller or electric driving machine, control space, control room or elevator hoistway.
+
+The monitoring is intended for emergency responders so they can determine if there are any problems occurring where a rescue may be necessary, or that the elevators must be recalled and removed from egress service. This monitoring helps determine how many people are evacuating and at what locations, through the use of load-weighing capabilities currently found in elevators. Understanding how the people are moving will assist in prioritizing fire-fighting and rescue operations.
+
+3008.7.1 Elevator recall. The fire command center or an alternate location approved by the fire department shall be provided with the means to manually initiate a Phase I Emergency Recall of the occupant evacuation elevators in accordance with ASME A17.1/CSA B44.
+
+Buildings with occupant self-evacuation elevators must have elevator recall capability available at the fire command center or similar location in addition to the automatic recall by smoke detection and manual recall ability at the elevator itself. This gives emergency responders the ability to recall the elevators from the location from which elevator movement, and associated attributes listed in Section 3008.8, are required to be monitored.
+
+3008.8 Electrical power. The following features serving each occupant evacuation elevator shall be supplied by both normal power and Type 60/Class 2/Level 1 standby power:
+
+1 Elevator equipment.
+
+2 Ventilation and cooling equipment for elevator machine rooms, control rooms, machinery spaces and control spaces.
+
+3 Elevator car lighting.
+
+All passenger elevators used for occupant self-evacuation must be equipped with standby power. This differs from Section 3003.1.3, does not require all elevators to run simultaneously on standby power.
+
+These requirements are almost identical to those for fire service access elevators. The only difference is that fire service access elevators also require standby power for the hoistway lighting required by Section 3007.5.2.
+
+3008.8.1 Determination of standby power load. Standby power loads shall be based on the determination of the number of occupant evacuation elevators in Section 3008.1.1.
+
+The calculation of standby power loads must take into consideration the number of occupant evacuation elevators. The number of occupant
+
+===== Page 1929 =====
+evaluation elevators must comply with Section 3008.1.1.
+
+3008.8.2 Protection of wiring or cables. Wires or cables that are located outside of the elevator hoistway, machine room, control room and control space and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning, ventilation and fire-detecting systems to occupant evacuation elevators shall be protected using one of the following methods:
+
+1 Cables used for survivability of required critical circuits shall be listed in accordance with UL 2196 and shall have a fire-resistance rating of not less than 2 hours.
+
+2 Electrical circuit protective systems shall have a fire-resistance rating of not less than 2 hours. Electrical circuit protective systems shall be installed in accordance with their listing requirements.
+
+3 Construction having a fire-resistance rating of not less than 2 hours.
+
+Exception: Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase II emergency in-car operation.
+
+This section is the same as Section 3007.8.1, except that it is focused on occupant evacuation elevators (see commentary, Section 3007.8.1). Wiring or cables for all passenger elevators and other elevators that are part of the occupant evacuation system require protection. Typical buildings without occupant evacuation elevators would only provide the protection to the fire service access elevators.
+
+3008.9 Emergency voice/alarm communication system. The building shall be provided with an emergency voice/alarm communication system. The emergency voice/alarm communication system shall be accessible to the fire department. The system shall be provided in accordance with Section 907.5.2.2.
+
+Emergency voice/alarm communication systems are required in all high-rise buildings, but the application of Section 3008 is not limited to high-rise buildings. Therefore, this would be an additional requirement in some instances. Using elevators for evacuation makes such systems critical in providing appropriate information to building occupants. The actual requirements are located Chapter 9 of this code.
+
+3008.9.1 Notification appliances. Not fewer than one audible and one visible notification appliance shall be installed within each occupant evacuation elevator lobby.
+
+In addition to the normal requirements associated with emergency voice/alarm communication systems, notification appliances must also be placed within elevator lobbies. There are likely to be many people waiting in such lobbies, and it is critical that the occupants receive proper instructions and up-to-date information during an emergency.
+
+3008.10 Hazardous material areas. Building areas shall not contain hazardous materials exceeding the maximum allowable quantities per control area as addressed in Section 414.2.
+
+This section prohibits any Group H occupancies in buildings that allow the use of elevators for evacuation. This is an added precaution in buildings allowing elevators for evacuation. It simply reduces the risk of fire and other hazardous conditions that could occur in a building.
+
+===== Page 1930 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 FEMA FIA-TB #4, Elevator Installation for Buildings Located in Special Flood Hazard Areas. Washington, DC: Federal Emergency Management Agency, 2010.
+
+2 NEMA Standards Publication SB 30–2005, Fire Service Annunciator and Interface. National Electrical Manufacturers Association, 2005.
+
+3 NFIP Technical Bulletin Series. Washington, DC: National Flood Insurance Program. [Online]. Available: http://www.fema.gov/MITItechbul.htm.
+
+4 SFPE Engineering Guide, Fire Safety for Tall Buildings (SFPE/ICC 2013).
+
+5 Tubbs, J. and B. Meacham. Egress Design Solutions, A Guide to Evacuation and Crowd Management Planning. Hoboken, NJ: John Wiley and Sons, 2007.
+
+===== Page 1931 =====
+## TABLES AND FIGURES OF CHAPTER 30
+
+TABLE 3001.3
+
+ELEVATORS AND CONVEYING SYSTEMS AND COMPONENTS
+
+<table>TypeStandardAutomotive liftsALI ALCTVBelt manliftsASME A90.1Conveyors and related equipmentASME B20.1Elevators, escalators, dumbwaiters, moving walks, material liftsASME A17.1/CSA B44, ASME A17.7/CSA B44.7Belt manliftsASME A90.1Conveyors and related equipmentASME B20.1Automotive liftsALI ALCTVPlatform lifts, stairway chairlifts, wheelchair liftsASME A18.1Industrial scissors liftsANSI MH29.1</table>
+
+FIGURE 3002.3
+
+ELEVATOR CORRIDOR CALL STATION PICTOGRAPH
+
+===== Page 1932 =====
+FIGURE 3002.4(1)
+
+EXAMPLES: ELEVATOR CAR SIZING – 1600 KG PASSENGER ELEVATOR
+
+FIGURE 3002.4(2)
+
+EXAMPLES: ELEVATOR CAR SIZING – 1800 KG PASSENGER ELEVATOR
+
+===== Page 1933 =====
+FIGURE 3002.6
+ADDITIONAL DOOR IN FRONT OF HOISTWAY
+
+===== Page 1934 =====
+FIGURE 3004.2.1
+DRAFT AND SPRINKLER WATER CURTAIN
+
+===== Page 1935 =====
+
+
+===== Page 1936 =====
+<table><td colspan="3">LOBBY REQUIREMENT COMPARISONElement of LobbyFire Service Access Elevator (3007)Occupant Evacuation Elevators (3008)Lobby Size14 m minimum with 2.4-m minimum dimension0.3 m per person for 25% of occupants and 0.75-m by 1.2-m wheelchair for each 50 occupantsLobby EnclosureNot required at level(s) of exit dischargeNot required at level(s) of exit dischargeDoor3/4-hour door tested without bottom sealAutomatic closing 3/4-hour door with a vision panel tested without bottom sealWall1-hour smoke barrier1-hour smoke barrierAccessDirect access to exit enclosureDirect access to exit enclosure</table>
+
+FIGURE 3007.6
+
+LOBBY COMPARISON TABLE – FIRE SERVICES ACCESS ELEVATORS AND OCCUPANT EVACUATION ELEVATORS
+
+FIGURE 3007.6.5
+FIRE SERVICE ACCESS ELEVATOR SYMBOL
+
+===== Page 1937 =====
+This page left intentionally blank
+

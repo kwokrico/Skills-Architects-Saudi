@@ -1,0 +1,42 @@
+## FOREWORD
+
+(The information contained in this foreword is not part of this American National Standard (ANS) and has not been processed in accordance with ANSI's requirements for an ANS. As such, this foreword may contain material that has not been subjected to public review or a consensus process. In addition, it does not contain requirements necessary for conformance to the standard.)
+
+## Development
+
+The 1961 edition of ANSI Standard A117.1 presented the first criteria for accessibility to be approved as an American National Standard and was the result of research conducted by the University of Illinois under a grant from the Easter Seal Research Foundation. The National Easter Seal Society and the President's Committee on Employment of People with Disabilities became members of the Secretariat, and the 1961 edition was reaffirmed in 1971.
+
+In 1974, the U.S. Department of Housing and Urban Development joined the Secretariat and sponsored needed research, which resulted in the 1980 edition. After further revision that included a special effort to remove application criteria (scoping requirements), the 1986 edition was published. When requested in 1987, the Council of American Building Officials (CABO) assumed the Secretariat. Central to the intent of the change in the Secretariat was the development of a standard that, when adopted as part of a building code, the standard would be compatible with the building code and its enforcement. The 1998 edition largely achieved that goal. The 2017 edition of the standard is the latest example of the A117.1 committee's effort to continue developing a standard that is compatible with the building code.
+
+In 1998, CABO became the International Code Council (ICC). The International Code Council (ICC) became the secretariat in 1998 when CABO became ICC. The 2017 edition marks the 30th anniversary of the ICC Secretariat of the standard.
+
+## 2017 Edition
+
+New to the 2017 edition are enhanced dimensions for clear floor spaces and turning spaces. These increases were in response to technical data regarding the space needed by persons using scooters and some types of motorized wheelchairs. These enhanced provisions only apply to new buildings and facilities. Where existing buildings and facilities are remodeled, the historic dimensions will still apply.
+
+Other changes include exterior routes, curb cuts, blended transitions, clarity for detectable warnings, passenger drop offs and parking requirements coordinated with the Public Rights of Way Guidelines, providing an accessible design standard for electrical vehicle charging stations and enhanced safety for accessible routes crossing parking lots. Also introduced are acoustic standards for classrooms, features allowing for better communication for persons using sign language, provisions addressing the recharging of wheelchairs in assembly venues and hotels, access to gaming machines and tables, and provisions for water bottle filling stations.
+
+The new standard continues to provide coordination between the accessible provisions of this standard and the Fair Housing Accessibility Guidelines (FHAG) and the 2010 Standard for Accessible Design referenced by the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA).
+
+## ANSI Approval
+
+This Standard was processed and approved for submittal to ANSI by the Accredited Standards Committee A117 on Architectural Features and Site Design of Public Buildings and Residential Structures for Persons with Disabilities. ANSI approved the 2017 edition on March 28, 2017. Committee approval of the Standard does not necessarily imply that all Committee members voted for its approval.
+
+## Adoption
+
+ICC A117.1–2017 is available for adoption and use by jurisdictions internationally. Its use within a governmental jurisdiction is intended to be accomplished through adoption by reference in accordance with proceedings establishing the jurisdiction's laws.
+
+## Interpretations
+
+Requests for interpretations on the provisions of ICC A117.1–2017 should be addressed to: ICC, Chicago District Office, 4051 W. Flossmoor Road, Country Club Hills, IL 60478–5795.
+
+## Maintenance–Submittal of Proposals
+
+All ICC standards are revised as required by ANSI. Proposals for revising this edition are welcome. Please visit the ICC website at www.iccsafe.org for the official "Call for proposals" announcement. A proposal form and instructions can also be downloaded from www.iccsafe.org.
+
+ICC, its members and those participating in the development of ICC A117.1-2017 do not accept any liability resulting from compliance or noncompliance with the provisions of ICC A117.1-2017. ICC does not have the power or authority to police or enforce compliance with the contents of this standard. Only the governmental body that enacts this standard into law has such authority.
+
+## Marginal Markings
+
+Solid vertical lines in the margins within the body of the standard indicate a technical change from the requirements of the 2009 edition. Deletion indicators in the form of an arrow ( \( \bullet \) ) are provided in the margin where an entire section, paragraph, exception or table has been deleted or an item in a list of items or a table has been deleted.
+

@@ -1,0 +1,702 @@
+===== Page 1387 =====
+# CHAPTER 12—INTERIOR ENVIRONMENT
+
+## General Comments
+
+Chapter 12 contains provisions governing the interior environment requirements of all buildings and structures intended for human occupancy.
+
+Section 1201 identifies the scope of the chapter.
+
+Section 1202 identifies special enclosed spaces where accumulated moisture must be removed by ventilation and establishes criteria (minimum openable area) for the only method of measuring compliance with the natural ventilation requirements for occupied spaces. Section 1203 identifies the minimum space-heating requirement for interior spaces intended for human occupancy.
+
+Section 1204 requires light for every room or space intended for human occupancy. The method of compliance is the choice of the designer, who may elect to provide artificial instead of natural light. Prescriptive requirements for stairway lighting in dwelling units are also included.
+
+Section 1205 specifies the minimum requirements for courts and yards, including area width, accessibility for cleaning and the location of air intakes when natural light or natural ventilation is the chosen design option. Section 1206 establishes the sound transmission control requirements for air-borne and structure-borne sound in residential buildings.
+
+Section 1207 establishes the requirements for enhanced classroom acoustics. Where required, such enhancement of interior environments must comply with Section 808 of ICC A117.1.
+
+Section 1208 addresses interior dimensions including minimum room widths and the minimum ceiling height for all habitable and occupiable spaces along with other spaces as specified (i.e., toilet rooms and bathrooms). This Section also addresses efficiency dwelling unit specifications.
+
+Section 1209 provides minimal opening requirements for access to crawl spaces and attics.
+
+Section 1210 contains requirements for toilet room surfaces and fixture surrounds.
+
+The environmental and physiological justification for the code requirements relevant to light and ventilation of occupiable spaces is based on knowledge, technology and practices developed over centuries of building structures in which humans live and work. These design practices have been further validated by studies during the 19th and 20th centuries.
+
+## Purpose
+
+The purpose of Chapter 12 is to establish minimum conditions for the interior environment of a building. The size of spaces, light, ventilation and noise intrusion are all addressed in order to define the acceptable conditions to which any occupant may be exposed. Design options of natural and mechanical systems are introduced and the criteria for performance are specified.
+
+Even though it was not completely understood, the need for “fresh air” had been recognized for centuries. Whether the design relied on solar energy, thermal mass or even wind velocity to cause the movement, it reflected a natural movement and, as a result, has been termed “natural ventilation.” Only recently have we begun to recognize the reasons for ventilation and the implications of failing to provide an adequate quantity and acceptable quality of air for all occupants. The expression “sick building syndrome” has crept into our vocabulary and reflects the increased understanding of the relationship between interior environment requirements and the physiological well-being of the occupants.
+
+The other purpose of regulating the interior environment is psychological. Merely providing adequate conditions is not sufficient if the occupant does not perceive them as adequate. Minimum space requirements (floor area, yard dimensions or ceiling height) address the need to perceive adequate light, ventilation and space to promote psychological well-being. Regulation of sound transmission also bears directly on the psychological and long-term physical well-being of the occupant.
+
+Finally, adequate lighting from natural sources also meets the physical and psychological needs of the occupants and contributes directly to their overall safety. Safe use of any building under ordinary and emergency conditions depends greatly on proper illumination of the space. This chapter references SBC 501 as the performance standard to which ventilation must be compared and the installation standard for mechanical systems used in buildings regulated by the code.
+
+===== Page 1388 =====
+## SECTION 1201 GENERAL
+
+1201.1 Scope. The provisions of this chapter shall govern ventilation, temperature control, lighting, yards and courts, sound transmission, room dimensions, surrounding materials and rodent proofing associated with the interior spaces of buildings.
+
+This section identifies the scope of Chapter 12. The requirements of this chapter are intended to govern and regulate the need for light, ventilation, sound transmission control, interior space dimensions and materials surrounding plumbing fixtures in all buildings. It is the intent of the code that the user must comply with these regulations for all newly constructed buildings and structures and for all buildings and structures, or portions thereof, when there is to be a change of occupancy or within any additions to a building.
+
+## SECTION 1202 VENTILATION
+
+1202.1 General. Buildings shall be provided with natural ventilation in accordance with Section 1202.5, or mechanical ventilation in accordance with SBC 501.
+
+Where the air infiltration rate in a dwelling unit is less than 5 air changes per hour when tested with a blower door at a pressure 50 Pa in accordance with Section 402.4.1.2 of International Energy Conservation Code—Residential Provisions (or its equivalent in SBC 602), the dwelling unit shall be ventilated by mechanical means in accordance with Section 403 of SBC 501. Ambulatory care facilities and Group I-2 occupancies shall be ventilated by mechanical means in accordance with Section 407 of SBC 501.
+
+Every room or space must be provided with ventilation. The selection of natural or mechanical ventilation on a room-by-room or space-by-space basis is the designer's prerogative. Certain conditions require mechanical exhaust even though natural ventilation systems have been selected by the designer. Section 1202.5.2 of the code, and Sections 401.6 and 403 of SBC 501, direct the treatment of those special situations. Existence of these conditions, however, does not require providing mechanical ventilation other than to address the specific condition. Other rooms or spaces not affected by those conditions may be served by natural systems.
+
+The second paragraph requires mechanical ventilation for residences when the building has been sealed very tightly against air infiltration. The measure will be 5 air changes per hour (ACH) at 50 pascals when tested in accordance with International Energy Conservation Code (IECC) or its equivalent in SBC 601/SBC 602, which requires air leakage testing for all new residences.
+
+Indoor air quality has direct impact on the health of building occupants. Poor indoor air quality is listed by the Environmental Protection Agency (EPA) as being the fourth largest environmental threat to our country. A 2007 California study revealed formaldehyde exposure in most new homes is beyond limits recommended by the California Air Resources Board. Multiple studies have shown that relying on window operation to provide ventilation is not sufficient enough for the health of occupants. If unchecked, pollutants from cleaning chemicals, finishes, furniture and occupant activities can cause serious health effects on building occupants. Whole-house mechanical ventilation reduces occupant exposure to such pollutants.
+
+Traditionally, 0.35 natural air changes per hour has been the consensus ventilation rate to provide sufficient fresh air to building occupants. This ventilation rate was typically achieved without mechanical ventilation because homes were built without an effective air barrier. As building practices have improved, homes have become tighter, and as homes become tighter, mechanical ventilation must be introduced to provide sufficient levels of ventilation.
+
+ASHRAE 136 was developed to enable calculation of natural air changes per hour as a function of air changes at various pressures. By following the calculation procedures in this standard, it can be shown that a natural infiltration rate of 0.35 is equivalent to somewhere between 7 and 10 air changes per hour at 50 pascals (7 ACH 50 to 10 ACH 50) depending on the local climatic conditions of the home. Because most dwellings are built this tight, ASHRAE 62.2 requires mechanical ventilation for all homes, with few exceptions. However, based on ASHRAE 136, a conservative code might prescribe whole-house mechanical ventilation for any home with an infiltration leakage rate of 10 ACH 50 or less.
+
+As a second point of reference, Chapter 6 of California's 2010 Title 24 requires that "Continuous mechanical ventilation (either exhaust or supply ventilation) must be installed when the target specific leakage area (SLA) is below 3.0." California's SLA of 3.0 is roughly equivalent to 6 ACH 50. As a third point of reference, National Association of Home Builders (NAHB) National Green Building Standard requires whole-house mechanical ventilation when the infiltration rate falls below 5.0 ACH 50. This requirement provides clear recognition from a consensus standard that
+
+===== Page 1389 =====
+whole-house mechanical ventilation should be provided for all homes that meet this threshold. Based on the previous references, there is broad consensus across states and within consensus standards that whole-house mechanical ventilation should be required when a dwelling's infiltration falls below 5.0 ACH 50.
+
+The section also specifies that Group I-2 and Ambulatory Care facilities be ventilated in accordance with Section 407 of SBC 501. Section 407 of SBC 501 essentially references ASHRAE 170, which is a standard specific to the ventilation needs of health care facilities. Previously SBC 501 contained requirements for ventilation of certain spaces in healthcare facilities. A reference to a more specific standard was preferred. See the commentary to Section 407 of SBC 501.
+
+1202.2 Roof ventilation. Roof assemblies shall be ventilated in accordance with this section or shall comply with Section 1202.3.
+
+See the commentary to Sections 1202.2.1, 1202.2.2 and 1202.3.
+
+1202.2.1 Ventilated attics and rafter spaces. Enclosed attics and enclosed rafter spaces formed where ceilings are applied directly to the underside of roof framing members shall have cross ventilation for each separate space by ventilation openings protected against the entrance of rain. Blocking and bridging shall be arranged so as not to interfere with the movement of air. An airspace of not less than 25 mm shall be provided between the insulation and the roof sheathing. The net free ventilating area shall be not less than 1/150 of the area of the space ventilated. Ventilators shall be installed in accordance with manufacturer's installation instructions.
+
+Exception: The net free cross-ventilation area shall be permitted to be reduced to 1/300 provided both of the following conditions are met:
+
+1. In Climate Zones 6, 7 and 8, a Class I or II vapor retarder is installed on the warm-in-winter side of the ceiling.
+
+2. At least 40 percent and not more than 50 percent of the required venting area is provided by ventilators located in the upper portion of the attic or rafter space. Upper ventilators shall be located not more than 900 mm below the ridge or highest point of the space, measured vertically, with the balance of the ventilation provided by eave or cornice vents. Where the location of wall or roof framing members conflicts with the installation of upper ventilators, installation more than 900 mm below the ridge or highest point of the space shall be permitted.
+
+All attic spaces and each separate space formed between solid roof rafters are required to be cross ventilated where the ceiling is applied directly to the underside of the roof rafters. Care must be taken, however, to provide cross ventilation in a manner that does not introduce moisture to the attic area.
+
+where more than 50 percent of the ventilation openings are located along the ridge or gable wall of the roof rather than at the eave. When the wind blows perpendicular to a roof ridge vent, a negative pressure builds up across the ridge that draws air out of the attic space through the attic vents. Cross flow of air through the attic can be achieved when outside air is drawn into the attic through the eave or cornice and exits through the ridge or gable vents. In order for this to occur, eave or cornice vents must be greater than or equal to the area of the ridge or gable vents.
+
+Vents that permit rain to infiltrate the attic are not permitted. While there is no specific test standard for this performance aspect of vents. Balanced venting is providing at least 50 percent of the required ventilating area in the upper third of the space being ventilated (e.g., through ridge or gable vents). The balance of the required ventilation is provided by eave or cornice vents that are greater than or equal to the ventilation area provided by the ridge or gable vents. Most ridge vent manufacturers require slightly more ventilation area in the eaves than provided in the ridge vent. If insufficient eave or cornice ventilation is provided, air will be drawn through the ridge or gable vents.
+
+If an adequate amount of ventilation area in the upper portion of the space is not provided and the ventilation area is provided mainly at the eave or cornice vents, then air will enter and leave the attic space at the eave, and very little cross flow of air will occur.
+
+A test method that has been devised for ridge vent manufacturers involves the use of a 4100 mm diameter propeller of a 2,650-horsepower aircraft engine wind generator.
+
+The ventilation openings are required to be covered with corrosion-resistant mesh or similar material in accordance with Section 1202.2.1. If roof spaces are not created (e.g., solid concrete roof sections), ventilation is not required, as there is no concealed space for condensation to accumulate.
+
+The amount of area needed for ventilating a roof space is also established in this section.
+
+The following example illustrates the calculation of required ventilation areas for an attic space [see Commentary Figure 1202.2(1)]:
+
+===== Page 1390 =====
+Note: The area of the attic must include the area of the eave or soffit. The area of the attic must include the area = 100 m \( ^{2} \)
+
+Attic ventilation area= 1/150 of area
+
+Required ventilating area = 100/150 = 0.67 m²
+For application of exception:
+
+Attic ventilation area = 1/300 of area
+
+Required ventilating area = 100/300 = 0.33 m²
+Provide 50% by
+
+or roof vent
+
+Provide soffit ventilation = 0.165 m² total or 0.165/2(50) = 0.00165 m²
+
+Common methods used to provide soffit ventilation include manufactured units, strips or soffit panels and holes or slots (with screening) that meet the criteria and are approved.
+
+It is important to note that the distribution of ventilation openings should be uniform along the length of the soffits and ridge.
+
+Common methods used to provide roof ridge ventilation include manufactured roof units, ridge vents and gable louvers.
+
+Common methods used to provide soffit ventilation include manufactured units, strips or soffit panels and holes or slots (with screening) that meet the criteria and are approved.
+
+Note that the net-free ventilation area of equipment used for soffit, roof and gable ventilation must be determined. One cannot simply calculate the ventilation area based on the opening created in the roof, wall or soffit. Products vary by manufacturer, and a review of the listing and specifications is necessary to verify actual or net-free ventilation areas.
+
+Where an attic space is not created, but the ceiling membrane is applied directly to the bottom of the solid roof rafters, each rafter space is to be ventilated separately. In this type of installation, it is particularly important that cross ventilation is developed between each rafter space by providing vents at the ridge and eave [see Commentary Figure 1202.2(2)]. For small sections of roofs such as above dormers and for roofs that are flat or of very low slope, the 750 mm height difference between the highest and lowest vent locations may not be readily achievable. The designer and building official need to ensure that the ventilation openings for such roofs will result in adequate ventilation.
+
+The exception permits a reduction in the required venting area to 1/300 (as calculated in the example) where both conditions are met. Condition 1 recognizes that in cold climates, a vapor retarder is required and permits a reduction based on the vapor retarder being installed on the warm-in-winter side of the ceiling. Condition 2 requires that proper cross ventilation be supplied. Ventilators used to apply this exception are required to be in compliance with the manufacturer's instructions to be effective.
+1202.2.2 Openings into attic. Exterior openings into the attic space of any building intended for human occupancy shall be protected to prevent the entry of birds, squirrels, rodents, snakes and other similar creatures. Openings for ventilation having a least dimension of not less than 1.6 mm and not more than 6.4 mm shall be permitted. Openings for ventilation having a least dimension larger than 6.4 mm shall be provided with corrosion-resistant wire cloth screening, hardware cloth, perforated vinyl or similar material with openings having a least dimension of not less than 1.6 mm and not more than 6.4 mm. Where combustion air is obtained from an attic area, it shall be in accordance with Chapter 7 of SBC 501.
+
+Ventilation openings that would permit the entrance of small animals into the structure must be protected in accordance with this section. Hardware cloth is a particular kind of metal wire cloth screening, and perforated vinyl is a plastic screening or grid with openings of similar dimensions. Metal or vinyl are specified because of their resistance to deterioration over time. Therefore, whatever material is used, it must be nondeteriorating in addition to having the least dimension of the minimum and maximum openings of 3.2 mm and 6.4 mm, respectively.
+
+Combustion air is air supplied to the room where a fuel-burning appliance is located in order that combustion of the fuel can take place in a safe and complete manner. Chapter 7 of SBC 501 permits combustion air to be taken from an attic space that is ventilated by openings to the exterior, under certain conditions. Those conditions are based on the configuration of the attic space and the ventilation openings themselves (see Chapter 7 of SBC 501 and commentary for more information).
+
+1202.3 Unvented attic and unvented enclosed rafter assemblies. Unvented attics and unvented enclosed roof framing assemblies created by ceilings applied directly to the underside of the roof framing members/rafters and the structural roof sheathing at the top of the roof framing members shall be permitted where all of the following conditions are met:
+
+1 The unvented attic space is completely within the building thermal envelope.
+
+2 No interior Class I vapor retarders are installed on the ceiling side (attic floor) of the unvented attic assembly or on the ceiling side of the unvented enclosed roof framing assembly.
+
+===== Page 1391 =====
+3 Where wood shingles or shakes are used, not less than a 6.4 mm vented airspace separates the shingles or shakes and the roofing underlayment above the structural sheathing.
+
+4 In Climate Zones 5, 6, 7 and 8, any air-impermeable insulation shall be a Class II vapor retarder or shall have a Class II vapor retarder coating or covering in direct contact with the underside of the insulation.
+
+5 Insulation shall comply with either Item 5.1 or 5.2, and additionally Item 5.3:
+
+5.1 Item 5.1.1, 5.1.2, 5.1.3 or 5.1.4 shall be met, depending on the air permeability of the insulation directly under the structural roof sheathing.
+
+5.1.1 Where only air-impermeable insulation is provided, it shall be applied in direct contact with the underside of the structural roof sheathing.
+
+5.1.2 Where air-permeable insulation is provided inside the building thermal envelope, it shall be installed in accordance with Item 5.1.1. In addition to the air-permeable insulation installed directly below the structural sheathing, rigid board or sheet insulation shall be installed directly above the structural roof sheathing in accordance with the R-values in Table 1202.3 for condensation control.
+
+5.1.3 Where both air-impermeable and air-permeable insulation are provided, the air-impermeable insulation shall be applied in direct contact with the underside of the structural roof sheathing in accordance with Item 5.1.1 and shall be in accordance with the R-values in Table 1202.3 for condensation control. The air-permeable insulation shall be installed directly under the air-impermeable insulation.
+
+5.1.4 Alternatively, sufficient rigid board or sheet insulation shall be installed directly above the structural roof sheathing to maintain the monthly average temperature of the underside of the structural roof sheathing above  \( 7^{\circ} \) C. For calculation purposes, an interior air temperature of  \( 20^{\circ} \) C is assumed and the exterior air temperature is assumed to be the monthly average outside air temperature of the three coldest months.
+
+5.2 In Climate Zones 1, 2 and 3, air-permeable insulation installed in unvented attics shall meet the following requirements:
+
+5.2.1 A vapor diffusion port shall be installed not more than 300 mm from the highest point of the roof, measured vertically from the highest point of the roof to the lower edge of the port.
+
+5.2.2 The port area shall be greater than or equal to 1/600 of the ceiling area. Where there are multiple ports in the attic, the sum of the port areas shall be greater than or equal to the area requirement.
+
+5.2.3 The vapor permeable membrane in the vapor diffusion port shall have a vapor permeance rating of greater than or equal to 20 perms when tested in accordance with Procedure A of ASTM E96.
+
+5.2.4 The vapor diffusion port shall serve as an air barrier between the attic and the exterior of the building.
+
+5.2.5 The vapor diffusion port shall protect the attic against the entrance of rain.
+
+5.2.6 Framing members and blocking shall not block the free flow of water vapor to the port. Not less than a 50 mm space shall be provided between any blocking and the roof sheathing. Air-permeable insulation shall be permitted within that space.
+
+5.2.7 The roof slope shall be greater than or equal to 3 units vertical in 12 units horizontal (3:12).
+
+5.2.8 Where only air-permeable insulation is used, it shall be installed directly below the structural roof sheathing, on top the attic floor, or on top of the ceiling.
+
+5.2.9 Where only air-permeable insulation is used and is installed directly below the structural roof sheathing, air shall be supplied at a flow rate greater than or equal to 23.6 Liters per second per 100 m \( ^{2} \)  of ceiling.
+
+===== Page 1392 =====
+5.3 The air shall be supplied from ductwork providing supply air to the occupiable space when the conditioning system is operating. Alternatively, the air shall be supplied by a supply fan when the conditioning system is operating. Where preformed insulation board is used as the air-impermeable insulation layer, it shall be sealed at the perimeter of each individual sheet interior surface to form a continuous layer.
+
+Exceptions:
+
+1. Section 1202.3 does not apply to special use structures or enclosures such as swimming pool enclosures, data processing centers, hospitals or art galleries.
+
+2. Section 1202.3 does not apply to enclosures in Climate Zones 5 through 8 that are humidified beyond 35 percent during the three coldest months.
+
+Unvented attics are attics where the insulation and air barrier boundary are moved to be directly above the attic space, instead of on top of the ceiling. Unvented attics eliminate the extreme temperatures of the attic, thereby placing the HVAC, ducts, pipes, and anything in the attic space into a more favorable environment. Unvented attics increase energy efficiency and decrease wear and tear on equipment in the attic. This section describes attics where the insulation and air barrier are above instead of below the attic space. Moving the insulation and placing an air-impermeable barrier above the attic moderates attic conditions so they are similar to the conditions of the residential space below. The primary benefit of having the insulation and air barrier above the attic is that ducts and HVAC equipment in the attic are not delivering cooled air through a hot summer attic and heated air through a cold winter attic. Another benefit is to eliminate the attic vents that sometimes allow moisture to condense inside the attic, admit rain during extreme weather and possibly admit sparks in fires.
+
+Because this space is inside the building's thermal envelope, the traditional attic ventilation required by Section 1202.2 is not required. Unvented attics require water/moisture control. Water moves in (or out) of buildings three main ways. The greatest amount of moisture is moved as bulk water (rain or any kind of water flow). Less moisture is moved by moving moist air, such as with infiltration. The least amount of moisture is moved by moisture migration through materials. As with any attic, the roof itself is the main barrier for keeping water from entering the attic.
+The provisions of this section can be applied to any attic area that is in compliance with this section. The attic is a traditional attic space, with the exception that it need not be ventilated, and it will not get as hot or as cold as an attic that is open to the exterior. It is very important that all of the five listed conditions be reviewed and considered for each building that uses the provisions of this section.
+
+Item 1 requires that the attic space be completely contained within the building thermal envelope.
+
+Item 2, which applies to all climate zones, prohibits the installation of a vapor retarder where it is typically installed at the ceiling level (attic floor) of a traditional ventilated attic. This assures that no barrier is installed that would separate the conditioned attic area from the remaining portion of the home. This requirement gives the attic space a limited potential to dry into the space beneath the attic so that small amounts of excess moisture can be removed from the attic. A sheet of polyurethane film or any material with a foil film facing are examples of vapor barriers that are not permitted on the attic floor.
+
+Item 3 applies to all climate zones and contains special requirements that apply to wood shingle and shake roof coverings. Wood shakes and shingles require a vented space under them to allow the wood to dry after it gets wet from rain. Item 4 applies only to Climate Zone 5 or higher. The air-impermeable insulation must qualify as a vapor retarder or have a vapor retarder in direct contact with the insulation on the underside (interior) face of the insulation.
+
+Item 5 requires sufficient insulation to keep moisture from condensing on the “condensing surface” inside the attic in “average conditions.” The insulation works to prevent condensation by keeping the condensing surface above the temperature where condensation will occur. Small amounts of condensation may occasionally occur at more extreme conditions; however, this is not a concern. The condensing surface is the interior side of the roof deck for air-permeable insulation and the interior of the insulation for air-impermeable insulation. The condensing surfaces differ because attic air can circulate through air-permeable insulation to contact the roof deck but can get only to the interior of air-impermeable insulation. The requirement for “airimpermeable” insulation will ensure that air and the moisture it can contain will not pass through the insulation to reach a point where it could condense because of the temperature. Item 5.1 specifies that air-impermeable insulation be in direct contact with the interior side of the roof deck. Air-impermeable insulation prevents the movement
+
+===== Page 1393 =====
+of moist air that comes in as infiltration through the roof into the interior of the attic. Air-impermeable insulation is defined as having an air permanence of 0.02 L/s-m2 (at 75 Pa pressure) or less. Expanding spray foams and insulated sheathing (hard-foam sheathing board) are common types of air-impermeable insulation. Fiberglass and cellulose are common types of air-permeable insulation. Because the insulation typically used with this provision is some type of foam plastic, the requirements of Section 2603 must be applied. The provisions of Section 1202.3 do not in any way modify or eliminate the requirements for a thermal barrier (Section 2603.4). Ducts in this unintended attic construction would be considered as being inside the building thermal envelope and would not require insulation. Item 5.2 allows the use of air-permeable insulation such as blown cellulose, fiberglass bats, and blown fiberglass to construct unintended attic assemblies using a vapor diffusion port/vent in Climate Zones 1, 2 and 3. These provisions are consistent with those allowed in the IRC. These allowances are based on research and historic experience over the past decade. The port acts as a moisture control measure, allowing moisture in the attic to be removed by vapor diffusion rather than by air change. This allows the attic assembly to remain airtight while providing a path for vapor moisture via vapor diffusion. This also allows alternatives to rigid board and spray polyurethane foam.
+
+Item 5.2 also allows insulation to be above the ceiling or on the attic floor. With air-permeable insulation the insulation can be installed directly to the underside of the roof deck or at the floor or ceiling level of an attic assembly, as moisture laden air is more buoyant than dry air and therefore the moisture will accumulate at the ridge and exit via the vapor diffusion port.
+
+The intent of Item 5.3 is addressing air supply where it is required in Item 5.2. Additionally, Item 5.3 addresses preformed insulated sheathing. More specifically, where using insulated sheathing, attention to the details of completing the air sealing is required as the sheathing is installed in the roof.
+
+The provisions of this Section consider the attic assembly as a “conditioned” space; there is no requirement for the space to be provided with conditioned air supply. The attic space is considered indirectly conditioned because of omission of the air barrier, insulation at the ceiling and leakage around the attic access opening. An attic assembly complying with Section 1202.3 will generally fall within the temperature ranges specified in the definition of “Conditioned space.”
+The key concept of this Section is to move the thermal envelope (insulation) above the attic, resulting in the attic being in a conditioned (or sometimes semi-conditioned) space. Direct air supply to the attic is not required if the attic floor is not insulated; the attic temperature would be similar to interior conditioned spaces. Ducts and HVAC equipment in the attic also help moderate the attic conditions.
+
+See TABLE 1202.3.
+
+This table is to be used with Section 1202.3. Items 5.1.2 and 5.1.3, in determining the correct R-value to prevent condensation inside the building thermal envelope.
+
+1202.4 Under-floor ventilation. The space between the bottom of the floor joists and the earth under any building except spaces occupied by basements or cellars shall be provided with ventilation in accordance with Section 1202.4.1, 1202.4.2 or 1202.4.3.
+
+The intent of Sections 1202.4 through 1202.4.4 is to create an adequate flow of air through crawl spaces to achieve the ventilation goals of controlling temperature, humidity and accumulation of gases. The entire space must be properly ventilated by openings that are distributed to effect cross flow and include corner areas. Although the code does not specify the exact location of openings, an equal distribution of openings on at least three sides of a building, with at least one opening near each corner of the building, is typically sufficient. The ventilation must comply with one of the methods provided by Sections 1202.4.1, 1202.4.2 and 1202.4.3. Ventilation in flood hazard areas must also comply with Section 1202.4.4.
+
+1202.4.1 Ventilation openings. Ventilation openings through foundation walls shall be provided. The openings shall be placed so as to provide cross ventilation of the under-floor space. The net area of ventilation openings shall be in accordance with Section 1202.4.1.1 or 1202.4.1.2. Ventilation openings shall be covered for their height and width with any of the following materials, provided that the least dimension of the covering shall be not greater than 6.4 mm:
+
+1 Perforated sheet metal plates not less than 1.8 mm thick.
+
+2 Expanded sheet metal plates not less than 1.2 mm thick.
+
+3 Cast-iron grilles or gratings.
+
+4 Extruded load-bearing vents.
+
+5 Hardware cloth of 0.90 mm wire or heavier.
+
+6 Corrosion-resistant wire mesh, with the least dimension not greater than 3.2 mm.
+
+===== Page 1394 =====
+7 Operable louvres, where ventilation is provided in accordance with Section 1202.4.1.2.
+
+Crawl spaces that are intended to be naturally ventilated to the outdoors must comply with this Section and Section 1202.4.1.1, where the crawl space has open earth floors, or with this Section and Section 1202.4.1.2, where the crawl space has covered floors.
+
+The requirement for covering the openings with perforated plates, corrosion-resistant wire mesh or other covering is to keep small animals out. Seven alternatives are given for this covering, and they all must have openings that have no dimension exceeding 6.4 mm.
+
+1202.4.1.1 Ventilation area for crawl spaces with open earth floors. The net area of ventilation openings for crawl spaces with uncovered earth floors shall be not less than  \( 0.67 \, m^{2} \)  for each  \( 100 \, m^{2} \)  of crawl space area.
+
+For crawl spaces with open earth floors, openings for natural ventilation must have a total ventilation opening area that is at least 0.093 m² for every 14 m² of crawl space area. Example: A rectangular building that is 18 m long and 6 m wide has a plan area of 108 m². The amount of ventilation opening required is 108/150 = 0.72 m² by 0.093 m² per 0.72 m². This is the aggregate (total) amount of ventilation opening area that must be distributed among all the openings.
+
+The total area of the openings required by this section may be reduced by a factor of 10 where a vapor retarder is used on the ground surface in accordance with Section 1202.4.1.2.
+
+1202.4.1.2 Ventilation area for crawl spaces with covered floors. The net area of ventilation openings for crawl spaces with the ground surface covered with a Class I vapor retarder shall be not less than 0.67 m² for each 1000 m² of crawl space area.
+
+For crawl spaces with floors covered with a Class 1 vapor retarder, openings for natural ventilation must have a total ventilation opening area of at least  \( 0.67 \, m^{2} \)  for each 1000 m \( ^{2} \)  of crawl space area.
+
+The use of a Class I vapor retarder material on the ground surface inhibits the flow of moisture from the ground surface into the crawl space and thus reduces, if not virtually eliminates, the need for ventilation.
+
+Example: A rectangular building that is 18 m long and 6 m wide has a plan area of 108 m². The amount of ventilation opening area required is 108/1,500 = 0.072 m² by 0.093 m² 0.074 m². This is the aggregate (total) amount of ventilation opening area that must be distributed among all the openings.
+1202.4.2 Ventilation in cold climates. In extremely cold climates, where a ventilation opening will cause a detrimental loss of energy, ventilation openings to the interior of the structure shall be provided.
+
+Where warranted by extremely cold climates, this section provides for ventilating the crawl space to the interior conditioned space of the building, which is heated and can accept moisture from the underground space without detrimental effects on the building structure.
+
+1202.4.3 Mechanical ventilation.
+Mechanical ventilation shall be provided to crawl spaces where the ground surface is covered with a Class I vapor retarder. Ventilation shall be in accordance with Section 1202.4.3.1 or 1202.4.3.2.
+
+Mechanical ventilating devices can be installed to force air movement and ventilate crawl spaces. In this scenario, the location and number of ventilation openings are less critical. The area of ventilation openings required is drastically reduced where a vapor retarder, as required by this section, is used on the ground surface in the crawl space. The mechanical ventilation must comply with either Section 1202.4.3.1 or Section 1202.4.3.2.
+
+1202.4.3.1 Continuous mechanical ventilation. Continuously operated mechanical ventilation shall be provided at a rate of 1.02 L/s for each  \( 10 \, m^{2} \)  of crawl space ground surface area and the ground surface shall be covered with a Class I vapor retarder.
+
+This section provides for the use of mechanical ventilation, such as an exhaust fan similar to a bathroom exhaust fan, to keep air moving through the crawl space. A Class I vapor retarder on the ground surface is also required when using this section.
+
+1202.4.3.2 Conditioned space. The crawl space shall be conditioned in accordance with SBC 501 and the walls of the crawl space shall be insulated in accordance with the International Energy Conservation Code (or its equivalent in SBC 601 or SBC 602).
+
+Where a crawl space is provided with a Class I vapor retarder on the ground surface and is mechanically conditioned and insulated, it becomes like any other space in the conditioned structure and, as such, does not require ventilation openings. Requirements for insulating crawl spaces are found in the IECC (or its equivalent in SBC 601 or SBC 602).
+
+1202.4.4 Flood hazard areas. For buildings in flood hazard areas the openings for under-floor ventilation shall be deemed as meeting the flood opening requirements of ASCE 24 provided that the ventilation
+
+===== Page 1395 =====
+openings are designed and installed in accordance with ASCE 24.
+
+This section allows the openings used to ventilate crawl spaces to also serve as flood openings, where the openings also comply with ASCE 24. Section 1612 of the code requires buildings located in flood hazard areas to be constructed in accordance with ASCE 24. This section is necessary to coordinate the requirements for openings in ASCE 24 with requirements for crawl space ventilation. In most cases, the ventilation requirements of Section 1202.4 are not satisfied by installation of the flood openings because the requirements in ASCE 24 specify that flood openings are to be no more than 300 mm above the adjacent grade, while most airflow vents that meet the requirements of Section 1202.4 are installed immediately below the elevated floor. If there is a sufficient number of airflow vents located within 300 mm of the adjacent grade, both requirements may be satisfied. In either case, both airflow ventilation and flood opening requirements must be met for buildings and structures located in flood hazard areas. For further guidance, refer to FEMA FIA-TB-1, Openings in Foundation Walls for Buildings Located in Special Flood Hazard Areas.
+
+1202.5 Natural ventilation. Natural ventilation of an occupied space shall be through windows, doors, louvres or other openings to the outdoors. The operating mechanism for such openings shall be provided with ready access so that the openings are readily controllable by the building occupants.
+
+This section provides the standard of natural ventilation for all occupied spaces. Openings to the outdoor air, such as doors, windows and louvres, provide natural ventilation. The section does not, however, state or intend that the doors, windows or openings actually be constantly open. The intent is that they be maintained in an operable condition so that they are available for use at the discretion of the occupant.
+
+1202.5.1 Ventilation area required. The openable area of the openings to the outdoors shall be not less than 4 percent of the floor area being ventilated.
+
+This section specifies the ratio of openable doors, windows or openings to the floor space being ventilated but does not address the distribution around the space or location of these openings. It is the designer's prerogative to distribute openings in such a manner as to accomplish the natural ventilation of the space. When inadequate natural ventilation is provided, mechanical ventilation can supplement any inadequacy (see Chapter 4 of SBC 501). The plan reviewer can determine compliance with this section. For example, in Commentary Figure 1202.5.1, the combined openable area (the net-free area of a door, window, louver, vent or skylight, etc., when fully open) of double-hung windows B and C is equal to 4 percent of the floor area  \( [36 \times 0.04 = 1.44 \, \text{m}^2] \) . The openable area of window A is not required and need not open onto a court or yard complying with Section 1205.
+
+1202.5.1.1 Adjoining spaces. Where rooms and spaces without openings to the outdoors are ventilated through an adjoining room, the opening to the adjoining room shall be unobstructed and shall have an area of not less than 8 percent of the floor area of the interior room or space, but not less than 2.3 m \( ^{2} \) . The openable area of the openings to the outdoors shall be based on the total floor area being ventilated.
+
+Exception: Exterior openings required for ventilation shall be permitted to open into a sunroom with thermal isolation or a patio cover provided that the openable area between the sunroom addition or patio cover and the interior room shall have an area of not less than 8 percent of the floor area of the interior room or space, but not less than 1.86 m \( ^{2} \) . The openable area of the openings to the outdoors shall be based on the total floor area being ventilated.
+
+Adjacent spaces with large connecting openings may share sources of light and ventilation. This section deals with the natural ventilation of connecting interior spaces, and it is the designer's obligation to place openings between rooms with exterior openings and connecting spaces without exterior openings in such a manner as to accomplish natural ventilation of the connected space. For purposes of ventilation, this section establishes a minimum openness requirement for the common wall between a room with openings to the exterior and an interior room without openings to the exterior. The minimum amount of openness required in that common wall is 8 percent of the floor area of the interior room or 2.3 m \( ^{2} \) , whichever is greater. The openable area of the exterior openings in the "outer" room is required to be equal to or greater than 4 percent (in accordance with Section 1202.5.1) of the total combined floor areas served.
+
+Commentary Figure 1202.5.1.1 shows a cutaway of an interior room (Space A) adjacent to a room with openings to the exterior (Space B). The openable area of exterior openings in Space B is required to be equal to or greater than 0.04 times the area of the entire space.
+
+===== Page 1396 =====
+(floor area of Space A plus floor area of interior Space B). The opening in the wall between adjacent spaces must be a minimum of 2.3 m², but not less than 0.08 times the floor area of interior Space A. Since the opening between the adjacent spaces must be unobstructed in accordance with this section, a door cannot be installed in the opening.
+
+The exception deals with a very common circumstance, especially in residential construction. As long as the sunroom is large enough and is thermally isolated, the building owner need not move ventilation openings when installing an addition that falls within the definition of "Sunroom." Sunrooms can be part of initial construction.
+
+## 1202.5.1.2 Openings below grade. Where
+
+openings below grade provide required natural ventilation, the outside horizontal clear space measured perpendicular to the opening shall be one and one-half times the depth of the opening. The depth of the opening shall be measured from the average adjoining ground level to the bottom of the opening.
+
+This section is applicable where occupied spaces below grade are dependent on natural ventilation through structures such as window wells. In order to provide adequate ventilation, this section sets the minimum horizontal clear space adjacent to the opening used for natural ventilation. Without this minimum horizontal area, there will be inadequate air movement through the opening.
+
+As illustrated in Commentary Figure 1202.5.1.2, the opening area required for the story below grade intended for human occupancy is:
+
+A = 0.04 (L × W)
+
+The area of the window in the vertical plane (w × h) must equal or exceed the required opening area. Additionally, the horizontal dimension from the window to the well wall must equal one and one-half times the depth of the openable portion of the window at the lowest point. If the story below grade is not intended for human occupancy, ventilation is required to be provided in accordance with Section 1202.4 for under-floor spaces.
+
+## 1202.5.2 Contaminants exhausted.
+
+Contaminant sources in naturally ventilated spaces shall be removed in accordance with SBC 501 and SBC 801.
+
+Contaminants in the air are to be collected and exhausted by special means. Chapters 4 and 5 of SBC 501 specify areas or conditions that must be separately addressed. For example, there are many operations listed in Chapter 5 of SBC 501 that produce contaminants that cannot be properly or safely treated by natural means. Natural ventilation only anticipates normal occupancy by people and not the extra heat loads, dust, vapors and other contaminants generated by some activities.
+
+1202.5.2.1 Bathrooms. Rooms containing bathtubs, showers, spas and similar bathing fixtures shall be mechanically ventilated in accordance with SBC 501.
+
+Chapter 4 of SBC 501 contains provisions for bathroom ventilation, requiring mechanical exhaust without recirculation of air at specific rates that depend on the occupancy group.
+
+1202.5.3 Openings on yards or courts. Where natural ventilation is to be provided by openings onto yards or courts, such yards or courts shall comply with Section 1205.
+
+To ensure that adequate air movement will be provided through openings to naturally ventilated rooms, the openings must directly connect to yards or courts with the minimum dimensions specified in Section 1205.
+
+1202.6 Other ventilation and exhaust systems. Ventilation and exhaust systems for occupancies and operations involving flammable or combustible hazards or other contaminant sources as covered in SBC 501 or SBC 801 shall be provided as required by both codes.
+
+Chapter 5 of SBC 501 contains specific provisions for hazardous exhaust systems in occupancies such as vehicle repair garages, aircraft fueling stations, dry cleaning plants, spray-painting operations and hazardous production materials (HPM) facilities. Many of these provisions are duplicated from SBC 801, which also contains provisions for the handling and storage of hazardous materials.
+
+## SECTION 1203 TEMPERATURE CONTROL
+
+1203.1 Equipment and systems. Interior spaces intended for human occupancy shall be provided with active or passive space heating systems capable of maintaining an indoor temperature of not less than  \( 20^{\circ} \) C at a point 900 mm above the floor on the design heating day.
+
+Exceptions: Space heating systems are not required for:
+
+1. Interior spaces where the primary purpose of the space is not associated with human comfort.
+
+2. Group F, H, S or U occupancies.
+
+Heating facilities are required for comfort in all new construction. The systems may be either active (such as a forced-air furnace) or passive (such as solar systems), as long as the specified performance is achieved.
+
+The outdoor design temperatures are taken from the ASHRAE Handbook of Fundamentals
+
+===== Page 1397 =====
+and are listed in Appendix D of SBC 701. Outdoor design temperatures provide a baseline from which heat load calculations are made. Heating system capacity is dependent on the predicted outdoor temperatures during the heating season. As the outdoor temperature falls, the heat input to a building must increase to offset the increasing heat losses through the building envelope. Heating systems are designed to have the capacity to maintain the desired indoor temperature when the outdoor temperature is at or above the outdoor design temperature. When the outdoor temperatures are below the outdoor design temperature, the heating system will not be able to maintain a desired indoor temperature. It would be impractical, for example, to design a heating system based on the assumption that someday it might be -29°C outdoors if the outdoor temperature in that region rarely, if ever, dropped that low. In such a case, the heating system would be oversized and, thereby, less efficient and economical.
+
+The winter outdoor design temperature is defined as follows: for 97.5 percent of the total hours in the northern hemisphere heating season, from December through February, the predicted outdoor temperatures will be at or above the values given in Appendix D of SBC 701. It would be unreasonable to expect any heating system to maintain a desired indoor temperature when the outdoor temperature is below the design temperature. When the 97.5-percent column in Appendix D of SBC 701 is used, it can be assumed that the actual outdoor temperature will be at or below the design temperature for roughly 54 hours of the total of 2,160 hours in the months of December through February (2.5 percent of 2,160 hours = 54).
+
+Exception 1 recognizes that not all interior spaces are associated with human comfort by the nature of their uses, such as a commercial cooler or freezer. These and similar spaces would not require heating systems.
+
+Exception 2 specifically exempts Group F, H, S or U occupancies from the heating requirement in SBC 201. The requirement for heating in these uses is governed by OSHA regulations (Groups F, H and S) or is not needed (Group U) or, in some cases, not desired (Group H). As an example, in the past there have been incidents of industrial bakeries being required to install heating systems in rooms that contain ovens.
+
+## SECTION 1204 LIGHTING
+
+1204.1 General. Every space intended for human occupancy shall be provided with natural light by means of exterior glazed openings in accordance with Section 1204.2 or shall be provided with artificial light in accordance with Section 1204.3. Exterior glazed openings shall open directly onto a public way or onto a yard or court in accordance with Section 1205.
+
+This section establishes that an option can be exercised on a room-by-room or space-by-space basis. The option allows the designer to provide either natural light in accordance with this chapter or equivalent levels of artificial lighting.
+
+1204.2 Natural light. The minimum net glazed area shall be not less than 8 percent of the floor area of the room served.
+
+This section establishes the minimum glazed area required based on the floor area served by the window. This is required only for spaces that are not provided with artificial light in accordance with Section 1204.3. It is the intent of the code to establish this ratio as the minimum glazed opening onto yards or courts, in accordance with Section 1204.1.
+
+the floor area served. This ratio was derived from certain architectural styles that yielded adequate light and ventilation. However, this is a more-than-adequate amount and has been reduced to the current levels because of energy conservation issues. Openings in excess of that minimum area are permitted to open onto areas other than a complying court or yard. In Commentary Figure 1202.5.1, the room dimensions are 4.5 m by 6 m, or 27.5 m² of area. If windows B and C are double hung, with a combined glazed area of 2.3 m², they provide the minimum area required of 8 percent of the floor area (2.3/27.5 = 0.08). In this example, glazing unit A is not required for natural light; therefore, it need not face onto a required yard or court.
+
+1204.2.1 Adjoining spaces. For the purpose of natural lighting, any room is permitted to be considered as a portion of an adjoining room where one-half of the area of the common wall is open and unobstructed and provides an opening of not less than one-tenth of the floor area of the interior room or 2.3 m², whichever is greater.
+
+Exception: Openings required for natural light shall be permitted to open into a sunroom with thermal isolation or a patio cover where the common wall provides a glazed area of not less than one-tenth of the floor area of the interior room or 1.86 m², whichever is greater.
+
+In a case where a space (or room) has no glazed area open to the required courts or yards but is adjacent to one that does, it may “borrow” natural lighting from the adjacent space if:
+
+===== Page 1398 =====
+1. The wall between the adjoining spaces is at least one-half open and unobstructed.
+
+2. The opening equals at least 10 percent of the floor area of the interior space.
+
+3. The opening is not less than 2.3 m².
+
+The required glazed area facing the required court or yard must not be less than 8 percent of the total floor area of all rooms served. For example, in Commentary Figure 1204.2.1, the glazed area in Space B is required to be equal to or greater than 0.08 (floor area of Space A + floor area of Space B).
+
+In the figure, the opening between the adjacent spaces must meet these three criteria: the wall must be at least half open and unobstructed, it must be a minimum of 2.3 m², and it must be not less than one-tenth of the floor area of Space A.
+
+The exception deals with a very common circumstance, especially in residential construction. As long as the sunroom is large enough and is thermally isolated, the building owner need not move openings for lighting when installing an addition that falls within the definition of "Sunroom." Note that sunrooms can also be part of the initial construction of a building.
+
+1204.2.2 Exterior openings. Exterior openings required by Section 1204.2 for natural light shall open directly onto a public way, yard or court, as set forth in Section 1205.
+
+Exceptions:
+
+1. Required exterior openings are permitted to open into a roofed porch where the porch meets all of the following criteria:
+
+1.1. Abuts a public way, yard or court.
+
+1.2. Has a ceiling height of not less than 2.1 m.
+
+1.3. Has a longer side at least 65 percent open and unobstructed.
+
+2. Skylights are not required to open directly onto a public way, yard or court.
+
+In order that enough light will be provided through openings to naturally lit rooms, the openings must open onto yards or courts with the minimum dimensions specified in Section 1205. Skylights admit light directly from above and, therefore, are not required to face a court or yard in accordance with Exception 2. Exception 1 gives the criteria by which a roofed porch may be located directly outside required openings without significantly obstructing the entrance of light to the space.
+
+1204.3 Artificial light. Artificial light shall be provided that is adequate to provide an average illumination of 107 lux over the area of the room at a height of 750 mm above the floor level.
+The section establishes the minimum required illumination for rooms without the minimum required natural light (see Commentary Figure 1204.3). Please note that Section 1008.2 requires 11 lux of light at the walking surface of all means of egress.
+
+1204.4 Stairway illumination. Stairways within dwelling units and exterior stairways serving a dwelling unit shall have an illumination level on tread runs of not less than 11 lux. Stairways in other occupancies shall be governed by Chapter 10.
+
+Illumination is essential for stairway safety during normal use, as well as during egress in an emergency. The lighting must be operable by switches in the vicinity of the stairway, located as required by NFPA 70 (or its equivalent in SBC 401). Emergency egress lighting, also referred to as "means of egress illumination," is required in occupancies other than dwelling units at a lower rate of illumination (see commentary, Sections 1008 and 1204.5).
+
+1204.4.1 Controls. The control for activation of the required stairway lighting shall be in accordance with NFPA 70 (or its equivalent in SBC 401).
+
+NFPA 70 (or its equivalent in SBC 401) provides for controls at the top and bottom of stairways within dwelling units, allowing an occupant to illuminate the stairways before traversing any stairways, regardless of the direction of travel. Illuminated switches, where required, allow an occupant to quickly find the switches when the stairways are dark.
+
+Illumination controls for exterior stairways that are operable from the inside of a dwelling unit allow an occupant to safely egress by activating exterior stairway illumination prior to leaving the building. Exterior stairways must be provided with the minimum illumination level specified in Section 1204.4.
+
+1204.5 Emergency egress lighting. The means of egress shall be illuminated in accordance with Section 1008.1.
+
+Means of egress illumination is required in all buildings to allow occupants enough light to negotiate the exit access (such as corridors) and exits (such as enclosed stairways) at all times the building is occupied (see commentary, Section 1008.1).
+
+## SECTION 1205 YARDS OR COURTS
+
+1205.1 General. This section shall apply to yards and courts adjacent to exterior openings that provide natural light or ventilation. Such yards and courts shall be on the same lot as the building.
+
+These provisions are intended to regulate those exterior areas of a building or structure that are supposed to supply required natural
+
+===== Page 1399 =====
+light or ventilation to interior spaces. These requirements are intended to increase the likelihood that the exterior walls are provided with enough adjacent open space to allow the required light and ventilating air to freely enter the exterior wall openings. These exterior areas are defined as "Courts" and "Yards." Courts and yards must be open, uncovered and on the same lot as the building. They may be either partly or wholly enclosed by the building. Requirements are provided in Section 1205, which regulates the minimum width, area, air intake and drainage of courts and yards. The requirements of Sections 1205.2 through 1205.3.3 do not apply if artificial ventilation or lighting is provided for the spaces opening onto the court or yard in accordance with Section 1202.1 or 1204.1. See Commentary Figure 1205.1 for examples of courts and yards.
+
+1205.2 Yards. Yards shall be not less than 900 mm in width for buildings two stories or less above grade plane. For buildings more than two stories above grade plane, the minimum width of the yard shall be increased at the rate of 300 mm for each additional story. For buildings exceeding 14 stories above grade plane, the required width of the yard shall be computed on the basis of 14 stories above grade plane.
+
+A yard is distinguished from a court by the definitions in Chapter 2 (see commentary, Chapter 2). A court is bounded on at least three sides by exterior building walls or similar enclosing devices, whereas a yard is typically located between a building and a lot line and is open on at least two sides or ends (see Commentary Figure 1205.1).
+
+The required width of a yard is measured perpendicular from the face of the wall to the opposing wall on the other side of the yard. A five-story building would be required to have a yard at least 1800 mm in width [900 mm plus 300 mm each for stories three through five]. A 20-story building is required to have a yard at least 4500 mm [900 mm plus 300 mm each for stories three through 14]. The last sentence of the Section simply requires a minimum yard width of 4500 mm for all buildings over 14 stories in height. If the building is adjacent to a court rather than a yard, the requirements of Section 1205.3 apply. Neither Section 1205.2 nor 1205.3 is applicable if artificial lighting and ventilation is provided for spaces facing the yard or court in accordance with Sections 1202.1 and 1204.1. Note that the stories are measured above grade plane.
+
+1205.3 Courts. Courts shall be not less than 900 mm in width. Courts having windows opening on opposite sides shall be not less than 1800 mm in width. Courts shall be not less than 3000 mm in length unless bounded on one end by a public way or yard. For buildings more than two stories above grade plane, the court shall be increased 300 mm in width and 600 mm in length for each additional story. For buildings exceeding 14 stories above grade plane, the required dimensions shall be computed on the basis of 14 stories above grade plane.
+
+“Courts” are defined in Chapter 2 as being bounded on no less than three sides by walls or other enclosing construction. A court adjacent to a five-story building would be required to have a width measured perpendicular from the wall facing the court of at least 1800 mm where required openings are on one wall and 2700 mm where required openings are on opposing walls [900 mm plus 300 mm each for stories three through five, or 1800 mm plus 300 mm each for stories three through five]. If the same court is bounded on all sides, the required minimum length would be 4800 mm [3000 mm plus 600 mm each for stories three through five]. The last sentence simply requires all buildings higher than 14 stories to have a minimum court width of 4500 mm without opposing required openings, a minimum width of 5500 mm where required openings oppose each other and a minimum length of 10360 mm if bounded on all sides [width equals 900 mm or 1800 mm plus 300 mm each for stories three through 14, and length equals 3000 mm plus 600 mm each for stories three through 14]. The requirements of this Section are not applicable if artificial lighting and ventilation are provided for spaces facing the court in accordance with Sections 1202.1 and 1204.1. Note that the stories are measured above grade plane. See Commentary Figure 1205.1 for examples of court dimensions.
+
+1205.3.1 Court access. Access shall be provided to the bottom of courts for cleaning purposes.
+
+Courts must be accessed for maintenance. Clearly, a court intended to be a source of ventilation air must be maintained in a manner conducive to its purpose.
+
+1205.3.2 Air intake. Courts more than two stories in height shall be provided with a horizontal air intake at the bottom not less than 1.0 m \( ^{2} \)  in area and leading to the exterior of the building unless abutting a yard or public way.
+
+This Section is applicable only to courts that are bounded on all four sides by walls or other construction. A fully bounded court takes on characteristics similar to a chimney during summer weather when the building mass is
+
+===== Page 1400 =====
+heated from the daytime sun. In order for a fully bounded court to function as an efficient source of natural ventilation, the bottom of the court must have a source of fresh air (similar to a chimney). This source of fresh air is supplied through the required opening of  \( 1.0 \, m^{2} \)  connected directly to a street or yard. The requirements of this Section are not applicable if artificial lighting and ventilation are provided for spaces facing the court in accordance with Sections 1202.1 and 1205.1.
+
+1205.3.3 Court drainage. The bottom of every court shall be properly graded and drained to a public sewer or other approved disposal system complying with SBC 701.
+
+A court is an inherent water trap. A court that is not both graded and drained will accumulate water and remain in a saturated condition, which will promote an insanitary condition, including odors. Stagnant water is often a breeding ground for disease-carrying insects. Based on the design and nature of the soil after construction, paving the court may be the best solution to eliminate a problem.
+
+## SECTION 1206 SOUND TRANSMISSION
+
+1206.1 Scope. This section shall apply to common interior walls, partitions and floor/ceiling assemblies between adjacent dwelling units and sleeping units or between dwelling units and sleeping units and adjacent public areas.
+
+Since noise transmission can be quantified and affects the quality of life, the code incorporates regulations that address noise transmission in multiple-family residential construction, wherein the occupants may have no control over noise. The regulated components of construction are those through which noise is primarily transmitted.
+
+1206.2 Air-borne sound. Walls, partitions and floor-ceiling assemblies separating dwelling units and sleeping units from each other or from public or service areas shall have a sound transmission class of not less than 50 where tested in accordance with ASTM E90, or have a Normalized Noise Isolation Class (NNIC) rating of not less than 45 if field tested, in accordance with ASTM E336 for airborne noise. Alternatively, the sound transmission class of walls, partitions and floor-ceiling assemblies shall be established by engineering analysis based on a comparison of walls, partitions and floor-ceiling assemblies having sound transmission class ratings as determined by the test procedures set forth in ASTM E90. Penetrations or openings in construction assemblies for piping; electrical devices; recessed cabinets; bathtubs; soffits; or heating, ventilating or exhaust ducts shall be sealed, lined, insulated or otherwise treated to maintain the required ratings. This requirement shall not apply to entrance doors; however, such doors shall be tight fitting to the frame and sill.
+
+The code requires common walls between dwelling units and sleeping units, and between dwelling units and sleeping units and public areas, to have a minimum sound transmission class (STC) or a minimum Normalized Noise Isolation Class (NNIC) rating.
+
+The code provides two options: ASTM E90, which is a laboratory measurement; or ASTM E336, which is a field test.
+
+An STC of 50 is required where tested in accordance with ASTM E90. The STC is a measure of an assembly's ability to resist sound transmission. The higher the number (rating), the higher the resistance (less sound transmission). An NNIC rating of not less than 45 is required when tested in accordance with ASTM E336.
+
+Many standard architectural wall construction assemblies have been previously tested for sound transmission ratings. Construction specifications will usually say if they have been tested. Airborne noise originates in the air, such as voice or music. For structure-borne sound, see the commentary to Section 1206.3.
+
+As a rule, vertical assemblies meeting the requirements of this Section consist of double walls or walls containing insulation similar to exterior walls.
+
+The performance alternative provided by this Section recognizes the current practice of STC interpolation based on data from testing performed in accordance with ASTM E90. It mirrors provisions of Sections 703.2.2 and 703.2.3, which provide a similar engineering analysis alternative for establishing fire-resistance ratings, thereby providing flexibility for designers.
+
+1206.2.1 Masonry. The sound transmission class of concrete masonry and clay masonry assemblies shall be calculated in accordance with TMS 302 or determined through testing in accordance with ASTM E90.
+
+The STC values found in the referenced standard TMS 0302 are derived from laboratory testing of masonry assemblies in accordance with ASTM E90. This reference provides a quicker alternative for compliance with the STC ratings required by Section 1206.2 of the code for masonry and clay masonry assemblies.
+
+1206.3 Structure-borne sound. Floor-ceiling assemblies between dwelling units and sleeping units or between a dwelling unit or sleeping unit and a public or service area within the structure shall
+
+===== Page 1401 =====
+have an impact insulation class rating of not less than 50 where tested in accordance with ASTM E492, or have a Normalized Impact Sound Rating (NISR) of not less than 45 if field tested in accordance with ASTM E1007. Alternatively, the impact insulation class of floor-ceiling assemblies shall be established by engineering analysis based on a comparison of floor-ceiling assemblies having impact insulation class ratings as determined by the test procedures in ASTM E492.
+
+The impact insulation class (IIC) is a measure of an assembly's ability to resist sound transmission. The higher the number (rating), the higher the resistance (less sound transmission). Floors between dwelling units and sleeping units and those floors between dwelling units and sleeping units and public areas are required to have a minimum IIC rating based on which test is applied. There are two test methods permitted: a laboratory test, ASTM E492; and a field test, ASTM E1007. A minimum impact insulation class rating of 50 is required where tested in accordance with ASTM E492. A Normalized Impact Sound Rating (NISR) of not less than 45 is required when tested in accordance with ASTM E1007. There are various resource documents containing STC ratings and IIC ratings, including the following: GA 600, Fire Resistance Design Manual, by the Gypsum Association; NCMA TEK 69A, New Data on Sound Reduction with Concrete Masonry Walls, by the National Concrete Masonry Association; and BIA TN 5A, Sound Insulation—Clay Masonry Walls, by the Brick Institute of America.
+
+The performance alternative provided by this Section recognizes the current practice of STC and IIC interpolation based on data from testing performed in accordance with ASTM E492. It mirrors provisions of Sections 703.2.2 and 703.2.3, which provide a similar engineering analysis alternative for establishing fire-resistance ratings, thereby providing flexibility for designers.
+
+## SECTION 1207 ENHANCED
+
+## CLASSROOM ACOUSTICS
+
+1207.1 General. Enhanced classroom acoustics, where required by this Section, shall comply with Section 808 of ICC A117.1.
+
+This Section sets up requirements for interior environments. This Section is located here and not in Chapter 11 because of the benefits of these provisions for young children. This is consistent with the codes' history of mainstreaming requirements that may be related to accessibility but should apply broadly.
+Research shows that good classroom acoustics are essential to support language acquisition and learning for all children, particularly younger children. For children who have hearing loss and those who use cochlear implants there is no substitute for a good acoustic environment. Assistive technologies typically only amplify the teacher and do not amplify discussions among children or between the teacher and individual child. Children with disabilities not related to hearing, such as autism and learning disabilities may be adversely affected by high ambient noise levels. Students that use a different language at home will also be able to listen more closely to fully understand the teacher and benefit from conversation among peers. Teachers report that a good acoustic environment actually assists in controlling the classroom, reducing the need to raise their voices, and promotes more civil behavior among students. Thus, good acoustic and low background noise in a classroom benefit everyone.
+
+1207.2 Where required. In Group E occupancies, enhanced classroom acoustics shall be provided in all classrooms with a volume of 565 m \( ^{3} \)  or less.
+
+The standard size elementary classroom holds 25 to 30 students. Many states specify the minimum size at 65 square meter, assuming 20 children in a room. The recommended size for a self-contained classroom is 75 to 90 square meters for grade school and 65 to 78 square meters for secondary school. Some researchers recommend up to 5 square meters per child as optimum, or 150 square meters for a 30-child classroom. Classrooms that are used for activities such as band, orchestra, choir or gym are significantly larger. Some lecture rooms in colleges are large enough to accommodate several hundred students.
+
+The technical criteria for classroom acoustics in ICC A117.1 are limited to classrooms with a size under 565 cubic meter; assuming a 3 m ceiling height, such classrooms would be 185 square meters or less. While acoustics may be important to these larger classrooms, the criteria in ICC A117.1 Section 808 are intended to be applicable to standard-sized self-contained classrooms. These criteria are also not intended to apply to ancillary learning spaces, such as individual tutoring spaces, or other spaces where students may be, such as corridors or cafeterias.
+
+Technical criteria include a maximum reverberation time—achieved through either a performance or prescriptive method. The criteria also consider other sound sources such as ambient sound and sound sources inside and outside the classrooms.
+
+===== Page 1402 =====
+## SECTION 1208 INTERIOR
+DIMENSIONS
+
+1208.1 Minimum room widths. Habitable spaces, other than a kitchen, shall be not less than 2100 mm in any plan dimension. Kitchens shall have a clear passageway of not less than 900 mm between counter fronts and appliances or counter fronts and walls.
+
+This provision specifies the minimum horizontal dimensions required for all habitable rooms. Any room that functions as a living room, bedroom, dining room or any other similar habitable room must be sized such that a cylinder with a diameter of 2100 mm may be placed in it. Only kitchens are exempt from this requirement. This code provision allows the circulation of ventilation air through the space while maintaining reasonably sized living quarters for the occupants. "Habitable space" is defined in Chapter 2. Smaller spaces, such as bathrooms and hallways, do not need to meet the minimum room width requirements because they are not considered habitable rooms.
+
+1208.2 Minimum ceiling heights. Occupiable spaces, habitable spaces and corridors shall have a ceiling height of not less than 2250 mm above the finished floor. Bathrooms, toilet rooms, kitchens, storage rooms and laundry rooms shall have a ceiling height of not less than 2100 mm above the finished floor.
+
+Exceptions:
+
+1. In one- and two-family dwellings, beams or girders spaced not less than 1200 mm on center shall be permitted to project not more than 150 mm below the required ceiling height.
+
+2. If any room in a building has a sloped ceiling, the prescribed ceiling height for the room is required in one-half the area thereof. Any portion of the room measuring less than 1500 mm from the finished floor to the ceiling shall not be included in any computation of the minimum area thereof.
+
+3. The height of mezzanines and spaces below mezzanines shall be in accordance with Section 505.1.
+
+4. Corridors contained within a dwelling unit or sleeping unit in a Group R occupancy shall have a ceiling height of not less than 2100 mm above the finished floor.
+
+Occupiable spaces or rooms (including habitable spaces) are required to have a specific minimum ceiling height. Bathrooms, toilet rooms, kitchens, storage rooms and laundry rooms are permitted to have a lower minimum ceiling height in accordance with this section. Ceiling height is one of the variables that affects the circulation of air in a space. Additionally, there is a psychological need for spaciousness in a living space or in one of the accessory spaces.
+
+Commentary Figure 1208.2.1 illustrates the application of Exception 1 for beams and girders spaced no more than 1200 mm on center in one- and two-family dwellings.
+
+Commentary Figure 1208.2(2) illustrates the application of Exception 2. Rooms with sloped ceilings are required to meet two distinct conditions. First, the area of the room having a floor-to-ceiling clearance of less than 1500 mm does not contribute to the minimum floor area required by Section 1208.3. Second, at least one-half of the actual total area of the room must meet the minimum ceiling height requirements of Section 1208.2 [see Commentary Figure 1208.2(2)].
+
+Exception 3 is consistent with Section 505.1, which establishes the minimum ceiling height for mezzanines at 2100 mm. In accordance with Section 505.2, mezzanines cannot exceed one-third of the area of the room in which they are located.
+
+Finally, Exception 4 allows corridors in Group R occupancies to be 2100 mm. This is consistent with SBC 1101/1102.
+
+1208.2.1 Faturated ceiling. Any room with a fumed ceiling shall be required to have the minimum ceiling height in two-thirds of the area thereof, but in no case shall the height of the fumed ceiling be less than 2100 mm.
+
+This Section applies only to rooms required to have a ceiling height of not less than 2250 mm. In Commentary Figure 1208.2.1, floor area A1 must be greater than or equal to two-thirds  \( \times \)  (length times width). Note that only those ceiling heights furthered to a height of less than 2250 mm affect area A1.
+
+1208.3 Room area. Every dwelling unit shall have no fewer than one room that shall have not less than 11.2 m² of net floor area. Other habitable rooms shall have a net floor area of not less than 6.5 m².
+
+Exception: Kitchens are not required to be of a minimum floor area.
+
+This section applies only to dwelling units. A minimum area of 11.2 m² for at least one room of each dwelling unit and a minimum of 6.5 m² for all other habitable rooms, except kitchens, are the minimum standards for habitable rooms. These minimums reflect the physiological requirements of light and ventilation and also preserve the individual's perception of space and the elements necessary for a psychological sense of well-being. The code does not regulate the
+
+===== Page 1403 =====
+minimum area of rooms and spaces in other than residential occupancies.
+
+The exception permits smaller kitchens in dwelling units built under the code. There is no minimum area or dimension required for kitchens.
+
+1208.4 Efficiency dwelling units. Efficiency dwelling units shall conform to the requirements of the code except as modified herein:
+
+1 The unit shall have a living room of not less than 17.7 m \( ^{2} \)  of floor area.
+
+2 The unit shall be provided with a separate closet.
+
+3 For other than Accessible, Type A and Type B dwelling units, the unit shall be provided with a kitchen sink, cooking appliance and refrigerator, each having a clear working space of not less than 750 mm in front. Light and ventilation conforming to this code shall be provided.
+
+4 The unit shall be provided with a separate bathroom containing a water closet, lavatory and bathtub or shower.
+
+Efficiency dwelling units are very small apartments consisting of one room and a bathroom. These units provide all permanent provisions for living, sleeping, eating and cooking in a single room. There are four minimum criteria in this Section for efficiency dwelling units. Efficiency units that comply with this Section are not required to comply with the minimum area requirements in Section 1208.3.
+
+The purpose of both efficiency units and this Section is to provide a combined use of spaces in an economical or “efficient” manner without jeopardizing health or comfort. This is possible because of the occupant limitation. For Item 1, the living room/habitable space requirement of an efficiency dwelling unit is 17.5 square meter of floor area.
+
+In addition to the living room, the apartment must have a separate closet and bathroom. There are no minimum area requirements for these spaces; however, the fixture clearances in the bathroom must be as required in SBC 701. There is not a requirement for a separate kitchen, but if the required sink and appliances are located in the living room, they cannot encroach on the required minimum floor space. Item 3 requires a clear working space of 750 mm in front of the kitchen sink, cooking appliance and refrigerator for other than Accessible, Type A or B units. Item 3 also would require light and ventilation to comply as it does for any dwelling unit in this code.
+
+## SECTION 1209 ACCESS TO UNOCCUPIED SPACES
+
+1209.1 Crawl spaces. Crawl spaces shall be provided with not fewer than one access opening that shall be not less than 450 mm by 600 mm.
+
+The requirements of this section establish 450 mm by 600 mm as the minimum size opening for crawl spaces. If access is through a wall, the 450 mm minimum would be the height and the 600 mm minimum would be the width.
+
+Items such as plumbing and wiring installations pass through crawl spaces at times. Required initial and periodic inspections, and repairs cannot be carried out without access to such crawl spaces.
+
+1209.2 Attic spaces. An opening not less than 560 mm by 760 mm shall be provided to any attic area having a clear height of over 760 mm. Clear headroom of not less than 760 mm shall be provided in the attic space at or above the access opening.
+
+Access to the attic provides a convenient and nondestructive means for fire department personnel to visually check for an attic fire and, if need be, gain entry to the concealed spaces and suppress a fire. Access to attic spaces can be provided through the ceiling within each compartment that is created by draftstops or through openings within the draftstops themselves. Openings located within the draftstop are required to be self-closing and the opening protective must provide structural fire integrity (the ability to remain in place) similar to the draftstop. Access is required when the attic space has a clear height greater than 760 mm measured from the top of the ceiling joists (or top of the floor sheathing, if present) to the underside of the roof rafters.
+
+1209.3 Mechanical appliances. Access to mechanical appliances installed in under-floor areas, in attic spaces and on roofs or elevated structures shall be in accordance with SBC 501.
+
+Access to mechanical appliances is needed to maintain and service the equipment. See Section 306 in SBC 501 for detailed requirements.
+
+## SECTION 1210 TOILET AND BATHROOM REQUIREMENTS
+
+1210.1 Required fixtures. The number and type of plumbing fixtures provided in any occupancy shall comply with Chapter 29.
+
+The minimum number of plumbing fixtures depends on the occupant load and use of the building. Chapter 29 contains a table for determination of the number of facilities.
+
+1210.2 Finish materials. Walls, floors and partitions in toilet and bathrooms shall comply with Sections 1210.2.1 through 1210.2.4.
+
+===== Page 1404 =====
+See commentary to Sections 1210.2.1 through 1210.2.4.
+
+1210.2.1 Floors and wall bases. In other than dwelling units, toilet, bathing and shower room floor finish materials shall have a smooth, hard, non-absorbent surface. The intersections of such floors with walls shall have a smooth, hard, non-absorbent vertical base that extends upward onto the walls not less than 100 mm.
+
+The purpose of this requirement is to provide non-absorbent surfaces that can be maintained in a sanitary condition. The 150 mm extension of the surface up the surrounding walls is so that the wall will not absorb moisture during cleaning and, thus, will be left in a clean condition. This provision does not require that the same material that is on the floor be extended up the wall. As long as the wall material is smooth, hard and non-absorbent, and there is adequate seal between the materials to restrict moisture from getting behind the surface material and into the wall construction, the intent of the requirement should be met.
+
+1210.2.2 Walls and partitions. Walls and partitions within 600 mm of service sinks, urinals and water closets shall have a smooth, hard, non-absorbent surface, to a height of not less than 1200 mm above the floor, and except for structural elements, the materials used in such walls shall be of a type that is not adversely affected by moisture.
+
+Exception: This section does not apply to the following buildings and spaces:
+
+1. Dwelling units and sleeping units.
+
+2. Toilet rooms that are not accessible to the public and that have not more than one water closet.
+
+Accessories such as grab bars, towel bars, paper dispensers and soap dishes, provided on or within walls, shall be installed and sealed to protect structural elements from moisture.
+
+The walls and partitions near urinals and water closets must have the surface specified in this section since they are subject to moisture. Exception 1 recognizes that water closet facilities in dwelling units and sleeping units are not exposed to as much use as those that serve the public and, thus, are easier to maintain. Exception 2 acknowledges that toilet fixtures that do not serve the public are also subject to less use. This section requires protection of the structural supports for accessories so that they will maintain their strength.
+
+1210.2.3 Showers. Shower compartments and walls above bathtubs with installed shower heads shall be finished with a smooth, non-absorbent surface to a height not less than 1800 mm above the drain inlet.
+
+The 1800 mm requirement in this section is based on the height of the shower compartment and walls that are exposed to significant moisture that would cause the surface to become insanitary over a long period of time. This height is consistent with SBC 1101/1102.
+
+1210.2.4 Waterproof joints. Built-in tubs with showers shall have waterproof joints between the tub and adjacent wall.
+
+The joint between the tub and wall must be sealed to prevent moisture from getting into the supporting floor and framing. Waterproof joints are also needed to keep the concealed area of the wall in a sanitary condition.
+
+1210.3 Privacy. Public restrooms shall be visually screened from outside entry or exit doorways to ensure user privacy within the restroom. This provision shall also apply where mirrors would compromise personal privacy. Privacy at water closets and urinals shall be provided in accordance with Sections 1210.3.1 and 1210.3.2.
+
+Exception: Visual screening shall not be required for single-occupant toilet rooms with a lockable door.
+
+For most people, a certain amount of privacy in public facilities is desirable. For some, it is imperative. This Section requires that users be screened from direct or mirror view by those outside the restroom. This Section provides requirements for water-closet compartments and urinal dividers.
+
+1210.3.1 Water closet compartment. Each water closet utilized by the public or employees shall occupy a separate compartment with walls or partitions and a door enclosing the fixtures to ensure privacy.
+
+Exceptions:
+
+1. Water closet compartments shall not be required in a single-occupant toilet room with a lockable door.
+
+2. Toilet rooms located in child day care facilities and containing two or more water closets shall be permitted to have one water closet without an enclosing compartment.
+
+3. This provision is not applicable to toilet areas located within Group I-3 occupancy housing areas.
+
+Psychological studies have proven that lack of privacy places a burden on an individual's physical ability to use bathroom facilities. This is caused by uneasiness, inhibition or indignation. A partitioned compartment can provide the necessary privacy. Also, a single-occupant toilet room with a lockable door can
+
+===== Page 1405 =====
+provide the required privacy as stated in Exception 1. Exception 2, allowing an unenclosed water closet in a childcare facility, recognizes the need for people to be able to assist children. Exception 3 was added to allow for security personal to better monitor for illicit activities of inmates in Group I-3 occupancies.
+
+1210.3.2 Urinal partitions. Each urinal utilized by the public or employees shall occupy a separate area with walls or partitions to provide privacy. The walls or partitions shall begin at a height not more than 300 mm from and extend not less than 1500 mm above the finished floor surface. The walls or partitions shall extend from the wall surface at each side of the urinal not less than 450 mm or to a point not less than 150 mm beyond the outermost front lip of the urinal measured from the finished backwall surface, whichever is greater.
+
+Exceptions:
+
+1. Urinal partitions shall not be required in a single-occupant or family or assisted-use toilet room with a lockable door.
+
+2. Toilet rooms located in child day care facilities and containing two or more urinals shall be permitted to have one urinal without partitions.
+
+Users of urinals in a public toilet room need to be afforded a level of privacy for the reasons stated in the commentary for Section 1210.3.1. In addition, partitions aid in protecting adjacent users from splash. Because of the likelihood of splashing, the partition surfaces must be designed so that they can be easily cleaned and sanitized during normal restroom maintenance. Exception 1 assumes that in a single-occupant toilet room or a family/assisted-use toilet room privacy is afforded by locking the door. Exception 2 allows day care and childcare centers to have one urinal out of two or more urinals in a toilet room to be without partitions. This affords care providers the ability to assist or supervise certain children with use of the urinal (e.g., those just learning to use a urinal or those with difficult clothing arrangements). Where urinal partitions are provided, occupants are more inclined to use a urinal rather than a water closet for urination. This will result in less soiling of water closet seats and surrounding surfaces. Note that where partitions are used, the distance from the center of the urinal to the face of the partition must be at least 375 mm. The thickness of partitions cannot encroach into the required spaces for fixtures.
+
+===== Page 1406 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 BIA TN 5A-83, Sound Insulation—Clay Masonry Walls. Reston, VA: Brick Institute of America, 1983.
+
+2 FEMA FIA-TB 1, Openings in Foundation Walls for Buildings Located in Special Flood Hazard Areas. Washington, DC: Federal Emergency Management Agency, 2008.
+
+3 GA 600-06, Fire Resistance Design Manual. Evanston, IL: Gypsum Association, 2006.
+
+4 NCMA TEK 69A-92, New Data on Sound Reduction with Concrete Masonry Walls. Herndon, VA: National Concrete Masonry Association, 1992.
+
+===== Page 1407 =====
+## TABLES AND FIGURES OF CHAPTER 12
+
+TABLE 1202.3
+
+INSULATION FOR CONDESATION CONTROL
+
+<table>CLIMATE ZONEMINIMUM R-VALUE OF AIR-IMPERMEABLE INSULATIONa2 and 3 tile roof only0 (none required)1, 2, 2, 3, 3, 3R-54R-104, 4R-155R-206R-257R-308R-35</table>
+
+a. Contributes to, but does not supersede, thermal resistance requirements for attic and roof assemblies in Section C402.2.1 of the International Energy Conservation Code (or its equivalent in SBC 601/SBC 602).
+
+FIGURE 1202.2(1)
+
+COMBINATION OF SOFFIT AND RIDGE VENTS
+
+===== Page 1408 =====
+FIGURE 1202.2(2)
+VENTILATION OF RAFTER SPACE
+
+FIGURE 1202.5.1
+NATURAL LIGHT AND VENTILATION WINDOWS
+
+FIGURE 1202.5.1.1
+NATURAL VENTILATION FROM ADJOINING SPACE
+
+===== Page 1409 =====
+FIGURE 1202.5.1.2
+VENTILATION OPENINGS BELOW GRADE
+
+FIGURE 1204.2.1
+NATURAL LIGHT FROM ADJACENT SPACE
+
+===== Page 1410 =====
+FIGURE 1204.3
+ARTIFICIAL LIGHTING IN A ROOM
+
+<table>Number of StoriesMinimum width of yard in meter (a)1 or 20.931.241.551.862.172.482.793.0103.3113.6123.9134.2144.515 or more4.5</table>
+
+FIGURE 1205.1
+YARDS AND COURTS
+
+===== Page 1411 =====
+FIGURE 1208.2(1)
+MINIMUM CEILING HEIGHT— ALLOWABLE PROJECTIONS IN ONE- AND TWO-FAMILY DWELLINGS
+
+===== Page 1412 =====
+ \( \frac{1}{2}(A_{1}+A_{2}) \)  MUST HAVE A MINIMUM CEILING HEIGHT IN ACCORDANCE WITH SECTION 1207.2
+
+FIGURE 1208.2(2)
+SLOPED CEILING HEIGHTS
+
+===== Page 1413 =====
+This page left intentionally blank
+

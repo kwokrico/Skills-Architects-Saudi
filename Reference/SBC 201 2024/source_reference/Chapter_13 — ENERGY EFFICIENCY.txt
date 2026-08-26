@@ -1,0 +1,28 @@
+===== Page 1414 =====
+# CHAPTER 13—ENERGY EFFICIENCY
+
+## General Comments
+
+Chapter 13 provides for the design and construction of energy-efficient buildings and structures or portions thereof intended primarily for human occupancy by direct reference to the Saudi Energy Conservation Code (SBC 601 and SBC 602).
+
+## Purpose
+
+The purpose of Chapter 13 is to provide minimum design requirements that will promote efficient utilization of energy in building construction. The requirements are directed toward the design of building envelopes with adequate thermal resistance and low air leakage, and toward the design and selection of mechanical, service water heating, electrical and illumination systems that will promote the effective use of depletable energy resources and encourage the use of nondepletable energy resources.
+
+## SECTION 1301 GENERAL
+
+1301.1 Scope. This chapter governs the design and construction of buildings for energy efficiency.
+
+The scope of Chapter 13 is applicable to all buildings and structures, as well as their components and systems that are regulated by SBC 601 and SBC 602. SBC 601 and SBC 602 thereby address the design of energy-efficient building envelopes, and the selection and installation of energy-efficient mechanical, service-water heating, electrical distribution and illumination systems and equipment for the effective use of energy in both residential and commercial buildings.
+
+1301.1.1 Criteria. Buildings shall be designed and constructed in accordance with the Saudi Energy Conservation Code (SBC 601 and SBC 602).
+
+The energy conservation requirements of this chapter rely exclusively on the technical provisions of SBC 601 and SBC 602. Compliance with SBC 601 and SBC 602 is the sole means of demonstrating compliance with the technical provisions of Chapter 13.
+
+The climate basis is derived from geographical zones that are based on multiple climate variables (so that both heating and cooling considerations are accommodated).
+
+SBC 601 and SBC 602 are designed, to the extent practicable, to incorporate aspects of the latest building science regarding energy efficiency and its effects on moisture control and durability.
+
+===== Page 1415 =====
+This page left intentionally blank
+

@@ -1,0 +1,871 @@
+# CHAPTER 10
+RECREATIONAL FACILITIES
+
+## User Note: Chapters 10 and 11 were interchanged in placement in the standard.
+
+## SECTION 1001
+
+## GENERAL
+
+## 1001.1 Scope.
+
+Recreational facilities required to be accessible by the scoping provisions adopted by the administrative authority shall comply with the applicable provisions of Chapter 10.
+
+## 1001.2 Special provisions.
+
+## 1001.2.1 General exceptions. INSIGHTS
+
+The following shall not be required to comply with this standard or to be on an accessible route:
+
+1. Raised structures used solely for refereeing, judging, or scoring a sport.
+
+2. Water slides.
+
+3. Animal containment areas that are not for public use.
+
+4. Raised boxing or wrestling rings.
+
+5. Raised diving boards and diving platforms.
+
+6. Bowling lanes that are not required to provide wheelchair spaces.
+
+7. Mobile or portable amusement rides
+
+8. Amusement rides that are controlled or operated by the rider.
+
+9. Amusement rides designed primarily for children, where children are assisted on and off the ride by an adult.
+
+10. Amusement rides that do not provide amusement ride seats.
+
+11. Shooting facilities with firing positions on free-standing platforms that are elevated above grade 12 feet (3660 mm) minimum provided that the aggregate area of elevated firing positions is 500 square feet (46 m \( ^{2} \) ) maximum.
+
+
+## 1001.2.2 Area of sport activity.
+
+Areas of sport activity shall be served by an accessible route and shall not be required to be accessible except as provided in this chapter. Within areas of sports activity exempted in this chapter, the floor and ground surfaces shall not be required to comply with Section 302. Within areas of sports activity exempted in this chapter, changes in level shall not be required to comply with Section 303.
+
+## 1001.3 Protruding objects.
+
+Protruding objects on circulation paths shall comply with Section 307.
+
+## Exceptions:
+
+1. Within areas of sport activity, protruding objects on circulation paths shall not be required to comply with Section 307.
+
+2. Within play areas, protruding objects on circulation paths shall not be required to comply with Section 307 provided that ground level accessible routes provide vertical clearance complying with Section 1008.2.
+
+## 1001.4 Animal containment areas.
+
+Within animal containment areas not exempted by Section 1001.2.1, floor and ground surfaces shall not be required to be stable, firm and slip resistant. Animal containment areas not exempted by Section 1001.2.1 shall not be required to comply with Section 303.
+
+## SECTION 1002
+
+## AMUSEMENT RIDES
+
+## 1002.1 General.
+
+Amusement rides shall comply with Section 1002.
+
+## 1002.2 Accessible routes.
+
+Accessible routes serving amusement rides shall comply with Chapter 4.
+
+## Exceptions:
+
+1. In load or unload areas and on amusement rides, where complying with Section 405.2 is not structurally or operationally feasible, ramp slope shall be permitted to be 1:8 maximum.
+
+2. In load or unload areas and on amusement rides, handrails provided along walking surfaces complying with Section 403 and required on ramps complying with Section 405 shall not be required to comply with Section 505 where complying is not structurally or operationally feasible.
+
+## 1002.3 Load and unload areas.
+
+A turning space complying with Sections 304.2 and 304.3 shall be provided in load and unload areas.
+
+## 1002.4 Wheelchair spaces in amusement rides.
+
+Wheelchair spaces in amusement rides shall comply with Section 1002.4.
+
+## 1002.4.1 Floor surface.
+
+The floor surface of wheelchair spaces shall be stable and firm.
+
+## 1002.4.2 Slope.
+
+The floor surface of wheelchair spaces shall have a slope not steeper than 1:48 when in the load and unload position.
+
+Floors of amusement rides with wheelchair spaces and floors of load and unload areas shall be coordinated so that, when amusement rides are at rest in the load and unload position, the vertical difference between the floors shall be within plus or minus  \( \frac{5}{8} \)  inch (16 mm) and the horizontal gap shall be 3 inches (75 mm) maximum under normal passenger load conditions.
+
+Exception: Where complying is not operationally or structurally feasible, ramps, bridge plates, or similar devices complying with the applicable requirements of 36 CFR 1192.83(c), listed in Section 106.2.1, shall be provided. Handrails on the ramps, bridge plates or similar devices are permitted to comply with either the requirements of Section 505 or the requirements of 36 CFR 1192.83(c).
+
+## 1002.4.4 Clearances.
+
+Clearances for wheelchair spaces shall comply with Section 1002.4.4.
+
+## Exceptions:
+
+1. Where provided, securement devices shall be permitted to overlap required clearances.
+
+2. Wheelchair spaces shall be permitted to be mechanically or manually repositioned.
+
+3. Wheelchair spaces shall not be required to comply with Section 307.4.
+
+## 1002.4.4.1 Width and length.
+
+Wheelchair spaces shall provide a clear width of 30 inches (760 mm) minimum and a clear length of 48 inches (1220 mm) minimum measured to 9 inches (230 mm) minimum above the floor.
+
+## 1002.4.4.2 Side entry.
+
+Where wheelchair spaces are entered only from the side, amusement rides shall be designed to permit sufficient maneuvering clearance for individuals using a wheelchair or mobility aid to enter and exit the ride.
+
+## 1002.4.4.3 Permitted protrusions in wheelchair spaces.
+
+Objects are permitted to protrude a distance of 6 inches (150 mm) maximum along the front of the wheelchair space, where located 9 inches (230 mm) minimum and 27 inches (685 mm) maximum above the floor of the wheelchair space. Objects are permitted to protrude a distance of 25 inches (635 mm) maximum along the front of the wheelchair space, where located more than 27 inches (685 mm) above the floor of the wheelchair space.
+
+## FIGURE 1002.4.4.3 PROTRUSIONS IN WHEELCHAIR SPACES IN AMUSEMENT RIDES
+
+## 1002.4.5 Ride entry.
+
+Openings providing entry to wheelchair spaces on amusement rides shall provide a clear width of 32 inches (815 mm) minimum.
+
+## 1002.4.6 Approach.
+
+One side of the wheelchair space shall adjoin an accessible route when in the load and unload position.
+
+## 1002.4.7 Companion seats.
+
+Where the interior width of the amusement ride is greater than 53 inches (1345 mm), seating is provided for more than one rider, and the wheelchair is not required to be centered within the amusement ride, a companion seat shall be provided for each wheelchair space.
+
+## 1002.4.7.1 Shoulder-to-shoulder seating.
+
+Where an amusement ride provides shoulder-to-shoulder seating, companion seats shall be shoulder-to-shoulder with the adjacent wheelchair space.
+
+Exception: Where shoulder-to-shoulder companion seating is not operationally or structurally feasible, complying with this requirement shall be required to the maximum extent practicable.
+
+## 1002.5 Amusement ride transfer devices and seats designed for transfer.
+
+Amusement ride transfer devices and seats designed for transfer shall comply with Section 1002.5 when positioned for loading and unloading.
+
+## 1002.5.1 Clear floor space.
+
+A clear floor space shall be provided in the load and unload area adjacent to the amusement ride transfer devices and seats designed for transfer.
+
+## 1002.5.2 Transfer height.
+
+The height of amusement ride transfer devices and seats designed for transfer shall be 14 inches (355 mm) minimum and 24 inches (610 mm) maximum measured from the surface of the load and unload area.
+
+## 1002.5.3 Transfer entry.
+
+Where openings are provided for transfer to amusement ride seats, the openings shall provide clearance for transfer from a wheelchair or mobility aid to the amusement ride seat.
+
+## 1002.5.4 Wheelchair storage space.
+
+Wheelchair storage spaces complying with Section 305 shall be provided in or adjacent to unload areas for each required amusement ride transfer devices and seat designed for transfer and shall not overlap any required means of egress or accessible route.
+
+## SECTION 1003
+
+## RECREATIONAL BOATING FACILITIES
+
+## 1003.1 General.
+
+Recreational boating facilities shall comply with Section 1003.
+
+## 1003.2 Accessible routes.
+
+Accessible routes serving recreational boating facilities, including gangways and floating piers, shall comply with Chapter 4 except as modified by the exceptions in Section 1003.2.
+
+## 1003.2.1 Boat slips.
+
+An accessible route shall serve boat slips.
+
+## Exceptions:
+
+1. Where an existing gangway or series of gangways is replaced or altered, an increase in the length of the gangway shall not be required to comply with Section 1003.2.
+
+2. Gangways shall not be required to comply with the maximum rise specified in Section 405.6.
+
+3. Where the total length of a gangway or series of gangways serving as part of a required accessible route is 80 feet (24 m) minimum, gangways shall not be required to comply with Section 405.2.
+
+4. Where facilities contain fewer than 25 boat slips and the total length of the gangway or series of gangways serving as part of a required accessible route is 30 feet (9145 mm) minimum, gangways shall not be required to comply with Section 405.2.
+
+5. Where gangways connect to transition plates, landings specified by Section 405.7 shall not be required.
+
+6. Where gangways and transition plates connect and are required to have handrails, handrail extensions shall not be required. Where handrail extensions are provided on gangways or transition plates, the handrail extensions shall not be required to be parallel with the floor.
+
+7. The cross slope specified in Sections 403.3 and 405.3 for gangways, transition plates, and floating piers that are part of accessible routes shall be measured in the static position.
+
+8. Changes in level complying with Sections 303.3 and 303.4 shall be permitted on the surfaces of gangways and piers.
+
+9. Cleats and other boat securement devices shall not be required to comply with Section 308.
+
+## 1003.2.2 Boarding piers at boat launch ramps.
+
+An accessible route shall serve boarding piers.
+
+## Exceptions:
+
+1. Accessible routes serving floating boarding piers shall be permitted to use Exceptions 1, 2, 5, 6, 7, 8 and 9 in Section1003.2.1.
+
+2. Where the total length of the gangway or series of gangways serving as part of a required accessible route is 30 feet (9145 mm) minimum, gangways shall not be required to comply with Section 405.2.
+
+3. Where the accessible route serving a floating boarding pier or skid pier is located within a boat launch ramp, the portion of the accessible route located within the boat launch ramp shall not be required to comply with Section 405.
+
+## 1003.3 Clearances.
+
+Clearances at boat slips and on boarding piers at boat launch ramps shall comply with Section 1003.3.
+
+## 1003.3.1 Boat slip clearance.
+
+Boat slips and boarding piers at boat launch ramps shall provide clear pier space 60 inches (1525 mm) minimum in width that extend the full length of the boat slips or boarding piers. Each 10 feet (3050 mm) of linear pier edge serving boat slips or boarding piers shall contain at least one continuous clear opening 60 inches (1525 mm) minimum in width.
+
+## Exceptions:
+
+1. Clear pier space shall be permitted to be 36 inches (915 mm) minimum in width and 24 inches (610 mm) maximum in length, provided that multiple 36-inch (915 mm) wide segments are separated by segments that are 60 inches (1525 mm) minimum in width and 60 inches (1525 mm) minimum in length.
+
+2. Edge protection shall be permitted at the continuous clear openings, provided the edge protection is 4 inches (100 mm) maximum in height and 2 inches (51 mm) maximum in width.
+
+3. In existing piers for boat slips, clear pier space shall be permitted to be located perpendicular to the boat slip and shall extend the width of the boat slip, where the facility has at least one boat slip complying with Section 1003.3, and further compliance with Section 1003.3 would result in a reduction in the number of boat slips available or result in a reduction of the widths of existing slips.
+
+FIGURE 1003.3.1(A) BOAT SLIP AND BOARDING PIER CLEARANCE
+
+BOAT SLIP AND BOARDING PIER CLEARANCE
+
+FIGURE 1003.3.1(B) EXCEPTION 1 - CLEAR PIER SPACE REDUCTION AT BOAT SLIPS AND BOARDING PIERS
+
+FIGURE 1003.3.1(C) BOAT SLIP AND BOARDING PIER CLEARANCE - EXCEPTION 2 - EDGE PROTECTION AT BOAT SLIPS AND BOARDING PIERS
+
+## SECTION 1004
+EXERCISE MACHINES AND EQUIPMENT
+
+## 1004.1 General.
+
+Exercise machines and equipment shall comply with Section 1004.
+
+## 1004.2 Clear floor space. INSIGHTS
+
+Exercise machines and equipment shall have a clear floor space positioned for transfer or for use by an individual seated in a wheelchair. Clear floor spaces required at exercise machines and equipment shall be permitted to overlap.
+
+
+## 1004.3 Operable parts.
+
+The operable parts of exercise machines and exercise equipment shall not be required to comply with Section 309.
+
+## SECTION 1005
+
+## FISHING PIERS AND PLATFORMS INSIGHTS
+
+
+## 1005.1 General.
+
+Fishing piers and platforms shall comply with Section 1005.
+
+## 1005.2 Accessible routes.
+
+Accessible routes serving fishing piers and platforms, including gangways and floating piers, shall comply with Chapter 4.
+
+## Exceptions:
+
+1. Accessible routes serving floating fishing piers and platforms shall be permitted to use Exceptions 1, 2, 5, 6, 7 and 8 in Section 1003.2.1.
+
+2. Where the total length of the gangway or series of gangways serving as part of a required accessible route is 30 feet (9145 mm) minimum, gangways shall not be required to comply with Section 405.2.
+
+## 1005.3 Railings.
+
+Where provided along the perimeter of fishing piers or platforms, railings, guards or handrails shall comply with Section 1005.2.
+
+Exception: Where a guard complying with the applicable building code is provided, the guard shall not be required to comply with this section.
+
+## 1005.3.1 Height.
+
+A minimum of 25 percent of the railings shall be 34 inches (865 mm) maximum above the ground or deck surface.
+
+## 1005.3.1.1 Dispersion.
+
+Railings required to comply with Section 1005.3.1 shall be dispersed throughout the fishing pier or platform.
+
+## 1005.4 Edge protection. INSIGHTS
+
+Where railings complying with Section 1005.3 are provided, edge protection complying with Sections 1005.4.1 or 1005.4.2 shall be provided.
+
+
+## 1005.4.1 Curb or barrier.
+
+Curbs or barriers shall be a minimum of 2 inches (51 mm) in height above the surface of the fishing pier or platform.
+
+## 1005.4.2 Extended ground or deck surface.
+
+The ground or deck surface shall extend 12 inches (305 mm) minimum beyond the inside face of the railing. Toe clearance shall be provided and shall be 30 inches (760 mm) minimum in width and 9 inches (230 mm) minimum in height above the ground or deck surface beyond the railing.
+
+FIGURE 1005.4.2 EXTENDED GROUND OR DECK SURFACE AT FISHING PIERS AND PLATFORMS
+
+## 1005.5 Clear floor space. INSIGHTS
+
+At each location where there are railings complying with Section 1005.3.1, a clear floor space shall be provided. Where there are no railings, at least one clear floor space shall be provided on the fishing pier or platform.
+
+
+## 1005.6 Turning space. INSIGHTS
+
+At least one turning space complying with Section 304.3 shall be provided on fishing piers and platforms.
+
+
+## SECTION 1006
+
+## GOLF FACILITIES
+
+## 1006.1 General.
+
+Golf facilities shall comply with Section 1006.
+
+## 1006.2 Accessible routes. INSIGHTS
+
+Accessible routes serving teeing grounds, practice teeing grounds, putting greens, practice putting greens, teeing stations at driving ranges, course weather shelters, golf car rental areas, bag drop areas, and course toilet rooms shall comply with Chapter 4. Exterior routes shall be 48 inches (1220 mm) minimum in width. Where guards, barriers or rails are provided, accessible routes shall be 60 inches (1525 mm) minimum in clear width.
+
+Exception: Accessible golf car passages in accordance with Section 1006.3 shall be permitted to be used for all or part of accessible routes required by this section.
+
+
+## 1006.2.1 Teeing grounds.
+
+Where one teeing ground is provided for a hole, the teeing ground shall be designed and constructed so that a golf car can enter and exit the teeing ground. Where two teeing grounds are provided for a hole, the teeing ground closest to the hole shall be designed and constructed so that a golf car can enter and exit the teeing ground. Where three or more teeing grounds are provided for a hole, at least two teeing grounds, including the teeing ground closest to the hole, shall be designed and constructed so that a golf car can enter and exit each teeing ground.
+
+Exception: Where existing golf courses are being altered, the forward teeing ground shall not be required to be one of the teeing grounds on a hole designed and constructed so that a golf car can enter and exit the teeing ground where compliance is not feasible due to terrain.
+
+## 1006.2.2 Putting greens.
+
+Putting greens shall be designed and constructed so that a golf car can enter and exit the putting green.
+
+## 1006.2.3 Practice putting greens, practice teeing grounds and teeing stations at driving ranges.
+
+At least 5 percent, but not fewer than 1, of practice putting greens, practice teeing grounds, and teeing stations at driving ranges shall be designed and constructed so that a golf car can enter and exit.
+
+## 1006.2.4 Weather shelters.
+
+Where provided, weather shelters shall be designed and constructed so that a golf car can enter and exit the weather shelter. A clear floor space 60 inches (1525 mm) minimum by 96 inches (2440 mm) minimum shall be provided within weather shelters.
+
+## 1006.3 Golf car passages.
+
+Golf car passages shall comply with Section 1006.3.
+
+## 1006.3.1 Clear width.
+
+The clear width of golf car passages shall be 48 inches (1220 mm) minimum.
+
+## 1006.3.2 Barriers.
+
+Where curbs or other constructed barriers prevent golf cars from entering a fairway, openings 60 inches (1525 mm) minimum in width shall be provided at intervals not to exceed 75 yards (69 m).
+
+## SECTION 1007
+
+## MINIATURE GOLF FACILITIES
+
+## 1007.1 General.
+
+Miniature golf facilities shall comply with Section 1007.
+
+## 1007.2 Accessible routes. INSIGHTS
+
+Accessible routes serving holes on miniature golf courses shall comply with Chapter 4.
+
+Exception: Accessible routes located on playing surfaces of miniature golf holes shall be permitted to comply with the following:
+
+1. Playing surfaces shall not be required to comply with Section 302.2.
+
+2. Where accessible routes intersect playing surfaces of holes, a curb that is 1 inch (25 mm) maximum in height and 32 inches (815 mm) minimum in width shall be permitted.
+
+3. A slope of 1:4 maximum shall be permitted for a rise of 4 inches (100 mm) maximum.
+
+4. Ramp landing slopes specified by Section 405.7.1 shall be permitted to be 1:20 maximum.
+
+5. Ramp landing length specified by Section 405.7.3 shall be permitted to be 48 inches (1220 mm) minimum.
+
+6. Ramp landing size at a change in direction specified by Section 405.7.4 shall be permitted to be 48 inches (1220 mm) minimum by 60 inches (1525 mm) minimum.
+
+7. Handrails shall not be required along ramps located on the playing surface.
+
+
+## 1007.3 Miniature golf holes. INSIGHTS
+
+Miniature golf holes shall comply with Section 1007.3.
+
+
+## 1007.3.1 Start of play.
+
+A clear floor space 48 inches (1220 mm) minimum by 60 inches (1525 mm) minimum with slopes not steeper than 1:48 shall be provided at the start of play.
+
+FIGURE 1007.3.2(A) GOLF CLUB REACH RANGE - NEW BUILDINGS
+
+FIGURE 1007.3.2(B) GOLF CLUB REACH RANGE - EXISTING BUILDINGS
+
+## 1007.3.2.1 New buildings and facilities.
+
+In new buildings and facilities, areas within holes where golf balls rest shall be within 36 inches (915 mm) maximum of a clear floor space 36 inches (915 mm) minimum in width and 52 inches (1320 mm) minimum in length having a running slope not steeper than 1:20. The clear floor space shall be served by an accessible route.
+
+## 1007.3.2.2 Existing buildings and facilities.
+
+In existing building and facilities, areas within holes where golf balls rest shall be within 36 inches (915 mm) maximum of a clear floor space 36 inches (915 mm) minimum in width and 48 inches (1220 mm) minimum in length having a running slope not steeper than 1:20. The clear floor space shall be served by an accessible route.
+
+## SECTION 1008
+
+## PLAY AREAS
+
+## 1008.1 Scope.
+
+Play areas shall comply with 1008.
+
+## 1008.2 Accessible routes for play areas.
+
+Play areas shall provide accessible routes in accordance with Section 1008.2. Accessible routes serving play areas shall comply with Chapter 4 except as modified by Section 1008.4.
+
+## 1008.2.1 Ground level and elevated play components.
+
+At least one accessible route shall be provided within the play area. The accessible route shall connect ground level play components required to comply with Section 1008.3.2.1 and elevated play components required to comply with Section 1008.3.2.2, including entry and exit points of the play components.
+
+## 1008.2.2 Soft contained play structures.
+
+Where three or fewer entry points are provided for soft contained play structures, at least one entry point shall be on an accessible route. Where four or more entry points are provided for soft contained play structures, at least two entry points shall be on an accessible route.
+
+## 1008.3 Age groups.
+
+Play areas for children ages 2 and over shall comply with Section 1008.3. Where separate play areas are provided within a site for specific age groups, each play area shall comply with Section 1008.3.
+
+## Exceptions:
+
+1. Play areas located in family child care facilities where the proprietor actually resides shall not be required to comply with this section.
+
+2. In existing play areas, where play components are relocated for the purposes of creating safe use zones and the ground surface is not altered or extended for more than one use zone, the play area shall not be required to comply with this section.
+
+3. Amusement attractions shall not be required to comply with this section.
+
+4. Where play components are altered and the ground surface is not altered, the ground surface shall not be required to comply with Section 1008.4.1.6 unless required by the authority having jurisdiction.
+
+## 1008.3.1 Additions.
+
+Where play areas are designed and constructed in phases, the requirements of Section 1008.3 shall apply to each successive addition so that when the addition is completed, the entire play area complies with all the applicable requirements of Section 1008.3.
+
+## 1008.3.2 Play components.
+
+Where provided, play components shall comply with Section 1008.3.2.
+
+## 1008.3.2.1 Ground level play components.
+
+Ground level play components shall be provided in the number and types required by Section 1008.3.2.1. Ground level play components that are provided to comply with Section 1008.3.2.1.1 shall be permitted to satisfy the additional number required by Section 1008.3.2.1.2 if the minimum required types of play components are satisfied. Where two or more required ground level play components are provided, they shall be dispersed throughout the play area and integrated with other play components.
+
+## 1008.3.2.1.1 Minimum number and types.
+
+Where ground level play components are provided, at least one of each type shall be on an accessible route and shall comply with Section 1008.4.3.
+
+## 1008.3.2.1.2 Additional number and types.
+
+Where elevated play components are provided, ground level play components shall be provided in accordance with Table 1008.3.2.1.2 and shall comply with Section 1008.4.3.
+
+Exception: If at least 50 percent of the elevated play components are connected by a ramp and at least 3 of the elevated play components connected by the ramp are different types of play components, the play area shall not be required to comply with this section.
+
+TABLE 1008.3.2.1.2 NUMBER AND TYPES OF GROUND LEVEL PLAY COMPONENTS REQUIRED TO BE ON ACCESSIBLE ROUTES
+
+<table>Number of Elevated Play Components ProvidedMinimum Number of Ground Level Play Components Required to be on an Accessible RouteMinimum Number of Different Types of Ground Level Play Components Required to be on an Accessible Route1Not applicableNot applicable2 to 4115 to 7228 to 103311 to 134314 to 165317 to 196320 to 227423 to 258426 and over8, plus 1 for each additional 3, or fraction thereof, over 255</table>
+
+## 1008.3.2.2 Elevated play components.
+
+Where elevated play components are provided, at least 50 percent shall be on an accessible route and shall comply with Section 1008.4.3.
+
+## 1008.4 Accessible routes within play areas.
+
+Accessible routes within play areas shall comply with Section 1008.4.
+
+## 1008.4.1 Accessible routes.
+
+Accessible routes serving play areas shall comply with Chapter 4 and Section 1008.4.1. Where accessible routes serve ground level play components, the vertical clearance shall be 80 inches (2030 mm) minimum in height.
+
+## Exceptions:
+
+1. Where 20 or more elevated play components are provided, transfer systems complying with Section 1008.4.2 shall be permitted to be used as part of an accessible route for a maximum of 25 percent of the play components.
+
+2. Where fewer than 20 elevated play components are provided, transfer systems complying with Section 1008.4.2 shall be permitted to be used as part of an accessible route.
+
+3. Where transfer systems are provided, an elevated play component shall be permitted to connect to another elevated play component as part of an accessible route.
+
+4. Accessible routes serving soft contained play structures shall be permitted to use transfer systems complying with Section 1008.4.2 as part of an accessible route.
+
+5. Where the surface of the accessible route, clear floor spaces, or turning spaces serving water play components is submerged, complying with Sections 302, 403.3, 405.2, 405.3 and 1008.4.1.6 shall not be required.
+
+6. Accessible routes serving water play components shall be permitted to use transfer systems complying with Section 1008.4.2 to connect elevated play components in water.
+
+## 1008.4.1.1 Clear width.
+
+Accessible routes connecting play components shall provide a clear width complying with Section 1008.4.1.1.
+
+## 1008.4.1.1.1 Ground level.
+
+At ground level, the clear width of accessible routes shall be 60 inches (1525 mm) minimum.
+
+## Exceptions:
+
+1. In play areas less than 1000 square feet (93 m²), the clear width of accessible routes shall be permitted to be 44 inches (1120 mm) minimum, if at least one turning space complying with Section 304.3 is provided where the restricted accessible route exceeds 30 feet (9145 mm) in length.
+
+2. The clear width of accessible routes shall be permitted to be 36 inches (915 mm) minimum for a distance of 60 inches (1525 mm) maximum provided that multiple reduced width segments are separated by segments that are 60 inches (1525 mm) minimum in width and 60 inches (1525 mm) minimum in length.
+
+## 1008.4.1.1.2 Elevated.
+
+The clear width of accessible routes connecting elevated play components shall be 36 inches (915 mm) minimum.
+
+## Exceptions:
+
+1. The clear width of accessible routes connecting elevated play components shall be permitted to be reduced to 32 inches (815 mm) minimum for a distance of 24 inches (610 mm) maximum provided that reduced width segments are separated by segments that are 48 inches (1220 mm) minimum in length and 36 inches (915 mm) minimum in width.
+
+2. The clear width of transfer systems connecting elevated play components shall be permitted to be 24 inches (610 mm) minimum.
+
+## 1008.4.1.2 Ramps.
+
+Within play areas, ramps connecting ground level play components and ramps connecting elevated play components shall comply with Section 405 except as modified by Section 1008.4.1.2.
+
+## 1108.4.1.2.1 Ground level.
+
+Ramp runs connecting ground level play components shall have a running slope not steeper than 1:16.
+
+## 1008.4.1.2.2 Elevated.
+
+The rise for any ramp run connecting elevated play components shall be 12 inches (305 mm) maximum.
+
+## 1008.4.1.2.3 Handrails.
+
+Where required on ramps serving play components, the handrails shall comply with Section 505 except as modified by Section 1008.4.1.2.3.
+
+## Exceptions:
+
+1. Handrails shall not be required on ramps located within ground level use zones.
+
+2. Handrail extensions shall not be required.
+
+## 1008.4.1.2.3.1 Handrail gripping surfaces.
+
+Handrail gripping surfaces with a circular cross section shall have an outside diameter of 0.95 inch (24 mm) minimum and 1.55 inches (39 mm) maximum. Where the shape of the gripping surface is noncircular, the handrail shall provide an equivalent gripping surface.
+
+## 1008.4.1.2.3.2 Handrail height.
+
+The top of handrail gripping surfaces shall be 20 inches (510 mm) minimum and 28 inches (710 mm) maximum above the ramp surface.
+
+## 1008.4.1.3 Ground surfaces.
+
+Ground surfaces on accessible routes, clear floor spaces, and turning spaces shall comply with Section 1008.4.1.3.
+
+## 1008.4.1.3.1 Surface condition.
+
+Ground surfaces shall be stable, firm and slip resistant. Ground surfaces shall be inspected and maintained regularly and frequently to ensure continued compliance with this requirement.
+
+## 1008.4.1.3.2 Use zones.
+
+Ground surfaces located within use zones shall comply with ASTM F 1292 listed in Section 106.2.10.
+
+## 1008.4.2 Transfer systems.
+
+Where transfer systems are provided to connect to elevated play components, the transfer systems shall comply with Section 1008.4.2.
+
+## 1008.4.2.1 Transfer platforms.
+
+Transfer platforms shall be provided where transfer is intended from wheelchairs or other mobility aids. Transfer platforms shall comply with Section 1008.4.2.1.
+
+## FIGURE 1008.4.2.1 TRANSFER PLATFORMS
+
+## 1008.4.2.1.1 Size.
+
+Transfer platforms shall have level surfaces 14 inches (355 mm) minimum in depth and 24 inches (610 mm) minimum in width.
+
+## 1008.4.2.1.2 Height.
+
+The top of the transfer platforms shall be 11 inches (280 mm) minimum and 18 inches (455 mm) maximum in height above the floor.
+
+## 1008.4.2.1.3 Transfer space.
+
+A transfer space complying with Sections 305.2 and 305.3 shall be provided adjacent to the transfer platform. The 48-inch (1220 mm) minimum length dimension of the transfer space shall be centered on and parallel to the 24-inch (610 mm) minimum length side of the transfer platform. The side of the transfer platform serving the transfer space shall be unobstructed.
+
+## 1008.4.2.1.4 Transfer supports.
+
+At least one means of support for transferring shall be provided.
+
+## 1008.4.2.2 Transfer steps.
+
+Transfer steps shall be provided where movement is intended from transfer platforms to levels with elevated play components required to be on accessible routes. Transfer steps shall comply with Section 1008.4.2.2.
+
+## FIGURE 1008.4.2.2 TRANSFER STEPS
+
+## 1008.4.2.2.1 Size.
+
+Transfer steps shall have level surfaces 14 inches (355 mm) minimum in depth and 24 inches (610 mm) minimum in width.
+
+## 1008.4.2.2.2 Height.
+
+Each transfer step shall be 8 inches (205 mm) maximum in height.
+
+## 1008.4.2.2.3 Transfer supports.
+
+At least one means of support for transferring shall be provided.
+
+## 1008.4.3 Play components.
+
+Ground level play components on accessible routes and elevated play components connected by ramps shall comply with Section 1008.4.3.
+
+## 1008.4.3.1 Turning space.
+
+At least one turning space shall be provided on the same level as play components. Where swings are provided, the turning space shall be located immediately adjacent to the swing.
+
+## 1008.4.3.2 Clear floor space.
+
+Clear floor space complying with Sections 305.2 and 305.3 shall be provided at play components.
+
+## 1008.4.3.3 Play tables.
+
+Where play tables are provided, knee clearance 24 inches (610 mm) minimum in height, 17 inches (430 mm) minimum in depth, and 30 inches (760 mm) minimum in width shall be provided. The tops of rims, curbs, or other obstructions shall be 31 inches (785 mm) maximum in height.
+
+Exception: Play tables designed and constructed primarily for children 5 years and younger shall not be required to provide knee clearance where the clear floor space required by Section 1008.4.3.2 is arranged for a parallel approach.
+
+## 1008.4.3.4 Entry points and seats.
+
+Where play components require transfer to entry points or seats, the entry points or seats shall be 11 inches (280 mm) minimum and 24 inches (610 mm) maximum from the clear floor space.
+
+Exception: Entry points of slides shall not be required to comply with this section.
+
+## 1008.4.3.5 Transfer supports.
+
+Where play components require transfer to entry points or seats, at least one means of support for transferring shall be provided.
+
+## SECTION 1009
+
+## SWIMMING POOLS, WADING POOLS, HOT TUBS
+
+## AND SPAS
+
+## 1009.1 General. INSIGHTS
+
+Swimming pools, wading pools, hot tubs and spas shall comply with Section 1009.
+
+
+## 1009.1.1 Swimming pools.
+
+At least two accessible means of entry shall be provided for swimming pools. Accessible means of entry shall be swimming pool lifts complying with Section 1009.2; sloped entries complying with Section 1009.3; transfer walls complying with Section 1009.4, transfer systems complying with Section 1009.5; and pool stairs complying with Section 1009.6. At least one accessible means of entry provided shall comply with Section 1009.2 or 1009.3.
+
+## Exceptions:
+
+1. Where a swimming pool has less than 300 linear feet (91 m) of swimming pool wall, no more than one accessible means of entry shall be required.
+
+2. Wave action pools, leisure rivers, sand bottom pools, and other pools where user access is limited to one area shall not be required to provide more than one accessible means of entry provided that the accessible means of entry is a swimming pool lift complying with Section 1009.2, a sloped entry complying with Section 1009.3, or a transfer system complying with Section 1009.5.
+
+3. Catch pools shall not be required to provide an accessible means of entry provided that the catch pool edge is on an accessible route.
+
+## 1009.1.2 Wading pools.
+
+At least one sloped entry complying with Section 1009.3 shall be provided in wading pools.
+
+## 1009.1.3 Hot tubs and spas.
+
+At least one accessible means of entry shall be provided for hot tubs and spas. Accessible means of entry shall comply with swimming pool lifts complying with Section 1009.2; transfer walls complying with Section 1009.4; or transfer systems complying with Section 1009.5.
+
+Exception: Where hot tubs or spas are provided in a cluster, no more than 5 percent, but not less than one hot tub or spa in each cluster shall be required to comply with Section 1009.1.3.
+
+## 1009.2 Pool lifts. INSIGHTS
+
+Pool lifts shall comply with Section 1009.2.
+
+
+## 1009.2.1 Pool lift location.
+
+Pool lifts shall be located where the water level does not exceed 48 inches (1220 mm).
+
+## Exceptions:
+
+1. Where the entire pool depth is greater than 48 inches (1220 mm), compliance with this section shall not be required.
+
+2. Where multiple pool lift locations are provided, no more than one pool lift shall be required to be located in an area where the water level is 48 inches (1220 mm) maximum.
+
+## 1009.2.2 Seat location.
+
+In the raised position, the centerline of the seat shall be located over the deck and 16 inches (405 mm) minimum from the edge of the pool. The deck surface between the centerline of the seat and the pool edge shall have a slope not steeper than 1:48.
+
+1009.2.3 Clear deck space.
+
+FIGURE 1009.2.3(A) CLEAR DECK SPACE AT POOL LIFTS - NEW BUILDINGS
+
+FIGURE 1009.2.3(B) CLEAR DECK SPACE AT POOL LIFTS - EXISTING BUILDINGS
+
+## 1009.2.3.1 New buildings and facilities.
+
+In new buildings and facilities, on the side of the seat opposite the water, a clear deck space shall be provided parallel with the seat. The space shall be 36 inches (915 mm) minimum in width and shall extend forward 52 inches (1320 mm) minimum from a line located 12 inches (305 mm) behind the rear edge of the seat. The clear deck space shall have a slope not steeper than 1:48.
+
+## 1009.2.3.2 Existing buildings and facilities.
+
+In existing buildings and facilities, on the side of the seat opposite the water, a clear deck space shall be provided parallel with the seat. The space shall be 36 inches (915 mm) minimum in width and shall extend forward 48 inches (1220 mm) minimum from a line located 12 inches (305 mm) behind the rear edge of the seat. The clear deck space shall have a slope not steeper than 1:48.
+
+## 1009.2.4 Seat height.
+
+The height of the lift seat shall be designed to allow a stop at 16 inches (405 mm) minimum and 19 inches (485 mm) maximum measured from the deck to the top of the seat surface when in the raised (load) position.
+
+FIGURE 1009.2.4 POOL LIFT SEAT HEIGHT
+
+## 1009.2.5 Seat.
+
+The seat shall be 16 inches (405 mm) minimum in width, provide a back rest, and be of a firm and stable design.
+
+## 1009.2.6 Footrests and armrests.
+
+Footrests shall be provided and shall move with the seat. If provided, the armrest positioned opposite the water shall be removable or shall fold clear of the seat when the seat is in the raised (load) position. Exception: Footrests shall not be required on pool lifts provided in spas.
+
+## 1009.2.7 Operation:
+
+The lift shall be capable of unassisted operation from both the deck and water levels. Controls and operating mechanisms shall be unobstructed when the lift is in use and shall comply with Section 309.4.
+
+## 1009.2.8 Submerged depth.
+
+The lift shall be designed so that the seat will submerge to a water depth of 18 inches (455 mm) minimum below the stationary water level.
+
+FIGURE 1009.2.8 POOL LIFT SUBMERGED DEPTH
+
+## 1009.2.9 Lifting capacity.
+
+Single person pool lifts shall have a weight capacity of 300 pounds (136 kg) minimum and be capable of sustaining a static load of at least one and a half times the rated load.
+
+## 1009.3 Sloped entries. INSIGHTS
+
+Sloped entries shall comply with Section 1009.3.
+
+
+## 1009.3.1 Sloped entry route.
+
+Sloped entries shall comply with Sections 402, 403 and 405 except as modified by Sections 1009.3.1 through 1009.3.3.
+
+Exception: Where sloped entries are provided, the surfaces shall not be required to be slip resistant.
+
+## 1009.3.2 Submerged depth.
+
+Sloped entries for swimming pools shall comply with Section 1009.3.2.1. Sloped entries for wading pools shall comply with Section 1009.3.2.2.
+
+FIGURE 1009.3.2 SLOPED ENTRY SUBMERGED DEPTH
+
+## 1009.3.2.1 Swimming pools.
+
+Sloped entries for swimming pools shall extend to a depth of 24 inches (610 mm) minimum and 30 inches (760 mm) maximum below the stationary water level. Where landings are required by Section 405.7, at least one landing shall be located 24 inches (610 mm) minimum and 30 inches (760 mm) maximum below the stationary water level.
+
+## 1009.3.2.2 Wading pools.
+
+In wading pools, the sloped entry shall extend to the deepest part of the wading pool.
+
+## 1009.3.3 Handrails.
+
+At least two handrails complying with Section 505 shall be provided on the sloped entry. The clear width between required handrails shall be 33 inches (840 mm) minimum and 38 inches (965 mm) maximum.
+
+## Exceptions:
+
+1. Handrail extensions specified by Section 505.10.1 shall not be required at the bottom landing serving a sloped entry.
+
+2. Where a sloped entry is provided for wave action pools, leisure rivers, sand bottom pools, and other pools where user access is limited to one area, the handrails shall not be required to comply with the clear width requirements of this section.
+
+3. Sloped entries in wading pools shall not be required to provide handrails complying with this section. If provided, handrails on sloped entries in wading pools shall not be required to comply with Section 505.
+
+FIGURE 1009.3.3 HANDRAILS FOR SLOPED ENTRY
+
+## 1009.4 Transfer walls.
+
+Transfer walls shall comply with Section 1009.4.
+
+## 1009.4.1 Clear deck space.
+
+A clear deck space of 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum with a slope not steeper than 1:48 shall be provided at the base of the transfer wall. Where one grab bar is provided, the clear deck space shall be centered on the grab bar. Where two grab bars are provided, the clear deck space shall be centered on the clearance between the grab bars.
+
+(A)
+
+Figure 1009.4.1 CLEAR DECK SPACE AT TRANSFER WALLS
+
+## 1009.4.2 Height.
+
+The height of the transfer wall shall be 16 inches (405 mm) minimum and 19 inches (485 mm) maximum measured from the deck.
+
+## FIGURE 1009.4.2 TRANSFER WALL HEIGHT
+
+## 1009.4.3 Wall depth and length.
+
+The transfer wall shall be 12 inches (305 mm) minimum and 16 inches (405 mm) maximum in depth. The transfer wall shall be 60 inches (1525 mm) minimum in length and shall be centered on the clear deck space.
+
+## FIGURE 1009.4.3 DEPTH AND LENGTH OF TRANSFER WALLS
+
+## 1009.4.4 Surface.
+
+Surfaces of transfer walls shall not be sharp and shall have rounded edges.
+
+## 1009.4.5 Grab bars.
+
+At least one grab bar complying with Sections 609.1 through 609.3 and 609.5 through 609.8 shall be provided on the transfer wall. Grab bars shall be perpendicular to the pool wall and shall extend the full depth of the transfer wall. The top of the gripping surface shall be 4 inches (100 mm) minimum and 6 inches (150 mm) maximum above the transfer wall. Where one grab bar is provided, clearance shall be 24 inches (610 mm) minimum on both sides of the grab bar. Where two grab bars are provided, clearance between grab bars shall be 24 inches (610 mm) minimum.
+
+FIGURE 1009.4.5 GRAB BARS FOR TRANSFER WALLS
+
+## 1009.5 Transfer systems.
+
+Transfer systems shall comply with Section 1009.5.
+
+## 1009.5.1 Transfer platform.
+
+A transfer platform shall be provided at the head of each transfer system. Transfer platforms shall provide a clear depth of 19 inches (485 mm) minimum and a clear width of 24 inches (610 mm) minimum.
+
+FIGURE 1009.5.1 SIZE OF TRANSFER PLATFORMS
+
+## 1009.5.2 Transfer space.
+
+A transfer space of 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum with a slope not steeper than 1:48 shall be provided at the base of the transfer platform surface. The transfer space shall be centered along a 24-inch (610 mm) minimum side of the transfer platform. The side of the transfer platform serving the transfer space shall be unobstructed.
+
+FIGURE 1009.5.2 CLEAR DECK SPACE AT TRANSFER PLATFORMS
+
+## 1009.5.3 Height.
+
+The height of the transfer platform shall comply with Section 1009.4.2.
+
+## 1009.5.4 Transfer steps.
+
+Transfer steps shall be 8 inches (205 mm) maximum in height. The surface of the bottom tread shall extend to a water depth of 18 inches (455 mm) minimum below the stationary water level.
+
+## FIGURE 1009.5.4 TRANSFER STEPS
+
+## 1009.5.5 Surface.
+
+The surface of the transfer system shall not be sharp and shall have rounded edges.
+
+## 1009.5.6 Size.
+
+Each transfer step shall have a tread clear depth of 14 inches (355 mm) minimum and 17 inches (430 mm) maximum and shall have a tread clear width of 24 inches (610 mm) minimum.
+
+## FIGURE 1009.5.6 SIZE OF TRANSFER STEPS
+
+## 1009.5.7 Grab bars.
+
+At least one grab bar on each transfer step and the transfer platform or a continuous grab bar serving each transfer step and the transfer platform shall be provided. Where a grab bar is provided on each step, the tops of gripping surfaces shall be 4 inches (100 mm) minimum and 6 inches (150 mm) maximum above each step and transfer platform. Where a continuous grab bar is provided, the top of the gripping surface shall be 4 inches (100 mm) minimum and 6 inches (150 mm) maximum above the step posing and transfer platform. Grab bars shall comply with Sections 609.1 through 609.3 and 609.5 through 609.8 and be located on at least one side of the transfer system. The grab bar located at the transfer platform shall not obstruct transfer.
+
+FIGURE 1009.5.7(A) GRAB BARS - INDIVIDUAL GRAB BARS
+
+FIGURE 1009.5.7(B) GRAB BARS - CONTINUOUS GRAB BARS
+
+## 1009.6 Pool stairs.
+
+Pool stairs shall comply with Section 1009.6.
+
+## 1009.6.1 Pool stairs.
+
+Pool stairs shall comply with Sections 504.2 through 504.5.
+
+Exception: Pool step risers shall not be required to be 4 inches (100 mm) minimum and 7 inches (180 mm) maximum in height provided that riser heights are uniform.
+
+## 1009.6.2 Handrails.
+
+At least two handrails complying with Section 505 shall be provided on the pool stairs. The width between handrails shall be 20 inches (510 mm) minimum and 24 inches (610 mm) maximum.
+
+Exception: Handrail extensions at the bottom required by 505.10.3 shall not be required on pool stairs.
+
+## SECTION 1010
+
+## SHOOTING FACILITIES WITH FIRING POSITIONS
+
+## 1010.1 General.
+
+Shooting facilities with firing positions shall comply with Section 1010.
+
+## 1010.2 Turning space.
+
+A circular turning space complying with Section 304.3.1 with slopes not steeper than 1:48 shall be provided at shooting facility firing positions.
+
+## 1010.3 Firing position counters. INSIGHTS
+
+Where a firing position requires shooting over a counter or wall, the top of the counter or wall shall be 34 inches maximum in height above the floor surface. If counter surfaces are provided at other firing positions of the same type, equivalent counter surfaces shall be provided at the firing position complying with Section 1010.2.
+
+

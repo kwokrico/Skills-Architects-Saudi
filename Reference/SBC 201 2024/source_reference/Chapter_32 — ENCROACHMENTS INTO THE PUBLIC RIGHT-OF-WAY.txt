@@ -1,0 +1,127 @@
+===== Page 1980 =====
+# CHAPTER 32—ENCROACHMENTS INTO THE PUBLIC RIGHT-OF-WAY
+
+## General Comments
+
+Chapter 32 contains provisions that regulate a variety of structure encroachments and projections into the public right-of-way, such as a sidewalk, parking lot or street. Section 3202 addresses encroachments on street lot lines below grade, above grade, below 2.4 m in height and 2.4 m or more above grade. Encroachments and projections have to be taken into consideration in addition to means of egress, fire resistance, fire protection and structural and material considerations.
+
+## Purpose
+
+The purpose of Chapter 32 is to regulate projections and encroachments of structures into the public right-of-way.
+
+## SECTION 3201 GENERAL
+
+3201.1 Scope. The provisions of this chapter shall govern the encroachment of structures into the public right-of-way.
+
+These provisions apply only to encroachments on the public right-of-way, not on interior lot lines. The location of the street lot line (public right-of-way) is determined through a variety of methods based on the regulations of the law and, often, the government. The location and width of streets are often established when an area is platted and the land is subdivided into a series of blocks, lots and streets. While subdivision and zoning laws may provide for standard street and right-of-way width, many areas of a jurisdiction may predate those standards. Streets and highways are often established by the Ministry of Transportation and regional transportation branches. Such agencies can create new streets or widen existing streets by either purchasing or condemning land of sufficient width. In other circumstances, public streets are not owned by a city, but they are easements across privately owned lands. Because of the wide variety of ways in which a public right-of-way can be established, it is important for the building official to know how rights-of-way were established within the jurisdiction and to be able to provide this information to permit applicants.
+
+3201.2 Measurement. The projection of any structure or portion thereof shall be the distance measured horizontally from the lot line to the outermost point of the projection.
+This section defines how the extent of encroachment is determined. The extent of encroachment of any structure or appendage is to be measured from the established street lot line to the outermost (furthest) point of the projection.
+
+3201.3 Other laws. The provisions of this chapter shall not be construed to permit the violation of other laws or ordinances regulating the use and occupancy of public property.
+
+The projections permitted in this chapter are also subject to other limitations identified in applicable laws and ordinances. Other applicable laws, for example, are those established by the governing authority in regulating right-of-way for highways, streets or public areas adjacent to the structure in question. The street lot line occurs on each side of a structure that faces or fronts on a street. Many property descriptions have the centerline of the public way as the property line. A lot line differs in that it separates a lot from a public place such as a street or a park. In these cases, the lot line is defined not by the centerline of the public way, but by the line that identifies where the public way exists. This chapter only applies to encroachment across lot lines, established between a lot and any adjoining public right-of-way (street, alley, highway) (see commentary, Section 3201.1). This chapter does not apply to interior lot lines—those separating one lot from another. Encroachments across interior lot lines are not permitted.
+
+3201.4 Drainage. Drainage water collected from a roof, awning, canopy or marquee, and condensate from mechanical equipment shall not flow over a public walking surface.
+
+A great number of street projections are canopies or mansard roofs. They have the potential to create a hazardous condition due to improper drainage on the walkways they cover. It is very important that all street projections have proper drainage systems.
+
+## SECTION 3202 ENCROACHMENTS
+
+3202.1 Encroachments below grade. Encroachments below grade shall comply with Sections 3202.1.1 through 3202.1.3.
+
+Allowable projections of below-grade structural components are described in Sections 3202.1.1 through 3202.1.3. The term “grade”
+
+===== Page 1981 =====
+as used in this chapter should be considered the finished ground level of the site. “Grade” should not be confused with “grade plane,” which is used for determining other code standards such as building height and number of stories.
+
+3202.1.1 Structural support. A part of a building erected below grade that is necessary for structural support of the building or structure shall not project beyond the lot lines, except that the footings of street walls or their supports that are located not less than 2.4 m below grade shall not project more than 300 mm beyond the street lot line.
+
+One of the permissible street lot line encroachments (footings) is defined in this section. Where a structure is built immediately adjacent to the street lot line, the footing is permitted to project across that line (see Commentary Figure 3202.1.1). Projection of footings across side (interior) lot lines and onto adjacent property is not permitted.
+
+3202.1.2 Vaults and other enclosed spaces. The construction and utilization of vaults and other enclosed spaces below grade shall be subject to the terms and conditions of the applicable governing authority.
+
+Below-grade vaults and other enclosed spaces that open at the sidewalk level are usually covered with solid structural caps (e.g., concrete slabs) and are permitted to project beyond the building line or street lot line. However, since these structures occur in the public right-of-way, they are subject to the law governing private use of the public right-of-way as well as the approval of the applicable governing authority.
+
+3202.1.3 Areaways. Areaways shall be protected by grates, guards or other approved means.
+
+Areaways, which provide natural light or ventilation to below-grade spaces, are required to be protected by grates, guards or other approved means of protection (see Commentary Figure 3202.1.3). Regulations allowing the private use of the public right-of-way may prescribe how areaways are covered and protected. Some jurisdictions allow material lifts to be located in these areaways and open to the public street.
+
+3202.2 Encroachments above grade and below 2.4 m in height. Encroachments into the public right-of-way above grade and below 2.4 m in height shall be prohibited except as provided for in Sections 3202.2.1 through 3202.2.3. Doors and windows shall not open or project into the public right-of-way.
+
+This section prohibits all projections into the public right-of-way that are above grade and below 2.4 m, except those specifically allowed by Sections 3202.1 through 3202.2.3 and 3202.4 (e.g., steps, architectural features such as columns or pilasters, awnings, temporary vestibules and storm enclosures). The maximum permitted encroachments and minimum clearances, as well as additional protection requirements, for the specified allowed components are detailed in their respective sections. See the commentary to Section 3202.1 regarding the term "grade."
+
+3202.2.1 Steps. Steps shall not project more than 300 mm and shall be guarded by approved devices not less than 0.9 m in height, or shall be located between columns or pilasters.
+
+Steps are permitted to project a maximum of 300 mm into the public right-of-way by this section. However, since steps may pose a tripping hazard, an approved device (guard), ornamental column or pilaster must be provided at a minimum height of 0.9 m to minimize this hazard. Commentary Figure 3202.2.1 illustrates compliance with this provision. Where such steps are part of the building's means of egress system, Sections 1011.11 and 1014 may require the placement of handrails and handrail extensions such that the 300 mm encroachment into a right-of-way may not be achievable.
+
+3202.2.2 Architectural features. Columns or pilasters, including bases and moldings, shall not project more than 300 mm. Belt courses, lintels, sills, architraves, pediments and similar architectural features shall not project more than 100 mm.
+
+This section addresses the variety of architectural appurtenances that are part of a structure's exterior wall or roof. Consistent with the projection limitations given for steps in Section 3202.2.1, the maximum encroachment into the public way is 300 mm for columns and pilasters (see Commentary Figure 3202.2.1). Other noted architectural features are limited to maximum encroachments of 100 mm.
+
+3202.2.3 Awnings. The vertical clearance from the public right-of-way to the lowest part of any awning, including valances, shall be not less than 2.1 m.
+
+Awnings, including retractable awnings, are permitted to project into the public right-of-way. However, the clearance to any part of an awning, including its valance, is required to be a minimum of 2.1 m above grade (see Commentary Figure 3202.2.3).
+
+3202.3 Encroachments 2.4 m or more above grade. Encroachments 2.4 m or more above grade
+
+===== Page 1982 =====
+shall comply with Sections 3202.3.1 through 3202.3.4.
+
+This section prohibits all projections into the public right-of-way that are 2.4 m or more above grade, except those specifically allowed by Sections 3202.3.1 through 3202.3.4. The maximum permitted encroachments and minimum clearances, as well as additional approval requirements, for the specified allowed components are detailed in their respective sections.
+
+3202.3.1 Awnings, canopies, marquees and signs. Awnings, canopies, marquees and signs shall be constructed so as to support applicable loads as specified in Chapter 16. Awnings, canopies, marquees and signs with less than 4.5 m clearance above the sidewalk shall not extend into or occupy more than two-thirds the width of the sidewalk measured from the building. Stanchions or columns that support awnings, canopies, marquees and signs shall be located not less than 600 mm in from the curb line.
+
+This section contains three distinct requirements. First, awnings, canopies, marquees and signs must be designed in accordance with the provisions of Chapter 16, with regard to the live loads that may be imposed on such structures. Second, the allowable projection of awnings, canopies, marquees and signs with less than 4.5 m of clearance above the sidewalk is limited to two-thirds of the width of the sidewalk measured from the building. The standards of these sections apply to retractable awnings (defined in Section 202). Finally, the location of vertical structural components used for supporting awnings, canopies, marquees and signs (stanchions or columns) is also regulated. A minimum of 600 mm of clearance is required between the curb line and the vertical structural support for awnings, canopies, marquees and signs (see Commentary Figure 3202.3.1).
+
+3202.3.2 Windows, balconies, architectural features and mechanical equipment. Where the vertical clearance above grade to projecting windows, balconies, architectural features or mechanical equipment is more than 2.4 m, 25 mm of encroachment is permitted for each additional 25 mm of clearance above 2.4 m, but the maximum encroachment shall be 1.2 m.
+
+* Projections into the public right-of-way for appurtenances such as windows, balconies, architectural features or mechanical equipment more than 2.4 m above grade are allowed by this section. Such projections are limited to 25 mm of encroachment for each additional 25 mm of clearance above the minimum 2.4 m clearance required. However, the maximum allowable projection is limited to 1.2 m (see Commentary Figure 3202.3.2).
+
+3202.3.3 Encroachments 4.5 m or more above grade. Encroachments 4.5 m or more above grade shall not be limited.
+
+Because encroachments into the public right-of-way that are 4.5 m or more above grade do not interfere with or impede pedestrian or vehicular traffic, they are not regulated by the provisions of this chapter.
+
+3202.3.4 Pedestrian walkways. The installation of a pedestrian walkway over a public right-of-way shall be subject to the approval of the applicable governing authority. The vertical clearance from the public right-of-way to the lowest part of a pedestrian walkway shall be not less than 4.5 m.
+
+As in Section 3202.3.3, projections of pedestrian walkways that have a minimum clearance of 4.5 m above grade do not interfere or impede pedestrian or vehicular traffic and thus are not prohibited by this section. The installation of pedestrian walkways over a public right-of-way is required to be approved by the governing authority. Detailed requirements for pedestrian walkways are provided in Section 3104.
+
+3202.4 Temporary encroachments. Where allowed by the applicable governing authority, vestibules and storm enclosures shall not be erected for a period of time exceeding 7 months in any 1 year and shall not encroach more than 0.9 m nor more than one-fourth of the width of the sidewalk beyond the street lot line. Temporary entrance awnings shall be erected with a clearance of not less than 2.1 m to the lowest portion of the hood or awning where supported on removable steel or other approved noncombustible support.
+
+This section addresses a special situation in which temporary projections across the street lot line are erected for climatic reasons (e.g., during the winter months some building owners may erect vestibule enclosures or canopies over entrances). The purpose of this section is to allow these energy-saving procedures, yet place limitations on such projections. Specifically, enclosures temporarily appended to an entranceway are permitted to project not more than 0.9 m beyond the street lot line, or up to one-fourth the width of the sidewalk. Whichever dimension results in the lesser projection defines the maximum projection. Additionally, when temporary awnings are erected, clearance between the sidewalk and the lowest part of the awning must be at least 2.1 m, which is consistent with the requirements for permanent awnings in
+
+===== Page 1983 =====
+Section 3202.2.3. It is further required that the frame for the hood or awning is to be supported on removable steel or other approved noncombustible material. This last provision is necessitated by unforeseen changes in street lot lines, for example, that would result in the encroachment becoming an obstruction in the public right-of-way.
+
+===== Page 1984 =====
+## FIGURES OF CHAPTER 32
+
+FIGURE 3202.1.1
+ENCROACHMENT BELOW GRADE
+
+===== Page 1985 =====
+CROSS SECTION
+
+FIGURE 3202.1.3
+AREAWAYS
+
+SIDE ELEVATION
+
+FIGURE 3202.2.1 STEPS
+
+===== Page 1986 =====
+FIGURE 3202.2.3
+AWINGS
+
+===== Page 1987 =====
+FIGURE 3202.3.1
+
+AWNINGS, CANOPIES, MARQUEE AND SIGNS 2.5 METER OR MORE ABOVE GRADE
+
+FIGURE 3202.3.2
+
+WINDOWS, BALCONIES, ARCHITECTURAL FEATURES AND MECHANICAL EQUIPMENT
+
+===== Page 1988 =====
+This page left intentionally blank
+

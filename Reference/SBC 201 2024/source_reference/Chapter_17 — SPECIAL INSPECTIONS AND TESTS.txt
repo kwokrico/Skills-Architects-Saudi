@@ -1,0 +1,1028 @@
+===== Page 1581 =====
+# CHAPTER 17—SPECIAL INSPECTIONS AND TESTS
+
+## General Comments
+
+In this chapter, the code sets minimum quality standards for the acceptance of materials used in building construction. It also establishes requirements for special inspections, structural observations and load testing.
+
+Section 1701 contains the scope statement, while Section 1702 contains the general statement for testing of new materials.
+
+Section 1703 addresses the approval process and labeling by approved agencies. Special inspections, contractor responsibility and structural observation are specified in Section 1704.
+
+Section 1704 also includes detailed requirements pertaining to the statement of special inspections.
+
+Section 1705 contains detailed special inspection and verification requirements for various building elements based on the type of construction involved. Included are special inspection and verification requirements for steel, concrete, masonry, wood, soils, deep foundations, wind, seismic, fire resistance, Exterior Insulation and Finish Systems (EIFS) and smoke control. Structural testing and qualification for seismic resistance is also addressed in Section 1705.
+
+The general requirements for determining the design strengths of materials are in Section 1706.
+
+Section 1707 provides for an alternative test procedure in the absence of approved standards.
+
+Section 1708 includes requirements for field load testing of a structure.
+
+Preconstruction load testing of materials and methods of construction that are not capable of being designed by an approved analysis is covered by Section 1709.
+
+Chapter 17 provides information regarding the evaluation, inspection and approval process for any material or system proposed for use as a component of a structure. These are general requirements that expand on the requirements of 0 relating to the roles and responsibilities of the building official regarding approval of building components. Additionally, the chapter includes general requirements relating to the roles and responsibilities of the owner, contractor, special inspectors and architects or engineers.
+Purpose
+
+This chapter provides procedures and criteria for: testing materials or assemblies; labeling materials; systems and assemblies; and special inspection and verification of structural assemblies.
+
+## SECTION 1701 GENERAL.
+
+1701.1 Scope. The provisions of this Chapter shall govern the quality, workmanship and requirements for materials covered. Materials of construction and tests shall conform to the applicable standards listed in this Code.
+
+This chapter gives provisions for quality, workmanship, testing and labeling of all materials covered within. In general, all construction materials and tests must conform to the standards, or portions thereof, that are referenced in the code. This chapter provides requirements for materials and tests when there are no applicable standards. Specific tests and standards are referenced in other chapters of the code. Additionally, this chapter provides basic requirements for labeling construction materials and assemblies, and for special inspection and verification of structural systems and components.
+
+## SECTION 1702 NEW MATERIALS
+
+1702.1 General. New building materials, equipment, appliances, systems or methods of construction not provided for in this code, and any material of questioned suitability proposed for use in the construction of a building or structure, shall be subjected to the tests prescribed in this chapter and in the approved rules to determine character, quality and limitations of use.
+
+Testing is required to be performed on materials that are not specifically provided for in this code. For example, suppose a manufacturer of a sandwich panel consisting of aluminum skins and a foam plastic core wishes to use this panel as an exterior weather covering. The material does not conform to any of the standards referenced in Chapter 14, so an appropriate test protocol must be developed. The same provision for acceptance of alternative materials is already given in Section 104.11. That section provides a strong, definitive statement for performance requirements for alternative materials, requiring the proposed alternative to be equivalent to that prescribed by the code in quality, strength, effectiveness, durability and safety. Section 1702.1 simply reasserts that
+
+===== Page 1582 =====
+alternative materials (new materials) may be used, as long as the performance characteristics and quality can be established.
+
+## SECTION 1703 APPROVALS
+
+1703.1 Approved agency. An approved agency shall provide all information as necessary for the building official to determine that the agency meets the applicable requirements specified in Sections 1703.1.1 through 1703.1.3. An approved agency shall meet the requirements of Part III of SBC 302 and shall be accredited.
+
+This section specifies the information that an approved agency must provide to the building official to enable him to determine whether the agency and its personnel have the requisite qualifications to provide adequate quality control.
+
+1703.1.1 Independence. An approved agency shall be objective, competent and independent from the contractor responsible for the work being inspected. The agency shall also disclose to the building official and the registered design professional in responsible charge possible conflicts of interest so that objectivity can be confirmed.
+
+As part of the basis for a building official's approval of a particular inspection agency, the agency must demonstrate its competence and objectivity. The competence of the agency is judged by its experience and organization, and the experience of its personnel. To avoid conflicts of interest, the inspection agency must be independent from the contractor performing the work. In cases where the contractor hires and coordinates the special inspector, the conflict of interest can be mitigated if the owner pays for the special inspector. In some instances, the contractor is also the owner. In those cases, care should be exercised to verify that the special inspector is not influenced by the conflict of interest.
+
+For example, suppose that ACME Agency is the inspection agency employed by Builders, Inc. for factory-built fireplaces. During an investigation of the agency, it is discovered that ACME and Builders are subsidiaries of the same parent company, Conglomerate, Inc. The inspection agency and manufacturer clearly have a relationship that is undesirable from the standpoint of independence. Similarly, suppose that a general contractor hires an inspection agency to perform inspection services. This could also create a conflict-of-interest situation if the inspection agency needs to reject the work of the firm that is paying them.
+
+1703.1.2 Equipment. An approved agency shall have adequate equipment to perform required tests. The equipment shall be periodically calibrated.
+
+As part of judging the ability of a testing or inspection agency, the building official should assess whether the agency has the proper equipment to perform the required tests or inspections.
+
+1703.1.3 Personnel. An approved agency shall employ experienced personnel educated in conducting, supervising and evaluating tests and special inspections.
+
+The competence of an inspection or testing agency is also based on the experience and training of its personnel. If the personnel lack the requisite experience, they are less likely to catch critical errors.
+
+The building official should request evidence that the personnel are qualified to perform the work in accordance with the professional registration law of the Kingdom.
+
+1703.2 Written approval. Any material, appliance, equipment, system or method of construction meeting the requirements of this code shall be approved in writing after satisfactory completion of the required tests and submission of required test reports.
+
+So that there is a documented record of the approval and basis for it, including any conditions or limitations, the building official must approve the submission in writing. The code also requires the approval to be granted within a reasonable period of time, after all documentation has been satisfactorily developed and submitted, so as to avoid any unnecessary delay in completion of construction.
+
+1703.3 Record of approval. For any material, appliance, equipment, system or method of construction that has been approved, a record of such approval, including the conditions and limitations of the approval, shall be kept on file in the building official's office and shall be available for public review at appropriate times.
+
+Written approvals must be kept on file by the building official, and be available and open to the public. This provides reasonable access to the records on approvals of materials and systems should there be any subsequent investigation or further evaluation.
+
+1703.4 Performance. Specific information consisting of test reports conducted by an approved agency in accordance with the appropriate referenced standards, or other such information as necessary, shall be provided for the building official to determine that the product, material or assembly meets the applicable code requirements.
+
+When conformance to the code is predicated on the performance and quality of products,
+
+===== Page 1583 =====
+materials or assemblies, the building official must require the submittal of testing reports from an approved agency.
+
+1703.4.1 Research and investigation. Sufficient technical data shall be submitted to the building official to substantiate the proposed use of any product, material or assembly. If it is determined that the evidence submitted is satisfactory proof of performance for the use intended, the building official shall approve the use of the product, material or assembly subject to the requirements of this code. The costs, reports and investigations required under these provisions shall be paid by the owner or the owner's authorized agent.
+
+This section is usually used in conjunction with Section 104.11 when analysis of any construction material, such as new and innovative materials, is required to determine code compliance. The analysis is based entirely on technical data. All costs of testing and investigations must be paid by the applicant.
+
+1703.4.2 Research reports. Supporting data, where necessary to assist in the approval of products, materials or assemblies not specifically provided for in this code, shall consist of valid research reports from approved sources.
+
+Reports prepared by approved agencies, such as those published by organizations affiliated with model code groups, may be accepted as part of the information needed by the building official to evaluate proposed construction and form the basis for approval. Such reports can supplement building department resources by eliminating the need for the building official to conduct a detailed analysis on each new product, material or system. It is important that such material be truly objective and credible, and not consist merely of the manufacturer's brochures or similar proprietary information.
+
+1703.5 Labeling. Products, materials or assemblies required to be labeled shall be labeled in accordance with the procedures set forth in Sections 1703.5.1 through 1703.5.4.
+
+This section provides requirements for third-party inspection of the manufacturer of a material or assembly that must be labeled. The materials or assemblies required to be labeled are given in other chapters of the code, SBC 501, SBC 801 and SBC 701. Labeling provides a readily available source of information that is useful for field inspection of installed products. The label identifies the product or material and provides other information that can be investigated further if there is any question as to its suitability for the specific installation.
+Some examples are gas appliances, fire doors, prefabricated construction (when the building official does not inspect it), electrical appliances, glass, factory-built fireplaces, plywood and other wood members when used structurally, lumber and foam plastics.
+
+1703.5.1 Testing. An approved agency shall test a representative sample of the product, material or assembly being labeled to the relevant standard or standards. The approved agency shall maintain a record of the tests performed. The record shall provide sufficient detail to verify compliance with the test standard.
+
+As a basis for the allowed use of an agency's label, the agency is required to perform testing on the material or product in accordance with the standard(s) referenced by the code. For example, Section 903.1 of SBC 501 requires that factory-built fireplaces be tested in accordance with the referenced standard UL 127 and states that factory-built fireplaces are required to be listed and labeled by an approved agency.
+
+1703.5.2 Inspection and identification. The approved agency shall periodically perform an inspection, which shall be in-plant, if necessary, of the product or material that is to be labeled. The inspection shall verify that the labeled product, material or assembly is representative of the product, material or assembly tested.
+
+The approved agency whose label is to be applied to a product must perform periodic inspections. The primary objective of these inspections is to determine that the manufacturer is, indeed, making the same product that was tested. For example, using the factory-built fireplace discussed in the commentary to Section 1703.5.1, if the fire chamber wall in the test was 10 mm steel, the inspection agency must check to see that this thickness is being used. If the manufacturer has decided to use 6.5 mm steel, then the inspection agency would be required to withdraw the use of its label and listing.
+
+1703.5.3 Label information. The label shall contain the manufacturer's identification, model number, serial number or definitive information describing the performance characteristics of the product, material or assembly and the approved agency's identification.
+
+This section lists the information that is required on a label. The purpose is to provide sufficient information for the inspector to verify that the installed product is consistent with what was approved during the plan review process.
+
+1703.5.4 Method of labeling. Information required to be permanently identified on the
+
+===== Page 1584 =====
+product, material or assembly shall be acid etched, sand blasted, ceramic fired, laser etched, embossed or of a type that, once applied, cannot be removed without being destroyed.
+
+The section requires that permanent labeling be of a nature that cannot be removed and specifies acceptable methods of permanent labeling.
+
+1703.6 Evaluation and follow-up inspection services. Where structural components or other items regulated by this code are not visible for inspection after completion of a prefabricated assembly, the owner or the owner's authorized agent shall submit a report of each prefabricated assembly. The report shall indicate the complete details of the assembly, including a description of the assembly and its components, the basis upon which the assembly is being evaluated, test results and similar information and other data as necessary for the building official to determine conformance to this code. Such a report shall be approved by the building official.
+
+As an alternative to physical inspection by the building official in the plant or location where prefabricated components such as modular homes, trusses, etc., are manufactured, the building official has the option of accepting an evaluation report from an approved agency detailing such inspections.
+
+1703.6.1 Follow-up inspection. The owner or the owner's authorized agent shall provide for special inspections of fabricated items in accordance with Section 1704.2.5.
+
+The owner is required to provide special inspections of fabricated assemblies at the fabrication plant in accordance with Section 1704.2.5. Special inspections are intended to verify that the assemblies are constructed properly, with particular attention paid to those elements that cannot be easily observed after fabrication.
+
+1703.6.2 Test and inspection records. Copies of necessary test and special inspection records shall be filed with the building official.
+
+All testing and inspection records related to a fabricated assembly must be filed with the building official so as to maintain a complete and legal record of the assembly and erection of the building components.
+
+## SECTION 1704 SPECIAL INSPECTIONS AND TESTS, CONTRACTOR RESPONSIBILITY AND STRUCTURAL OBSERVATION
+
+1704.1 General. Special inspections and tests, statements of special inspections, responsibilities of contractors, submittals to the building official and structural observations shall meet the applicable requirements of this section.
+
+Section 1704 provides minimum requirements for special inspections and tests, including what is required to be included in the statement of special inspections, the conditions that would require structural observation as well as contractor responsibility requirements related to construction of the lateral force-resisting systems for wind and seismic loads.
+
+1704.2 Special inspections and test. Where application is made to the building official for construction as specified in Section 105, the owner or the owner's authorized agent, other than the contractor, shall employ one or more approved agencies to provide special inspections and tests during construction on the types of work specified in Section 1705 and identify the approved agencies to the building official. These special inspections and tests are in addition to the inspections by the building official that are identified in Section 110.
+
+Exceptions:
+
+1. Special inspections and tests are not required for construction of a minor nature or as warranted by conditions in the jurisdiction as approved by the building official.
+
+2. Unless otherwise required by the building official, special inspections and tests are not required for Group U occupancies that are accessory to a residential occupancy including, but not limited to, those listed in Section 312.1.
+
+3. Special inspections and tests are not required for portions of structures designed and constructed in accordance with the cold-formed steel light-frame construction provisions of Section 2211.1.2 or the conventional light-frame construction provisions of Section 2308.
+
+4. The contractor is permitted to employ the approved agencies where the contractor is also the owner.
+
+Special inspections provide a means of quality assurance. Structural properties of concrete or steel are not usually discernible by a mere visual inspection. Typically, construction materials must be tested and their installation must be monitored in order to provide a finished structure that performs in accordance with the design professional's intent. Trained specialists performing these inspections give the building official and engineer an indication that the intended structural performance will be achieved. According to Section 105.1, the permit applicant may be the owner or
+
+===== Page 1585 =====
+authorized agent in connection with the project (see Section 105.1 for further details).
+
+Neither special inspections nor observations by the design professional replace inspections performed by the jurisdiction. Rather, they are intended as an enhancement to those inspections. Similarly, observations by the design professional do not replace special inspections, though the building official may accept inspections by the design professional if the design professional is sufficiently competent to perform the inspections.
+
+Exceptions to the requirement for special inspections include minor work, Group U occupancies accessibility to residential occupancies and prescriptive light-frame construction consisting of cold-formed steel or wood framing. Minor work is work that, if not performed properly, will not result in a life-safety hazard and will not adversely affect the performance of the finished product to meet its design intent. As an example, in a nonstructural application such as a sidewalk, a designer may specify higher strength concrete than required for nonstructural work. The concrete may not require special inspection if failure to meet the higher strength will not result in a life safety hazard and is unlikely to result in adverse performance.
+
+In addition to exempting minor work, Exception 1 refers to “conditions in the jurisdiction” as a possible exception. The primary “condition” envisioned is one in which the jurisdiction has the resources and skills to perform these inspection tasks. This exception should not be interpreted as one that can be invoked by the permit applicant. A jurisdiction should not be obligated to allow this exception. The purpose of this exception is merely to allow jurisdictions to perform these inspections to the extent they are capable of doing so, rather than requiring a special inspector.
+
+Exception 2 eliminates the special inspection requirement for Group U occupancies that are accessory to a residential occupancy and where allowed by the building official. Because Group U occupancies could have elements or structural systems that require special inspection, the building official has the authority to require special inspection in such cases.
+
+Exception 3 waives the requirement for special inspections for portions of structures designed and constructed in accordance with the prescriptive provisions of Section 2211.1.2 for cold-formed steel light-frame structures or Section 2308 for conventional light-frame wood structures.
+
+1704.2.1 Special inspector qualifications. Prior to the start of the construction, the approved agencies shall provide written documentation to the building official demonstrating the competence and relevant experience or training of the special inspectors who will perform the special inspections and tests during construction. Experience or training shall be considered to be relevant where the documented experience or training is related in complexity to the same type of special inspection or testing activities for projects of similar complexity and material qualities. These qualifications are in addition to qualifications specified in other sections of this code.
+
+The registered design professional in responsible charge and engineers of record involved in the design of the project are permitted to act as an approved agency and their personnel are permitted to act as special inspectors for the work designed by them, provided they qualify as special inspectors.
+This section attempts to standardize special inspector qualifications in an effort to provide for the availability of an adequate pool of qualified and knowledgeable special inspectors. The code requires the special inspector to demonstrate competence to the satisfaction of the building official. There are many certification and training programs for various facets of special inspections that may provide guidance to the building official in making this judgment. The provision allows the registered design professional in responsible charge and engineers of record who designed the project to act as an approved agency and perform special inspections for work designed by them, provided they also satisfy the qualification requirements for special inspectors.
+
+1704.2.2 Access for special inspection. The construction or work for which special inspection or testing is required shall remain accessible and exposed for special inspection or testing purposes until completion of the required special inspections or tests.
+
+This section is similar to Section 110.1 in requiring that work remain accessible to the special inspector until any required inspections or testing have been performed.
+
+1704.2.3 Statement of special inspections. The applicant shall submit a statement of special inspections in accordance with Section 107.1 as a condition for permit issuance. This statement shall be in accordance with Section 1704.3.
+
+Exception: A statement of special inspections is not required for portions of structures designed and constructed in accordance with the cold-formed steel light frame construction provisions of Section 2211.1.2 or the conventional
+
+===== Page 1586 =====
+light-frame construction provisions of Section 2308.
+
+The applicant must submit for approval a list showing what special inspections are required, in addition to other construction documents, before issuance of the building permit. This section refers to Section 1704.3 for specific details, while Section 1704.3.1 identifies the materials, components and work to be covered in the statement of special inspections. The list of required special inspections may be included on the design drawings.
+
+Special inspections are not required for structures and portions thereof designed and constructed in accordance with the prescriptive provisions of Section 2211.1.2 for cold-formed steel light-frame structures or Section 2308 for conventional light-frame wood structures. A special inspection statement is not required for these structures.
+
+1704.2.4 Report requirement. Approved agencies shall keep records of special inspections and tests. The approved agency shall submit reports of special inspections and tests to the building official and to the registered design professional in responsible charge. Reports shall indicate that work inspected or tested was or was not completed in conformance to approved construction documents. Discrepancies shall be brought to the immediate attention of the contractor for correction. If they are not corrected, the discrepancies shall be brought to the attention of the building official and to the registered design professional in responsible charge prior to the completion of that phase of the work. A final report documenting required special inspections and tests, and correction of any discrepancies noted in the inspections or tests, shall be submitted at a point in time agreed upon prior to the start of work by the owner or the owner's authorized agent to the building official.
+
+Records of each inspection must be submitted to the building official so as to compile a complete legal record of the project. These records must include all inspections made, any violations noted and discrepancies. Before a certificate of occupancy is issued, a final report must be submitted indicating that all special inspections have been made and all discrepancies have been addressed in order to show compliance with the applicable code requirements. It is the responsibility of the special inspector to document and submit inspection records to the building official and the registered design professional in responsible charge of the project. Examples of reports of special inspections and tests submitted by approved agencies are: tests of concrete for strength, slump and air content (see Table 1705.3); tests of masonry units, grout and mortar; and strength tests of shotcrete.
+
+1704.2.5 Special inspection of fabricated items. Where fabrication of structural, load-bearing or lateral load-resisting members or assemblies is being conducted on the premises of a fabricator's shop, special inspections of the fabricated items shall be performed during fabrication, except where the fabricator has been approved to perform work without special inspections in accordance with Section 1704.2.5.1.
+
+Inspection of in-plant fabrications and the requirements for special inspections are addressed herein. This section should be used in conjunction with Section 1703.6 relating to evaluation and follow-up inspections. The special inspector is required to verify not only that the fabricator complies with the design details and in-house quality control procedures at the plant, but also that the plant has the capability to construct/fabricate according to the approved drawings, standards and specifications. An example of this would be an inspection of proper placement and rolling of truss-plate connectors at a wood-truss manufacturing plant. Improper procedures could result in the connectors "popping out" or "peeling back" after the truss is concealed and loaded, thus causing structural failure. Another example is the fabrication of precast, prestressed, concrete members (e.g., hollow-core slabs), which is subject to the special inspections required by Section 1705.11 as well as those of Section 1705.3 for concrete construction. Note that Item 9 of Table 1705.3 specifies inspection of prestressed concrete. Special inspections are not necessary where an approved independent agency conducts in-house inspections during fabrication.
+
+1704.2.5.1 Fabricator approval. Special inspections during fabrication are not required where the work is done on the premises of a fabricator approved to perform such work without special inspection. Approval shall be based on review of the fabricator's written fabrication procedures and quality control manuals that provide a basis for control of materials and workmanship, with periodic auditing of fabrication and quality control practices by an approved agency or the building official. At completion of fabrication, the approved fabricator shall submit a certificate of compliance to the owner or the owner's authorized agent for submittal to the building official as specified in Section 1704.5 stating that the work was performed in accordance with the approved construction documents.
+
+===== Page 1587 =====
+“Approved fabricator” is defined in Section 202, and this section provides the basis for such approval by the building official. If the fabricator is approved by the building official, then its internal quality control procedures are deemed to be sufficient without the need for a special inspection. A certificate of compliance provides the building official with evidence on each project that the work has been performed in accordance with the code and construction documents.
+
+1704.3 Statement of special inspections. Where special inspections or tests are required by Section 1705, the registered design professional in responsible charge shall prepare a statement of special inspections in accordance with Section 1704.3.1 for submittal by the applicant in accordance with Section 1704.2.3.
+
+Exception: The statement of special inspections is permitted to be prepared by a qualified person approved by the building official for construction not designed by a registered design professional.
+
+The statement of special inspections is required to be prepared by the registered design professional responsible for the building or structure. This is because the special inspections statement relates directly to the construction documents, which are the responsibility of the registered design professional. The exception states conditions under which the statement of special inspections may be prepared by someone other than the registered design professional. The section outlines the basic content required to be included in the statement of special inspections as well as the specific requirements for seismic and wind resistance, arranging them in logical order. The intent is to document the required inspections and testing in order to foster a systematic approach that helps to achieve the goal of a finished structure that meets or exceeds the minimum performance expectations.
+
+1704.3.1 Content of statement of special inspections. The statement of special inspections shall identify the following:
+
+1 The materials, systems, components and work required to have special inspections or tests by the building official or by the registered design professional responsible for each portion of the work.
+
+2 The type and extent of each special inspection.
+
+3 The type and extent of each test.
+
+4 Additional requirements for special inspections or tests for seismic or wind resistance as specified in Sections 1705.12, 1705.13 and 1705.14.
+
+5 For each type of special inspection, identification as to whether it will be continuous special inspection, periodic special inspection or performed in accordance with the notation used in the referenced standard where the inspections are defined.
+
+This section details the areas to be addressed in the statement of special inspection. It requires a list of materials and work that is subject to special inspection or testing, the type and frequency of inspections and whether the inspections are continuous or periodic.
+
+1704.3.2 Seismic requirements in the statement of special inspections. Where Section 1705.13 or 1705.14 specifies special inspections or tests for seismic resistance, the statement of special inspections shall identify the designated seismic systems and seismic force-resisting systems that are subject to the special inspections or tests.
+
+Where special inspection or testing for seismic resistance is required, the statement of special inspections must identify the designated seismic systems and seismic force-resisting systems that are required to have special inspection.
+
+1704.3.3 Wind requirements in the statement of special inspections. Where Section 1705.12 specifies special inspection for wind resistance, the statement of special inspections shall identify the main wind force-resisting systems and wind-resisting components that are subject to special inspections.
+
+Where special inspection for wind resistance is required, the statement of special inspections must identify the main wind-force-resisting systems and components and cladding that are required to have special inspection.
+
+1704.4 Contractor responsibility. Each contractor responsible for the construction of a main wind or seismic force resisting system, designated seismic system or a wind or seismic force-resisting component listed in the statement of special inspections shall submit a written statement of responsibility to the building official and the owner or the owner's authorized agent prior to the commencement of work on the system or component. The contractor's statement of responsibility shall contain acknowledgement of awareness of the special requirements contained in the statement of special inspections.
+
+The statement of contractor responsibility is required wherever the statement of special inspections includes additional wind or seismic-resistance inspections. This statement
+
+===== Page 1588 =====
+by the contractor is separate from the statement of special inspections. It is the contractor's acknowledgment of the special inspections or testing that are beyond what is typically required.
+
+1704.5 Submittals to the building official. In addition to the submittal of reports of special inspections and tests in accordance with Section 1704.2.4, reports and certificates shall be submitted by the owner or the owner's authorized agent to the building official for each of the following:
+
+1 Certificates of compliance for the fabrication of structural, load-bearing or lateral load-resisting members or assemblies on the premises of an approved fabricator in accordance with Section 1704.2.5.1.
+
+2 Certificates of compliance for the seismic qualification of nonstructural components, supports and attachments in accordance with Section 1705.14.2.
+
+3 Certificates of compliance for designated seismic systems in accordance with Section 1705.14.3.
+
+4 Reports of preconstruction tests for shotcrete in accordance with SBC 304.
+
+5 Certificates of compliance for open web steel joists and joist girders in accordance with Section 2207.5.
+
+6 Reports of material properties verifying compliance with the requirements of AWS D1.4 for weldability as specified in Section 26.6.4 of SBC 304 for reinforcing bars in concrete complying with a standard other than ASTM A 706 that are to be welded.
+
+7 Reports of mill tests in accordance with Section 20.2.2.5 of SBC 304 for reinforcing bars complying with ASTM A 615 and used to resist earthquake-induced flexural or axial forces in the special moment frames, special structural walls or coupling beams connecting special structural walls of seismic force-resisting systems in structures assigned to Seismic Design Category B, C, D, E or F.
+
+The purpose of this section is to comprehensively specify the requirements for submittal of reports and certificates related to construction that is subject to special inspections and tests required primarily in Chapter 17. Typically, these documents certify or otherwise verify that a material or product meets certain special requirements, or is an alternative to the general requirements, of the building code. The listed items are typically references to provisions elsewhere in the building code or a referenced standard. The charging language of the new section specifies the requirements for submittal to the building official (e.g., by whom, after review and acceptance, and before the work begins) and the requirements apply equally to each listed submittal. The referenced provisions, however, contain additional requirements unique to each situation. The charging statement also clarifies that the submittals are in addition to the submittal of reports that are the responsibility of approved agencies and are already covered under Section 1704.2.4. By contrast, the submittals listed in this section are the responsibility of the owner or owner's authorized agent.
+
+1704.6 Structural observations. Where required by the provisions of Section 1704.6.1, the owner or the owner's authorized agent shall employ a registered design professional to perform structural observations. The structural observer shall visually observe representative locations of structural systems, details and load paths for general conformance to the approved construction documents. Structural observation does not include or waive the responsibility for the inspections in Section 110 or the special inspections in Section 1705 or other sections of this code. Prior to the commencement of observations, the structural observer shall submit to the building official a written statement identifying the frequency and extent of structural observations. At the conclusion of the work included in the permit, the structural observer shall submit to the building official a written statement that the site visits have been made and identify any reported deficiencies that, to the best of the structural observer's knowledge, have not been resolved.
+
+This section requires that a registered design professional such as an engineer or architect be employed by the owner to provide on-site observation to ensure compliance with the structural drawings where required by Section 1704.6.1. Structural observations are required under certain conditions in high-seismic and high-wind locations (see Section 202 for the definition of "Structural observation"), providing an additional level of inspections beyond those provided by the building inspector or a special inspector. The intent of requiring structural observations by a registered design professional for these structures is to verify that the structural systems are constructed in general conformance with the approved construction documents.
+
+This section provides guidance on the frequency of observations. It requires submittal of a written statement by the structural observer to the building official prior to the commencement of observations identifying the
+
+===== Page 1589 =====
+frequency and extent of structural observations. The determination of the frequency of structural observations should be by the structural observer and the owner in consultation with the building official. The structural observer must also submit a written statement to the building official at the conclusion of the work included in the permit.
+
+1704.6.1 Structural observations for structures. Structural observations shall be provided for those structures where one or more of the following conditions exist:
+
+1 The structure is classified as Risk Category IV.
+
+2 The structure is a high-rise building.
+
+3 The structure is assigned to Seismic Design Category E and is greater than two stories above the grade plane.
+
+4 Such observation is required by the registered design professional responsible for the structural design.
+
+5 Such observation is specifically required by the building official.
+
+This section requires structural observation for all buildings in Risk Category IV, high-rise buildings or buildings where the registered design professional or building official believe that structural observations are needed, regardless of the seismic design category or wind speeds. It is well established that the quality of construction is increased when the engineer who designed the structure can verify that key construction conditions are in conformance with the design intent. Structural observation is meant to augment the detailed inspection provided by the special inspectors and is therefore required wherever the consequence of structural failure is greater by virtue of complexity, size, occupancy or risk.
+
+## SECTION 1705 REQUIRED SPECIAL INSPECTION AND TESTS
+
+1705.1 General. Special inspections and tests of elements and nonstructural components of buildings and structures shall meet the applicable requirements of this section. The required inspection and tests shall cover the various Work stages of the project.
+
+The specific elements that require verification by special inspection or testing are covered in Section 1705.
+
+1705.1.1 Special cases. Special inspections and tests shall be required for proposed work that is, in the opinion of the building official, unusual in its nature, such as, but not limited to, the following examples:
+1 Construction materials and systems that are alternatives to materials and systems prescribed by this code.
+
+2 Unusual design applications of materials described in this code.
+
+3 Materials and systems required to be installed in accordance with additional manufacturer's instructions that prescribe requirements not contained in this code or in standards referenced by this code.
+
+This section requires special inspections for proposed work that is unique and not specifically addressed in the code or in standards that are referenced by the code. For example, a designer may choose to utilize a new shear wall anchorage system that is not specifically covered by the code. Because the product is approved as an alternative under Section 104.11, the inspector must rely on installation requirements such as embedment, edge distances, etc., given in approved reports from the manufacturer, provided that the system is previously approved for installation by the building official.
+
+1705.2 Steel construction. The special inspections and non-destructive testing of steel construction in buildings, structures, and portions thereof shall be in accordance with this section.
+
+Exception: Special inspections of the steel fabrication process shall not be required where the fabrication process for the entire building or structure does not include any welding, thermal cutting or heating operation of any kind. In such cases, the fabricator shall be required to submit a detailed procedure for material control that demonstrates the fabricator's ability to maintain suitable records and procedures such that, at any time during the fabrication process, the material specification and grade for the main stress-carrying elements are capable of being determined. Mill test reports shall be identifiable to the main stress carrying elements where required by the approved construction documents.
+
+The required special inspections and testing for steel construction are covered in this section. The exception is allowed if the fabrication plant does not utilize any facilities or methods that may alter the physical characteristics or properties of the steel members or components, such as welding, thermal cutting or heating operations. The fabricator must, in any case, provide evidence that procedures are used to verify that the proper material specification and grade for the main stress-
+
+===== Page 1590 =====
+carrying elements are met in accordance with the job specifications and shop drawings.
+
+1705.2.1 Structural steel. Special inspections and nondestructive testing of structural steel elements in buildings, structures and portions thereof shall be in accordance with the quality assurance inspection requirements of SBC 306.
+
+Exception: Special inspection of railing systems composed of structural steel elements shall be limited to welding inspection of welds at the base of cantilevered rail posts.
+
+SBC 306 Specification for Structural Steel Buildings contains quality assurance and inspection requirements for structural steel buildings. This section references SBC 306 for special inspection requirements related to structural steel.
+
+1705.2.2 Cold-formed steel deck. Special inspections and qualification of welding special inspectors for cold-formed steel floor and roof deck shall be in accordance with the quality assurance inspection requirements of SDI QA/QC.
+
+The SDI QA/QC Standard contains provisions for quality assurance inspections of steel floor and roof deck and is intended to coordinate with the requirements of SBC 306, which is referenced in Section 1705.2.1. SDI QA/QC includes the prior requirements of this code for using AWS D1.3 for weld quality and requiring material verification. The standard clarifies the scope of required inspections for both the deck installer's quality control personnel and the quality assurance inspector.
+
+1705.2.3 Open-web steel joists and joist girders. Special inspections of open-web steel joists and joist girders in buildings, structures and portions thereof shall be in accordance with Table 1705.2.3.
+
+The purpose of this section is to require special inspections of particular aspects of the installation of open web steel joists and joist girders. In accordance with Steel Joist Institute specifications, before shipment manufacturers must inspect open web steel joists, joist girders and composite steel joists to verify compliance with the requirements of the specifications. Because their structural design is sufficiently complex to warrant inspection by a person with the expertise of a special inspector, requirements for inspecting the installation of steel joists and joist girders are given in Table 1705.2.3.
+
+Requiring special inspections for the bearing seat attachments and bridging attachments of open web steel joist and joist girder installation reflects the complexity of the structural designs and the importance of these installation requirements.
+
+1705.2.4 Cold-formed steel trusses spanning 18 m or greater. Where a cold-formed steel truss clear span is 18 m or greater, the special inspector shall verify that the temporary installation restraint/bracing and the permanent individual truss member restraint/bracing are installed in accordance with the approved truss submittal package.
+
+Longer span trusses require additional care during handling and installation due to their size and weight. Special inspection of the bracing provides verification that these critical elements are properly installed in accordance with the approved truss submittal.
+
+1705.3 Concrete construction. Special inspections and tests of concrete construction shall be performed in accordance with this section and Table 1705.3.
+
+Exception: Special inspections and tests shall not be required for:
+
+1. Isolated spread concrete footings of buildings three stories or less above grade plane that are fully supported on earth or rock.
+
+2. Continuous concrete footings supporting walls of buildings three stories or less above grade plane that are fully supported on earth or rock where:
+
+3. The footings support walls of light-frame construction.
+
+4. The footings are designed in accordance with SBC 303.
+
+5. The structural design of the footing is based on a specified compressive strength,  \( f_{c} \) , not more than 17. MPa, regardless of the compressive strength specified in the approved construction documents or used in the footing construction.
+
+6. Nonstructural concrete slabs supported directly on the ground.
+
+7. Concrete foundation walls constructed in accordance with SBC 303.
+
+8. Concrete patios, driveways and sidewalks, on grade.
+
+This section establishes criteria for special inspections of concrete construction elements in buildings and structures. Exceptions to the requirements of this section address concrete components that have little or no load-carrying requirements, such as nonstructural slabs on grade, driveways, patios or footings and foundations that require little or no reinforcement and carry relatively low loads.
+
+===== Page 1591 =====
+Required verifications and inspections during concrete construction operations are listed in Table 1705.3. This table provides a complete list of the types of inspections required, whether the inspection is continuous or periodic, and the applicable referenced standards for the placing, curing, prestressing and erection of concrete construction. Note a of the table references Section 1705.12 for any additional special inspections related to seismic resistance.
+
+1705.3.1 Welding of reinforcing bars. Special inspections of welding and qualifications of special inspectors for reinforcing bars shall be in accordance with the requirements of AWS D1.4 for special inspection and of AWS D1.4 for special inspection.
+
+This section refers to AWS D1.4 for guidance on welding inspection and welder inspector qualifications.
+
+1705.3.2 Material tests. In the absence of sufficient data or documentation providing evidence of conformance to quality standards for materials in Chapters 19 and 20 of SBC 304, the building official shall require testing of materials in accordance with the appropriate standards and criteria for the material in Chapters 19 and 20 of SBC 304.
+
+Concrete materials, such as cement, aggregates and admixtures and water, must comply with SBC 304, which regulates materials and addresses specific standards. In the absence of sufficient data or documentation, the building official must require testing in accordance with the standards listed in SBC 304.
+
+ASTM A706 is the standard for reinforcing steel that is weldable, meaning that the chemical composition and manufacturing processes are such that the material is well suited for an acceptable quality of weld. SBC 304 states that any standard other than ASTM A706 used for reinforcement material would need to be supplemented for weldability requirements. The provision is intended to ensure that, where welding of reinforcing steel is required, the steel specified and delivered is checked for weldability.
+
+1705.4 Masonry construction. Special inspections and tests of masonry construction shall be performed in accordance with the quality assurance program requirements of SBC 305
+
+Exception: Special inspections and tests shall not be required for:
+
+1 Empirically designed masonry, glass unit masonry or masonry veneer designed in accordance with Sections 2109, 2110 or Chapter 14, respectively, where they are part of a structure classified as Risk Category I, II or III.
+
+2 Masonry fireplaces, masonry heaters or masonry chimneys installed or constructed in accordance with Section 2111, 2112 or 2113, respectively.
+
+Because SBC 305 contains quality assurance and inspection requirements for masonry structures, this section references SBC 305 and Specification for special inspection requirements related to masonry construction. The two exceptions exempt special inspection for:
+
+1 Empirically designed masonry, glass unit masonry or masonry veneer in structures classified as Risk Category I, II or III;
+
+2 Masonry fireplaces, heaters and chimneys constructed in accordance with the requirements of Chapter 21.
+
+1705.4.1 Glass unit masonry and masonry veneer in Risk Category IV. Special inspections and tests for glass unit masonry or masonry veneer designed in accordance with Section 2110 or Chapter 14, respectively, where they are part of a structure classified as Risk Category IV shall be performed in accordance with SBC 305 Level 2.
+
+This section defines the minimum level of special inspections required for glass unit masonry and masonry veneer in Risk Category IV buildings.
+
+1705.4.2 Vertical masonry foundation elements. Special inspections and tests of vertical masonry foundation elements shall be performed in accordance with Section 1705.4.
+
+Vertical masonry foundation elements such as masonry foundation walls must meet the special inspection requirements specified for other masonry elements. The section refers to the general provisions for special inspection of masonry structures in Section 1705.4.
+
+1705.5 Wood construction. Special inspections of prefabricated wood structural elements and assemblies shall be in accordance with Section 1704.2.5. Special inspections of site-built assemblies shall be in accordance with this section.
+
+The fabrication process of wood structural elements and assemblies (such as wood trusses) that is being performed on the premises of a fabricator's shop must have special inspection in accordance with Section 1704.2.5. As noted in Section 1704.2.5.1, special inspection is not required in an approved fabricator's shop.
+
+1705.5.1 High-load diaphragms. High-load diaphragms designed in accordance with Section 2306.2 shall be installed with special
+
+===== Page 1592 =====
+inspections as indicated in Section 1704.2. The special inspector shall inspect the wood structural panel sheathing to ascertain whether it is of the grade and thickness shown on the approved construction documents. Additionally, the special inspector must verify the nominal size of framing members at adjoining panel edges, the nail or staple diameter and length, the number of fastener lines and that the spacing between fasteners in each line and at edge margins agrees with the approved construction documents.
+
+This section requires special inspection of specific portions of high-load diaphragms with multiple rows of fasteners that are designed in accordance with Section 2306.2. These “high-load” diaphragms have multiple rows of fasteners and are designed to carry higher wind or seismic loads, making it necessary to have a special inspector verify the installation details.
+
+1705.5.2 Metal-plate-connected wood trusses. Where a truss clear span is 18 m or greater, the special inspector shall verify that the temporary installation restraint/bracing and the permanent individual truss member restraint/bracing are installed in accordance with the approved truss submittal package.
+
+Longer-span wood trusses require additional care during handling and installation due to their size and weight. Special inspection of the bracing provides verification that these critical elements are properly installed in accordance with the approved truss submittal. The installation of the restraint/bracing is critical for the safe performance of wood trusses. If the bracing is not installed at all, or is not installed correctly, it can become a life safety issue.
+
+1705.5.3 Mass timber construction. Special inspections of mass timber elements in Types IV-A, IV-B and IV-C construction shall be in accordance with Table 1/705.5.3.
+
+Mass timber type of construction requires a level of inspection consistent with other large buildings and unique applications. See Table 1705.5.3.
+
+See the commentary to Section 1705.5.3
+
+1705.6 Soils. Special inspections and tests of existing site soil conditions, fill placement and load-bearing requirements shall be performed in accordance with this section and Table 1705.6. The approved geotechnical report and the construction documents prepared by the registered design professionals shall be used to determine compliance.
+
+Exception: Where SBC 303 does not require reporting of materials and procedures for fill placement, the special inspector shall verify that the in-place dry density of the compacted fill is not less than 90 percent of the maximum dry density at optimum moisture content determined in accordance with ASTM D1557.
+
+The load-bearing capacity of the supporting soil has a significant impact on the structural integrity of any building. The amount and methods of compaction vary depending on the particular design. Use of proper compaction, lift and density, however, is critical to achieving the desired bearing capacity (see Table 1705.6 for the specific inspections that are required). Where required by Section 1803, a geotechnical report must be provided, which would list the soil criteria that must be verified. Section 1804.6 clarifies that compacted fill used to support foundations must meet the criteria of an approved geotechnical report, except for fill depths of 300 mm or less. The exception in this section provides minimum verification requirements of compacted fill when it is not necessary to provide a geotechnical report.
+
+See Table 1705.6
+Tabular formatting of soil inspections conveys the requirements for determining soil-bearing capacity and for testing inspection of soils for controlled fill.
+
+1705.7 Driven deep foundations. Special inspections and tests shall be performed during installation of driven deep foundation elements as specified in Table 1705.7. The approved geotechnical report and the construction documents prepared by the registered design professionals shall be used to determine compliance.
+
+Table 1705.7 lists the special inspection verifications that are required for installation and testing of driven elements of deep foundations. A geotechnical investigation is required by SBC 303. The section establishes specific criteria that the geotechnical report should include, which would also serve as the basis for the field verifications by a special inspector.
+
+The Table 1705.7 provides a concise list of requirements for inspection and verification of materials, testing and installation of driven deep foundation elements and whether the inspection is continuous or periodic.
+
+1705.8 Cast-in-place deep foundations. Special inspections and tests shall be performed during installation of cast-in-place deep foundation elements as specified in Table 1705.8. The approved geotechnical report and the construction documents prepared by the registered design
+
+===== Page 1593 =====
+professionals shall be used to determine compliance.
+
+Table 1705.8 lists the special inspections that are required for cast-in-place elements of deep foundations. A geotechnical investigation is required by SBC 303. This section establishes specific criteria that the geotechnical report should include, which would also serve as the basis for field verifications by a special inspector.
+
+The Table 1705.8 provides a concise list of requirements for inspection and verification of materials, testing and installation of cast-in-place deep foundation elements and whether the inspection is continuous or periodic.
+
+1705.9 Helical pile foundations. Continuous special inspections shall be performed during installation of helical pile foundations. The information recorded shall include installation equipment used, pile dimensions, tip elevations, final depth, final installation torque and other pertinent installation data as required by the registered design professional in responsible charge. The approved geotechnical report and the construction documents prepared by the registered design professional shall be used to determine compliance.
+
+☑ Helical piles are premanufactured and installed by rotating them into the ground (see definition of "Helical pile" in Section 202). As with other types of deep foundation elements, special inspection must be provided to verify that their installation conforms with the approved geotechnical report and construction documents.
+
+1705.10 Structural integrity of deep foundation elements. Whenever there is a reasonable doubt as to the structural integrity of a deep foundation element, an engineering assessment shall be required. The engineering assessment shall include tests for defects performed in accordance with ASTM D4945, ASTM D5882, ASTM D6760 or ASTM D7949, or other approved method.
+
+Significant defects can adversely affect the structural strength of the deep foundation elements, and therefore need to be detected and corrected prior to further construction to prevent foundation failures. When the integrity of a deep foundation element is in doubt (e.g., due to the installation records, difficult soil conditions, or construction procedures) the deep foundation element should be tested to investigate for material defects. State-of-practice nondestructive tests can identify major defects. The location of such defects and redundancy in the foundation should be considered when evaluating the test results.
+Depending on the nondestructive test results, the foundation element can be accepted, rejected or remediated.
+
+1705.11 Fabricated items. Special inspections of fabricated items shall be performed in accordance with Section 1704.2.5.
+
+This section serves as a reminder that the inspection of fabricated items is generally required except where work is done on the premises of an approved fabricator in accordance with Section 1704.2.5.
+
+1705.12 Special inspections for wind resistance. Special inspections for wind resistance specified in Sections 1705.12.1 through 1705.12.3, unless exempted by the exceptions to Section 1704.2, are required for buildings and structures constructed in the following areas:
+
+1 In wind Exposure Category B, where V is 67 m/sec or greater.
+
+2 In wind Exposure Category C or D, where V is 62.5 m/sec or greater.
+
+This section contains the additional required special inspections in areas that are more likely to experience higher wind forces. This section focuses on the specific areas of concern with respect to wind resistance as detailed in Sections 1705.12.1 for structural wood, Section 1705.12.2 for cold-formed steel and Section 1705.12.3 for components and cladding.
+
+1705.12.1 Structural wood. Structural wood. Continuous special inspection is required during field gluing operations of elements of the main wind force-resisting system. Periodic special inspection is required for nailing, bolting, anchoring and other fastening of elements of the main wind force-resisting system, including wood shear walls, wood diaphragms, drag struts, braces and hold-downs.
+
+Exception: Special inspections are not required for wood shear walls, shear panels and diaphragms, including nailing, bolting, anchoring and other fastening to other elements of the main wind force-resisting system, where the lateral resistance is provided by structural sheathing and the specified fastener spacing at panel edges is more than 100 mm on center.
+
+The risk of damage in buildings having main wind-force-resisting systems that are constructed of wood warrants additional special inspections. The exception relaxes the special inspection requirement where demands are low, which is reflected by the lateral resistance provided by structural sheathing and the sheathing fastener spacing of more than 100 mm on center.
+
+===== Page 1594 =====
+1705.12.2 Cold-formed steel light-frame construction. Periodic special inspection is required for welding operations of elements of the main wind force-resisting system. Periodic special inspection is required for screw attachment, bolting, anchoring and other fastening of elements of the main wind force-resisting system, including shear walls, braces, diaphragms, collectors (drag struts) and hold-downs.
+
+Exception: Special inspections are not required for cold-formed steel light-frame shear walls and diaphragms, including screwing, bolting, anchoring and other fastening to components of the wind force resisting system, where either of the following applies:
+
+1. The sheathing is gypsum board or fiberboard.
+
+2. The sheathing is wood structural panel or steel sheets on only one side of the shear wall, shear panel or diaphragm assembly and the specified fastener spacing at the panel or sheet edges is more than 100 mm on center (o.c.).
+
+The risk of damage in buildings having main windforce-resisting systems that are constructed of cold-formed steel warrants additional special inspections. The exception relaxes the special inspection requirement where demands are low, which is reflected by the specified sheathing fastener spacing at the panel or sheet edge of more than 100 mm on center, or where gypsum board or fiberboard sheathing is used.
+
+1705.12.3 Wind-resisting components. Periodic special inspection is required for fastening of the following systems and components:
+
+1 Roof covering, roof deck and roof framing connections.
+
+2 Exterior wall covering and wall connections to roof and floor diaphragms and framing.
+
+The hazard addressed by this section is the cladding on buildings and structures in areas expected to experience higher wind forces. Damage to buildings due to high wind forces often begins with a failure of the cladding system, which in turn exposes the main windforce-resisting system to forces that this system is typically not designed to withstand, as well as the effects of wind-driven rain. Wind-driven rain damage occurs to building interiors when roof coverings are blown off, windows are broken or other parts of the structure fail. These are major causes of insurance claims. While such damage is not necessarily life-threatening to the occupants, it does result in costly repairs and renovations.
+1705.13 Special inspections for seismic resistance. Special inspections for seismic resistance shall be required as specified in Sections 1705.13.1 through 1705.13.9, unless exempted by the exceptions of Section 1704.2.
+
+Exception: The special inspections specified in Sections 1705.13.1 through 1705.13.9 are not required for structures designed and constructed in accordance with one of the following:
+
+1. The structure consists of light-frame construction; the design spectral response acceleration at short periods, SDS, as determined in Section 1613.2.4, does not exceed 0.5; and the building height of the structure does not exceed 10.5 m.
+
+2. The seismic force-resisting system of the structure consists of reinforced masonry or reinforced concrete; the design spectral response acceleration at short periods, SDS, as determined in Section 1613.2.4, does not exceed 0.5; and the building height of the structure does not exceed 7.5 m.
+
+3. The structure is a detached one or two-family dwelling not exceeding two stories above grade plane and does not have any of the following horizontal or vertical irregularities in accordance with Section 12.3 of SBC 301:
+
+3.1. Torsional or extreme torsional irregularity.
+
+3.2. Nonparallel systems irregularity.
+
+3.3. Stiffness-soft story or stiffness-extreme soft story irregularity.
+
+3.4. Discontinuity in lateral strength-weak story irregularity.
+
+The added special inspection requirements for seismic resistance in this section are an important consideration in carrying out the intent of the seismic provisions of the code. A certain amount of inelastic behavior is inherent in a building's response to the design earthquake. Strong ground shaking caused by earthquakes tends to expose any underlying flaws in a building's construction or design. Thus, the code specifies additional special inspections of various structural and nonstructural components for seismic resistance in order to provide further verification that these portions of the finished structure are constructed in accordance with the construction documents. It is imperative that the registered design professional who designs systems that are critical to earthquake
+
+===== Page 1595 =====
+performance also identifies them and specifies the necessary inspection and testing.
+
+Items 1 and 2 of the exception apply to light-frame structures with a height no greater than 10.5 m and concrete or masonry structures not more than 7.5 m in height that have a relatively low seismic risk (where SDS does not exceed 0.50g).
+
+Item 3 applies to detached one or two-family dwellings not exceeding two stories above grade plane without significant structural irregularities. The exception is limited to those structures that do not have any of the following irregularities: torsional irregularity; extreme torsional irregularity; nonparallel systems; stiffness irregularity (soft story); stiffness irregularity (extreme soft story); or discontinuity in capacity (weak story).
+
+It is important to emphasize that this exception allows exemption from additional special inspections, not from the design of the structure in accordance with the structural requirements of the code.
+
+1705.13.1 Structural steel. Special inspections for seismic resistance shall be in accordance with Section 1705.13.1.1 or 1705.13.1.2, as applicable.
+
+This section distinguishes between structural steel seismic-force resisting systems and structural steel elements that work as struts, collectors, chords and foundation elements in seismic force-resisting systems composed of other structural materials.
+
+1705.13.1.1 Seismic force-resisting systems. Special inspections of structural steel seismic force resisting systems in buildings and structures assigned to Seismic Design Category B, C, D, E or F shall be performed in accordance with the quality assurance requirements of AISC 341.
+
+Exceptions:
+
+1. In buildings and structures assigned to Seismic Design Category B or C, special inspections are not required for structural steel seismic force-resisting systems where the response modification coefficient, R, designated for "Steel systems not specifically detailed for seismic resistance, excluding cantilever column systems" in SBC 301, Table 12.2-1, has been used for design and detailing.
+
+2. In structures assigned to Seismic Design Category D, E, or F, special inspections are not required for structural steel seismic force resisting systems where design and detailing in accordance with SBC 306 is permitted by SBC 301, Table 15.4-1.
+This section requires the special inspection of seismic force-resisting systems of structures classified as Seismic Design Category B, C, D, E or F. It is applicable to structural steel seismic force-resisting systems, which are the 16 structural steel systems listed in SBC 301, Table 12.2-1.
+
+This section makes a general reference to Seismic Design Category B and higher for seismic force resisting systems because many of the structural systems that are required utilize special seismic detailing.
+
+Exception 1 is for systems that fall under Line H of SBC 301, Table 12.2-1, which is for "steel systems not specifically detailed for seismic resistance, excluding cantilever column systems." Such systems are assigned a response modification coefficient, R, of 3 in Table 12.2-1 of SBC 301. The system is then designed for the resulting earthquake load effects using only SBC 306. Under SBC 306, the assumption is elastic behavior, while AISC 341 requires a level of detailing that assumes inelastic response. Therefore, special inspections would not be required for the seismic system.
+
+Exception 2 recognizes the inherent ductility of structures that are permitted to be constructed in accordance with SBC 306 rather than being detailed in accordance with the provisions of AISC 341. For these particular systems, it would be almost impossible to conduct special inspections and nondestructive testing in accordance with AISC 341 when they have not been detailed in accordance with AISC 341.
+
+1705.13.1.2 Structural steel elements. Special inspections of structural steel elements in the seismic force-resisting systems of buildings and structures assigned to Seismic Design Category B, C, D, E or F other than those covered in Section 1705.13.1.1, including struts, collectors, chords and foundation elements, shall be performed in accordance with the quality assurance requirements of AISC 341.
+
+Exceptions:
+
+1. In buildings and structures assigned to Seismic Design Category B or C, special inspections of structural steel elements are not required for seismic force-resisting systems with a response modification coefficient, R, of 3 or less.
+
+2. In structures assigned to Seismic Design Category D, E, or F, special inspections of structural steel elements are not required for seismic force-resisting systems where design and detailing other than AISC 341 is permitted by SBC 301, Table 15.4-1. Special inspection shall be in accordance
+
+===== Page 1596 =====
+with the applicable referenced standard listed in SBC 301, Table 15.4-1.
+
+This section covers structural steel elements such as struts, collectors, chords and foundation elements that provide resistance to seismic forces. These structural steel elements should be inspected in accordance with the quality assurance requirements of AISC 341 if they are used in a seismic force-resisting system that relies heavily on non-elastic energy dissipation.
+
+Exception 1 is for systems that fall under Line H of SBC 301, Table 12.2-1, which is for "steel systems not specifically detailed for seismic resistance, excluding cantilever column systems." Such systems are assigned a response modification coefficient, R, of 3 in Table 12.2-1 of SBC 301. The system is then designed for the resulting earthquake load effects using only SBC 306. Under SBC 306, the assumption is elastic behavior, while AISC 341 requires a level of detailing that assumes inelastic response. Therefore, special inspections would not be required for the seismic system.
+
+Exception 2 recognizes the inherent ductility of structures that are permitted to be constructed in accordance with SBC 306 rather than being detailed in accordance with the provisions of AISC 341. For these particular systems, it would be almost impossible to conduct special inspections and nondestructive testing in accordance with AISC 341 when they have not been detailed in accordance with AISC 341.
+
+force-resisting systems of structures assigned to Seismic Design Category C, D, E or F:
+
+1 Continuous special inspection shall be required during field gluing operations of elements of the seismic force-resisting system.
+
+2 Periodic special inspection shall be required for nailing, bolting, anchoring and other fastening of elements of the seismic force-resisting system, including wood shear walls, wood diaphragms, drag struts, braces, shear panels and hold-downs.
+
+Exception: Special inspections are not required for wood shear walls, shear panels and diaphragms, including nailing, bolting, anchoring and other fastening to other elements of the seismic force-resisting system, where the lateral resistance is provided by structural sheathing, and the specified fastener spacing at the panel edges is more than 100 mm on center.
+Continuous special inspection of field gluing operations of structural wood is required, while special inspection of fastenings of components within the seismic force-resisting system is required on a periodic basis. Since special inspection should only be necessary for complex, highly loaded systems, an exception waives the special inspection of fastening in shear walls and diaphragms that are lightly loaded. Lower design loads mean these elements will have less stringent requirements for bolting, anchoring and fastening. The building official who is already inspecting the sheathing will also inspect fastening in these instances. The exception provides a practical approach that does not require special inspections. All things being equal, as fastener spacing decreases, the component's design load is higher, while tighter spacing increases the potential for splitting framing members. The latter concern is a quality issue associated primarily with nailing.
+
+1705.13.3 Cold-formed steel light-frame construction. For the seismic force-resisting systems of structures assigned to Seismic Design Category C, D, E or F, periodic special inspection shall be required for both:
+
+1 Welding operations of elements of the seismic force-resisting system.
+
+2 Screw attachment, bolting, anchoring and other fastening of elements of the seismic force-resisting system, including shear walls, braces, diaphragms, collectors (drag struts) and hold-downs.
+
+Exception: Special inspections are not required for cold-formed steel light-frame shear walls and diaphragms, including screw installation, bolting, anchoring and other fastening to components of the seismic force-resisting system, where either of the following applies:
+
+1. The sheathing is gypsum board or fiberboard.
+
+2. The sheathing is wood structural panel or steel sheets on only one side of the shear wall, shear panel or diaphragm assembly and the specified fastener spacing at the panel or sheet edge is more than 100 mm on center.
+
+Periodic special inspection is required for cold-formed steel framing and its fastening. The exception relaxes the special inspection requirement where demands are low, which is reflected by the specified sheathing fastener spacing at the panel or sheet edge of more than 100 mm on center, or where gypsum board or fiberboard sheathing is used.
+
+===== Page 1597 =====
+1705.13.4 Designated seismic systems. For structures assigned to Seismic Design Category C, D, E or F, the special inspector shall examine designated seismic systems requiring seismic qualification in accordance with Section 13.2.2 of SBC 301 and verify that the label, anchorage and mounting conform to the certificate of compliance.
+
+For elements of the designated seismic system as defined in Section 202, the special inspector is required to verify that the component label, anchorage and mounting conforms to the certificate of compliance.
+
+1705.13.5 Architectural components. Periodic special inspection is required for the erection and fastening of exterior cladding, interior and exterior nonbearing walls and interior and exterior veneer in structures assigned to Seismic Design Category D, E or F.
+
+Exception: Periodic special inspection is not required for the following:
+
+1 Exterior cladding, interior and exterior non-bearing walls and interior and exterior veneer 9 m or less in height above grade or walking surface.
+
+2 Exterior cladding and interior and exterior veneer weighing 250 N/m \( ^{2} \)  or less.
+
+3 Interior non-bearing walls weighing 750 N/m \( ^{2} \)  or less.
+
+Although this section is titled “Architectural components,” the requirements refer specifically to exterior cladding, interior and exterior nonbearing walls and interior and exterior veneer. It follows that architectural components other than exterior cladding, interior and exterior nonbearing walls and interior and exterior veneer are not subject to these inspections. It applies to nonbearing walls, which are considered nonstructural components as opposed to bearing walls, which are structural elements and are therefore subject to the special inspections required for the material used to construct the wall. Periodic special inspection of the installation of the listed architectural components verifies that the intended design is carried out in the field. The listed components are often supported at different levels of a structure, meaning the component and connection design must consider relative movements. Where connections are designed to allow for relative displacements, verifying that the installation is in accordance with the construction documents is a prudent measure. The special inspector should verify that the method of anchoring or fastening and the number, spacing and types of fasteners actually used conform with the approved construction documents for the component installed.
+Exception 1 exempts construction that is not more than 9 m above grade or above a walking surface. Exception 2 exempts cladding and veneer weighing 250 N/m \( ^{2} \)  or less from special inspection. Exception 3 exempts interior nonbearing walls, but not exterior nonbearing walls, weighing 720 N/m \( ^{2} \)  or less from special inspection. Restated, this section requires periodic special inspection for the erection and fastening of exterior nonbearing walls, cladding and veneer weighing more than 250 N/m \( ^{2} \)  and interior nonbearing walls weighing more than 720 N/m \( ^{2} \)  when any of these components are installed more than 9 m above grade or a walking surface.
+
+1705.13.5.1 Access floors. Periodic special inspection is required for the anchorage of access floors in structures assigned to Seismic Design Category D, E or F.
+
+Access floors consist of a system of panels and supports that create a raised floor above the actual structural floor system. By raising the floor, a space is created between the raised floor and the structural floor where various components such as wiring for power, voice and data can be routed. This space has also become increasingly valuable for heating, ventilation, and air-conditioning (HVAC) distribution either as a plenum space or with defined ductwork. Because failure of the floor system can pose a threat to the occupants in high seismic areas, anchorage of access floors require periodic special inspection in buildings as classified Seismic Design Category D, E or F.
+
+1705.13.6 Plumbing, mechanical and electrical components. Periodic special inspection of plumbing, mechanical and electrical components shall be required for the following:
+
+1 Anchorage of electrical equipment for emergency and standby power systems in structures assigned to Seismic Design Category C, D, E or F.
+
+2 Anchorage of other electrical equipment in structures assigned to Seismic Design Category E or F.
+
+3 Installation and anchorage of piping systems designed to carry hazardous materials and their associated mechanical units in structures assigned to Seismic Design Category C, D, E or F.
+
+4 Installation and anchorage of ductwork designed to carry hazardous materials in structures assigned to Seismic Design Category C, D, E or F.
+
+5 Installation and anchorage of vibration isolation systems in structures assigned to
+
+===== Page 1598 =====
+Seismic Design Category C, D, E or F where the approved construction documents require a nominal clearance of 7 mm or less between the equipment support frame and restraint.
+
+6 Installation of mechanical and electrical equipment, including duct work, piping systems and their structural supports, where automatic fire sprinkler systems are installed in structures assigned to Seismic Design Category C, D, E or F to verify one of the following:
+
+6.1 Minimum clearances have been provided as required by Section 13.2.3 SBC 301.
+
+6.2 A nominal clearance of not less than 75 mm has been provided between fire protection sprinkler system drops and springs and structural members not used collectively or independently to support the sprinklers; equipment attached to the building structure; and other systems' piping.
+Where flexible sprinkler hose fittings are used, special inspection of minimum clearances is not required.
+
+It is anticipated that the minimum requirements for mechanical and electrical components will be met when the special inspector is satisfied that the method of anchoring or fastening and the number, spacing and types of fasteners actually used conform to the approved construction documents for the components installed. It is noted that such special inspection requirements are for selected electrical, lighting, piping and ductwork components in structures that are assigned to Seismic Design Category C, D, E or F. Periodic special inspection is required during the anchorage of electrical equipment for emergency or standby power systems, installation and anchorage of piping systems designed to carry hazardous materials and their mechanical units, and installation and anchorage of ductwork designed to carry hazardous materials in structures assigned to Seismic Design Category C, D, E or F. Periodic special inspection is required during the anchorage for other electrical equipment in structures assigned to Seismic Design Category E or F.
+
+Item 5 requires the inspection of vibration isolation systems where an optional lower clearance is specified by the design. Typically, vibration-isolated mechanical equipment requires an increased seismic design force. Note b of Table 13-1 of SBC 301 provides an option to reduce this seismic design force on vibration-isolated components and systems having a clearance of 7 mm or less between the equipment support frame and restraint. To confirm that the design intent is carried out in the field, isolated equipment installations that utilize a reduced clearance are subject to special inspection.
+
+1705.13.7 Storage racks. Steel storage racks and steel cantilevered storage racks that are 2400 mm in height or greater and assigned to Seismic Design Category D, E or F shall be provided with periodic special inspection as required by Table 1705.13.7.
+
+Tall storage racks such as those found in large building supply stores pose a threat to the public in high seismic areas.
+
+See Table 1705.13.7.
+See the commentary to Section 1705.13.7.
+
+1705.13.8 Seismic isolation systems. Periodic special inspection shall be provided for seismic isolation systems in seismically isolated structures assigned to Seismic Design Category B, C, D, E or F during the fabrication and installation of isolator units and energy dissipation devices.
+
+Seismic isolation units and energy dissipation devices are required to have periodic special inspection during fabrication and installation.
+
+1705.13.9 Cold-formed steel special bolted moment frames. Periodic special inspection shall be provided for the installation of cold-formed steel special bolted moment frames in the seismic force-resisting systems of structures assigned to Seismic Design Category D, E or F.
+
+This section requires special inspections for the installation of cold-formed steel special bolted moment frames, which are a newer type of seismic force-resisting system that is permitted by SBC 301. SBC 308, the Standard for Seismic Design of Cold-formed Steel Structural Systems: Special Bolted Moment Frames, contains provisions for inspections that are limited to quality control by the fabricator and inspections by qualified inspectors representing the owner. The structural design of these frames is sufficiently complex to warrant inspection by a person with the expertise of a special inspector. Especially complex areas of the structural design that warrant special inspection of the installation include the beam-to-column connections and the anchorage to the foundation.
+
+1705.14 Testing for seismic resistance. Testing for seismic resistance shall be required as specified in Sections 1705.14.1 through 1705.14.4, unless exempted from special inspections by the exceptions of Section 1704.2.
+
+This section specifies when material seismic-resistance tests for seismic force-resisting systems and designated seismic systems are required. These requirements supplement the
+
+===== Page 1599 =====
+test requirements contained in the referenced standards given in other sections of the code. The seismic provisions of the code are frequently based on assumed material behavior. Material tests are key to verifying the quality of material that is used for certain seismic-resistant construction.
+
+Some inelastic behavior can be anticipated in a building's response to the design earthquake. Strong ground shaking caused by earthquakes tends to expose any underlying flaws in a building's construction or design. Thus, the code specifies testing of some structural and nonstructural components as additional verification that the seismic resistance provided in the finished structure meets the intent of the design. It is imperative that the professional who designs systems that are critical to the earthquake performance also identifies them and specifies the necessary testing in the statement of special inspections.
+
+1705.14.1 Structural steel. Nondestructive testing for seismic resistance shall be in accordance with Section 1705.14.1.1 or 1705.14.1.2, as applicable.
+
+This section requires nondestructive testing for seismic resistance. Distinctions are drawn between structural steel seismic force-resisting systems and structural steel elements that work as struts, collectors, chords and foundation elements in seismic force-resisting systems.
+
+1705.14.1.1 Seismic force-resisting systems. Nondestructive testing of structural steel seismic force-resisting systems in buildings and structures assigned to Seismic Design Category B, C, D, E or F shall be performed in accordance with the quality assurance requirements of AISC 341.
+
+## Exceptions:
+
+1. In buildings and structures assigned to Seismic Design Category B or C, nondestructive testing is not required for structural steel seismic force-resisting systems where the response modification coefficient, R, designated for "Steel systems not specifically detailed for seismic resistance, excluding cantilever column systems" in SBC 301, Table 12.2-1, has been used for design and detailing.
+
+2. In structures assigned to Seismic Design Category D, E, or F, non-destructive testing is not required for structural steel seismic force resisting systems where design and detailing in accordance with SBC 306 is permitted by SBC 301, Table 15.4-1.
+Structural steel must be tested as required by AISC 341. Appendix Q of AISC 341 provides the code user with the minimum acceptable requirements for a quality assurance plan that applies to the construction of welded joints, bolted joints and other details in the seismic-force-resisting system. Where appropriate, the appendix references AWS D1.1 for specific acceptance criteria.
+
+This section makes a general reference to Seismic Design Category B and higher for seismic force resisting systems because many of the structural systems that are required utilize special detailing.
+
+The first exception recognizes that buildings classified as Seismic Design Category B or C may employ a seismic system that is designed using a response coefficient, R = 3.
+
+Exception 2 recognizes the inherent ductility of structures that are permitted to be constructed in accordance with SBC 306 rather than being detailed in accordance with the provisions of AISC 341. For these systems, it would be almost impossible to conduct special inspections and nondestructive testing in accordance with AISC 341 when they have not been detailed in accordance with AISC 341.
+
+1705.14.1.2 Structural steel elements. Nondestructive testing of structural steel elements in the seismic force-resisting systems of buildings and structures assigned to Seismic Design Category B, C, D, E or F other than those covered in Section 1705.14.1.1, including struts, collectors, chords and foundation elements, shall be performed in accordance with the quality assurance requirements of AISC 341.
+
+## Exceptions:
+
+1. In buildings and structures assigned to Seismic Design Category B or C, non-destructive testing of structural steel elements is not required for seismic force-resisting systems with a response modification coefficient, R, of 3 or less.
+
+2. In structures assigned to Seismic Design Category D, E or F, non-destructive testing of structural steel elements is not required for seismic force-resisting systems where design and detailing other than AISC 341 is permitted by SBC 301, Table 15.4-1. Non-destructive testing of structural steel elements shall be in accordance with the applicable referenced standard listed in SBC 301, Table 15.4-1.
+
+Testing for these structural steel elements should be provided in accordance with the quality assurance requirements of AISC 341 if they are used in a seismic force-resisting
+
+===== Page 1600 =====
+system that relies heavily on non-elastic energy dissipation.
+
+Exception 1 provides that requirements for nondestructive testing of structural steel elements is now governed by AISC 341. Testing is not required for Seismic Design Categories B and C where relatively low inelastic demands are expected (i.e., where the response modification coefficient, R, is 3 or less). Because of their low redundancy, cantilever column systems are not exempted from testing.
+
+Exception N2 recognizes the inherent ductility of structures that are permitted to be constructed in accordance SBC 306 rather than being detailed in accordance with the provisions of AISC 341. For these particular systems, it would be almost impossible to conduct special inspections and nondestructive testing in accordance with AISC 341 when they have not been detailed in accordance with AISC 341.
+
+1705.14.2 Nonstructural components. For structures assigned to Seismic Design Category B, C, D, E or F, where the requirements of Section 13.2.1 of SBC 301 for nonstructural components, supports or attachments are met by seismic qualification as specified in Item 2 therein, the registered design professional shall specify on the approved construction documents the requirements for seismic qualification by analysis, testing or experience data. Certificates of compliance for the seismic qualification shall be submitted to the building official as specified in Section 1704.5.
+
+Where required, nonstructural components must comply with the general design provisions of Section 13.2.1 of SBC 301, which permits justification of components by project-specific design or certification by the manufacturer (through analysis, testing or experience data). Where the option of seismic qualification by analysis, testing or experience data detailed in Section 13.2.1, Item 2, of SBC 301 is chosen, the requirements to document the parameters for seismic qualification on the construction documents and to submit the certificate of compliance for seismic qualification to the building official apply. These requirements are the consequence of the design team choosing to comply through seismic qualification rather than the design option in Section 13.2.1, Item 1 of SBC 301. In addition, the registered design professional responsible should review and accept the certificate of compliance before its submission to the building official. Note that ICC Evaluation Service's AC 156, Acceptance Criteria for Seismic Certification by Shake-table Testing of Nonstructural Components, provides testing criteria that can be used to comply with this provision.
+
+The registered design professional is required to specify the applicable seismic certification requirements on the construction documents for designated seismic systems. This is necessary for the manufacturer who is required to provide a certificate of compliance. Affected mechanical and electrical components are required to demonstrate seismic performance by testing or analytical methods. The intent is to verify the ability of critical equipment to not only survive an earthquake but also to remain functional. This is accomplished by the special certification of designated seismic systems.
+
+1705.14.4 Seismic isolation systems. Seismic isolation systems in seismically isolated structures assigned to Seismic Design Category B, C, D, E or F shall be tested in accordance with Section 17.8 of SBC 301.
+
+The referenced section of SBC 301 contains detailed provisions for isolation system testing. This testing provides effective stiffness and damping values to be used in the design of a seismically isolated structure. A minimum of two full-size specimens must be tested for each proposed type and size of isolator. These prototypes are not to be used in the construction unless approved by both the registered design professional and building official.
+
+Sprayed fire-resistant materials. Special inspections and tests of sprayed fire-resistant materials applied to floor, roof and wall assemblies and structural members shall be performed in accordance with Sections 1705.15.1 through 1705.15.6. Special inspections shall be based on the fire-resistance design as designated in the approved construction documents. The tests set forth in this section shall be based on samplings from specific floor, roof and wall assemblies and structural members. Special inspections and tests shall be performed during construction with an additional visual inspection after the rough installation of electrical, automatic sprinkler, mechanical and plumbing systems and suspension.
+
+===== Page 1601 =====
+systems for ceilings, and before concealment where applicable. The required sample size shall not exceed 110 percent of that specified by the referenced standards in Sections 1705.15.4.1 through 1705.15.4.9.
+
+Section 704.13 contains code requirements for the application of sprayed fire-resistant materials (SFRM). The application must be in accordance with the terms and conditions of the listing and the manufacturer's instructions. The special inspection of SFRM verifies that the requirements for thickness, density and bond strength specified in the design have been satisfied by the actual installation. These inspections are to be performed during construction with an additional visual inspection after the rough installation of mechanical, electrical, plumbing, automatic sprinkler and ceiling suspension systems and before concealment. The required sample size shall not exceed 110 percent of that specified by the referenced standards in the noted sections.
+
+1705.15.1 Physical and visual tests. The special inspections and tests shall include the following to demonstrate compliance with the listing and the fire-resistance rating:
+
+1 Condition of substrates.
+
+2 Thickness of application.
+
+3 Density in kilogram per cubic meter (kg/m \( ^{3} \) ).
+
+4 Bond strength adhesion/cohesion.
+
+5 Condition of finished application.
+
+To verify that an SFRM performs as intended, certain conditions are required to be met. The verifications include: substrate conditions, thickness and density of material and condition of the finished application. Section 704.13 states the substrate condition and finished condition requirements.
+
+1705.15.2 Structural member surface conditions. The surfaces shall be prepared in accordance with the approved fire-resistance design and the written instructions of approved manufacturers. The prepared surface of structural members to be sprayed shall be inspected by the special inspector before the application of the sprayed fire-resistant material.
+
+The integrity of an SFRM system depends on the conditions of the surface of the steel member to which it is applied. The system must be fully adhered to the surface for proper performance, in accordance with design values. See Section 704.13.3.1 for requirements related to the substrate surface conditions.
+
+1705.15.3 Application. The substrate shall have a minimum ambient temperature before and after application as specified in the written instructions of approved manufacturers. The area for application shall be ventilated during and after application as required by the written instructions of approved manufacturers.
+
+During application of SFRM, and immediately thereafter during cure of the material, several items must be controlled, including the ambient temperature during the application and temperature of the substrate and the SFRM. Temperature control is important to determine that the necessary chemical reactions needed to make a particular material bond to the steel surfaces and hold together do, in fact, happen. The minimum or maximum temperatures necessary for proper bond and cure depend on the specific type of material (see Section 704.13.4 for more information). The scope of the special inspection also includes verification of the proper ventilation during application, as well as for curing.
+
+1705.15.4 Thickness. Not more than 10 percent of the thickness measurements of the sprayed fire-resistant materials applied to floor, roof and wall assemblies and structural members shall be less than the thickness required by the approved fire-resistance design, and none shall be less than the minimum allowable thickness required by Section 1705.15.4.1.
+
+For the system to provide the required design fire-resistance rating, it must be applied at the appropriate thickness. This section establishes an acceptable percentage of thickness readings that can fall below the specified design value, provided none of these readings are less than the minimum established in Section 1705.15.4.1. These limitations on the thickness measurements are intended to provide a high confidence level that the installed material meets or exceeds the design requirements.
+
+1705.15.4.1 Minimum allowable thickness. For design thicknesses 25 mm or greater, the minimum allowable individual thickness shall be the design thickness minus 6.4 mm. For design thicknesses less than 25 mm, the minimum allowable individual thickness shall be the design thickness minus 25 percent. Thickness shall be determined in accordance with ASTM E 605. Samples of the sprayed fire-resistant materials shall be selected in accordance with Sections 1705.15.4.2 and 1705.15.4.3.
+
+This requirement prevents the combination of very thin readings with thicker readings in order to show compliance. The required sampling provided for floor, roof and wall assemblies in Section 1705.15.4.2 and structural members in Section 1705.15.4.3 is based on ASTM E605.
+
+===== Page 1602 =====
+with some modifications. This standard also provides testing methods that are commonly used by the industry.
+
+1705.15.4.2 Floor, roof and wall assemblies. The thickness of the sprayed fire-resistant material applied to floor, roof and wall assemblies shall be determined in accordance with ASTM E605, making not less than four measurements for each 93 m² of the sprayed area, or portion thereof, in each story.
+
+Sampling of an SFRM for membrane components (floors, roofs or walls) is based on the square meter of the components. The number of samples is increased in the code by using a sampling area of every 93 m² rather than 930 m² as is specified in ASTM E605. This is intended to provide a higher level of confidence in the performance of the installed assembly.
+
+1705.15.4.3 Cellular decks. Thickness measurements shall be selected from a square area, 300 mm by 300 mm in size. Not fewer than four measurements shall be made, located symmetrically within the square area.
+
+This section is consistent with the procedure in ASTM E605 for flat decks.
+
+1705.15.4.4 Fluted decks. Thickness measurements shall be selected from a square area, 300 mm by 300 mm in size. Not fewer than four measurements shall be made, located symmetrically within the square area, including one each of the following: valley, crest and sides. The average of the measurements shall be reported.
+
+This section is consistent with the procedure in ASTM E605 for fluted decks.
+
+1705.15.4.5 Structural members. The thickness of the sprayed fire-resistant material applied to structural members shall be determined in accordance with ASTM E 605. Thickness testing shall be performed on not less than 25 percent of the structural members on each floor.
+
+Sampling of the SFRM for structural elements is based on the square meter of each floor. Sample size and number of elements represented are based on ASTM E605.
+
+1705.15.4.6 Beams and girders. At beams and girders thickness measurements shall be made at nine locations around the beam or girder at each end of a 300 mm length.
+
+This section is consistent with the procedure in ASTM E605 for beams.
+
+1705.15.4.7 Joists and trusses. At joists and trusses, thickness measurements shall be made at seven locations around the joist or truss at each end of a 300 mm length.
+
+This section is consistent with the procedure in ASTM E605 for joists.
+1705.15.4.8 Wide-flanged columns. At wide-flanged columns, thickness measurements shall be made at 12 locations around the column at each end of a 300 mm length.
+
+This section is consistent with the procedure in ASTM E605 for columns.
+
+1705.15.4.9 Hollow structural section and pipe columns. At hollow structural section and pipe columns, thickness measurements shall be made at not fewer than four locations around the column at each end of a 300 mm length.
+
+This section provides guidance for the thickness sampling of hollow structural sections that is not provided in ASTM E605.
+
+1705.15.5 Density. The density of the sprayed fire-resistant material shall be not less than the density specified in the approved fire-resistance design. Density of the sprayed fire-resistant material shall be determined in accordance with ASTM E605. The test samples for determining the density of the sprayed fire-resistant materials shall be selected as follows:
+
+1 From each floor, roof and wall assembly at the rate of not less than one sample for every  \( 230 \, m^{2} \)  or portion thereof of the sprayed area in each story.
+
+2 From beams, girders, trusses, and columns at the rate of not less than one sample for each type of structural member for each  \( 230 \, m^{2} \)  of floor area or portion thereof in each story.
+
+The density of an SFRM will have an impact on the fire-resistance rating of the system. Therefore, it is important that the density of the material be measured to verify that the product is as designed. The sampling requirements differ from those for thickness measurements. The required method of determining density is provided in ASTM E605, but the sample size is based on a sampling area of every  \( 230 \, m^{2} \)  rather than  \( 930 \, m^{2} \) , as is specified in ASTM E605. This is intended to provide a higher level of confidence in the performance of the finished assembly.
+
+1705.15.6 Bond strength. The cohesive/adhesive bond strength of the cured sprayed fire-resistant material applied to floor, roof and wall assemblies and structural members shall not be less than  \( 7.2 \, kN/m^{2} \) . The cohesive/adhesive bond strength shall be determined in accordance with the field test specified in ASTM E736 by testing in-place samples of the sprayed fire-resistant material selected in accordance with Sections 1705.15.6.1 through 1705.15.6.3.
+
+The adhesion of a sprayed-on material is critical to its performance. This is the key factor in minimizing the chances of the material becoming dislodged. A minimum
+
+===== Page 1603 =====
+cohesive/adhesive bond strength of  \( 7.2 \, kN/m^{2} \)  is required in this section based on the American Institute of Architects (AIA) Master Specification and the recommendations of the General Services Administration (GSA) for durability and serviceability of the material. While this minimum bond strength may be generally suitable, note that Section 403.2.3 provides more stringent requirements that apply to high-rise buildings, where the consequences of dislodged materials can be much greater.
+
+1705.15.6.1 Floor, roof and wall assemblies. The test samples for determining the cohesive/adhesive bond strength of the sprayed fire-resistant materials shall be selected from each floor, roof and wall assembly at the rate of not less than one sample for every  \( 230 \, m^{2} \)  of the sprayed area, or portion thereof, in each story.
+
+The sampling rate for bond in this section matches the sampling rate for determining density.
+
+1705.15.6.2 Structural members. The test samples for determining the cohesive/adhesive bond strength of the sprayed fire-resistant materials shall be selected from beams, girders, trusses, columns and other structural members at the rate of not less than one sample for each type of structural member for each  \( 230 \, m^{2} \)  of floor area or portion thereof in each story.
+
+The bond strength sampling rate in this section is the same as that indicated in Section 1705.15.5 for determining density.
+
+1705.15.6.3 Primer, paint and encapsulant bond tests. Bond tests to qualify a primer, paint or encapsulant shall be conducted where the sprayed fire-resistant material is applied to a primed, painted or encapsulated surface for which acceptable bond-strength performance between these coatings and the fire-resistant material has not been determined. A bonding agent approved by the SFRM manufacturer shall be applied to a primed, painted or encapsulated surface where the bond strengths are found to be less than required values.
+
+The in-place adhesion of SFRM can be reduced by a factor of 10 when applied over certain primers as opposed to the adhesion obtained by the rated material applied on bare, clean steel. Where the listing does not consider application over such materials, then its bond strength must be determined as described in this section. It is necessary to apply a bonding agent when the bond strength is less than required because of an encapsulated, painted or primed surface. Also see Section 704.13 for additional conditions on application of the SFRM.
+1705.16 Mastic and intumescent fire-resistant coatings. Special inspections and tests for mastic and intumescent fire-resistant coatings applied to structural elements and decks shall be performed in accordance with AWCI 12-B. Special inspections and tests shall be based on the fire-resistance design as designated in the approved construction documents. Special inspections and tests shall be performed during construction. Additional visual inspection shall be performed after the rough installation and, where applicable, prior to the concealment of electrical, automatic sprinkler, mechanical and plumbing systems.
+
+Special inspection of mastic and intumescent fire-resistant coatings is needed because these products are often complex systems that require special expertise from applicators and quality assurance personnel. It is essential to confirm that their installation is in accordance with the manufacturer's instructions and the terms of their listing so that they will perform as expected. The special inspection of fireproofing must take place before the mechanical, electrical and plumbing, sprinkler, suspension systems and ceilings are "roughed in" or installed.
+
+1705.17 Exterior insulation and finish systems (EIFS). Special inspections shall be required for all EIFS applications.
+
+Exceptions:
+
+1. Special inspections shall not be required for EIFS applications installed over a water-resistive barrier with a means of draining moisture to the exterior.
+
+2. Special inspections shall not be required for EIFS applications installed over masonry or concrete walls.
+
+Special inspections are required for all EIFS installations except for the two exceptions in this section. Exception 1 recognizes that EIFS that are installed over a water-resistive barrier, incorporate flashings at penetrations and terminations, and drain to the exterior afford a built-in redundancy against water penetration that makes the need for special inspections less critical.
+
+Exception 2 recognizes that concrete and masonry substrates are relatively durable and the exposure to moisture does not necessarily have a detrimental effect on these materials. In addition, these substrates pose a barrier to moisture and tend to provide some redundancy against water infiltration.
+
+1705.17.1 Water-resistive barrier coating. A water-resistive barrier coating complying with ASTM E2570 requires special inspection of the
+
+===== Page 1604 =====
+water-resistive barrier coating when installed over a sheathing substrate.
+
+Where an EIFS is utilized in residential occupancies of Type V construction, an EIFS with drainage is required by Chapter 14. This specific type of system incorporates a means of drainage applied over a water-resistive barrier, and Chapter 14 allows a water-resistive barrier coating complying with ASTM E2570 as an option. This section requires special inspection of that barrier coating.
+
+1705.18 Fire-resistant penetrations and joints. In high-rise buildings, in buildings assigned to Risk Category III or IV, or in fire areas containing Group R occupancies with an occupant load greater than 250, special inspections for through-penetrations, membrane penetration firestops, fire-resistant joint systems and perimeter fire containment systems that are tested and listed in accordance with Sections 714.4.1.2, 714.5.1.2, 715.3.1 and 715.4 shall be in accordance with Section 1705.18.1 or 1705.18.2.
+
+Through-penetration and membrane-penetration firestop systems, as well as fire-resistant joint systems and perimeter fire barrier systems, are critical to maintaining the fire-resistive integrity of fire-resistance-rated construction, including fire walls, fire barriers, fire partitions, smoke barriers and horizontal assemblies. The proper selection and installation of such systems must be in compliance with the code and/or appropriate listing. With thousands of listed firestop and joint systems available, each with variations that multiply possible systems for a building exponentially, the selection of the correct system is not a generic process. Where such systems are used in two types of buildings considered as "high risk," it is mandatory that they be included as a part of the special inspection process. Such "high risk" buildings are identified as:
+
+- High-rise buildings assigned to Risk Category III or IV in accordance with Section 1604.5
+
+- Fire areas containing Group R occupancies with an occupant load greater than 250.
+
+Although the proper application of firestop and joint system requirements is very important in all types and sizes of buildings, the requirement for special inspection is limited to specific building types: those that represent a substantial hazard to human life in the event of a system failure; or those that are considered to be essential facilities. Inspection in accordance with ASTM E2174 for penetration firestop systems and ASTM E2393 for fire-resistant joint systems brings an increased level of review to these applications.
+1705.18.1 Penetration firestops. Inspections of penetration firestop systems that are tested and listed in accordance with Sections 714.4.1.2 and 714.5.2 shall be conducted by an approved agency in accordance with ASTM E2174.
+
+A primary method of addressing a penetration of a fire-resistance-rated wall assembly is through the use of an approved firestop system installed in accordance with ASTM E814 or UL 1479. The system must have an F rating that is not less than the fire resistance rating of the wall being penetrated. It is critical that the firestop system be appropriate for the penetration being protected. The choice of firestop systems varies based on the size and material of the penetrating item, as well as the construction materials and fire-resistance rating of the wall being penetrated. Special inspection of the firestop system is intended to verify that the appropriate system has been specified and that the installation is in conformance with its listing.
+
+1705.18.2 Fire-resistant joint systems. Inspection of fire-resistant joint systems that are tested and listed in accordance with Sections 715.3.1 and 715.4 shall be conducted by an approved agency in accordance with ASTM E2393.
+
+A “joint” is defined as a “linear opening in or between adjacent fire-resistance-rated assemblies that is designed to allow independent movement of the building in any plane caused by thermal, seismic, wind or any other loading.” The joint creates an interruption of the fire-resistant integrity of the wall or floor system, requiring the use of an appropriate fire-resistant joint system. The code mandates general installation criteria for such systems and requires them to be tested in accordance with ASTM E1966 or UL 2079. Much like the inspection of penetration firestop systems, the proper choice and installation of fire-resistant joint systems can be verified through a comprehensive special inspection process.
+
+Although regulated under the provisions for fire resistant joint systems, a second type of system is technically not a joint but rather an extension of protection afforded by a horizontal assembly. The void created at the intersection of an exterior curtain wall assembly and a fire-resistance-rated floor or floor/ceiling assembly must be filled in a manner that maintains the integrity of the horizontal assembly. The system utilized to fill the void must be in compliance with ASTM E2307 and able to resist the passage of flame for a time period equal to that of the floor assembly. Special inspection is necessary to verify that the
+
+===== Page 1605 =====
+appropriate joint system is chosen and installed.
+
+1705.19 Testing for smoke control. Smoke control systems shall be tested by a special inspector.
+
+Smoke control systems are unique and complex life safety systems that need to be tested by special inspection.
+
+1705.19.1 Testing scope. The test scope shall be as follows:
+
+1 During erection of ductwork and prior to concealment for the purposes of leakage testing and recording of device location.
+
+2 Prior to occupancy and after sufficient completion for the purposes of pressure difference testing, flow measurements and detection and control verification.
+
+Special inspections must occur at two different stages during the installation of a smoke control system. The first round of special inspections occurs before concealment of the ductwork or fire protection elements. At this stage, the special inspector needs to verify that duct leakage is in accordance with Section 909.10.2. Additionally, the locations of all fire protection devices need to be verified and documented at this time. The second round of special inspections occurs just prior to occupancy in order to more closely replicate the conditions under which the system must operate. The inspections include the verification of pressure differences across smoke barriers as required in Sections 909.5.1 and 909.18.6, the verification of appropriate volumes of airflow as noted in the design, and the verification of the appropriate operation of the detection and control mechanisms as required in Sections 909.18.1 and 909.18.7 (see Section 909.18.8.3 for report requirements).
+
+1705.19.2 Qualifications. Approved agencies for smoke control testing shall have expertise in fire protection engineering, mechanical engineering and certification as air balancers.
+
+Expertise in fire protection engineering, mechanical engineering and certification as air balancers is required to verify that the smoke control testing will be performed in a competent manner.
+
+1705.20 Sealing of mass timber. Periodic special inspections of sealants or adhesives shall be conducted where sealant or adhesive required by Section 703.7 is applied to mass timber building elements as designated in the approved construction documents.
+
+Special inspection is required to address sealants and adhesives that are a part of the required design to ensure that the details of construction are adhered to.
+
+## SECTION 1706 DESIGN STRENGTHS OF MATERIALS
+
+1706.1 Conformance to standards. The design strengths and permissible stresses of any structural material that are identified by a manufacturer's designation as to manufacture and grade by mill tests, or the strength and stress grade is otherwise confirmed to the satisfaction of the building official, shall conform to the specifications and methods of design of accepted engineering practice or the approved rules in the absence of applicable standards.
+
+Structural materials must conform to applicable design standards, approved rules and accepted methods of engineering practice. Conformance to these provisions and to the manufacturer's designations provides the building official with the information needed to verify whether the materials will perform their intended function satisfactorily.
+
+1706.2 New materials. For materials that are not specifically provided for in this code, the design strengths and permissible stresses shall be established by tests as provided for in Section 1707.
+
+Materials that are not explicitly covered by the code are allowed when subjected to the appropriate tests, demonstrating adequate performance (see Sections 1702.1 and 1707).
+
+## SECTION 1707 ALTERNATIVE TEST PROCEDURE
+
+1707.1 General. In the absence of approved rules or other approved standards, the building official shall make, or cause to be made, the necessary tests and investigations; or the building official shall accept duly authenticated reports from approved agencies in respect to the quality and manner of use of new materials or assemblies as provided for in Section 104.11. The cost of all tests and other investigations required under the provisions of this code shall be borne by the owner or the owner's authorized agent.
+
+Test reports from approved agencies may be used as a basis for approval of materials that are not within the purview of any approved rules (i.e., "new materials" as mentioned in Section 1702.1). This section directly references Section 104.11. It is within the power of the building official to accept reports from an approved agency. In determining the approval, the building official should check that the agency is an independent third-party agency with no financial or fiduciary affiliations with the applicant or material supplier. The capability and competency of the agency must also be examined.
+
+===== Page 1606 =====
+## SECTION 1708 IN-SITU LOAD TESTS
+
+1708.1 General. Whenever there is a reasonable doubt as to the stability or load-bearing capacity of a completed building, structure or portion thereof for the expected loads, an engineering assessment shall be required. The engineering assessment shall involve either a structural analysis or an in-situ load test, or both. The structural analysis shall be based on actual material properties and other as-built conditions that affect stability or load bearing capacity and shall be conducted in accordance with the applicable design standard. The In-situ, load tests shall be conducted in accordance with Section 1708.2. If the building, structure or portion thereof is found to have inadequate stability or load-bearing capacity for the expected loads, modifications to ensure structural adequacy or the removal of the inadequate construction shall be required.
+
+This section is intended to verify the adequacy of a structure via structural analyses and/or load tests where there is reasonable doubt whether the structure has sufficient capacity. A load test procedure must simulate the actual load conditions to which the structure will be subjected (see Section 1708.2 for details).
+
+1708.2 In-situ load tests. In-situ load tests shall be conducted in accordance with Section 1708.2.1 or 1708.2.2 and shall be supervised by a registered design professional. The test shall simulate the applicable loading conditions specified in Chapter 16 as necessary to address the concerns regarding structural stability of the building, structure or portion thereof.
+
+The criteria for in-situ load tests are set forth for two categories: procedures specified, which are regulated by Section 1708.2.1, and procedures not specified, which are regulated by Section 1708.2.2.
+
+1708.2.1 Load test procedure specified. Where a referenced material standard contains an applicable load test procedure and acceptance criteria, the test procedure and acceptance criteria in the standard shall apply. In the absence of specific load factors or acceptance criteria, the load factors and acceptance criteria in Section 1708.2.2 shall apply.
+
+The load test must be in accordance with the applicable referenced standard. Section 1708.2.2 must only be utilized in the absence of either a specific standard or specific load factors and acceptance criteria from applicable referenced standards.
+
+1708.2.2 Load test procedure not specified. In the absence of applicable load test procedures contained within a material standard referenced by this code or acceptance criteria for a specific material or method of construction, such existing structure shall be subjected to an approved test procedure developed by a registered design professional that simulates applicable loading and deformation conditions. For components that are not a part of the seismic force-resisting system, at a minimum the test load shall be equal to the specified factored design loads. For materials such as wood that have strengths that are dependent on load duration, the test load shall be adjusted to account for the difference in load duration of the test compared to the expected duration of the design loads being considered. For statically loaded components, the test load shall be left in place for a period of 24 hours. For components that carry dynamic loads (for example, machine supports or fall arrest anchors), the load shall be left in place for a period consistent with the component's actual function. The structure shall be considered to have successfully met the test requirements where the following criteria are satisfied:
+
+1 Under the design load, the deflection shall not exceed the limitations specified in Section 1604.3.
+
+2 Within 24 hours after removal of the test load, the structure shall have recovered not less than 75 percent of the maximum deflection.
+
+3 During and immediately after the test, the structure shall not show evidence of failure.
+
+If the applicable standards do not specify load factor or testing criteria acceptance methods, then the testing criteria listed in this section must be followed. This section is intended to essentially match the in-situ load test procedures such as those found in SBC 306 and SBC 304 for materials such as aluminum and wood. Test loads shall be factored design loads, and the controlling load combination should be used to determine the test load that must be applied. Where material behavior is affected by load duration, the test load shall be appropriately adjusted. For example, in a wood structure, if long-term dead load is the controlling or most critical load combination and the test is only going to last a few hours, the load must be increased to account for the fact that wood is stronger under short-term loads. Where the critical load combination is a short-duration load, such as impact loads from machine supports or fall arrest anchors, the test load should be held for a period of time consistent with the tested component's use.
+
+## SECTION 1709 PRECONSTRUCTION LOAD TESTS
+
+1709.1 General. Where proposed construction is not capable of being designed by approved
+
+===== Page 1607 =====
+engineering analysis, or where proposed construction design method does not comply with the applicable material design standard, the system of construction or the structural unit and the connections shall be subjected to the tests prescribed in Section 1709. The building official shall accept certified reports of such tests conducted by an approved testing agency, provided that such tests meet the requirements of this code and approved procedures.
+
+This section establishes requirements for load testing structural assemblies that cannot be designed via conventional methods or do not comply with the applicable material design standards. This section does not govern the load testing of existing buildings or components of existing buildings, which is governed by Section 1708.
+
+The different categories of preconstruction load tests are addressed herein. Specified load test procedures are regulated by Section 1709.2. Load test procedures that are not specified are regulated by Section 1709.3. Wall and partition assemblies are regulated by Section 1709.4. Exterior window and door assemblies are regulated by Section 1705.9, skylights and sloped glazing by Section 1709.6 and test specimens by Section 1709.7.
+
+1709.2 Load test procedures specified. Where specific load test procedures, load factors and acceptance criteria are included in the applicable referenced standards, such test procedures, load factors and acceptance criteria shall apply. In the absence of specific test procedures, load factors or acceptance criteria, the corresponding provisions in Section 1709.3 shall apply.
+
+This section takes precedence over Section 1709.3, provided that load factors and acceptance criteria are established in the applicable design standards.
+
+1709.3 Load test procedures not specified. Where load test procedures are not specified in the applicable referenced standards, the load-bearing and deformation capacity of structural components and assemblies shall be determined on the basis of a test procedure developed by a registered design professional that simulates applicable loading and deformation conditions. For components and assemblies that are not a part of the seismic force-resisting system, the test shall be as specified in Section 1709.3.1. Load tests shall simulate the applicable loading conditions specified in Chapter 16.
+
+In the absence of load factors and acceptance criteria in the applicable design standards, and in accordance with Section 1709.2, this section is to be used by the building official to assess whether conformance to the applicable code requirements has been achieved. Additionally, this section provides the design professional and building official with specific loading and pass/fail criteria.
+
+1709.3.1 Test procedure. The test assembly shall be subjected to an increasing superimposed load equal to not less than two times the superimposed design load. The test load shall be left in place for a period of 24 hours. The tested assembly shall be considered to have successfully met the test requirements if the assembly recovers not less than 75 percent of the maximum deflection within 24 hours after the removal of the test load. The test assembly shall then be reloaded and subjected to an increasing superimposed load until either structural failure occurs or the superimposed load is equal to two and one-half times the load at which the deflection limitations specified in Section 1709.3.2 were reached, or the load is equal to two and one-half times the superimposed design load. In the case of structural components and assemblies for which deflection limitations are not specified in Section 1709.3.2, the test specimen shall be subjected to an increasing superimposed load until structural failure occurs or the load is equal to two and one-half times the desired superimposed design load. The allowable superimposed design load shall be taken as the least of:
+
+1 The load at the deflection limitation given in Section 1709.3.2.
+
+2 The failure load divided by 2.5.
+3 The maximum load applied divided by 2.5.
+
+Load test criteria relating to superimposed design loads are established herein. These requirements are a compilation of commonly accepted engineering practices to determine an allowable load.
+
+In the case of structural components and assemblies for which maximum deflection limitations are not addressed in Section 1709.3.2, the test assemblies must be subjected to increasing superimposed loads until failure occurs or the load is equal to 2.5 times the superimposed design load, whichever occurs first.
+
+1709.3.2 Deflection. The deflection of structural members under the design load shall not exceed the limitations in Section 1604.3.
+
+Acceptance criteria for deflection of structural systems when subjected to the allowable design load are used to demonstrate adequate structural performance and are addressed in Section 1604.3.
+
+1709.4 Wall and partition assemblies. Load bearing wall and partition assemblies shall sustain the test load both with and without window
+
+===== Page 1608 =====
+framing. The test load shall include all design load components. Wall and partition assemblies shall be tested both with and without door and window framing.
+
+* Load-bearing wall and partition assemblies must sustain loads with and without window framing. It is not appropriate to assume that a wall will sustain loads better if window framing is involved in the test. Each individual design must be evaluated separately based on the construction of that assembly. All design loads, such as vertical and lateral forces, must be included in the test.
+
+1709.5 Exterior window and door assemblies. The design pressure rating of exterior windows and doors in buildings shall be determined in accordance with Section 1709.5.1 or 1709.5.2. For exterior windows and doors tested in accordance with Sections 1709.5.1 or 1709.5.2, required design wind pressures determined from SBC 301 shall be permitted to be converted to allowable stress design by multiplying by 0.6.
+
+Exception: Structural wind load design pressures for window or door assemblies other than the size tested in accordance with Section 1709.5.1 or 1709.5.2 shall be permitted to be different than the design value of the tested assembly, provided that such pressures are determined by accepted engineering analysis or validated by an additional test of the window or door assembly to the alternative allowable design pressure in accordance with Section 1709.5.2. Components of the alternate size assembly shall be the same as the tested or labeled assembly. Where engineering analysis is used, it shall be performed in accordance with the analysis procedures of AAMA 2502.
+
+This section allows two methods of load testing for exterior window and door assemblies. The first method, provided for in Section 1709.5.1, allows products to be tested and labeled as conforming to AAMA / WMDA / CSA101 / I.S.2/A440. The second method allows products to be tested in accordance with ASTM E330, and the glazing must comply with Section 2403. Note that the use of the 0.6 conversion multiplier is allowed with respect to the determination of design wind pressures in accordance with SBC 301 and testing of the respective assemblies in accordance with Sections 1709.5.1 and 1709.5.2.
+
+The exception allows window or door assemblies other than the size tested to have different design pressures, provided that the pressures are determined by accepted engineering analysis or validated by an additional test of the window or door assembly to the alternative allowable design pressure, all components of the smaller unit are the same as the tested unit and an additional test of the smaller unit having the highest calculated design pressure is performed in accordance with Section 1709.5.1 or 1709.5.2.
+
+Exterior windows and doors. Exterior windows and sliding doors shall be tested and labeled as conforming to AAMA/WDMA/CSA101/I.S.2/A440. The label shall state the name of the manufacturer, the approved labeling agency and the product designation as specified in AAMA/WDMA/CSA101/I.S.2/A440. Exterior side-hinged doors shall be tested and labeled as conforming to
+
+AAMA/WDMA/CSA101/I.S.2/A440 or comply with Section 1709.5.2. Products tested and labeled as conforming to AAMA/WDMA/CSA 101/I.S.2/A440 shall not be subject to the requirements of Sections 2403.2 and 2403.3.
+
+This section requires exterior windows and doors complying with AAMA/WDMA/CSA 101/I.S.2/A440 to be labeled as such. Products so tested and labeled must not be required to meet the provisions of Sections 2403.2 and 2403.3. By requiring the product to be labeled, the building official does not have to interpret test results and determine load-carrying capacities, or accept the manufacturer's interpretation of tests.
+
+1709.5.2 Exterior windows and door assemblies not provided for in Section 1709.5.1. Exterior window and door assemblies shall be tested in accordance with ASTM E330. Exterior window and door assemblies containing glass shall comply with Section 2403. The design pressure for testing shall be calculated in accordance with Chapter 16. Each assembly shall be tested for 10 seconds at a load equal to 1.5 times the design pressure.
+
+This section allows an alternative to the provisions of Section 1709.5.1. This procedure is to be used to verify the integrity of door and window assemblies as a whole, and its results do not supersede, but rather complement, the requirements of Chapter 24. Glass thickness must be determined in accordance with the provisions of Chapter 24. The assemblies must comply with Section 2403 and the design pressure for testing is determined from Chapter 16. Each assembly is required to be tested for 10 seconds at a load equal to 1.5 times the design pressure. When testing a product line that has a variety of sizes, the most critical size
+
+===== Page 1609 =====
+can usually be tested, and the results used to qualify other similar products within its family. In general, the larger size and most heavily loaded of each particular design, type, construction or configuration should be tested. The code does not specify how many specimens are to be tested. ASTM E330 states that if only one sample is tested, it should be selected by the specifying authority.
+
+1709.5.2.1 Garage doors and rolling doors. Garage doors and rolling doors shall be tested in accordance with either ASTM E330 or ANSI/DASMA 108 and shall meet the pass/fail criteria of ANSI/DASMA 108. Garage doors and rolling doors shall be labeled with a permanent label identifying the door manufacturer, the door model/series number, the positive and negative design wind pressure rating, the installation instruction drawing reference number, and the applicable test standard.
+
+Required labels affixed to and detailing the performance characteristics of garage and rolling doors make that information readily available to building owners, homeowners and others after the building has been occupied.
+1709.5.3 Windborne debris protection. Protection of exterior glazed openings in buildings located in windborne debris regions shall be in accordance with Section 1609.2.
+
+See the commentary to Section 1709.5.3.1.
+1709.5.3.1 Impact protective systems testing and labeling. Impact protective systems shall be tested for impact resistance by an approved independent laboratory for compliance with ASTM E1886 and ASTM E1996 and for design wind pressure for compliance with ASTM E330. Required design wind pressures shall be determined in accordance with SBC 301, and for the purposes of this section, multiplied by 0.6 to convert to allowable stress design.
+
+Impact protective systems shall have a permanent label applied in accordance with Section 1703.5.4, identifying the manufacturer, product designation, performance characteristics, and approved inspection agency.
+
+Required labels affixed to and detailing the performance characteristics of impact protective systems such as hurricane shutters make that information readily available to building owners, homeowners and others after the building has been occupied.
+
+1709.6 Skylights and sloped glazing. Skylights and sloped glazing shall comply with the requirements of Chapter 24.
+
+A tubular daylighting device (TDD) is typically field assembled from a manufactured kit, unlike a unit skylight which is typically shipped as a factory-assembled unit. The dome of a TDD is not necessarily constructed out of a single panel of glazing material. Thus, a separate definition of a TDD was added to Chapter 2 based on the definition in AAMA/WDMA A440. The section refers to Section 2405 for sloped unit skylight and TDD requirements.
+
+1709.7 Test specimens. Test specimens and construction shall be representative of the materials, workmanship and details normally used in practice. The properties of the materials used to construct the test assembly shall be determined on the basis of tests on samples taken from the load assembly or on representative samples of the materials used to construct the load test assembly. Required tests shall be conducted or witnessed by an approved agency.
+
+The test specimen must resemble and simulate as much as possible the design being tested, using materials and workmanship that could be expected in the actual construction or fabrication. The test itself must be witnessed or conducted by an agency acceptable to and approved by the building official.
+
+===== Page 1610 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 AAMA/WMDA/CSA 101/1.S.2/A440-11, Voluntary Specifications for Aluminum Vinyl (PVC) and Wood Windows and Glass Doors. Schaumburg, IL: American Architectural Manufacturers Association, 2011.
+
+2 AISC 341-10, Seismic Provisions for Structural Steel Buildings. Chicago: American Institute of Steel Construction, 2010.
+
+3 AISC 360-10, Specification for Structural Steel Buildings. Chicago: American Institute of Steel Construction, 2010.
+
+4 ASCE 7-10, Minimum Design Loads for Buildings and Other Structures, Including Supplement No. 1. New York: American Society of Civil Engineers, 2010.
+
+5 ASTM E330-02, Standard Test Methods for Structural Performance of Exterior Windows, Curtain Walls, and Doors by Uniform Static Air Pressure Difference. West Conshohocken, PA: ASTM International, 2002.
+
+6 ASTM E605-93(2011), Test Methods for Thickness and Density of Sprayed Fire-resistive Material Applied to Structural Members. West Conshohocken, PA: ASTM International, 2011.
+
+7 DASMA 108-12, Standard Method for Testing Sectional Garage Doors and Rolling Doors Determination of Structural Performance Under Uniform Static Pressure. Cleveland, OH: Door and Access Systems Manufacturers Association International, 2012.
+
+8 FEMA 450, NEHRP Recommended Provisions for Seismic Regulations for New Buildings and Other Structures. Washington, DC: Federal Emergency Management Agency, 2004.
+
+9 ICC-ES AC 156, Acceptance Criteria for Seismic Qualification Testing of Nonstructural Components. Whittier, CA: International Code Council Evaluation Service, 2000.
+
+===== Page 1611 =====
+## TABLES OF CHAPTER 17
+
+TABLE 1705.2.3
+
+REQUIRED SPECIAL INSPECTIONS OF OPEN-WEB STEEL JOISTS AND JOIST GIRDERS
+
+<table>TYPECONTINUOUS SPECIAL INSPECTIONPERIODIC SPECIAL INSPECTIONREFERENCED STANDARD \( ^{a} \)<td colspan="4">1. Installation of open-web steel joists and joist girders.a. End connections - welding or bolted.—XSJI specifications listed in Section 2207.1.b. Bridging - horizontal or diagonal.———1. Standard bridging.—XSJI specifications listed in Section 2207.1.2. Bridging that differs from the SJI specifications listed in Section 2207.1.—X—</table>
+
+a. Where applicable, see also Section 1705.13, Special inspections for seismic resistance.
+
+TABLE 1705.5.3
+
+REQUIRED SPECIAL INSPECTIONS OF MASS TIMBER CONSTRUCTION
+
+<table><td colspan="3">TYPECONTINUOUS SPECIAL INSPECTIONPERIODIC SPECIAL INSPECTION1.Inspection of anchorage and connections of mass timber construction to timber deep foundation systems.——X2.Inspect erection of mass timber construction.——X3.Inspection of connections where installation methods are required to meet design loads.<td rowspan="4">Threaded fastenersVerify use of proper installation equipment.——XVerify use of pre-drilled holes where required.——XInspect screws, including diameter, length, head type, spacing, installation angle and depth.——XAdhesive anchors installed in horizontal or upwardly inclined orientation to resist sustained tension loads.X—Adhesive anchors not defined in preceding cell.——XBolted connections.——XConcealed connections.——X</table>
+
+===== Page 1612 =====
+TABLE 1705.3
+
+REQUIRED SPECIAL INSPECTIONS AND TESTS OF CONCRETE CONSTRUCTION
+
+<table>TYPECONTINUOUS SPECIAL INSPECTIONPERIODIC SPECIAL INSPECTIONREFERENCED STANDARDaSBC 201 REFERENCE1. Inspect reinforcement, including prestressing tendons, and verify placement.—XSBC 304: Ch. 20, 25.2, 25.3, 26.6.1-26.6.3—2. Reinforcing bar welding:a. Verify weldability of reinforcing bars other than ASTM A706.—XAWS D1.4 SBC 304: 26.6.4—b. Inspect single-pass fillet welds, maximum 7.8 mm—Xc. Inspect all other welds.X—3. Inspect anchors cast in concrete.—XSBC 304: 17.8.2—4. Inspect anchors post-installed in hardened concrete membersba. Adhesive anchors installed in horizontally or upwardly inclined orientations to resist sustained tension loads.X—SBC 304: 17.8.2.4 SBC 304: 17.8.2b. Mechanical anchors and adhesive anchors not defined in 4a—X5. Verify use of required design mix.—XSBC 304: Ch. 19, 26.4.3, 26.4.41904.1, 1904.26. Prior to concrete placement, fabricate specimens for strength tests, perform slump and air content tests, and determine the temperature of the concrete.X—ASTM C31 ASTM C172 SBC 304: 26.5, 26.12—7. Inspect concrete and shotcrete placement for proper application techniques.X—SBC 304: 26.5—8. Verify maintenance of specified curing temperature and techniques.—XSBC 304: 26.5.3-26.5.5—9. Inspect prestressed concrete for:a. Application of prestressing forcesX—SBC 304: 26.10—b. Grouting of bonded prestressing tendons.X—10. Inspect erection of precast concrete members.—XSBC 304: 26.9—11. For precast concrete diaphragm connections or reinforcement at joints classified as moderate or high deformability elements (MDE or HDE) in structures assigned to Seismic Design Category C, D, E or F, inspect such connections and reinforcement in the field for:SBC 304: 26.13.1.3 ACI 550.5—a. Installation of the embedded partsX—b. Completion of the continuity of reinforcement across joints.X—c. Completion of connections in the field.X—12. Inspect installation tolerances of precast concrete diaphragm connections for compliance with ACI 550.5.—XSBC 304: 26.13.1.3—13. Verify in-situ concrete strength, prior to stressing of tendons in post-tensioned concrete and prior to removal of shores and forms from beams and structural slabs.—XSBC 304: 26.11.2—14. Inspect formwork for shape, location and dimensions of the concrete member being formed.—XSBC 304: 26.11.2(b)—</table>
+
+a. Where applicable, see also Section 1705.13, Special inspections for seismic resistance.
+
+b. Specific requirements for special inspection shall be included in the research report for the anchor issued by an approved source in accordance with 17.8.2 in SBC 304, or other qualification procedures. Where specific requirements are not provided, special inspection requirements shall be specified by the registered design professional and shall be approved by the building official prior to the commencement of the work.
+
+===== Page 1613 =====
+TABLE 1705.6
+
+REQUIRED SPECIAL INSPECTIONS AND TESTS OF SOILS
+
+<table>TYPECONTINUOUS SPECIAL INSPECTIONPERIODIC SPECIAL INSPECTION1. Verify materials below shallow foundations are adequate to achieve the design bearing capacity.—X2. Verify excavations are extended to proper depth and have reached proper material.—X3. Perform classification and testing of compacted fill materials.—X4. During fill placement, verify use of proper materials and procedures in accordance with the provisions of the approved geotechnical report. Verify densities and lift thicknesses during placement and compaction of compacted fill.X—5. Prior to placement of compacted fill, inspect subgrade and verify that site has been prepared properly.—X</table>
+
+TABLE 1705.7
+
+REQUIRED SPECIAL INSPECTIONS AND TESTS OF DRIVEN DEEP FOUNDATION
+
+<table>TYPECONTINUOUS SPECIAL INSPECTIONPERIODIC SPECIAL INSPECTION1. Verify element materials, sizes and lengths comply with the requirements.X—2. Determine capacities of test elements and conduct additional load tests, as required.X—3. Inspect driving operations and maintain complete and accurate records for each element.X—4. Verify placement locations and plumbness, confirm type and size of hammer, record number of blows per meter of penetration, determine required penetrations to achieve design capacity, record tip and butt elevations and document any damage to foundation element.X—5. For steel elements, perform additional special inspections in accordance with Section 1705.2.<td colspan="2">In accordance with Section 1705.26. For concrete elements and concrete-filled elements, perform tests and additional special inspections in accordance with Section 1705.3.<td colspan="2">In accordance with Section 1705.37. For specialty elements, perform additional inspections as determined by the registered design professional in responsible charge.<td colspan="2">In accordance with Statement of Special Inspections</table>
+
+TABLE 1705.8
+
+REQUIRED SPECIAL INSPECTIONS AND TESTS OF CAST-IN-PLACE DEEP FOUNDATION
+
+<table>TYPECONTINUOUS SPECIAL INSPECTIONPERIODIC SPECIAL INSPECTION1. Inspect drilling operations and maintain complete and accurate records for each element.X—2. Verify placement locations and plumbness, confirm element diameters, bell diameters (if applicable), lengths, embedment into bedrock (if applicable) and adequate end-bearing strata capacity. Record concrete or grout volumes.X—3. For concrete elements, perform tests and additional special inspections in accordance with Section 1705.3.<td colspan="2">In accordance with Section 1705.3</table>
+
+===== Page 1614 =====
+TABLE 1705.13.7
+
+REQUIRED INSPECTIONS OF STORAGE RACK SYSTEMS
+
+<table>TYPECONTINUOUS INSPECTIONPERIODIC INSPECTIONREFERENCED STANDARDSBC 201 REFERENCE1. Materials used, to verify compliance with one or more of the material test reports in accordance with the approved construction documents.—X——2. Fabricated storage rack elements.—X—Section 1704.2.53. Storage rack anchorage installation.—XANSI/MH16.1 Section 7.3.2—4. Completed storage rack system, to indicate compliance with the approved construction documents.—X——</table>
+
+===== Page 1615 =====
+This page left intentionally blank
+

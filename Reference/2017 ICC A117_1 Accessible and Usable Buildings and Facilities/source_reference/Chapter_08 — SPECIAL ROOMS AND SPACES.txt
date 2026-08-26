@@ -1,0 +1,617 @@
+## CHAPTER 8
+SPECIAL ROOMS AND SPACES
+
+## SECTION 801
+
+GENERAL
+
+801.1 Scope.
+
+Special rooms and spaces required to be accessible by the scoping provisions adopted by the administrative authority shall comply with the applicable provisions of Chapter 8.
+
+## SECTION 802
+
+ASSEMBLY AREAS
+
+802.1 General. INSIGHTS
+
+Wheelchair spaces and wheelchair space locations in assembly areas with spectator seating shall comply with Section 802. Where tiered seating includes dining surfaces or work surfaces, wheelchair spaces and wheelchair space locations shall comply with Section 802.6, 802.7, 802.9, 802.10 and 902. Team and player seating shall comply with Sections 802.2 through 802.7.
+
+
+802.2 Floor surfaces. INSIGHTS
+
+The floor surface of wheelchair space locations shall have a slope not steeper than 1:48 and shall comply with Section 302.
+
+
+802.3 Width. INSIGHTS
+
+A single wheelchair space shall be 36 inches (915 mm) minimum in width. Where two adjacent wheelchair spaces are provided, each wheelchair space shall be 33 inches (840 mm) minimum in width.
+
+
+FIGURE 802.3(A) WIDTH OF WHEELCHAIR SPACE IN ASSEMBLY AREA SINGLE SPACE
+
+FIGURE 802.3(B) WIDTH OF WHEELCHAIR SPACE IN ASSEMBLY AREA MULTIPLE ADJACENT SPACES
+
+802.4 Depth. INSIGHTS
+
+
+FIGURE 802.4(A) DEPTH OF WHEELCHAIR SPACE IN ASSEMBLY AREA FRONT OR REAR ACCESS - NEW BUILDINGS
+
+FIGURE 802.4(B) DEPTH OF WHEELCHAIR SPACE IN ASSEMBLY AREA FRONT OR REAR ACCESS - EXISTING BUILDINGS
+
+FIGURE 802.4(C) DEPTH OF WHEELCHAIR SPACE IN ASSEMBLY AREA SIDE ACCESS - NEW AND EXISTING BUILDINGS
+
+802.4.1 New buildings and facilities.
+
+In new buildings and facilities, where a wheelchair space is entered from the front or rear, the wheelchair space shall be 52 inches (1320 mm) minimum in depth. Where a wheelchair space is only entered from the side, the wheelchair space shall be 60 inches (1525 mm) minimum in depth.
+
+## 802.4.2 Existing buildings and facilities.
+
+In existing buildings and facilities, where a wheelchair space is entered from the front or rear, the wheelchair space shall be 48 inches (1220 mm) minimum in depth. Where a wheelchair space is only entered from the side, the wheelchair space shall be 60 inches (1525 mm) minimum in depth.
+
+## 802.5 Approach. INSIGHTS
+
+Wheelchair spaces shall adjoin an accessible route. The accessible route shall not overlap a wheelchair space.
+
+
+## 802.5.1 Overlap. INSIGHTS
+
+A wheelchair space shall not overlap the required width of an aisle.
+
+Exception: In new buildings and facilities, the depth of a wheelchair space shall be permitted to overlap the required aisle width a maximum of 4 inches (100 mm).
+
+
+FIGURE 802.5.1(A) WHEELCHAIR SPACE LOCATION OVERLAP - REAR APPROACH - NEW AND EXISTING BUILDINGS
+
+FIGURE 802.5.1(B) WHEELCHAIR SPACE LOCATION OVERLAP - SIDE APPROACH
+
+## 802.6 Integration of wheelchair space locations. INSIGHTS
+
+Wheelchair space locations shall be an integral part of any seating area.
+
+
+## 802.7 Companion seat. INSIGHTS
+
+A companion seat, complying with Section 802.7, shall be provided beside each wheelchair space.
+
+
+## 802.7.1 Companion seat type.
+
+The companion seat shall be equivalent in size, quality, comfort and amenities to the seats in the immediate area to the wheelchair space location. Companion seats shall be permitted to be moveable.
+
+## 802.7.2 Companion seat alignment. INSIGHTS
+
+In row seating, the companion seat shall be located to provide shoulder alignment with the wheelchair space occupant. The shoulder of the wheelchair space occupant is considered to be 36 inches (915 mm) or more from the front and 12 inches (305 mm) or more from the rear of the wheelchair space. The floor surface for the companion seat shall be at the same elevation as the wheelchair space floor surface.
+
+Exception: Companion seat alignment shall not be required in tiered seating that includes dining surfaces or work surfaces.
+
+
+FIGURE 802.7.2(A) COMPANION SEAT ALIGNMENT - ELEVATION
+
+FIGURE 802.7.2(B) COMPANION SEAT ALIGNMENT FRONT OR REAR APPROACH - EXISTING BUILDINGS
+
+FIGURE 802.7.2(C) COMPANION SEAT ALIGNMENT FRONT OR REAR APPROACH - NEW BUILDINGS
+
+FIGURE 802.7.2(D) COMPANION SEAT ALIGNMENT SIDE APPROACH
+
+802.8 Designated aisle seats. INSIGHTS
+
+Designated aisle seats shall comply with Section 802.8.
+
+
+802.8.1 Armrests.
+
+Where armrests are provided on seating in the immediate area of designated aisle seats, folding or retractable armrests shall be provided on the aisle side of the designated aisle seat.
+
+802.8.2 Identification.
+
+Each designated aisle seat shall be identified by a sign or marker.
+
+802.9 Lines of sight. INSIGHTS
+
+Where spectators are expected to remain seated for purposes of viewing events, spectators in wheelchair space locations shall be provided with a line of sight in accordance with Section 802.9.1. Where spectators in front of the wheelchair space locations will be expected to stand at their seats for purposes of viewing events, spectators in wheelchair space locations shall be provided with a line of sight in accordance with Section 802.9.2.
+
+
+802.9.1 Line of sight over seated spectators. INSIGHTS
+
+Where spectators are expected to remain seated during events, spectators seated in a wheelchair space shall be provided with lines of sight to the performance area or playing field comparable to that provided to seated spectators in closest proximity to the wheelchair space location. Where seating provides lines of sight over heads, spectators in wheelchair space locations shall be afforded lines of sight complying with Section 802.9.1.1. Where wheelchair space locations provide lines of sight over the shoulder and between heads, spectators in wheelchair space locations shall be afforded lines of sight complying with Section 802.9.1.2.
+
+
+802.9.1.1 Lines of sight over heads.
+
+Spectators seated in a wheelchair space shall be afforded lines of sight over the heads of seated individuals in the first row in front of the wheelchair space location.
+
+FIGURE 802.9.1.1 LINES OF SIGHT OVER THE HEADS OF SEATED SPECTATORS
+
+802.9.1.2 Lines of sight between heads.
+
+Spectators seated in a wheelchair space shall be afforded lines of sight over the shoulders and between the heads of seated individuals in the first row in front of the wheelchair space location.
+
+FIGURE 802.9.1.2 LINES OF SIGHT BETWEEN THE HEADS OF SEATED SPECTATORS
+
+## 802.9.2 Line of sight over standing spectators. INSIGHTS
+
+Wheelchair spaces required to provide a line of sight over standing spectators shall comply with Section 802.9.2.
+
+
+FIGURE 802.9.2 LINES OF SIGHT OVER STANDING SPECTATORS
+
+## 802.9.2.1 Distance from adjacent seating.
+
+The front of the wheelchair space in a wheelchair space location shall be 12 inches (305 mm) maximum from the back of the chair or bench in front.
+
+## 802.9.2.2 Height.
+
+The height of the floor surface at the wheelchair space location shall comply with Table 802.9.2.2. Interpolations shall be permitted for riser heights that are not listed in the table.
+
+TABLE 802.9.2.2 \( ^{2} \) REQUIRED WHEELCHAIR SPACE LOCATION ELEVATION OVER STANDING SPECTATORS
+
+<table><td rowspan="2">Riser height<td colspan="3">Minimum height of the wheelchair space location based on row spacing \( ^{1} \)Rows less than 33 inches (840 mm) \( ^{2} \)Rows 33 inches (840 mm) to 44 inches (1120 mm) \( ^{2} \)Rows over 44 inches (1120 mm) \( ^{2} \)0 inch (0 mm)16 inches (405 mm)16 inches (405 mm)16 inches (405 mm)4 inches (100 mm)22 inches (560 mm)21 inches (535 mm)21 inches (535 mm)8 inches (205 mm)31 inches (785 mm)30 inches (760 mm)28 inches (710 mm)12 inches (305 mm)40 inches (1015 mm)37 inches (940 mm)35 inches (890 mm)16 inches (405 mm)49 inches (1245 mm)45 inches (1145 mm)42 inches (1065 mm)20 inches (510 mm) \( ^{3} \)58 inches (1475 mm)53 inches (1345 mm)49 inches (1245 mm)24 inches (610 mm)N/A61 inches (1550 mm)56 inches (1420 mm)28 inches (710 mm) \( ^{4} \)N/A69 inches (1750 mm)63 inches (1600 mm)32 inches (815 mm)N/AN/A70 inches (1780 mm)36 inches (915 mm) and higherN/AN/A77 inches (1955 mm)</table>
+
+ \( ^{1} \) The height of the wheelchair space location is the vertical distance from the tread of the row of seats directly in front of the wheelchair space location to the tread of the wheelchair space location.
+
+ \( ^{2} \) The row spacing is the back-to-back horizontal distance between the rows of seats in front of the wheelchair space location.
+
+ \( ^{3} \) Seating tread less than 33 inches (840 mm) in depth shall not be permitted with risers greater than 18 inches (455 mm) in height.
+
+ \( ^{4} \) Seating treads less than 44 inches (1120 mm) in depth shall not be permitted with risers greater than 27 inches (685 mm) in height.
+
+ \( ^{5} \) Table 802.9.2.2 is based on providing a spectator in a wheelchair a line of sight over the head of a spectator two rows in front of the wheelchair space location using average anthropometric data. The table is based on the following calculation:  \( [(2X+34)(Y-2.25)/X]+(20.2-Y) \)  where Y is the riser height of the rows in front of the wheelchair space location and X is the tread depth of the rows in front of the wheelchair space location. The calculation is based on the front of the wheelchair space location being located 12 inches (305 mm) from the back of the seating tread directly in front and the eye of the standing spectator being set back 8 inches (205 mm) from the riser.
+
+## 802.10 Wheelchair space dispersion. INSIGHTS
+
+The minimum number of wheelchair space locations shall be in accordance with Table 802.10. Wheelchair space locations shall be dispersed in accordance with Sections 802.10.1, 802.10.2 and 802.10.3. In addition, wheelchair space locations shall be dispersed in accordance with Section 802.10.4 in spaces utilized primarily for viewing motion picture projection. Once the required number of wheelchair space locations has been met, further dispersion shall not be required.
+
+
+TABLE 802.10WHEELCHAIR SPACE LOCATION DISPERSION
+
+<table>Total seating in Assembly AreasMinimum required number of wheelchair space locationsUp to 1501151 to 5002501 to 100031001 to 5,0003, plus 1 additional space for each 1,000 seats or portions thereof above 1,0005,001 and over7, plus 1 additional space for each 2,000 seats or portions thereof above 5,000</table>
+
+## 802.10.1 Horizontal dispersion. INSIGHTS
+
+Wheelchair space locations shall be dispersed horizontally to provide viewing options. Where seating encloses the stage or field, in whole or in part, horizontal dispersion shall include the entire seating area. Two wheelchair spaces shall be permitted to be located side-by-side.
+
+Exception: Horizontal dispersion shall not be required in assembly areas with 300 or fewer seats if the wheelchair space locations are located within the 2nd and 3rd quartile of the row length. Intermediate aisles shall be included in determining the total row length. If the row length in the 2nd and 3rd quartile of the row is insufficient to accommodate the required number of companion seats and wheelchair spaces, the additional companion seats and wheelchair spaces shall be permitted to extend into in the 1st and 4th quartile of the row.
+
+
+## 802.10.2 Dispersion for variety of distances from the event. INSIGHTS
+
+Wheelchair space locations shall be dispersed at a variety of distances from the event to provide viewing options.
+
+## Exceptions:
+
+1. In bleachers, wheelchair space locations provided only in rows at points of entry to bleacher seating shall be permitted.
+
+2. Assembly areas utilized for viewing motion picture projections with 300 seats or less shall not be required to comply with Section 802.10.2.
+
+3. Assembly areas with 300 seats or less other than those utilized for viewing motion picture projections shall not be required to comply with Section 802.10.2 where all wheelchair space locations are within the front 50 percent of the total rows.
+
+
+## 802.10.3 Dispersion by type. INSIGHTS
+
+Where assembly seating has multiple distinct seating areas with amenities that differ from other distinct seating areas, wheelchair space locations shall be provided within each distinct seating area.
+
+
+## 802.10.3.1 Charging stations. INSIGHTS
+
+Where charging stations are provided at wheelchair space locations, they shall comply with Section 906.
+
+
+## 802.10.4 Spaces utilized primarily for viewing motion picture projections. INSIGHTS
+
+In spaces utilized primarily for viewing motion picture projections, wheelchair space locations shall comply with Section 802.10.4.
+
+
+## 802.10.4.1 Spaces with seating on risers.
+
+Where tiered seating is provided, wheelchair space locations shall be integrated into the tiered seating area on a riser or a cross-aisle.
+
+## 802.10.4.1 Spaces with seating on risers.
+
+Wheelchair space locations shall be located in accordance with one of the following:
+
+1. Within the rear 60 percent of the seats provided; or
+
+2. Located within the area of an auditorium in which the vertical viewing angles, as measured to the top of the screen, are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile).
+
+## 802.11 Sign language interpreter stations. INSIGHTS
+
+
+## 802.11.1 General.
+
+Sign language interpreter stations shall comply with Section 802.11.
+
+## 802.11.2 Area.
+
+A sign language interpreter station shall provide a level and clear floor of a minimum size of 24 inches (610 mm) deep and 36 inches (915 mm) wide that is located to provide a direct line of sight from the seating area identified in Section 802.11.3.
+
+## 802.11.3 Location.
+
+Sign language interpreter stations shall be located so that seating within an arc from the station and measured to the left and to the right 60 degrees within 65 feet (19.8 m) horizontal distance from the station is provided with sight lines providing a view of the sign language station from a height of 36 inches (915 mm) to 72 inches (1830 mm) above the floor of the station.
+
+## 802.11.4 Illumination.
+
+The sign language interpreter station shall have lighting facilities capable of providing 10 footcandles (108 lux) of illuminance while signing is underway measured at the center of the floor of the sign language station at a height of 48 inches (1220 mm) above the floor.
+
+## 802.11.5 Backdrop.
+
+Where a sign language interpreter station is located with a permanent wall less than 10 feet (3050 mm) behind the sign language interpreter station, the permanent wall to a height of 96 inches (2440 mm) from the finish floor shall be considered as a backdrop. The backdrop shall provide a flat, smooth surface with a monochromatic, low-luster finish treatment.
+
+Exception: The wall shall not be required to comply with this section where a backdrop with a monochromatic, low-luster finish treatment is provided.
+
+## SECTION 803
+
+## DRESSING, FITTING AND LOCKER ROOMS INSIGHTS
+
+
+## 803.1 General.
+
+Dressing, fitting and locker rooms shall comply with Section 803.
+
+## 803.2 Turning space.
+
+A turning space shall be provided within the room.
+
+## 803.3 Door swing.
+
+Doors shall not swing into the room unless a clear floor space complying with Section 305.3 is provided within the room, beyond the arc of the door swing.
+
+## 803.4 Benches.
+
+A bench complying with Section 903 shall be provided within the room.
+
+## 803.5 Coat hooks and shelves.
+
+Coat hooks provided within the room shall accommodate a forward reach or side reach complying with Section 308. Where provided, a shelf shall be 40 inches (1015 mm) minimum and 48 inches (1220 mm) maximum above the floor.
+
+## SECTION 804
+
+## KITCHENS INSIGHTS
+
+
+## 804.1 General.
+
+Kitchens shall comply with Section 804.
+
+## 804.2 Clearance. INSIGHTS
+
+Where a pass-through kitchen is provided, clearances shall comply with Section 804.2.1. Where a U-shaped kitchen is provided, clearances shall comply with Section 804.2.2. Kitchens where a cook top or conventional range is not provided shall comply with Section 804.2.3.
+
+
+## 804.2.1 Pass-through kitchens.
+
+In pass-through kitchens where counters, appliances or cabinets are on two opposing sides, or where counters, appliances or cabinets are opposite a parallel wall, clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 40 inches (1015 mm) minimum. Pass-through kitchens shall have two entries.
+
+FIGURE 804.2.1(A) PASS-THROUGH KITCHEN CLEARANCE
+
+FIGURE 804.2.1(B) PASS-THROUGH KITCHEN CLEARANCE
+
+## 804.2.2 U-shaped kitchens.
+
+In kitchens enclosed on three contiguous sides, clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 60 inches (1525 mm) minimum.
+
+Exception: U-shaped kitchens with an island complying with Section 804.2.1.
+
+FIGURE 804.2.2(A) U-SHAPED KITCHEN CLEARANCE
+
+FIGURE 804.2.2(B) U-SHAPED KITCHEN CLEARANCE
+
+FIGURE 804.2.2(C) U-SHAPED KITCHEN CLEARANCE - EXCEPTION
+
+## 804.2.3 Spaces where a cook top or conventional range is not provided.
+
+In a kitchen space where a cooktop or conventional range is not provided, clearance between all opposing base cabinets, countertops, appliances and walls within kitchen work areas shall be 40-inch (1015 mm) minimum.
+
+## 804.3 Work surface.
+
+At least one accessible work surface 30 inches minimum in length shall be provided in accordance with Section 902. The work surface shall be located in accordance with Section 804.5.5.2 or 804.5.5.3.
+Exception: Spaces that do not provide a cooktop or conventional range shall not be required to provide an accessible work surface.
+
+## 804.4 Sinks.
+
+The sink shall comply with Section 606.
+
+## 804.5 Appliances.
+
+Where provided, kitchen appliances shall comply with Section 804.5.
+
+## 804.5.1 Clear floor space.
+
+A clear floor space shall be provided at each kitchen appliance.
+
+## 804.5.2 Operable parts.
+
+All appliance controls shall comply with Section 309.
+
+## Exceptions:
+
+1. Appliance doors and door latching devices shall not be required to comply with Section 309.4.
+
+2. Bottom-hinged appliance doors, when in the open position, shall not be required to comply with Section 309.3.
+
+## 804.5.3 Dishwasher.
+
+A clear floor space positioned adjacent to the dishwasher door, shall be provided. The dishwasher door in the open position shall not obstruct the clear floor space for the dishwasher or an adjacent sink.
+
+## 804.5.4 Cooktop.
+
+Cooktops shall comply with Section 804.5.4.
+
+## 804.5.4.1 Approach.
+
+A clear floor space, positioned for a parallel or forward approach to the cooktop, shall be provided.
+
+## 804.5.4.2 Forward approach.
+
+Where the clear floor space is positioned for a forward approach, knee and toe clearance complying with Section 306 shall be provided. The underside of the cooktop shall be insulated or otherwise configured to prevent burns, abrasions, or electrical shock.
+
+## 804.5.4.3 Parallel approach.
+
+Where the clear floor space is positioned for a parallel approach, the clear floor space shall be centered on the appliance.
+
+## 804.5.4.4 Controls.
+
+The location of controls shall not require reaching across burners.
+
+## 804.5.5.1 Clear floor space.
+
+A clear floor space shall be provided. The oven door in the open position shall not obstruct the clear floor space for the oven.
+
+## 804.5.5.2 Side-hinged door ovens.
+
+Side-hinged door ovens shall have a work surface complying with Section 804.3 positioned adjacent to the latch side of the oven door.
+
+## 804.5.5.3 Bottom-hinged door ovens.
+
+Bottom-hinged door ovens shall have a work surface complying with Section 804.3 positioned adjacent to one side of the door.
+
+## 804.5.5.4 Controls.
+
+The location of controls shall not require reaching across burners.
+
+## 804.5.6 Refrigerator/freezer.
+
+Combination refrigerators and freezers shall have at least 50 percent of the freezer compartment shelves, including the bottom of the freezer, 54 inches (1370 mm) maximum above the floor when the shelves are installed at the maximum heights possible in the compartment. A clear floor space, positioned for a parallel approach to the refrigerator/freezer, shall be provided. The centerline of the clear floor space shall be offset 24 inches (610 mm) maximum from the centerline of the appliance.
+
+## SECTION 805
+
+## TRANSPORTATION FACILITIES
+
+## 805.1 General.
+
+Transportation facilities shall comply with Section 805.
+
+## 805.2 Bus boarding and alighting areas.
+
+Bus boarding and alighting areas shall comply with Section 805.2.
+
+## 805.2.1 Surface.
+
+Bus stop boarding and alighting areas shall have a firm, stable surface.
+
+## 805.2.2 Dimensions.
+
+FIGURE 805.2.2(A) SIZE OF BUS BOARDING AND ALIGHTING AREA - NEW BUILDINGS
+
+FIGURE 805.2.2(B) SIZE OF BUS BOARDING AND ALIGHTING AREA - EXISTING BUILDINGS
+
+## 805.2.2.1 New buildings and facilities.
+
+In new buildings and facilities, bus stop boarding and alighting areas shall have a 100-inch (2540 mm) minimum clear length, measured perpendicular to the curb or vehicle roadway edge, and a 60-inch (1525 mm) minimum clear width, measured parallel to the vehicle roadway.
+
+## 805.2.2.2 Existing buildings and facilities.
+
+In existing buildings and facilities, bus stop boarding and alighting areas shall have a 96-inch (2440 mm) minimum clear length, measured perpendicular to the curb or vehicle roadway edge, and a 60-inch (1525 mm) minimum clear width, measured parallel to the vehicle roadway.
+
+## 805.2.3 Slope.
+
+The slope of the bus stop boarding and alighting area parallel to the vehicle roadway shall be the same as the roadway, to the maximum extent practicable. The slope of the bus stop boarding and alighting area perpendicular to the vehicle roadway shall be 1:48 maximum.
+
+## 805.2.4 Connection.
+
+Bus stop boarding and alighting areas shall be connected to streets, sidewalks, or pedestrian paths by an accessible route complying with Section 402.
+
+## 805.3 Bus shelters.
+
+Bus shelters shall provide a minimum clear floor space entirely within the shelter. Bus shelters shall be connected by an accessible route complying with Section 402 to a boarding and alighting area complying with Section 805.2.
+
+FIGURE 805.3 BUS SHELTERS
+
+## 805.4 Bus signs.
+
+Bus route identification signs shall have visual characters complying with Sections 703.2.2, 703.2.3, and 703.2.5 through 703.2.8. In addition, bus route identification numbers shall be visual characters complying with Section 703.2.4.
+
+Exception: Bus schedules, timetables and maps that are posted at the bus stop or bus bay shall not be required to comply with Section 805.4.
+
+## 805.5 Rail platforms.
+
+Rail platforms shall comply with Section 805.5.
+
+## 805.5.1 Slope.
+
+Rail platforms shall not exceed a slope of 1:48 in all directions.
+
+Exception: Where platforms serve vehicles operating on existing track or track laid in existing roadway, the slope of the platform parallel to the track shall be permitted to be equal to the slope (grade) of the roadway or existing track.
+
+## 805.5.2 Detectable warnings.
+
+Platform boarding edges not protected by platform screens or guards shall have a detectable warning complying with Section 705.
+
+## 805.6 Rail station signs.
+
+Rail station signs shall comply with Section 805.6.
+
+Exception: Signs shall not be required to comply with Sections 805.6.1 and 805.6.2 where audible signs are remotely transmitted to hand-held receivers, or are user- or proximity-actuated.
+
+## 805.6.1 Entrances.
+
+Where signs identify a station or a station entrance, at least one sign with raised characters and braille complying with Sections 703.3 and 703.4 shall be provided at each entrance.
+
+## 805.6.2 Routes and destinations.
+
+Lists of stations, routes and destinations served by the station that are located on boarding areas, platforms or mezzanines shall have visual characters complying with Section 703.2. A minimum of one sign with raised characters and braille complying with Sections 703.3 and 703.4 shall be provided on each platform or boarding area to identify the specific station.
+
+Exception: Where sign space is limited, characters shall not be required to exceed 3 inches (75 mm) in height.
+
+## 805.6.3 Station names.
+
+Stations covered by this section shall have identification signs with visual characters complying with Section 703.2. The signs shall be clearly visible and within the sight lines of a standing or sitting passenger from within the vehicle on both sides when not obstructed by another vehicle.
+
+## 805.7 Public address systems.
+
+Where public address systems convey audible information to the public, the same or equivalent information shall be provided in a visual format.
+
+## 805.8 Clocks.
+
+Where clocks are provided for use by the public, the clock face shall be uncluttered so that its elements are clearly visible. Hands, numerals and digits shall contrast with the background either light-on-dark or dark-on-light. Where clocks are installed overhead, numerals and digits shall be visual characters complying with Section 703.2.
+
+## 805.9 Escalators.
+
+Where provided, escalators shall have a 32-inch (815 mm) minimum clear width, and shall comply with Requirements 6.1.3.5.6-Step Demarcations, and 6.1.3.6.5-Flat Steps of ASME A17.1/CSA B44 listed in Section 106.2.8.
+
+Exception: Existing escalators shall not be required to comply with Section 805.9.
+
+## 805.10 Track crossings.
+
+Where a circulation path crosses tracks, it shall comply with Section 402 and shall have a detectable warning complying with Section 705.
+
+Exception: Openings for wheel flanges shall be permitted to be  \( 2^{1/2} \)  inches (64 mm) maximum.
+
+FIGURE 805.10 TRACK CROSSING
+
+## SECTION 806
+HOLDING CELLS AND HOUSING CELLS INSIGHTS
+
+
+## 806.1 General.
+
+Holding cells and housing cells shall comply with Section 806.
+
+## 806.2 Features for people using wheelchairs or other mobility aids.
+
+Cells required to have features for people using wheelchairs or other mobility aids shall comply with Section 806.2.
+
+## 806.2.1 Turning space.
+
+Turning space shall be provided within the cell.
+
+## 806.2.2 Benches.
+
+Where benches are provided, at least one bench shall comply with Section 903.
+
+## 806.2.3 Beds.
+
+Where beds are provided, a clear floor space shall be provided on at least one side of the bed. The clear floor space shall be positioned for parallel approach to the side of the bed.
+
+## 806.2.4 Toilet and bathing facilities.
+
+Toilet facilities or bathing facilities provided as part of a cell shall comply with Section 603.
+
+## 806.3 Communication features.
+
+Cells required to have communication features shall comply with Section 806.3.
+
+## 806.3.1 Alarms.
+
+Where audible emergency alarm systems are provided to serve the occupants of cells, visible alarms complying with Section 702 shall be provided.
+
+Exception: In cells where inmates or detainees are not allowed independent means of egress, visible alarms shall not be required.
+
+## 806.3.2 Telephones.
+
+Where provided, telephones within cells shall have volume controls complying with Section 704.3.
+
+## SECTION 807
+
+## COURTROOMS INSIGHTS
+
+
+## 807.1 General.
+
+Courtrooms shall comply with Section 807.
+
+## 807.2 Turning space.
+
+Where provided, each area that is raised or depressed shall provide a turning space.
+
+Exception: Levels of jury boxes not required to contain wheelchair spaces shall not be required to comply with this section.
+
+## 807.3 Clear floor space.
+
+Within the defined area of each jury box and witness stand, a clear floor space shall be provided.
+
+Exception: In alterations, wheelchair spaces shall not be required to be located within the defined area of raised jury boxes or witness stands and shall be permitted to be located outside these spaces where ramps or platform lifts restrict or project into the means of egress required by the administrative authority.
+
+## 807.4 Courtroom stations.
+
+Judges' benches, clerks' stations, bailiffs' stations, deputy clerks' stations, court reporters' stations and litigants' and counsel stations shall comply with Section 902.
+
+## 807.5 Gallery seating.
+
+Gallery seating shall comply with Section 802.
+
+## SECTION 808
+
+## ENHANCED ACOUSTICS FOR CLASSROOMS INSIGHTS
+
+
+## 808.1 General.
+
+Classrooms not exceeding 20,000 cubic feet (565 m \( ^{3} \) ) and required to provide enhanced acoustics shall comply with Section 808.
+
+## 808.2 Reverberation time.
+
+Classroom reverberation times shall comply with either Section 808.2.1 or Section 808.2.2, depending on the size of the room.
+
+## 808.2.1 Performance method.
+
+For each of the octave frequency bands with center frequencies of 500, 1000, and 2000 Hz, the reverberation time (T60) shall not exceed the times specified below:
+
+1. 0.6 seconds in classrooms with volumes up to and including 10,000 cubic feet (285 m \( ^{3} \) ).
+
+2. 0.7 seconds in classrooms with volumes of more than 10,000 cubic feet (285 m \( ^{3} \) ), but less than 20,000 cubic feet (566 m \( ^{3} \) ).
+
+Reverberation times shall apply to fully-furnished, unoccupied classrooms. Reverberation times shall be field verified via measurements over a minimum 20 dB decay in each octave frequency band in accordance with ASTM E2235 listed in Section 106.2.13.
+
+## 808.2.2 Prescriptive method.
+
+The Noise Reduction Coefficient (NRC) ratings for floor, wall and ceiling surface finishes shall conform to the following equations:
+
+For a classroom with a volume less than or equal to 10,000 cubic feet (285 m \( ^{3} \) ):
+
+(NRCFlow x SFloOR) + (NRCCeiling x SCeiling) + (NRCWall x SWall) ≥ Volume/12
+
+For a classroom with a volume between 10,000 cubic feet (285 m \( ^{3} \) ) and 20,000 cubic feet (565 m \( ^{3} \) ):
+
+(NRCFlow x SFloOR) + (NRCCeiling x SCeiling) + (NRCWall x SWall) ≥ Volume/14
+
+## Where:
+
+NRCFloor = NRC rating of the floor finish material
+
+SFloor = floor area in square feet
+
+NRCCeiling = NRC rating of the ceiling finish material
+
+SCeiling = ceiling area in square feet
+
+NRCWall = NRC rating of the wall acoustical treatment
+
+SWall = wall treatment area in square feet
+
+Volume = room volume in cubic feet
+
+Where a floor, ceiling or wall has multiple surface finishes, the NRC x S product for each surface finish shall be added to the left side of the equation.
+
+## 808.3 Ambient sound level.
+
+Classroom ambient sound levels shall comply with Sections 808.3.1 and 808.3.2. Ambient sound levels from sound sources outside and inside the classroom shall be evaluated individually. The greatest one-hour averaged sound levels shall be evaluated at the loudest usable location in the room at a height of 36 inches (915 mm) to 42 inches (1065 mm) above the floor and no closer than 36 inches (915 mm) from any wall, window or object. The ambient sound level limits shall apply to fully-furnished, unoccupied classrooms, and with only permanent HVAC, electrical and plumbing systems functioning. Classroom equipment, including, but not limited to, computers, printers and fish tank pumps shall be turned off during these measurements.
+
+## 808.3.1 Sound sources outside of the classroom.
+
+Classroom ambient sound levels shall not exceed 35 dBA and 55 dBc due to intruding noise from sound sources outside of the classroom, whether from the exterior or from other interior spaces.
+
+## 808.3.2 Sound sources inside the classroom.
+
+Classroom ambient sound levels shall not exceed 35 dBA and 55 dBc for noise from sound sources inside the classroom.
+

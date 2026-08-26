@@ -1,0 +1,281 @@
+===== Page 1618 =====
+# CHAPTER 19—CONCRETE
+
+## * General Comments
+
+The words “cement” and “concrete” are used in several sections in this chapter. At the outset of this commentary, the distinction between cement and concrete should be made. Often, one hears references to cement floors, sidewalks and driveways, or to cement walls in describing walls made of cast-in-place or precast concrete or concrete masonry, and the like. Cement and concrete are not interchangeable words. Cement is only one of four basic ingredients (cement, water, sand and stone) that make up the concrete material used in construction. In the end, there are only concrete structures and concrete building components. Structures of cement alone simply do not exist.
+
+While concrete is the most versatile structural material, it is also one of the most variable and complex material used in building construction. Concrete is used in a number of different ways. It is used for building substructures, spread footings, mats, piles and foundation walls. Above-ground concrete is used for building walls and enclosures, for floors and roof construction, and for structural framework. Concrete also has a number of ancillary uses in building facilities: the construction of sidewalks, patios and driveways; for sewers and basins; for equipment bases; for fire protection purposes; as an insulating material; and so on. Concrete can be cast into any desired shape that can be structurally formed in the field or in a precasting plant with a variety of architectural finishes and surface configurations to satisfy aesthetic requirements. Mixtures can be varied to achieve strengths 17250 to 138000 kPa) that meet the structural needs of the design.
+
+Concrete mixes can also be made to achieve good workability of the fresh material, and to provide durability of the hardened product exposed to adverse environmental conditions and wear imposed by the use of the facilities. Because of the variable properties of the material and the numerous design and construction options available in the uses of concrete, due care and control throughout the entire construction process is necessary. This process includes selection of materials and design of the mixture; mixing and transport of the concrete; proper construction and use of formwork; setting of the reinforcement and, in prestressed construction, the tensioning of the tendons; and finally, the placement, finishing, curing and testing of the concrete material.
+
+## Purpose
+
+The provisions of this chapter are intended to set the minimum accepted practices that apply to the design and construction of buildings or structural components using concrete.
+
+## SECTION 1901 GENERAL
+
+1901.1 Scope. The provisions of this chapter shall govern the materials, quality control, design and construction of concrete used in structures.
+
+☐ Section 1901 provides information on the application and organization of the concrete provisions of Chapter 19. SBC 302 provides a definitive statement on the important aspects of concrete construction covered by Chapter 19. Proper attention shall be given to these aspects to ensure quality concrete structure that is code compliant.
+
+1901.2 Plain and reinforced concrete. Structural concrete shall be designed and constructed in accordance with the requirements of this chapter and SBC 304 as amended in Section 1905 of this code. Except for the provisions of Sections 1904 and 1907, the design and construction of slabs on grade shall not be governed by this chapter unless they transmit vertical loads or lateral forces from other parts of the structure to the soil.
+
+The structural concrete provisions of the code comply strictly with the provisions of SBC 304, except for the modifications contained in Section 1905. Slabs on grade are another important exception. Slabs on grade typically only convey the gravity dead load of the slab and the gravity live load superimposed on the slab directly to the soil; thus, slabs are not considered to be the "structural concrete" that must comply with the design provisions of SBC 304. Slabs on grade, however, must comply with the durability provisions of Section 1904 and the minimum thickness and vapor retarder provisions of Section 1907.
+
+This section also clarifies that slabs on grade that are used to transmit vertical loads, lateral forces or both from other parts of the structure to the soil must comply with all the applicable portions of this chapter and SBC 304. There are cases where a slab on grade can be used to transmit lateral forces due to wind or earthquakes into the ground. A common example is a typical pre-engineered metal building in which the shear at the bottom of the
+
+===== Page 1619 =====
+columns is resisted by placing “hairpins” around the column anchor bolts in the footing and extending the hairpins into the slab on grade.
+
+1901.3 Anchoring to concrete. Anchoring to concrete shall be in accordance with SBC 304 as amended in Section 1905, and applies to cast-in (headed bolts, headed studs and hooked J- or L-bolts), post-installed expansion (torque-controlled and displacement-controlled), undercut, screw, and adhesive anchors.
+
+This section reflects the common types of systems utilized for anchoring to concrete.
+
+1901.4 Composite structural steel and concrete structures. Systems of structural steel acting compositely with reinforced concrete shall be designed in accordance with Section 2206 of this code.
+
+This section provides a cross reference to requirements for composite steel and concrete structures in Chapter 22. Composite construction consists of steel and concrete members that act in unison to resist the effects of applied loads.
+
+1901.5 Construction documents. The construction documents for structural concrete construction shall include:
+
+1 The specified compressive strength of concrete at the stated ages or stages of construction for which each concrete element is designed.
+
+2 The specified strength or grade of reinforcement.
+
+3 The size and location of structural elements, reinforcement and anchors.
+
+4 Provision for dimensional changes resulting from creep, shrinkage and temperature.
+
+5 The magnitude and location of prestressing forces.
+
+6 Anchorage length of reinforcement and location and length of lap splices.
+
+7 Type and location of mechanical and welded splices of reinforcement.
+
+8 Details and location of contraction or isolation joints specified for plain concrete.
+
+9 Minimum concrete compressive strength at time of posttensioning.
+
+10 Stressing sequence for posttensioning tendons.
+
+11 For structures assigned to Seismic Design Category D, E or F, a statement if slab on grade is designed as a structural diaphragm.
+
+12 Other relevant design and construction information required by SBC 301 and Chapter 26 of SBC 304.
+This section provides a list of important information that must be included in construction documents. These items are specifically related to concrete construction and are in addition to the structural design information required by Section 1603 and additional requirements of Section 107. The list is not necessarily all-inclusive and may be expanded at the discretion of the building official.
+
+1901.6 Special inspections and tests. Special inspections and tests of concrete elements of buildings and structures and concreting operations shall be as required by Chapter 17.
+
+This section provides a cross reference to the code's special inspection and testing provisions for concrete that are found in Chapter 17. The code requires that most structural concrete, with the exception of some foundations, requires special inspection. SBC 304 does not contain provisions for special inspection of concrete, but does require continuous inspection of the placement of reinforcement and concrete in special moment frames that resist seismic forces in regions of high seismic risk, which translates into buildings that are classified Seismic Design Category D, E or F.
+
+1901.7 Tolerances for structural concrete. Where not indicated in construction documents, structural tolerances for concrete structural elements shall be in accordance with this section.
+
+This section provides the requirements for tolerances for structural concrete.
+
+1901.7.1 Cast-in-place concrete tolerances. Structural tolerances for cast-in-place concrete structural elements shall be in accordance with this section.
+
+Exceptions:
+
+1. Group R-3 detached one- or two-family dwellings are not required to comply with this section.
+
+2. Shortcrete is not required to comply with this section.
+
+This section provides a reference to ACI 117 for cast-in-place concrete structural elements with exceptions for Group R-3 detached one- or two-family dwellings and shotcrete.
+
+1901.7.2 Precast concrete tolerances. Structural tolerances for precast concrete structural elements shall be in accordance with ACI ITG-7.
+
+Exception: Group R-3 detached one- or two-family dwellings are not required to comply with this section.
+
+This section provides a reference to ACI ITG-7 for precast concrete structural elements with an exception for Group R-3 detached one- or two-family dwellings.
+
+===== Page 1620 =====
+## SECTION 1902 COORDINATION OF TERMINOLOGY
+
+1902.1 General. Coordination of terminology used in SBC 304 and SBC 301 shall be in accordance with Sections 1902.1.1 and 1902.1.2.
+
+Section 1902 refers to the definitions of terms in SBC 304 that are associated with concrete construction.
+
+1902.1.1 Design displacement. Design displacement at each level shall be the total lateral deflection at the level calculated for the design earthquake using the procedures defined in Section 12.8.6 of SBC 301.
+
+See the commentary to Section 1902.1.
+
+1902.1.2 Special structural wall. Special structural walls made of cast-in-place or precast concrete shall comply with the requirements of Sections 18.2.4 through 18.2.8, 18.10 and 18.11 of SBC 304, as applicable, in addition to the requirements for ordinary reinforced concrete structural walls or ordinary precast structural walls, as applicable. Where SBC 301 refers to a "special reinforced concrete shear wall," it shall be deemed to mean a "special structural wall."
+
+See the commentary to Section 1902.1.
+
+## SECTION 1903 SPECIFICATIONS FOR TESTS AND MATERIALS
+
+1903.1 General. Materials used to produce concrete, concrete itself and testing thereof shall comply with the applicable standards listed in SBC 304.
+
+Section 1903 regulates the materials commonly used for both reinforced and plain concrete construction and requires the selection and acceptance of such materials to conform to the provisions of SBC 304, which establishes the basis for the selection, specification and acceptance of materials used in concrete construction, including cement, aggregate, water, steel reinforcement and admixtures.
+
+The words “cement” and “concrete” are used in several sections of this chapter. It is important to understand the distinction between cement and concrete. Often, one hears references to cement floors, sidewalks and driveways, or to cement walls in describing walls made of cast-in-place or precast concrete or concrete masonry. Cement and concrete are not interchangeable words. Cement is only one of four basic ingredients (cement, water, sand and stone) that make up the concrete material used in construction. In the end use, there are only concrete structures and building components.
+
+1903.2 Special inspections. Where required, special inspections and tests shall be in accordance with Chapter 17.
+In Chapter 17, the code requires that most structural concrete requires special inspection with the exception of some foundations.
+
+1903.3 Glass fiber-reinforced concrete. Glass fiber-reinforced concrete (GFRC) and the materials used in such concrete shall be in accordance with the PCI MNL 128 standard.
+
+This section references a document that addresses the quality of materials used in glass fiber-reinforced concrete panels. Glass fiber-reinforced concrete is utilized in the prescriptive fire-resistance ratings for wall assemblies [see Table 721.1(2), Item 15].
+
+1903.4 Flat wall insulating concrete form (ICF) systems. Insulating concrete form material used for forming flat concrete walls shall conform to ASTM E 2634.
+
+This section references ASTM E2634 for the material used to make forms for insulating concrete form (ICF) systems using molded expanded polystyrene (EPS) insulation panels. ICFs are rigid plastic foam forms used in the construction of cast-in-place concrete structural members. The ICFs remain in place as permanent building insulation for energy-efficient, cast-in-place, reinforced concrete walls, floors, roofs, beams and columns. The forms are interlocking modular units that are dry stacked (without mortar) and filled with concrete. ICF are generally manufactured from polystyrene or polyurethane. Reinforcing steel is placed in the forms and then concrete is pumped into the cavity to form the structural portion of the walls. The forms provide thermal and acoustic insulation, space to run electrical conduit and plumbing and backing for interior and exterior finishes.
+
+ASTM E2634 applies to ICF systems that consist of molded EPS insulation panels that are connected by cross ties and act as permanent formwork for cast-in-place reinforced concrete structural members such as reinforced concrete beams; lintels; exterior and interior bearing and nonbearing walls; foundations and retaining walls. ASTM E2634 lists test methods appropriate for establishing ICF system performance as a permanent concrete forming system.
+
+## SECTION 1904 DURABILITY REQUIREMENTS
+
+1904.1 Structural concrete. Structural concrete shall conform to the durability requirements of SBC 304.
+
+Durability requirements of SBC 304 require the designer to classify concrete into exposure classes based on exposure conditions. The concrete classes must be applied by the designer, regardless of geographic location. The commentary to SBC 304 provides further
+
+===== Page 1621 =====
+discussion to help the designer determine the appropriate class.
+
+1904.2 Nonstructural concrete. The registered design professional shall assign appropriate durability requirements for nonstructural concrete.
+
+SBC 304 does not have durability requirements for nonstructural concrete. However, it is prudent to assign appropriate durability requirements for nonstructural concrete considering the exposure conditions and importance of the construction.
+
+## SECTION 1905 MODIFICATIONS TO SBC 304-24
+
+1905.1 General. Appropriate modifications has been reflected in SBC 304-24.
+
+## SECTION 1906 FOOTINGS FOR LIGHTFRAME CONSTRUCTION
+
+1906.1 Plain concrete footings. For Group R-3 occupancies and buildings of other occupancies less than two stories above grade plane of light-frame construction, the required thickness of plain concrete footings is permitted to be 150 mm, provided that the footing does not extend more than 100 mm on either side of the supported wall.
+
+Section 1906 references SBC 304 for the minimum requirements for plain concrete footings. By definition, plain concrete contains no reinforcement or has less reinforcement than necessary to meet the requirements for reinforced concrete in SBC 304.
+
+The reduced footing thickness applies to any Group R-3 occupancy and to buildings of any other occupancy that are one story in height and of light-frame construction. An additional limitation is that the footing cannot extend more than 100 mm beyond the face of the supported wall. The 100 mm limitation is to reduce the likelihood that the footing will experience a flexural failure at the junction of the footing and the wall supported above.
+
+## SECTION 1907 MINIMUM SLAB PROVISIONS
+
+1907.1 General. The thickness of concrete floor slabs supported directly on the ground shall not be less than 90 mm. A 150 microns (0.15 mm) polyethylene vapor retarder with joints lapped not less than 150 mm shall be placed between the base course or subgrade and the concrete floor slab, or other approved equivalent methods or materials shall be used to retard vapor transmission through the floor slab.
+
+Exception: A vapor retarder is not required:
+
+1 For driveways, walks, patios and other flatwork that will not be enclosed at a later date.
+2 Where approved based on local site conditions.
+Section 1907 requires that slabs on grade be a minimum thickness so superimposed loads are transmitted to the subgrade without causing structural distress of the slab. Additionally, slabs must be protected on the underside with material that will retard the transmission of water vapor through the floor slab into the enclosed space, so moisture levels are not excessive.
+
+As matter of experience, 90 mm minimum slab thickness is needed to support typical concentrated loads without damage to the concrete, particularly at locations where small voids or pockets in the subgrade may develop because of improper compaction during construction or from other causes. An approved 150 microns (0.15 mm) vapor retarder (see Section 202 for definition) placed between the concrete slab and the supporting ground is required to prevent the migration of water vapor through the slab into the space above. The exceptions acknowledge conditions where the migration of limited moisture through the slab will not adversely affect the occupancy of the structure. Exception 2 is intended to give relief based on environmental or geological conditions, such as locations either with arid climates where the relative humidity is typically low or with well-drained soils and low water tables.
+
+Vapor retarders, while preventing moisture from migrating through the slab from below, can adversely affect the construction and performance of concrete slabs on grade. Finishing operations may be delayed since it will normally take longer for the bleed water to evaporate from the surface. Additionally, the
+
+tendency for concrete to develop both plastic and drying shrinkage cracking may be exacerbated. Another problem that occurs is the tendency for the slab to curl or warp upward at the edges. Curling occurs because the bottom of the slab remains moist longer than the top portion due to the vapor retarder; therefore, the top shortens more than the bottom, causing curling.
+
+## SECTION 1908 SHOTCRETE
+
+1908.1 General. Shotcrete is mortar or concrete that is pneumatically projected at high velocity onto a surface. Except as specified in this section, shotcrete shall conform to the requirements of this chapter for plain or reinforced concrete.
+
+Section 1908 regulates the materials and test procedures for shotcrete construction. Shotcrete is the commonly accepted and generic name for pneumatically projected mortar or concrete. Terms such as gunite,
+
+===== Page 1622 =====
+sprayed concrete, spraycrete, pneumatically applied mortar and concrete are often used to refer to shotcrete.
+
+ACI 506R, the guide for shotcreting, defines "Shotcrete" as mortar or concrete conveyed through a hose and pneumatically projected at a high velocity onto a surface. The force of the jet impacting on the shotcrete surface compacts the material and, when applied properly, the shotcrete surface will support itself without sagging or sloughing, even for vertical and overhead applications. Shotcrete must conform to the requirements for structural concrete specified in this chapter and SBC 304 unless modified by Section 1908.
+
+1908.2 Proportions and materials. Shotcrete proportions shall be selected that allow suitable placement procedures using the delivery equipment selected and shall result in finished in-place hardened shotcrete meeting the strength requirements of this code.
+
+Although the compressive strength of shotcrete must be verified prior to beginning work, its resulting strength and acceptability relies more on the suitability of placement procedures and the delivery equipment. Prior to construction, strength is established by the submittal of a mix design that is supported by test results. Mix designs from previous jobs can be used. Product data sheets for any admixtures and gradations for the sand and aggregate need to be included in the submittal. Verification of in-place hardened shotcrete strength is determined by testing in accordance with Section 1908.10.
+
+1908.3 Aggregate. Coarse aggregate, if used, shall not exceed 19 mm.
+
+For construction sections that are relatively thick and where adequate gunning equipment is available, the use of shotcrete mixtures containing coarse aggregates may be advantageous.
+
+Coarse aggregate must not exceed 19 mm in size and the gradation limitations for a combination of fine (sand) and coarse aggregates should be in accordance with requirements of ACI 506.2. Normal weight coarse aggregate for concrete must comply with the requirements of ASTM C 33. Lightweight coarse aggregate for concrete must comply with the requirements of ASTM C 330 (see Section 1903).
+
+1908.4 Reinforcement. Reinforcement used in shotcrete construction shall comply with the provisions of Sections 1908.4.1 through 1908.4.4.
+
+The best results will be obtained when the reinforcing steel is designed and placed to cause the least interference with the high-velocity placement of shotcrete. When proper techniques are used, shotcrete can be successfully placed through two or three layers of reinforcing steel. The size, spacing and splicing of reinforcement is specified in Sections 1908.4.1, 1908.4.2 and 1908.4.3, respectively.
+
+1908.4.1 Size. The maximum size of reinforcement shall be Dia 16 bars unless it is demonstrated by preconstruction tests that adequate encasement of larger bars will be achieved
+
+Depending on the thickness and nature of the work, reinforcement will consist of either deformed bars or welded wire fabric. Bar sizes are limited to a Dia 16 bar. Larger bar sizes can be used if it can be shown that adequate bonding with and encasement in the concrete can be accomplished. Preconstruction tests may be required by the building official to provide verification that proper bonding can be achieved (see Section 1908.5).
+
+1908.4.2 Clearance. When Dia 16 or smaller bars are used, there shall be a minimum clearance between parallel reinforcement bars of 65 mm. When bars larger than Dia 16 are permitted, there shall be a minimum clearance between parallel bars equal to six diameters of the bars used. When two curtains of steel are provided, the curtain nearer the nozzle shall have a minimum spacing equal to 12 bar diameters and the remaining curtain shall have a minimum spacing of six bar diameters.
+
+Exception: Subject to the approval of the building official, required clearances shall be reduced where it is demonstrated by preconstruction tests that adequate encasement of the bars used in the design will be achieved.
+
+Experience has shown that 65 mm space between Dia 16 bars, and a six-bar diameter space between larger bars, is sufficient clearance for placement of shotcrete where there is one layer of reinforcement. Experience has also shown that shotcrete application can be effective when the spacing between bars in the closer of two layers (nearer to nozzle) of steel is 12 bar diameters, and in the remaining layer the bars have a spacing of six bar diameters. The exception clarifies that lesser clearance dimensions are permitted if they can be verified by preconstruction tests.
+
+For welded wire fabric ACI 506R recommends a minimum spacing of 50 mm between wires in both directions. The minimum clearance between the reinforcement and the form or other backup surface may vary depending on whether a mortar mix (fine aggregate only) or concrete (fine and coarse aggregate) is used for shotcrete and whether conventional reinforcing steel or welded wire fabric is used.
+
+===== Page 1623 =====
+This spacing should be specified or shown on the construction documents. ACI 506R recommends that no less than a 50 mm clearance should be used for 16 Dia reinforcing bars. The minimum cover for reinforcement must comply with the requirements of SBC 304.
+
+1908.4.3 Splices. Lap splices of reinforcing bars shall utilize the noncontact lap splice method with a minimum clearance of 50 mm between bars. The use of contact lap splices necessary for support of the reinforcing is permitted when approved by the building official, based on satisfactory preconstruction tests that show that adequate encasement of the bars will be achieved, and provided that the splice is oriented so that a plane through the center of the spliced bars is perpendicular to the surface of the shotcrete.
+
+Bars and welded wire fabric must be lapped in such a manner so as not to create weak sections in the shotcrete. Lapped reinforcing bars should not be tied together, but rather be separated by at 50 mm wherever possible. The building official should only permit contact lap splices when it can be shown by preconstruction tests that the reinforcement will be completely encased. Welded wire fabric must be lapped  \( 1\frac{1}{2} \)  squares in all directions. Continuous chair support should not be placed parallel and directly underneath bars because chairs may prevent full shotcrete encasement or cause sand pockets. Individual chairs should also be offset to prevent a line of weakness in the shotcrete.
+
+1908.4.4 Spirally tied columns. Shotcrete shall not be applied to spirally tied columns.
+
+Typically, plain reinforcement (i.e., no surface deformations) is used for spiral reinforcement in columns. Shotcrete is not permitted to be applied to spirally tied columns because of the lack of these deformations. Additionally, SBC 304 requires that the clear spacing between spirals must not exceed 75 mm. These conditions make it difficult to achieve adequate bond between the concrete and the reinforcement.
+
+1908.5 Preconstruction tests. Where preconstruction tests are required by Section 1908.4, a test panel shall be shot, cured, cored or sawn, examined and tested prior to commencement of the project. The sample panel shall be representative of the project and simulate job conditions as closely as possible. The panel thickness and reinforcing shall reproduce the thickest and most congested area specified in the structural design. It shall be shot at the same angle, using the same nozzle and with the same concrete mix design that will be used on the project. The equipment used in preconstruction testing shall be the same equipment used in the work requiring such testing, unless substitute equipment is approved by the building official. Reports of preconstruction tests shall be submitted to the building official as specified in Section 1704.5.
+
+When required by the building official, preconstruction test specimens must be made for each type of construction application (flat, vertical or overhead) using the materials, mix proportions, equipment and the nozzle operator proposed for the project. Test panels should be at least 750 mm square and must have the same reinforcement and thickness [but not less than 75 mm] as specified and shown on the construction documents for permanent construction. Drilled cores should be taken from the panels and tested in accordance with ASTM C42 procedures for compliance with strength requirements.
+
+1908.6 Rebound. Any rebound or accumulated loose aggregate shall be removed from the surfaces to be covered prior to placing the initial or any succeeding layers of shotcrete. Rebound shall not be used as aggregate.
+
+Rebound is loose aggregate and cement paste that bounces off application surfaces after colliding with formwork, reinforcement or the shotcrete surface itself. Factors that affect the amount of rebound include the position of the work (flat, vertical or over-head applications); air pressure; cement content; water content; maximum size and grading of aggregates; amount of reinforcement; and thickness of the layer. Rebound must not be reused as aggregate or in any way worked back into the construction. If rebound does not fall clear of the work, it must be removed.
+
+1908.7 Joints. Except where permitted herein, unfinished work shall not be allowed to stand for more than 30 minutes unless edges are sloped to a thin edge. For structural elements that will be under compression and for construction joints shown on the approved construction documents, square joints are permitted. Before placing additional material are permitted. Before placing additional material adjacent to previously applied work, sloping and square edges shall be cleaned and wetted.
+
+Construction joints are generally tapered to a thin edge over a width of approximately 300 mm. square construction joints (nontapered) should be avoided wherever possible in shotcrete construction because they form a trap for rebound. Where the joint will be subjected to compressive stresses, however, square joints are frequently used and, in such cases, care must be taken to avoid or remove trapped rebound at the joint. All joints, tapered or square, must be thoroughly cleaned of loose
+
+===== Page 1624 =====
+material and wetted prior to the application of additional shotcrete.
+
+1908.8 Damage. In-place shotcrete that exhibits sags, sloughs, segregation, honeycombing, sand pockets or other obvious defects shall be removed and replaced. Shotcrete above sags and sloughs shall be removed and replaced while still plastic.
+
+After placement, any shotcrete that lacks uniformity or exhibits segregation, honeycombing or delamination; contains dry patches, slugs, voids or sand pockets (porous areas low in cement content); or sags or sloughs should be removed and replaced. As a practical matter, small holes created by cores taken for testing purposes cannot be filled solidly by shooting mortar at a high velocity. The patching mixture to be applied by hand should be made of the same materials and approximately of the same proportions as used for the shotcrete, except that coarse aggregate, if used, should be omitted. ACI 506.4R provides additional recommendations for repairing shotcrete, including filling of holes created where cores were obtained for testing.
+
+1908.9 Curing. During the curing periods specified herein, shotcrete shall be maintained above  \( 4^{\circ} \) C and in moist condition.
+
+Like cast-in-place concrete, shotcrete must be cured in a moist condition to achieve its potential strength and durability. Good curing practice for shotcrete construction generally requires that surfaces be kept continuously moist for a period of at least seven days. During curing, the air that is in contact with shotcrete surfaces must be maintained at temperatures above freezing, with the temperature of the shotcrete maintained above  \( 4^{\circ} \) C. For recommendations on winter protection, see SBC 304 or refer to ACI 506R.
+
+1908.9.1 Initial curing. Shotcrete shall be kept continuously moist for 24 hours after shotcreting is complete or shall be sealed with an approved curing compound.
+
+Immediately after finishing operations are complete, shotcrete must be kept continuously moist for a period of 24 hours by one of the following methods:
+
+1 Ponding or continuous sprinkling.
+
+2 Use of absorptive mat or fabric, sand or other protective covering kept continuously moist.
+
+3 Continuous steam not exceeding  \( 66^{\circ} \) C or vapor mist bath; or
+
+4 Membrane-forming curing compounds and application conforming to ASTM C309.
+
+1908.9.2 Final curing. Final curing shall continue for seven days after shotcreting, or for three days if high-early-strength cement is used, or until the specified strength is obtained. Final curing shall consist of the initial curing process or the shotcrete shall be covered with an approved moisture-retaining cover.
+
+Immediately following the initial curing specified in Section 1908.9.1, additional curing must be provided using one of the following materials or methods:
+
+Continue the method used in the initial curing process (see commentary, Section 1908.9.1):
+
+1 Use sheet materials conforming to ASTM C171; or
+
+2 Use other moisture-retaining covers acceptable to the registered design professional and approved by the building official.
+
+Curing must be continued for at least the first seven days after shotcreting, or for the first three days if high-early-strength cement is used (Type III Portland cement), or until the specified strength is obtained. During the curing period, shotcrete must be maintained at a temperature above  \( 5^{\circ} \) C and in a moist condition.
+
+1908.10 Strength tests. Strength tests for shotcrete shall be made by an approved agency on specimens that are representative of the work and which have been water soaked for at least 24 hours prior to testing. When the maximum-size aggregate is larger than 9.5 mm, specimens shall consist of not less than three 75 mm cores or 75 mm cubes. When the maximum-size aggregate is 9.5 mm or smaller, specimens shall consist of not less than diameter 50 mm cores or 50 mm cubes.
+
+This section provides basic strength test criteria for shotcrete. Experience has shown that aggregate size has a direct bearing on the accuracy of compressive tests. Therefore, core and cube specimens containing aggregates that are larger than 9.5 mm must be a minimum of 75 mm in diameter (or cross section). Test specimens are required to be soaked in water for at least 24 hours prior to testing to maintain a common environmental condition for all specimens and to ensure uniformity between test results. Cores should be obtained and tested in accordance with ASTM C42.
+
+1908.10.1 Sampling. Specimens shall be taken from the in-place work or from test panels, and shall be taken at least once each shift, but not less than one for each 40 m³ of shotcrete.
+
+Frequency of testing is a significant factor in the effectiveness of quality control of concrete. To ensure that test results will be representative of the concrete in the structure, specimens must be taken at the minimum frequency required by this section.
+
+===== Page 1625 =====
+1908.10.2 Panel criteria. When the maximum-size aggregate is larger than 9.5 mm, the test panels shall have minimum dimensions of 450 mm by 450 mm. When the maximum-size aggregate is 9.5 mm or smaller, the test panels shall have minimum dimensions of 300 mm by 300 mm. Panels shall be shot in the same position as the work, during the course of the work and by the nozzlemen doing the work. The conditions under which the panels are cured shall be the same as the work.
+
+When test panels are used, they are required to meet the criteria in this section. Experience has shown that aggregate size has a direct bearing on the ability to produce test panels that accurately portray the condition of in-place shotcrete. Evidence suggests that test panels containing aggregates larger than 9.5 mm must be a minimum of 450 mm square, and that test panels with aggregate 9.5 mm or smaller must be a minimum 300 mm square. The ability of the nozzle operator doing the work also prepares the test panels. Since the position of the work (flat, vertical or overhead) and the method of curing have an impact on the quality of work, they must also be accounted for when making test panels.
+
+1908.10.3 Acceptance criteria. The average compressive strength of three cores from the in-place work or a single test panel shall equal or exceed  \( 0.85f_{c}^{\prime} \)  with no single core less than  \( 0.75f_{c}^{\prime} \) . The average compressive strength of three cubes taken from the in-place work or a single test panel shall equal or exceed  \( f_{c}^{\prime} \)  with no individual cube less than  \( 0.88f_{c}^{\prime} \) . To check accuracy, locations represented by erratic core or cube strengths shall be retested.
+
+In evaluating core test results, the fact that core strengths may not equal the specified compressive strength of concrete,  \( f_{c} \) , should not be a cause for concern, provided they are within the limits specified. It is realistic to expect the compressive strength of cores to be less than  \( f_{c} \)  because the size of the core differs from that of a standard concrete test cylinder, and procedures for obtaining and curing the cores are different. Therefore, the shotcrete can be considered acceptable from the standpoint of strength if test results from the cores are at least 85 percent of  \( f_{c} \)  for the average of three cores and 75 percent of  \( f_{c} \)  for a single core. Cores should be obtained and tested in accordance with ASTM C 42. Cores for compressive strength testing must have a length-to-diameter ratio between 1.0 and 2.10. For ratios less than 1.94, the compressive strength is multiplied by a correction factor (less than 1) given in ASTM C 42 to correlate the strength of the core to that of a standard concrete test cylinder that has a length-to-diameter ratio of 2. Experience has shown that test results from cubes can be held to a higher standard, thus requiring the average of three cubes to equal or exceed  \( f_{c} \)  with no individual cube less than 0.88 \( f_{c} \) . Since the height-to-least-lateral dimension of a cube is 1, ACI 506R indicates that the compressive strength of a cube can be correlated to that of a standard test cylinder by multiplying the test results by 0.85. Either correlated or uncorrelated results for cubes can be used to determine if the specified acceptance criteria are met. Because of the less than delicate nature of the coring and sawing process, this section also permits erratic core and cube strengths to be discarded from the sample under consideration.
+
+===== Page 1626 =====
+This page left intentionally blank
+

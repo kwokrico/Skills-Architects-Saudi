@@ -1,0 +1,369 @@
+===== Page 1989 =====
+# CHAPTER 33—SAFEGUARDS DURING CONSTRUCTION
+
+## General Comments
+
+The building construction process involves a number of known and unanticipated hazards. Chapter 33 establishes specific regulations in order to minimize risk to the public and adjacent property. Some construction failures have resulted during the initial stages of grading, excavation and demolition. During these early stages, poorly designed and installed sheeting and shoring have resulted in ditch and embankment cave-ins. Also, inadequate underpinning of adjoining existing structures and careless removal of existing structures have resulted in construction failures.
+
+The most critical period in building construction related to the safety of those on the job site is when all building components have not yet been completed. Compounding this incomplete state is the use of dangerous construction methods, materials and equipment.
+
+## Purpose
+
+The purpose of Chapter 33 is to establish safety requirements during construction or demolition of buildings and structures. These requirements are intended to protect the public from injury and adjoining property from damage.
+
+## SECTION 3301 GENERAL
+
+3301.1 Scope. The provisions of this chapter shall govern safety during construction and the
+
+protection of adjacent public and private properties.
+
+This chapter establishes that reasonable safety precautions are to be provided during construction or demolition to protect the public from injury and adjoining property from damage. This chapter does not address projects not associated with a building or structure. Section 101.2 of this code establishes the scope as applicable to buildings or structures. For example, widening or deepening an existing river for flood control purposes would not be regulated by this chapter.
+
+3301.2 Storage and placement. Construction equipment and materials shall be stored and placed so as not to endanger the public, the workers or adjoining property for the duration of the construction project.
+
+This section requires that construction materials and equipment must be located and protected pursuant to the governing provisions of this chapter so that the public and adjoining property are safeguarded at all times during construction or demolition processes.
+
+3301.2.1 Structural and construction loads. Structural roof components shall be capable of supporting the roof-covering system and the material and equipment loads that will be encountered during installation of the system.
+
+The structural integrity of the roof must be maintained during reroofing operations, which can significantly contribute to the loading of the roof due to workers and material being present during this period of time. The roof support system must be able to structurally support all additional layers of roof covering material.
+
+## SECTION 3302 CONSTRUCTION SAFEGUARDS
+
+3302.1 Alterations, repairs and additions. Required exits, existing structural elements, fire protection devices and sanitary safeguards shall be maintained at all times during alterations, repairs or additions to any building or structure.
+
+Exceptions:
+
+1. Where such required elements or devices are being altered or repaired, adequate substitute provisions shall be made.
+
+2. Maintenance of such elements and devices is not required where the existing building is not occupied.
+
+Demolition and construction operations must not create a hazard for the occupants of a building during an alteration or addition. As such, the existing fire protection, means of egress elements and safety systems must remain in place and be functional. Two exceptions, however, are provided in this section that permit the fire protection, means of egress elements and safety systems to be changed, modified or removed. Exception 1 provides an alternative method that must be approved by the building official. Exception 2 is simply to have an unoccupied building, which means that residents of a dwelling unit or employees of a business are not to be present during the construction or demolition process.
+
+3302.2 Manner of removal. Waste materials shall be removed in a manner that prevents injury or damage to persons, adjoining properties and public rights-of-way.
+
+Safe and sanitary procedures for the removal of building construction and demolition waste must be provided. The method of waste
+
+===== Page 1990 =====
+removal must not pose a hazard, eyesore or nuisance to the public and neighboring properties. Examples of acceptable practices include: using a professional disposal service to haul away debris; limiting areas used for storing and handling demolished materials; enclosing storage areas so that only authorized personnel can gain access; establishing routes that waste removal vehicles are permitted to use; covering or tarping debris to prevent flying objects; and providing fully enclosed chutes to control falling objects and dust. Additionally, waste removal should be scheduled when adjoining property and the public will be least exposed to unusual and possibly dangerous situations caused by fumes, noise and dust, as well as unfamiliar events involved during a demolition process. Note that the accepted practice of waste removal is subject to the approval of the applicable governing authority.
+
+3302.3 Fire safety during construction. Fire safety during construction shall comply with the applicable requirements of this code and the applicable provisions of Chapter 33 of SBC 801.
+
+The purpose of this section is to correlate Section 3302 and SBC 801 requirements on fire safety during construction and demolition. Chapter 33 of SBC 801 has all of the fire safety requirements provided in one place for fire-safe operations during construction and demolition.
+
+## SECTION 3303 DEMOLITION
+
+3303.1 Construction documents. Construction documents and a schedule for demolition shall be submitted where required by the building official. Where such information is required, work shall not be done until such construction documents or schedule, or both, are approved.
+
+Some processes, methods and materials used during demolition can cause damage to adjoining property and increase the risk of injury to the general public. As such, this section indicates that the building official can request: verification that structural stability of existing buildings on the same lot or adjacent properties is maintained and not compromised; to know the materials and equipment necessary to perform the demolition involved; the timetable in which certain demolition activities will be performed; details to establish if the general public and adjoining property are exposed to any unfamiliar or greater hazard than normal; special inspection reports made by qualified firms, agencies or individuals; qualifications of the laborers involved in the operation, handling and removal of demolition equipment and materials. Note that the building official must grant approval for any additional information requested before demolition can be started.
+3303.2 Pedestrian protection. The work of demolishing any building shall not be commenced until pedestrian protection is in place as required by this chapter.
+
+Demolition must not be started until all of the necessary precautions are taken to protect the general public as indicated throughout this chapter.
+
+3303.3 Means of egress. A horizontal exit shall not be destroyed unless and until a substitute means of egress has been provided and approved.
+
+Exits through a party wall must be operational and usable during demolition. However, based on the extent of work, an alternative means of egress through a party wall is only permitted when approved by the building official.
+
+3303.4 Vacant lot. Where a structure has been demolished or removed, the vacant lot shall be filled and maintained to the existing grade or in accordance with the ordinances of the jurisdiction having authority.
+
+A demolition site must be restored if additional building construction or demolition operations are not scheduled to take place. The site must be filled and graded to the level of the surrounding site or maintained in accordance with the law, which may set forth other grading requirements, such as provisions for elevations, drainage and flood control.
+
+The time frame stipulated to abate a hazard created by a vacant lot is at the discretion of the building official unless a time frame is established in other regulations. In addition, footings, foundations, basement walls and floors must be removed when the building official determines that a threat is posed to human life or the public welfare, or if any portion of the foundation system prevents proper grading from being done.
+
+3303.5 Water accumulation. Provision shall be made to prevent the accumulation of water or damage to any foundations on the premises or the adjoining property.
+
+A vacant lot must be graded in accordance with Section 3303.4 in such a way that water is prevented from ponding and causing damage to structures on the premises or adjacent properties, particularly foundation systems and building elements in contact with the ground. Footings, foundations, basement walls or floors must be removed if this drainage is prevented.
+
+3303.6 Utility connections. Service utility connections shall be discontinued and capped in accordance with the approved rules and the requirements of the applicable governing authority.
+
+Utility providers, such as electrical, telephone, water, gas or sewer, often recommend or
+
+===== Page 1991 =====
+require notification and have certain guidelines to follow.
+
+Potential on-site underground obstructions, such as utility service lines, and buried oil, gasoline or septic tanks, should be investigated. If the temporary use of some existing service, such as electricity or water, is requested during the demolition project, then temporary permits must be obtained with the appropriate stipulations, including any rerouting or protection requirements from the applicable governing authority.
+
+3303.7 Fire safety during demolition. Fire safety during demolition shall comply with the applicable requirements of this code and the applicable provisions of Chapter 33 of SBC 801.
+
+The purpose of this section is to correlate Section 3303 and SBC 801 requirements on fire safety during construction and demolition. SBC 801 Chapter 56 provides requirements for blasting, while SBC 801 Section 3307 addresses demolition.
+
+## SECTION 3304 SITE WORK
+
+3304.1 Excavation and fill. Excavation and fill for buildings and structures shall be constructed or protected so as not to endanger life or property. Stumps and roots shall be removed from the soil to a depth of not less than 300 mm below the surface of the ground in the area to be occupied by the building. Wood forms that have been used in placing concrete, if within the ground or between foundation sills and the ground, shall be removed before a building is occupied or used for any purpose. Before completion, loose or casual wood shall be removed from direct contact with the ground under the building.
+
+A site that is to be excavated or filled in preparation for new construction must have dead and decaying foliage eliminated where it would be in contact with the new structure. As such, the base of trees, roots and limbs that protrude above the ground as well as 300 mm into the ground, must be taken out or separated from the earth where the building or structure will be erected. Additionally, any wood forms used for the concrete must be removed along with any wood product near the building that may decay or rot.
+
+Appendix J provides a comprehensive set of grading standards which would also apply when the appendix is specifically adopted by the jurisdiction.
+
+3304.1.1 Slope limits. Slopes for permanent fill shall be not steeper than one unit vertical in two units horizontal (50-percent slope). Cut slopes for permanent excavations shall be not steeper than one unit vertical in two units horizontal (50-percent slope). Deviation from the foregoing limitations for cut slopes shall be permitted only upon the presentation of a soil investigation report acceptable to the building official.
+
+The final grading around a foundation system must slope away from the building or structure, such that the ratio does not exceed 2:1. A trench or hole dug for a foundation system is required to have a stable embankment. As such, the embankment must not have a slope that exceeds a 2:1 ratio. However, because of the existing soil conditions or particular location, it may be impractical to achieve the required slope. This section indicates that an engineering analysis can be submitted with recommendations for alternative methodology and safeguards, subject to the approval of the building official.
+
+3304.1.2 Surcharge. No fill or other surcharge loads shall be placed adjacent to any building or structure unless such building or structure is capable of withstanding the additional loads caused by the fill or surcharge. Existing footings or foundations that can be affected by any excavation shall be underpinned adequately or otherwise protected against settlement and shall be protected against lateral movement.
+
+Gradient stability must be maintained for existing buildings or structures during the excavation, construction or demolition processes. As such, earth, construction materials, debris and even construction equipment must not impose a load that will cause the ground to give way and collapse or damage the foundation system of adjacent buildings or structures. Therefore, components such as engineered bracing must be provided for protection if adjacent buildings or structures are to be exposed to loads that exceed those of the existing design.
+
+3304.1.3 Footings on adjacent slopes. For footings on adjacent slopes, see Chapter 18.
+
+Any footings located on adjacent slopes must be designed and constructed pursuant to Chapter 18.
+
+3304.1.4 Fill supporting foundations. Fill to be used to support the foundations of any building or structure shall comply with SBC 303. Special inspections of compacted fill shall be in accordance with Section 1705.6.
+
+Compliance with this section ensures that the fill installed to support a building or structure will be compacted and verified in accordance with SBC 303 and the special inspection regulations stated in Section 1705.6.
+
+## SECTION 3305 SANITARY
+
+3305.1 Facilities required. Sanitary facilities shall be provided during construction, remodeling or demolition activities in accordance with SBC 701.
+
+===== Page 1992 =====
+Construction employees must have plumbing facilities available during the construction or demolition process of a building. The facilities must conform to the requirements set forth in SBC 701.
+
+## SECTION 3306 PROTECTION OF PEDESTRIANS
+
+3306.1 Protection required. Pedestrians shall be protected during construction, remodeling and demolition activities as required by this chapter and Table 3306.1. Signs shall be provided to direct pedestrian traffic.
+
+Safeguards are required to be in place during construction or demolition operations in accordance with Table 3306.1 and this chapter. In addition, since construction operations alter the familiar setting and path of travel, it is necessary to provide some form of visible directional sign to lead the public toward safety and away from potential hazards.
+
+The table establishes the type of protection required based upon the location to overhead hazards and distance in relation to ground hazards. Once the type of protection is determined from the table, the applicable code section, such as Section 3306.4 for construction railings, Section 3306.5 for barriers and Section 3306.7 for covered walkways, must be complied with as regulated.
+
+3306.2 Walkways. A walkway shall be provided for pedestrian travel in front of every construction and demolition site unless the applicable governing authority authorizes the sidewalk to be fenced or closed. A walkway shall be provided for pedestrian travel that leads from a building entrance or exit of an occupied structure to a public way. Walkways shall be of sufficient width to accommodate the pedestrian traffic but shall be not less than 1.2 m in width. Walkways shall be provided with a durable walking surface. Walkways shall be accessible in accordance with Chapter 11 and shall be designed to support all imposed loads, and the design live load shall be not less than 7.2 kN/m².
+
+Construction operations must not narrow or impede the normal flow of pedestrian traffic along a walkway by the placement of a fence or other enclosure. Note that the governing authority must approve any construction operations that will cause the narrowing or impedance of a walkway, such as the sidewalk. If a walkway is narrowed or enclosed, the construction of another or wider walkway is required for all pedestrians. The walkway must be able to handle the normal anticipated flow of pedestrian traffic and must not be less than the minimum 1.2 m width. The walkway must connect the building entrance or exit of an occupied structure to a public way. Even though such walkways may be temporary installations, they may still need to be usable by persons with disabilities where such walkway provides an accessible route in accordance with Chapter 11. In addition, the walkway must be a stable surface that is capable of supporting all imposed loads. The minimum design load of the walkway must not be less than 7200 Pa.
+
+3306.3 Directional barricades. Pedestrian traffic shall be protected by a directional barricade where the walkway extends into the street. The directional barricade shall be of sufficient size and construction to direct vehicular traffic away from the pedestrian path.
+
+Similar to governmental guidelines that govern provisions to protect employees doing road work, this section establishes that a barrier must be erected. The barrier must be capable of redirecting and regulating the flow of vehicular traffic where constructed or projected into a street. An example of how to regulate traffic is to provide the necessary warnings, notice of caution and instructions to the operators of motor vehicles with signs and colors that are common to governmental guidelines. The intent of this visual barrier is to keep pedestrians out of vehicular traffic and prevent vehicles from encroaching on or using the pedestrian walkway as a roadway.
+
+3306.4 Construction railings. Construction railings shall be not less than 1.05 m in height and shall be sufficient to direct pedestrians around construction areas.
+
+A barrier consisting of a horizontal rail and supports must be constructed with a minimum height of 1.05 m. In addition, this barrier must be capable of controlling the flow of pedestrian traffic by routing travel away from the hazards associated with a construction area. Where construction railings are placed such that there is a drop of more than 750 mm adjacent to the walking surface, such railings would also need to comply with Section 1015 for guards. Even where guards are not required, the standards for guards could be useful in the design of construction railings.
+
+3306.5 Barriers. Barriers shall be not less than 2.4 m in height and shall be placed on the side of the walkway nearest the construction. Barriers shall extend the entire length of the construction site. Openings in such barriers shall be protected by doors that are normally kept closed.
+
+When a barrier is required by Table 3306.1, it must be constructed to impede, separate and obstruct passage of pedestrians onto a construction site. The structure must be a minimum 2.4 m in height and located continuously along the walkway on the side
+
+===== Page 1993 =====
+where construction activities are being done. Openings, such as doors or gates, are permitted as long as the only time they are open is during use by authorized personnel. As such, when the doors or gates are not being used, they must remain closed.
+
+3306.6 Barrier design. Barriers shall be designed to resist loads required in Chapter 16 unless constructed as follows:
+
+1 Barriers shall be provided with 50 mm by 100 mm top and bottom plates.
+
+2 The barrier material shall be boards not less than 19 mm thick or wood structural panels not less than 6.4 mm thick.
+
+3 Wood structural use panels shall be bonded with an adhesive identical to that for exterior wood structural use panels.
+
+4 Wood structural use panels 6.4 mm or 23.8 mm in thickness shall have studs spaced not more than 600 mm on center.
+
+5 Wood structural use panels 9.5 mm or 12.5 mm in thickness shall have studs spaced not more than 1200 mm on center provided a 50 mm by 100 mm stiffener is placed horizontally at mid-height where the stud spacing is greater than 600 mm on center.
+
+6 Wood structural use panels 15.9 mm or thicker shall not span over 2400 mm.
+
+This section establishes two methods that can be used to design barriers. The first method establishes that the barrier can be designed using the same materials and assembly instructions as indicated in Items 1 through 6. The second method provides for a barrier that will resist the loads imposed on it in order to be part of a designed assembly. The loads, which need to be resisted, are the same as those established in Chapter 16.
+
+3306.7 Covered walkways. Covered walkways shall have a clear height of not less than 2.4 m as measured from the floor surface to the canopy overhead. Adequate lighting shall be provided at all times. Covered walkways shall be designed to support all imposed loads. The design live load shall be not less than 7.2 kN/m \( ^{2} \)  for the entire structure.
+
+Exception: Roofs and supporting structures of covered walkways for new, light-frame construction not exceeding two stories above grade plane are permitted to be designed for a live load of 3.6 kPa or the loads imposed on them, whichever is greater. In lieu of such designs, the roof and supporting structure of a covered walkway are permitted to be constructed as follows:
+1 Footings shall be continuous 50 mm by 150 mm members.
+
+2 Posts not less than 100 mm by 150 mm shall be provided on both sides of the roof and spaced not more than 3600 mm on center.
+
+3 Stringers not less than 100 mm by 300 mm shall be placed on edge upon the posts.
+
+4 Joists resting on the stringers shall be not less than 50 mm by 200 mm and shall be spaced not more than 600 mm on center.
+
+5 The deck shall be planks not less than 50 mm thick or wood structural panels with an exterior exposure durability classification not less than 18.3 mm thick nailed to the joists.
+
+6 Each post shall be knee braced to joists and stringers by members not less than 50 mm by 100 mm; 1200 mm in length.
+
+7 A curb that is not less than 50 mm by 100 mm shall be set on edge along the outside edge of the deck.
+
+Walkways that are provided with a covering that extends over the pedestrian path of travel, pursuant to Table 3306.1, must be at least 2.4 m in height. The measurement must be taken from the top of the walking surface to the underside of the roof covering. The walkway must maintain a satisfactory level of light to the space, equal to or better than that provided prior to the installation of the protective covering. The covered walkway must also be structurally capable of resisting the design loads established in Chapter 16, but not less than 7.2 kPa for the live load.
+
+Note that this section provides two design options. One option permits the covered walkway to resist the design loads established in Chapter 16, but not less than 3.6 kPa live load if nearby construction does not exceed two stories above grade plane and the construction materials are lightweight, such as light-frame construction. The second option is to construct the covered walkway in accordance with the seven criteria set forth in this section.
+
+3306.8 Repair, maintenance and removal. Pedestrian protection required by this chapter shall be maintained in place and kept in good order for the entire length of time pedestrians are subject to being endangered. The owner or the owner's authorized agent, on completion of the construction activity, shall immediately remove walkways, debris and other obstructions and leave such public property in as good a condition as it was before such work was commenced.
+
+Any safeguards required by this chapter must be kept in good functional condition for the
+
+===== Page 1994 =====
+entire duration of the construction or demolition activity so that the public will not be placed in harm's way. Once a building or structure is occupiable and the site is properly graded, the protection must be removed. As such, public property that was affected by the construction activity must be restored to or left in the condition that existed prior to the work.
+
+3306.9 Adjacent to excavations. Every excavation on a site located 1.5 m or less from the street lot line shall be enclosed with a barrier not less than 1.8 m in height. Where located more than 1.5 m from the street lot line, a barrier shall be erected where required by the building official. Barriers shall be of adequate strength to resist wind pressure as specified in Chapter 16.
+
+This section establishes that whenever excavation is to take place less than 1.5 m from the edge of a roadway, a barrier must be erected with a minimum height of 1.8 m. If the excavation is located greater than 1.5 m from the edge of the roadway, the building official must evaluate the level of hazard for the public and the necessary precautions to take. As such, the building official has the authority to order the construction of a structural barrier. Any barrier erected must maintain other provisions of the code such that it is capable of handling and resisting design wind loads denoted in Chapter 16.
+
+## SECTION 3307 PROTECTION OF ADJOINING PROPERTY
+
+3307.1 Protection required. Adjoining public and private property shall be protected from damage during construction, remodeling and demolition work. Protection shall be provided for footings, foundations, party walls, chimneys, skylights and roofs. Provisions shall be made to control water runoff and erosion during construction or demolition activities. The person making or causing an excavation to be made shall provide written notice to the owners of adjoining buildings advising them that the excavation is to be made and that the adjoining buildings should be protected. Said notification shall be delivered not less than 10 days prior to the scheduled starting date of the excavation.
+
+This section emphasizes the need to protect all existing public and private property bordering the proposed construction or demolition operations. The term “property” only alludes to existing buildings. As such, any building element or system must be provided with a safeguard that will limit the damage that could be caused from the processes involved to the equipment and materials used. Additionally, soil erosion and disbursement resulting from the construction or demolition operations must be controlled to prevent spillage and spread of disturbed soil debris. The site must be graded in accordance with Sections 3303.4 and 3303.5 for demolition and must be maintained in a similar manner while there is construction taking place. The owner or owner’s agent has the responsibility to provide a written notice 10 days in advance for any demolition or construction activities that may warrant bordering lots to be protected from damage.
+
+3307.2 Excavation retention systems. Where a retention system is used to provide support of an excavation for protection of adjacent structures, the system shall conform to the requirements in Sections 3307.2.1 through 3307.2.3.
+
+Prior to 2021, the code referred to underpinning as the major means of protecting adjacent foundations. Excavation retaining systems are more common, with underpinning considered a last resort. A properly performing excavation retention system is necessary for some new buildings with basements and even in relatively shallow excavations where adjacent structures are in close proximity.
+
+3307.2.1 Excavation retention system design. Excavation retention systems shall be designed by a registered design professional to provide vertical and lateral support.
+
+Due to their critical role in protecting the integrity of surrounding foundations, excavation retention systems are required to be addressed by those with specific credentials and experience.
+
+3307.2.2 Excavation retention system monitoring. The retention system design shall include requirements for monitoring of the system and adjacent structures for horizontal and vertical movement.
+
+Movements of adjacent structures are typically largest during installation, excavation and removal of the retention system. Monitoring of the system and adjacent structures must be performed for the entire duration.
+
+Monitoring may include surveying or inclinometers, which are current standard construction procedures.
+
+3307.2.3 Retention system removal. Elements of the system shall only be removed or decommissioned where adequate replacement support is provided by backfill or by the new structure. Removal or decommissioning shall be performed in such a manner that protects the adjacent property.
+
+This section focuses on the need to remove retention systems appropriately and at the correct time to ensure structural integrity of the surrounding foundations. Removal is as critical
+
+===== Page 1995 =====
+as the implementation of the retention system during initial construction.
+
+## SECTION 3308 TEMPORARY USE OF STREETS, ALLEYS AND PUBLIC PROPERTY
+
+3308.1 Storage and handling of materials. The temporary use of streets or public property for the storage or handling of materials or of equipment required for construction or demolition, and the protection provided to the public shall comply with the provisions of the applicable governing authority and this chapter.
+
+In order to protect access to public safety equipment, utilities and public transportation, this section provides standards for the temporary use of public property for construction processes and storage of materials.
+
+3308.1.1 Obstructions. Construction materials and equipment shall not be placed or stored so as to obstruct access to fire hydrants, standpipes, fire or police alarm boxes, catch basins or manholes, nor shall such material or equipment be located within 6.1 m of a street intersection, or placed so as to obstruct normal observations of traffic signals or to hinder the use of public transit loading platforms.
+
+This section indicates that precautions for material and equipment storage and placement must be provided so as not to block or obstruct access to fire hydrants; standpipes (including fire department connections for sprinklers and standpipes); fire or police alarm boxes; utility boxes and meters; catch basins or manholes; or any other vital facility whose function contributes to the health, safety and welfare of the public. Also, storage must not be placed within 6 m of a street intersection if it obstructs the normal observation of traffic signals or hinders the use of any mass-transit loading platforms, such as sidewalk bus stops, taxi waiting areas or light rail platforms.
+
+3308.2 Utility fixtures. Building materials, fences, sheds or any obstruction of any kind shall not be placed so as to obstruct free approach to any fire hydrant, fire department connection, utility pole, manhole, fire alarm box or catch basin, or so as to interfere with the passage of water in the gutter. Protection against damage shall be provided to such utility fixtures during the progress of the work, but sight of them shall not be obstructed.
+
+Utility fixtures, such as those used by electrical, telephone, water, gas or sewer companies, as well as fire protection devices, must be hidden from view and not be blocked from access and use. When construction operations are near a utility fixture, precautions must be provided so as not to cause damage. The utility companies and the applicable governing authority, including the fire department, may have specific requirements and guidelines to follow to limit the possibility of damage and obstruction.
+
+## SECTION 3309 FIRE EXTINGUISHERS
+
+3309.1 Where required. Structures under construction, alteration or demolition shall be provided with not fewer than one approved portable fire extinguisher in accordance with Section 906 and sized for not less than ordinary hazard as follows:
+
+1 At each stairway on all floor levels where combustible materials have accumulated.
+
+2 In every storage and construction shed.
+
+3 Additional portable fire extinguishers shall be provided where special hazards exist, such as the storage and use of flammable and combustible liquids.
+
+A means to provide fire protection during the construction and demolition process is required. As such, this section indicates provisions for portable fire extinguishers. In addition to provisions of this section, the regulations of Section 906 and SBC 801 must be maintained.
+
+3309.2 Fire hazards. The provisions of this code and SBC 801 shall be strictly observed to safeguard against all fire hazards attendant upon construction operations.
+
+Methods, procedures and construction materials each contribute, in some way, to creating a fire hazard. Therefore, in addition to the provisions of the code, SBC 801 must be used to regulate the proper means of safety that must be provided for a building that is being demolished, altered or constructed.
+
+## SECTION 3310 MEANS OF EGRESS
+
+3310.1 Stairways required. Where building construction exceeds 12 m in height above the lowest level of fire department vehicle access, a temporary or permanent stairway shall be provided. As construction progresses, such stairway shall be extended to within one floor of the highest point of construction having secured decking or flooring.
+
+Buildings under construction that are determined to require more extensive time for evacuation due to height need to be provided with appropriate stairways for egress. Temporary or permanent stairways must be constructed in accordance with Section 1011, including riser, tread, guard and handrail requirements.
+
+3310.2 Maintenance of means of egress. Required means of egress shall be maintained at all
+
+===== Page 1996 =====
+times during construction, demolition, remodeling or alterations and additions to any building.
+
+Exception: Existing means of egress need not be maintained where approved temporary means of egress systems and facilities are provided.
+
+While construction or demolition work is being done, the occupants of the existing building still need to have unobstructed access to the minimum number of usable means of egress and accessible means of egress required for that space, floor and building. Note that depending on the extent of work, an exit may become obstructed; therefore, an alternative exit must be provided if the blocked exit is a required exit.
+
+## SECTION 3311 STANDPIPES
+
+3311.1 Where required. In buildings required to have standpipes by Section 905.3.1, not fewer than one standpipe shall be provided for use during construction. Such standpipes shall be installed prior to construction exceeding 12 m in height above the lowest level of fire department vehicle access. Such standpipes shall be provided with fire department hose connections at locations adjacent to stairways complying with Section 3310.1. As construction progresses, such standpipes shall be extended to within one floor of the highest point of construction having secured decking or flooring.
+
+This section establishes fire safety procedures during construction operations in accordance with the code and SBC 801. Standpipes that are required by Section 905 to be a permanent part of the building must be installed and remain functional as construction or demolition progresses. Functional standpipes are required so that fire-fighting capability is available at all times within a reasonable proximity to all potential fire locations. Standpipes must be installed when a building or structure under construction exceeds 12 m in height above fire department vehicle access and thereafter as it progresses to its completed height. During demolition or construction, the standpipe must be operational no lower than one floor below the highest point of construction. Having a standpipe at least as high as the floor below the highest point of construction reflects typical fire department procedures when fighting a fire within a building, which is to attack the fire from the floor below.
+
+3311.2 Buildings being demolished. Where a building is being demolished and a standpipe exists within such a building, such standpipe shall be maintained in an operable condition so as to be available for use by the fire department. Such standpipe shall be demolished with the building but shall not be demolished more than one floor below the floor being demolished.
+
+Standpipes in buildings under demolition must remain in service during the demolition process so that firefighting capability is maintained. Similar to buildings under construction, the standpipe is to remain in operation up to one floor level below the floor being demolished. This section establishes the requirement for fire safety procedures during the demolition process in accordance with the code and SBC 801.
+
+3311.3 Detailed requirements. Standpipes shall be installed in accordance with the provisions of Chapter 9.
+
+Exception: Standpipes shall be either temporary or permanent in nature, and with or without a water supply, provided that such standpipes conform to the requirements of Section 905 as to capacity, outlets and materials.
+
+During the construction or demolition process, stand-pipes complying with Section 3311.1 must be provided in a temporary or permanent location so that fire fighters will have sufficient means to supply water to their connection. These standpipes must either be connected to a permanent water supply source or have the capability to be connected to one in accordance with Section 3313.5. All standpipes must comply with Section 905 and must be installed and provided in a building pursuant to the regulations of Chapter 9.
+
+## SECTION 3312 AUTOMATIC SPRINKLER SYSTEM
+
+3312.1 Completion before occupancy. In buildings where an automatic sprinkler system is required by this code, it shall be unlawful to occupy any portion of a building or structure until the automatic sprinkler system installation has been tested and approved, except as provided in Section 111.3.
+
+A certificate of occupancy must not be issued by the building official if a required automatic sprinkler system is not approved. However, a temporary occupancy may be granted at the discretion of the building official.
+
+3312.2 Operation of valves. Operation of sprinkler control valves shall be permitted only by properly authorized personnel and shall be accompanied by notification of duly designated parties. When the sprinkler protection is being regularly turned off and on to facilitate connection of newly completed segments, the sprinkler control valves shall be checked at the end of each work period to ascertain that protection is in service.
+
+===== Page 1997 =====
+The scope of this section is to provide fire safety procedures during construction operations in accordance with the code and SBC 801. A sprinkler system must remain operable unless work is being done on it. In such a case, the water must only be shut off by authorized personnel coupled with the notification of the proper authorities so that a form of check and balance is achieved to make certain the water is turned back on.
+
+## SECTION 3313 WATER SUPPLY FOR FIRE PROTECTION
+
+3313.1 Where required. An approved water supply for fire protection, either temporary or permanent, shall be made available as soon as combustible building materials arrive on the site, on commencement of vertical combustible construction, and on installation of a standpipe system in buildings under construction, in accordance with Sections 3313.2 through 3313.5.
+
+Exception: The fire code official is authorized to reduce the fire-flow requirements for isolated buildings or a group of buildings in rural areas or small communities where the development of full fire-flow requirements is impractical.
+
+This section establishes requirements for providing minimum fire flow and standpipe water supply during construction. It was added to the 2021 code in response to the growing problem of construction fires. These fires have predominately affected combustible construction Types III, IV, and V.
+
+Water supply infrastructure is not always constructed prior to vertical construction of the building. The lack of a reliable and sufficient water supply has allowed many construction fires to cause more damage than many otherwise have occurred. The fire service cannot fight fire of any significant size without a reliable water supply. The provisions in Sections 3313.2 through 3313.5 are not intended to require any additional water supply that would not already be required by Appendix B of SBC 801. The minimum fire flow required by Appendix B is 3785 L/m. This section is primarily focused on a minimum of 1900 L/m. Note that Appendix B of SBC 801 is not mandatory unless adopted by the jurisdiction but provides a point of reference for these requirements.
+
+Sections 3313.2 through 3313.5 do not require any more than 1900 L/m unless the actual required fire flow for the specific building is greater. In order to be consistent with the fire flow requirements of Appendix B of SBC 801, the same exception allowing reduced fire flow from Appendix B is copied here as well.
+This section affects the timing of providing fire flow. Rather than allowing construction to start prior to establishing a water supply, as is often the case, this section requires that the fire flow, or a portion thereof, be provided as soon as combustible building materials arrive at the site, and in addition addresses fire flow needs prior to vertical construction.
+
+The provisions are not intended to apply to construction trailers. The focus is on both combustible construction and noncombustible construction where combustible building materials are delivered to the site. High-rise buildings even when of Type I construction could have combustible cladding delivered for installation.
+
+The installation of standpipes also necessitates the availability of a water supply. However, it is likely that the installation of standpipes will coincide with or occur after the delivery of combustible materials or the start of vertical construction. Section 3313.5 addresses this water supply trigger.
+3313.2 Combustible building materials. When combustible building materials of the building under construction are delivered to a site, a minimum fire flow of 1900 L/m shall be provided. The fire hydrant used to provide this fire flow supply shall be within 152 m of the combustible building materials, as measured along an approved fire apparatus access lane. Where the site configuration is such that one fire hydrant cannot be located within 152 m of all combustible building materials, additional fire hydrants shall be required to provide coverage in accordance with this section.
+
+This section is simply looking for minimum fire flow and reasonable access to a hydrant to address the combustibility of building materials that arrive on-site. It does not reflect site separation from other surrounding property or buildings. The section is focused on the need for fire flow to be provided so that a fire can be properly suppressed by the fire department.
+
+3313.3 Vertical construction of Types III, IV and V construction. Prior to commencement of vertical construction of Type III, IV or V buildings that utilize any combustible building materials, the fire flow required by Sections 3313.3.1 through 3313.3.3 shall be provided, accompanied by fire hydrants in sufficient quantity to deliver the required fire flow and proper coverage.
+
+This section is focused on the progression of construction vertically for more-combustible construction types. It was prompted by an increase in construction fires that caused significant damage to both the building under construction and to buildings in close proximity to the fire. As construction progresses vertically
+
+===== Page 1998 =====
+this is key to triggering the need for available fire flow. Again, fire flow will likely be required for the building when complete; these provisions simply ensure that it is available during construction. The requirements for fire flow are based on the amount of fire separation distance to surrounding property. The lower the fire separation distance, the more restrictive the trigger for fire flow becomes.
+
+3313.3.1 Fire separation up to 9 m. Where a building of Type III, IV or V construction has a fire separation distance of less than 9 m from property lot lines, and an adjacent property has an existing structure or otherwise can be built on, the water supply shall provide either a minimum of 1900 L/m, or the entire fire flow required for the building when constructed, whichever is greater.
+
+This is the most restrictive trigger for the availability of fire flow. This section requires at least 1900 L/m or the entire fire flow that would be required for the completed building, whichever is greater. The fire separation requirements are based on the fact that the building is in close proximity to other existing buildings. These fires can be quite large and spread very easily. Construction fires of combustible construction tend to be especially severe as the passive and active fire safety features of the building are not yet fully functional.
+
+3313.3.2 Fire separation of 9 m up to 18 m. Where a building of Type III, IV or V construction has a fire separation distance of 9 m up to 18 m from property lot lines, and an adjacent property has an existing structure or otherwise can be built on, the water supply shall provide a minimum of 1900 L/m, or 50 percent of the fire flow required for the building when constructed, whichever is greater.
+
+This section addresses a medium risk of construction fires in combustible construction types. There is some additional level of fire separation distance of between 9 m and 18 m. This would only require 50 percent of the full fire flow of the building or 1900 L/m, whichever is greater. These buildings provide more separation to surrounding buildings and more space for the fire department to undertake suppression operations.
+
+3313.3.3 Fire separation of 18 m or greater. Where a building of Type III, IV or V construction has a fire separation of 18 m or greater from a property lot line, a water supply of 1900 L/m shall be provided.
+
+This is the most lenient trigger for fire flow for vertical construction of combustible construction types. In this case, at least 18 m is provided from the property line. This limits the spread of fire more significantly. Fire flow is only required to be 1900 L/m during vertical construction.
+
+3313.4 Vertical construction, Types I and II construction. If combustible building materials are delivered to the construction site, water supply in accordance with Section 3313.2 shall be provided. Additional water supply for fire flow is not required prior to commencing vertical construction of Type I and II buildings.
+
+* As discussed in the commentary to Section 3313.1, although Type I and II buildings are considered noncombustible there are allowances for some combustible materials to be used in such construction. A good example is for the allowance of combustible exterior wall coverings and exterior wall envelopes. These systems are required to be tested in accordance with NFPA 285 as addressed by Chapter 14 and 26; however, before they are installed they have the potential to pose a fire hazard. Therefore, regardless of the progression of vertical construction, where combustible insulation or other combustible building materials are delivered to the construction site the water supply is required to be available. The fire flow required is limited to 1900 L/m during construction.
+
+3313.5 Standpipe supply. Regardless of the presence of combustible building materials, the construction type or the fire separation distance, where a standpipe is required in accordance with Section 3311, a water supply providing a minimum flow of 1900 L/m shall be provided. The fire hydrant used for this water supply shall be located within 30 m of the fire department connection supplying the standpipe.
+
+* The installation of standpipes as required by Section 3311 is a trigger for a minimum fire flow of 1900 L/m. In addition, access to the water supply via the hydrant must be reasonable to make a connection to the fire department connection.
+
+## SECTION 3314 FIRE WATCH DURING CONSTRUCTION
+
+3314.1 Fire watch during combustible construction. A fire watch shall be provided during nonworking hours for construction that exceeds 12 m in height above the lowest adjacent grade at any point along the building perimeter, for new multistory construction with an aggregate area exceeding 4645 m² per story or as required by the fire code official.
+
+* This section recognizes hazards that exist where larger structures are being constructed. Once a building under construction reaches a certain height [12 m] or size [4645 m² on any
+
+===== Page 1999 =====
+story], fires become more difficult to fight and the potential for loss becomes much greater. In addition, these larger fires, especially in more urban areas, become an exposure concern to surrounding buildings. The fire watch is necessary for both combustible and noncombustible construction, as the activities and materials at a construction site make all types of construction susceptible to fire. This section recognizes that the installation of automatic detection and fire-extinguishing systems during construction is not practical and that at a minimum, early notification for fire department response will improve protection for the building under construction and neighboring properties.
+
+The section will not mitigate the socioeconomic impacts of losses created by such fires; however, the provisions seek to minimize the potential damage by initiating faster notification. This section is located in both SBC 801 and this code to make sure that this requirement is initiated, regardless of how the codes have been adopted and implemented. The trigger of 12 m is consistent with Section 3312, which requires that a stairway be provided, and Section 3314, which requires that a standpipe be provided.
+
+===== Page 2000 =====
+## Bibliography
+
+The following resource material was used in the preparation of the commentary for this chapter of the code:
+
+1 DOL 29 CFR; Part 1910-74, Occupational Safety and Health Standards. Washington, DC: U.S. Department of Labor-Occupational Safety and Health Administration, 1974.
+
+===== Page 2001 =====
+## TABLES OF CHAPTER 33
+
+TABLE 3306.1
+PROTECTION OF PEDESTRIANS
+
+<table>HEIGHT OF BUILDING (meters)DISTANCE FROM CONSTRUCTION TO LOT LINETYPE OF PROTECTION REQUIRED2.4 or lessLess than 1500 mm1500 mm or moreConstruction railingsNone<td rowspan="4">More than 2.4Less than 1500 mm1500 mm or more, but not more than one-fourth the height of constructionBarrier and covered walkway1500 mm or more, but between one-fourth and one-half the height of constructionBarrier and covered walkway1500 mm or more, but exceeding one-half the height of constructionBarrier1500 mm or more, but exceeding one-half the height of constructionNone</table>
+
+===== Page 2002 =====
+This page left intentionally blank
+

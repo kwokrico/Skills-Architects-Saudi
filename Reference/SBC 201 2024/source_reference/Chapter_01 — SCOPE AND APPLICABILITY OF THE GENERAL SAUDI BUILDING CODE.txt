@@ -1,0 +1,921 @@
+===== Page 0039 =====
+# CHAPTER 1—SCOPE AND APPLICABILITY OF THE GENERAL SAUDI BUILDING CODE
+
+## General Comments
+
+This chapter contains provisions for the application, enforcement and administration of subsequent requirements of the code. In addition to establishing the scope of the code, this chapter identifies which buildings and structures come under its purview.
+
+This chapter is subdivided into two parts. Part 1 includes scope and application, Section 101 and Section 102. Part 2 deals with administra \( ^{tion} \)  and enforcement, Section 103 through Section 116.
+
+Section 101 addresses the scope of SBC 201 and references the other Saudi Codes \( ^{®} \)  mentioned in the code.
+
+Section 102 establishes the applicability of the code and addresses existing structures.
+
+Section 103 establishes the Code Compliance Department and the appointment of department personnel.
+
+Section 104 outlines the duties and authority of the building official with regard to permits, inspections and right of entry. It also establishes the authority of the building official to approve alternative materials, used materials and modifications.
+
+Section 105 states when permits are required and establishes procedures for the review of applications and the issuance of permits.
+
+Section 106 provides requirements for posting live loads greater than 2400 Pa.
+
+Section 107 describes the information that must be included on construction documents submitted with the application.
+
+Section 108 authorizes the building official to issue permits for temporary structures and uses.
+
+Section 109 establishes requirements for a fee schedule.
+
+Section 110 includes inspection duties of the building official or an inspection agency that has been approved by the building official.
+
+Section 111 details provisions for the issuance of certificates of occupancy.
+
+Section 112 gives the building official the authority to approve utility connections.
+Section 113 establishes the board of appeals and criteria for making applications for appeal.
+
+Section 114 addresses administrative provisions for violations, including provisions for unlawful acts, violation notices, prosecution and penalties.
+
+Section 115 describes procedures for stop work orders.
+
+Section 116 establishes the criteria for unsafe structures and equipment, and the procedures to be followed by the building official for abatement and notification to the responsible party.
+
+## Purpose
+
+The building code is a legally enforceable document to provide a reasonable level of safety, and protection of public health, general welfare and property. A building code cannot be effective without adequate provisions for its administration and enforcement. The official charged with the administration and enforcement of building regulations has a great responsibility, and with this responsibility goes authority. No matter how detailed the building code may be, the building official must, to some extent, exercise his or her own judgment in determining code compliance. The building official has the responsibility to establish that the homes in which the citizens of the community reside and the buildings in which they work are designed and constructed to be structurally stable with adequate means of egress, accessibility, light and ventilation, and to provide a minimum acceptable level of protection to life and property from fire.
+
+This chapter contains two parts. Part 1, Scope and Application, contains all issues related to the scope and intent of the code, as well as the applicability of this code relative to other standards and laws. Part 2, Administration and Enforcement, contains all issues related to the duties and powers of the building official, the issuance of permits and certificates of occupancy, and other related operational items.
+
+===== Page 0040 =====
+# PART 1—SCOPE AND APPLICATION
+SECTION 101 GENERAL
+
+101.1 Title. These regulations shall be known as the General Saudi Building Code, SBC 201, hereinafter referred to as “this code.”
+
+101.1.1 General Building Code. This Code shall be officially recognized and designated as the General Building Code. Any reference to the General Building Code within any component of the Saudi Building Codes Suite (SBCS) shall be understood to indicate this specific code.
+
+101.1.2 The official version of this Code is the English language version, using SI units, published by the Saudi Building Code National Committee (SBCNC).
+
+101.1.3 Code Editions This code is developed in three editions:
+
+I. Code and commentary edition (SBC 201-CC)
+
+II. Code Requirements edition (SBC 201-CR)
+
+III. Code Summary Requirements in Arabic, (SBC 201-AR)
+
+SBC 201-CC is the most comprehensive formal edition.
+
+101.2 Scope. The provisions of this code shall apply to the construction, alteration, relocation, enlargement, replacement, repair, equipment, use and occupancy, location, maintenance, removal and demolition of every building or structure or any appurtenances connected or attached to such buildings or structures.
+
+Exception: Detached one and two-family dwellings and multiple single-family dwellings (townhouses) not more than three stories above grade plane in height with a separate means of egress, and their accessory structures not more than three stories above grade plane in height, shall comply with SBC 1101/1102.
+
+This section establishes when the regulations contained in the code must be followed, whether all or in part. Something must happen (construction of a new building, modification to an existing one or allowing an existing building or structure to become unsafe) for the code to be applicable. While such activity may not be as significant as a new building, a fence is considered a structure and, therefore, its erection is within the scope of the code. The building code is not a maintenance document requiring periodic inspections that will, in turn, result in an enforcement action, although periodic inspections are addressed by SBC 801.
+The exception indicates that detached one- and two-family dwellings and townhouses that are not more than three stories above grade and have separate means of egress are to comply with SBC 1101/1102. The definition of townhouse adds that an SBC 1101/1102 townhouse must meet four criteria:
+
+It is not more than three stories in height.
+
+2 It has a separate means of egress.
+
+3 Each unit extends from foundation to roof.
+
+4 There is open space on at least two sides.
+
+This applies to all such structures, whether or not there are lot lines separating them, and also to accessory structures such as garages and pools. Accessory structures are also limited to not more than 3 stories in height. Such structures four stories or more in height are beyond the scope of SBC 1101/1102 and must comply with the provisions of SBC 201 and its referenced codes.
+
+There are two exceptions in SBC 1101/1102 that allow for buildings otherwise required to be constructed in accordance with SBC 201 to be constructed in accordance with SBC 1101/1102. These include live/work units (see 508.5), small bed-and-breakfast style hotels where there are five or fewer guestrooms and the owner also lives in the hotel (see Section 310.4.2) and care facilities within a dwelling unit with five or fewer persons receiving care (see Sections 305.2.2, 308.2.4, 308.3.2, 308.5.4 and 310.4.1).
+
+101.2.1 Appendices. Provisions in the appendices shall not apply unless specifically adopted.
+
+The provisions contained in Appendices A through M are not considered part of the code and are, therefore, not enforceable unless they are specifically included in the ordinance or other adopting law.
+
+101.3 Intent. The purpose of this code is to establish the minimum requirements to provide a reasonable level of safety, public health and general welfare through structural strength, means of egress facilities, stability, sanitation, adequate light and ventilation, energy conservation, and safety to life and property from fire and other hazards attributed to the built environment and to provide a reasonable level of safety to fire fighters and emergency responders during emergency operations.
+
+The intent of the code is to establish regulations providing for the safety, health and general welfare of building occupants, as well as for fire fighters and emergency responders during building emergencies. The intent becomes important in the application of such sections as Sections 102, 104.11 and 114, as well as any enforcement-oriented interpretive action or judgment. Like any code, the written text is subject to interpretation. Interpretations
+
+===== Page 0041 =====
+should not be affected by economics or the potential impact on any party. The only considerations should be safety of the occupants, protection of occupant's health and welfare and emergency responder safety.
+
+101.4 Referenced codes. The other codes listed in Sections 101.4.1 through 101.4.10 and referenced elsewhere in this code shall be considered part of the requirements of this code to the prescribed extent of each such reference.
+
+101.4.1 Structure. The provisions of Chapter 16 to Chapter 23 address the structural requirements and they reference other Saudi codes, namely (SBC 301, SBC 302, SBC 303, SBC 304, SBC 305, SBC 306, SBC 307, SBC 308, SBC309, SBC310, SBC 311, SBC312, SBC 313) as detailed in Table 1-A. SBC 301 shall apply to the structural loading requirements for use in the design and construction of buildings and structural components. It includes minimum design loads, assignment of risk categories, as well as permitted design methodologies. SBC 302 shall apply to general construction requirements. SBC 303 shall apply to the soils and foundation requirements. SBC 304 shall apply to the design of concrete structures. SBC 305 shall apply to the design of masonry structures.
+
+101.4.2 Electrical. The provisions of SBC 401 shall apply to the installation of electrical wiring from the point of delivery, electrical appliances and related accessories as covered in this code. These requirements apply to electrical wiring systems extending from the point of delivery to the inlet connections of appliances and the installation and operation of residential and commercial electrical appliances and related accessories.
+
+101.4.3 Mechanical. The provisions of SBC 501 shall apply to the installation, alterations, repairs and replacement of mechanical systems, including equipment, appliances, fixtures, fittings and/or appurtenances, including ventilating, heating, cooling, air-conditioning and refrigeration systems, incinerators and other energy-related systems.
+
+SBC 501 regulates all aspects of a building's mechanical system, including ventilating, heating, air-conditioning and refrigeration systems, incinerators and other energy-related systems, and is adopted by reference from this section, as well as other sections in this code, as the enforceable document for regulating these systems.
+
+101.4.4 Energy. The provisions of SBC 601 and SBC 602 shall apply to all matters governing the design and construction of buildings for energy efficiency.
+
+* SBC 701 regulates the components of a building's plumbing system, including water supply and distribution piping; sanitary and storm drainage systems; the fixtures and appliances connected thereto; and medical gas and oxygen systems, and is adopted by reference from this section, as well as other sections in this code, as the enforceable document for regulating these systems.
+
+SBC 701 regulates the components of a building's plumbing system, including water supply and distribution piping; sanitary and storm drainage systems; the fixtures and appliances connected thereto; and medical gas and oxygen systems, and is adopted by reference from this section, as well as other sections in this code, as the enforceable document for regulating these systems. SBC 702 regulates private sewage disposal systems.
+
+101.4.6 Fire prevention. The provisions of SBC 801 shall apply to matters affecting or relating to structures, processes and premises from the hazard of fire and explosion arising from the storage, handling or use of structures, materials or devices; from conditions hazardous to life, property or public welfare in the occupancy of structures or premises; and from the construction, extension, repair, alteration or removal of fire suppression, automatic sprinkler systems and alarm systems or fire hazards in the structure or on the premises from occupancy or operation.
+
+SBC 801 contains provisions which provide a reasonable level of safety for occupants from the hazards of fire and explosion that result from: materials, sub-stances and operations that may be present in a structure; circumstances that endanger life, property or public welfare; and the modification or removal of fire suppression and alarm systems. Many of the provisions contained in SBC 201, especially in Chapter 9 and 10, also appear in SBC 801.
+
+101.4.7 Existing buildings. The provisions of SBC 901 shall apply to matters governing the repair, alteration, change of occupancy, addition to and relocation of existing buildings.
+
+SBC 901 is typically utilized when a building is undergoing some type of alteration, change of occupancy or addition. Maintenance of existing buildings is addressed in SBC 801. Three different options for compliance are provided within SBC 901.
+
+101.4.8 Green Building. The provisions of SBC 1001 shall apply to matters governing the design and construction of buildings for green building requirements.
+
+101.4.9 Residential Buildings. The provisions of SBC 1101/1102 shall apply to all matters governing the design and construction of residential buildings.
+
+===== Page 0042 =====
+101.4.10 Fuel Gas The provisions of SBC 1201 shall apply to the installation of gas piping from the point of delivery, gas appliances and related accessories as covered in this code. These requirements apply to gas piping systems extending from the point of delivery to the inlet connections of appliances and the installation and operation of residential and commercial gas appliances and related accessories.
+
+## SECTION 102 APPLICABILITY
+
+102.1 General. Where there is a conflict between a general requirement and a specific requirement, the specific requirement shall be applicable. Where, in any specific case, different sections of this code specify different materials, methods of construction or other requirements, the most restrictive shall govern.
+
+In cases where the code establishes a specific requirement for a certain condition, that requirement is applicable even if it is less restrictive than a general requirement elsewhere in the code. As an example, the requirements contained in Section 402.8 for means of egress in a covered mall building would govern over any differing requirements located in Chapter 10, regardless of whether the requirements in Section 402.8 are more or less restrictive.
+
+The most restrictive requirement is to apply where there may be different requirements in the code for a specific issue.
+
+102.2 Other laws. The provisions of this code shall not be deemed to nullify any provisions of government law.
+
+102.3 Application of references. References to chapter or section numbers, or to provisions not specifically identified by number, shall be construed to refer to such chapter, section or provision of this code.
+
+In a situation where the code may make reference to a chapter or section number or to another code provision without specifically identifying its location in the code, assume that the referenced section, chapter or provision is in the code and not in a referenced code or standard.
+
+102.4 Referenced codes and standards. The codes and standards referenced in this code shall be considered part of the requirements of this code to the prescribed extent of each such reference and as further regulated in Sections 102.4.1 and 102.4.2.
+
+A referenced code, standard or portion thereof is an enforceable extension of the code as if the content of the standard were included in the body of the code. For example, Section 905.2 references NFPA 14 in its entirety for the installation of standpipe systems. In those cases when the code references only portions of a standard, the use and application of the referenced standard is limited to those portions that are specifically identified. For example, Section 412.3.6 requires that aircraft hangars must be provided with fire suppression systems as required in NFPA 409.
+
+Section 412.3.6 cannot be construed to require compliance with NFPA 409 in its entirety. It is the intent of the code to be in harmony with the referenced standards. If conflicts occur because of scope or purpose, the code text governs.
+
+102.4.1 Conflicts. Where conflicts occur between provisions of this code and referenced codes and standards, the provisions of this code shall apply.
+
+The use of referenced codes and standards to cover certain aspects of various occupancies and operations rather than write parallel or competing requirements into the code is a long-standing code development principle. Often, however, questions and potential conflicts in the use of referenced codes and standards can arise, which can lead to inconsistent enforcement of the code. In the code, several sections illustrate this concern, such as Section 415.9.3.
+
+Section 415.9.3 Dry cleaning plants. The construction and installation of dry-cleaning plants shall be in accordance with the requirements of this code, SBC 501, SBC 701 and NFPA 32. Dry cleaning solvents and systems shall be classified in accordance with SBC 801.
+
+Based on this text, NFPA 32, Standard for Dry-cleaning Plants, 2011 edition, in Section 4.4.1.1 states, "General building and structure design and construction shall be in accordance with NFPA 5000, Building Construction and Safety Code \( ^{®} \) , except as modified herein." Since the extent of the reference to NFPA 32 in Section 415.9.3 includes "...construction...", it has happened that designers construed this to mean that the requirements for building construction of dry cleaning plants will be required to follow NFPA 5000 instead of SBC 201.
+
+Another example is in SBC 501, which references ASHRAE 15 in Sections 1101.6 and 1108.1. ASHRAE 15 then references NFPA 54 (ANSI Z223.1), National Fuel Gas Code. This could lead code users to interpret the mechanical code to mean that the National Fuel Gas Code is applicable to specific situations rather than SBC 1201.
+
+In both cases, the reference is only applicable to the first referenced standard.
+
+102.4.2 Provisions in referenced codes and standards. Where the extent of the reference to a referenced code or standard includes subject matter
+
+===== Page 0043 =====
+that is within the scope of this code or the Codes listed in Section 101.4, the provisions of this code or the Codes listed in Section 101.4, as applicable, shall take precedence over the provisions in the referenced code or standard.
+
+Section 102.4.2 expands upon the provisions of Section 102.4.1 by making it clear that, even if a referenced standard contains requirements that parallel the code (or the other referenced Codes) in the standard's own duly referenced section(s), the provisions of SBC 201 (or the other referenced Codes) will always take precedence. This proposed section does not intend to take the place of carefully scoped and referenced text for written standards for the Codes but, rather, provides the policy underpinnings upon which sound code change proposals can be based.
+
+102.5 Partial invalidity. In the event that any part or provision of this code is held to be illegal or void, this shall not have the effect of making void or illegal any of the other parts or provisions.
+
+102.6 Existing structures. The legal occupancy of any structure existing on the date of adoption of this code shall be permitted to continue without change, except as otherwise specifically provided in this code, SBC 901 or SBC 801.
+
+102.6.1 Buildings not previously occupied. A building or portion of a building that has not been previously occupied or used for its intended purpose in accordance with the laws in existence at the time of its completion shall comply with the provisions of SBC 201 or SBC 1101/1102, for new construction or with any current permit for such occupancy.
+
+This section applies to any building that may have been completed but not occupied or used for its original intended purpose. The building remains a new structure in terms of code compliance until such time as it is occupied in whole or in part. Tenant buildouts are permitted to comply with the code adopted at the time of initial construction, unless that permit has expired. If the permit has expired, the tenant buildout must comply with new construction requirements, similar to alterations to existing buildings. See Section 105.5 regarding the expiration and extensions available for permits.
+
+102.6.2 Buildings previously occupied. The legal occupancy of any building existing on the date of adoption of this code shall be permitted to continue without change, except as otherwise specifically provided in this code, SBC 801 or as is deemed necessary by the building official for the general safety and welfare of the occupants and the public.
+
+This section allows for buildings that were legally occupied in whole or in part at the time the code was adopted to continue as is. There is a maintenance concern that is addressed by the requirement that the building comply with SBC 801.
+
+## PART 2—ADMINISTRATION AND ENFORCEMENT
+SECTION 103 CODE COMPLIANCE
+AGENCY
+
+103.1 Creation of enforcement agency. The Ministry of Municipalities and Housing (MoM&H) creates Code Compliance Department (CCD) in each major Municipality and the official in charge thereof shall be known as the building official as defined in Chapter 2. The function of the Code Compliance Department (CCD) shall be the implementation, administration and enforcement of the provisions of this code.
+
+The agency that has responsibility for code compliance may have different names in different municipalities. The department's responsibilities are more than just 'enforcement' of the code. This section creates the department and describes its composition (see Section 110 for a discussion of the inspection duties of the department).
+
+Appendix A contains qualifications for the employees of the building department involved in the enforcement of the code. Government can establish the qualifications outlined in Appendix A as a minimum for its employees.
+
+103.2 Appointment. The building official shall be appointed by (MoM&H).
+
+103.2.1 Building Official The executive official in charge of the Code Compliance Department shall be named the “building official” by this section and shall oversee the application and administration of this code as per Sections 103 and 104 as well as the role of Building officials in other codes as specified in Sections 101.4.1 through 101.4.10.
+
+This section establishes the building official as an appointed position of the jurisdiction.
+
+The executive official in charge of the building department is named the “building official” by this section. In actuality, the person who is in charge of the department may hold a different title, such as building commissioner, building inspector or construction official. For the purpose of the code, that person is referred to as the “building official.”
+
+103.3 Deputies. In accordance with the prescribed procedures of the Ministry of Municipalities and Housing (MoM&H) and with the concurrence of the appointing authority, the building official shall have the authority to appoint a deputy building official, the related technical officers, inspectors, plan examiners and other
+
+===== Page 0044 =====
+employees. Such employees shall have powers as delegated by the building official.
+
+103.4 Delegation of authority. In addition to section 103.3, the building official, in concurrence with the appointing authority in the MoM&H, may delegate the building official authority to other Region, Authority or Governmental Entity that have purview over building construction within their respective region or geographical denomination. The Delegatee shall have the duties and powers of the building official per section 104.103.5 Qualifications of the Delegatee.
+
+103.5.1 statement of qualification. Prior to the delegation of authority, the building official shall receive a statement of qualification of the proposed building official serving within the entity receiving such delegation.
+
+103.5.2 Licensing. The qualification shall equal or exceed those listed in Appendix A and satisfying all of the following:
+
+1 Possession of a license as a consulting engineer
+
+2 Certification as a Saudi Building Code professional from the Saudi Council of Engineers, and
+
+3 A Certified Building Official from the International Code Council or equivalent
+
+## SECTION 104 DUTIES AND POWERS OF BUILDING OFFICIAL
+
+104.1 General. The building official is hereby authorized and directed to enforce the provisions of this code. The building official shall have the authority to render interpretations of this code and to adopt policies and procedures in order to clarify the application of its provisions. Such interpretations, policies and procedures shall be in compliance with the intent and purpose of this code. Such policies and procedures shall not have the effect of waiving requirements specifically provided for in this code.
+
+Exception
+
+The Saudi Building Code National Committee (SBCNC) shall be consulted with respect to technical interpretations and application of sections 104.10 and 104.11.
+
+The duty of the building official is to enforce the code, and he or she is the “authority having jurisdiction” for all matters relating to the code and its enforcement. It is the duty of the building official to interpret the code and to determine compliance. Code compliance will not always be easy to determine and will require judgment and expertise, particularly when enforcing the provisions of Sections 104.10 and 104.11. In exercising this authority, however, the building official cannot set aside or ignore any provision of the code.
+
+104.2 Applications and permits. The building official or the building officials designated authority shall receive applications, review construction documents and issue permits for the erection, and alteration, demolition and moving of buildings and structures, install and alter mechanical and plumbing systems, inspect the premises for which such permits have been issued and enforce compliance with the provisions of this code.
+
+The code enforcement process is normally initiated with an application for a permit. The building official is responsible for processing applications and issuing permits for the construction or modification of buildings in accordance with the code.
+
+104.3 Notices and orders. The building official shall issue necessary notices or orders to ensure compliance with this code.
+
+An important element of code enforcement is the necessary advisement of deficiencies and corrections, which is accomplished through written notices and orders. The building official is required to issue orders to abate illegal or unsafe conditions. Section 116.3 contains additional information for these notices.
+
+104.4 Inspections. The building official shall make the required inspections, or the building official shall have the authority to accept reports of inspection by approved agencies or individuals. Reports of such inspections shall be in writing and be certified by a responsible officer of such approved agency or by the responsible individual.
+
+The building official is required to make inspections as necessary to determine compliance with the code, or to accept written reports of inspections by an approved agency. The inspection of the work in progress or accomplished is another significant element in determining code compliance. While a department does not have the resources to inspect every aspect of all work, the required inspections are those that are dictated by administrative rules and procedures based on many parameters, including available inspection resources. In order to expand the available resources for inspection purposes, the building official may approve an agency that, in his or her opinion, complies with the criteria set forth in Section 1703. When unusual, extraordinary or complex technical issues arise relative to building safety, the building official has the authority to seek the opinion and advice of experts. Since this usually involves the expenditure of funds, the
+
+===== Page 0045 =====
+approval of the jurisdiction's chief executive (or similar position) is required. A technical report from an expert requested by the building official can be used to assist in the approval process (also see Section 1704 for special inspection requirements).
+
+104.5 Identification. The building official shall carry proper identification when inspecting structures or premises in the performance of duties under this code.
+
+This section requires the building official (including by definition all authorized designees) to carry identification in the course of conducting the duties of the position. This removes any question as to the purpose and authority of the inspector.
+
+104.6 Right of entry. Where it is necessary to make an inspection to enforce the provisions of this code, or where the building official has reasonable cause to believe that there exists in a structure or upon a premises a condition that is contrary to or in violation of this code that makes the structure or premises unsafe, dangerous or hazardous, the building official is authorized to enter the structure or premises at reasonable times to inspect or to perform the duties imposed by this code, provided that if such structure or premises be occupied that credentials be presented to the occupant and entry requested. If such structure or premises is unoccupied, the building official shall first make a reasonable effort to locate the owner or other person having charge or control of the structure or premises and request entry. If entry is refused, the building official shall have recourse to the remedies provided by law to secure entry.
+
+The first part of this section establishes the right of the building official to enter the premises in order to make permit inspections required by Section 110.3. Permit application forms typically include a statement in the certification signed by the applicant (who is the owner or owner's agent) granting the building official the authority to enter areas covered by the permit in order to enforce code provisions related to the permit. The right to enter other structures or premises is more limited. First, to protect the right of privacy, the owner or occupant must grant the building official permission before an interior inspection of the property can be conducted. Permission is not required for inspections that can be accomplished from within the public right-of-way. Second, such access may be denied by the owner or occupant. Unless the inspector has reasonable cause to believe that a violation of the code exists, access may be unattainable. Third, building officials must present proper identification (see Section 104.5) and request admittance during reasonable hours—usually the normal business hours of the establishment—to be admitted. Fourth, inspections must be aimed at securing or determining compliance with the provisions and intent of the regulations that are specifically within the established scope of the building official's authority.
+
+Usually, an inspector must show that the property is subject to inspection under the provisions of the code; that the interests of the public health, safety and welfare outweigh the individual's right to maintain privacy; and that such an inspection is required solely to determine compliance with the provisions of the code.
+
+104.7 Department records. The building official shall keep official records of applications received, permits and certificates issued, fees collected, reports of inspections, and notices and orders issued. All records for engineered buildings and structures shall be retained indefinitely in the municipality's official records as required for retention of public records.
+
+In keeping with the need for efficient business practices, the building official must keep official records pertaining to permit applications, permits, fees collected, inspections, notices and orders issued. Such documentation provides a valuable resource of information if questions arise regarding the department's actions with respect to a building. The code does not require that construction documents be kept after the project is complete. It requires that other documents be kept for the length of time mandated by a jurisdiction's or administrative rules for retaining public records.
+
+104.7.1 Viewing of Official Permit Records
+Viewing of official records may be permitted subject to approval by the building official and property owner. Duplication of official permit records shall be permitted subject to approval of the building official, registered design professional, and the building owner.
+
+104.8 Liability. The building official, member of the board of appeals or employee charged with the enforcement of this code, while acting for the Ministry of Municipalities and Rural Affairs in good faith and without malice in the discharge of the duties required by this code or other pertinent law or ordinance, shall not thereby be civilly or criminally rendered liable personally and is hereby relieved from personal liability for any damage accruing to persons or property as a result of any act or by reason of an act or omission in the discharge of official duties.
+Any person or entity that is found to commit a
+
+===== Page 0046 =====
+violation of this code shall be held responsible to correct said violation subject to the satisfaction of the building official and the building owner.
+
+The building official, other department employees and members of the appeals board are not intended to be held liable, either civilly or criminally, for those actions performed in accordance with the code in a reasonable and lawful manner.
+
+104.8.1 Legal defense. Any suit or criminal complaint instituted against an officer or employee because of an act performed by that officer or employee in the lawful discharge of duties and under the provisions of this code shall be defended by legal representatives of the Ministry of Municipalities and Rural Affairs until the final termination of the proceedings. The building official or any subordinate shall not be liable for cost in any action, suit or proceeding that is instituted in pursuance of the provisions of this code.
+
+This section establishes that building officials (or sub-ordinates) must not be liable for costs in any legal action instituted in response to the performance of lawful duties. The best way to be certain that the building official's action is a "lawful duty" is always to cite the applicable code section on which the enforcement action is based.
+
+104.9 Approved materials and equipment. Materials, equipment and devices approved by the building official shall be constructed and installed in accordance with such approval.
+
+The code is a compilation of criteria with which materials, equipment, devices and systems must comply to be suitable for a particular application. The building official has a duty to evaluate such materials, equipment, devices and systems for code compliance and, when compliance is determined, approve the same for use. The materials, equipment, devices and systems must be constructed and installed in compliance with, and all conditions and limitations considered as a basis for, that approval. For example, the manufacturer's instructions and recommendations are to be followed if the approval of the material was based even in part on those instructions and recommendations. The approval authority given to the building official is a significant responsibility and is a key to code compliance. The approval process is first technical and then administrative and must be approached as such. For example, if data to determine code compliance are required, such data should be in the form of test reports or engineering analysis and not simply taken from a sales brochure.
+104.9.1 Used materials and equipment. The use of used materials that meet the requirements of this code for new materials is permitted. Used equipment and devices shall not be reused unless approved by the building official.
+
+Code criteria for materials and equipment have changed over the years. Evaluation of testing and materials technology has permitted the development of new criteria that old materials may not satisfy. As a result, used materials are required to be evaluated in the same manner as new materials. Used materials, equipment and devices must be equivalent to that required by the code if they are to be used again in a new installation.
+
+104.10 Modifications. Where there are practical difficulties involved in carrying out the provisions of this code, the building official shall have the authority to grant modifications for individual cases, upon application of the owner or the owner's authorized agent, provided that the building official shall first find that special individual reason makes the strict letter of this code impractical, the modification is in compliance with the intent and purpose of this code and that such modification does not lessen health, accessibility, life and fire safety or structural requirements. The details of action granting modifications shall be recorded and entered in the files of the Code Compliance Department.
+
+The building official may amend or make exceptions to the code as needed where strict compliance is impractical. Only the building official has authority to grant modifications. Consideration of a particular difficulty is to be based on the application of the owner and a demonstration that the intent of the code is accomplished. This section is not intended to permit setting aside or ignoring a code provision; rather, it is intended to provide acceptance of equivalent protection. Such modifications do not, however, extend to actions that are necessary to correct violations of the code. In other words, a code violation or the expense of correcting one cannot constitute a practical difficulty.
+
+104.11 Alternative materials, design and methods of construction and equipment. The provisions of this code are not intended to prevent the installation of any material or to prohibit any design or method of construction not specifically prescribed by this code, provided that any such alternative has been approved. An alternative material, design or method of construction shall be approved where the building official finds that the proposed design is satisfactory and complies with the intent of the provisions of this code, and that the
+
+===== Page 0047 =====
+material, method or work offered is, for the purpose intended, not less than the equivalent of that prescribed in this code in quality, strength, effectiveness, fire resistance, durability and safety. Where the alternative material, design or method of construction is not approved, the building official shall respond in writing, stating the reasons why the alternative was not approved.
+
+The code is not intended to inhibit innovative ideas or technological advances. A comprehensive regulatory document, such as a building code, cannot envision and then address all future innovations in the industry. As a result, a performance code must be applicable to and provide a basis for the approval of an increasing number of newly developed, innovative materials, systems and methods for which no code text or referenced standards yet exist. The fact that a material, product or method of construction is not addressed in the code is not an indication that such material, product or method is intended to be prohibited. The building official is expected to apply sound technical judgment in accepting materials, systems or methods that, while not anticipated by the drafters of the current code text, can be demonstrated to offer equivalent performance. The code regulates new and innovative construction practices while addressing the relative safety of building occupants. The building official is responsible for determining if a requested alternative provides the equivalent level of protection of public health, safety and welfare as required by the code. In order to ensure effective communication and due process of law, if an alternative is not approved, the building official should state in writing the reasons for the disapproval. This is similar to when a permit is rejected in Section 105.3.1.
+
+104.11.1 Research reports. Supporting data, where necessary to assist in the approval of materials or assemblies not specifically provided for in this code, shall consist of valid research reports from Saudi Standards, Meteorology and Quality organization (SASO) or Saudi Building Code National Committee (SBCNC) or ICC-evaluation service (ICC-ES) or other approved sources.
+
+When an alternative material or method is proposed for construction, it is incumbent upon the building official to determine whether this alternative is, in fact, an equivalent to the methods prescribed by the code. Reports providing evidence of this equivalency are required to be supplied by an approved source, meaning a source that the building official finds to be reliable and accurate.
+104.11.2 Tests. Whenever there is insufficient evidence of compliance with the provisions of this code, or evidence that a material or method does not conform to the requirements of this code, or in order to substantiate claims for alternative materials or methods, the building official shall have the authority to require tests as evidence of compliance to be made at no expense to the jurisdiction. Test methods shall be as specified in this code or by other recognized test standards. In the absence of recognized and accepted test methods, the building official shall approve the testing procedures. Tests shall be performed by an approved agency. Reports of such tests shall be retained by the building official in accordance with 104.7.
+
+To provide the basis on which the building official can make a decision regarding an alternative material or method, sufficient technical data, test reports and documentation must be provided for evaluation. If evidence satisfactory to the building official indicates that the alternative material or construction method is equivalent to that required by the code, he or she may approve it. Any such approval cannot have the effect of waiving any requirements of the code. The burden of proof of equivalence lies with the applicant who proposes the use of alternative materials or methods.
+
+The building official must require the submission of appropriate information and data to assist in the determination of equivalency. This information must be submitted before a permit can be issued. The type of information required includes test data in accordance with referenced standards, evidence of compliance with the referenced standard specifications and design calculations. A research report issued by an authoritative agency is particularly useful in providing the building official with the technical basis for evaluation and approval of new and innovative materials and methods of construction. The use of authoritative research reports can greatly assist the building official by reducing the time-consuming engineering analysis necessary to review these materials and methods. Failure to substantiate adequately a request for the use of an alternative is a valid reason for the building official to deny a request. Any tests submitted in support of an application must have been performed by an agency approved by the building official based on evidence that the agency has the technical expertise, test equipment and quality assurance to properly conduct and report the necessary testing. The test reports submitted to the building official
+
+===== Page 0048 =====
+must be retained in accordance with the requirements of Section 104.7.
+
+## SECTION 105 PERMITS
+
+105.1 Required. Any owner or owner's authorized agent who intends to construct, enlarge, alter, repair, move, demolish or change the occupancy of a building or structure, or to erect, install, enlarge, alter, repair, remove, convert or replace any electrical, gas, mechanical or plumbing system, the installation of which is regulated by this code, or to cause any such work to be performed, shall first make application to the building official and obtain the required permit.
+
+This section contains the administrative rules governing the issuance, suspension, revocation or modification of building permits. It also establishes how and by whom the application for a building permit is to be made, how it is to be processed, fees and what information it must contain or have attached to it.
+
+In general, a permit is required for all activities that are regulated by the code or its referenced codes (see Section 101.4), and these activities cannot begin until the permit is issued, unless the activity is specifically exempted by Section 105.2. Only the owner or a person authorized by the owner can apply for the permit. Note that this section indicates a need for a permit for a change in occupancy, even if no work is contemplated. Although the occupancy of a building or portion thereof may change and the new activity is still classified in the same group, different code provisions may be applicable. The means of egress, structural loads and light and ventilation provisions are examples of requirements that are occupancy sensitive. The purpose of the permit is to cause the work to be reviewed, approved and inspected to determine compliance with the code.
+
+105.1.1 Annual permit. Instead of an individual permit for each alteration to an already approved electrical, gas, mechanical or plumbing installation, the building official is authorized to issue an annual permit upon application therefor to any person, firm or corporation regularly employing one or more qualified tradersons in the building, structure or on the premises owned or operated by the applicant for the permit.
+
+In some instances, such as large buildings or industrial facilities, the repair, replacement or alteration of electrical, gas, mechanical or plumbing systems occurs on a frequent basis, and this section allows the building official to issue an annual permit for this work. This relieves both the building department and the owners of such facilities from the burden of filing and processing individual applications for this activity; however, there are restrictions on who is entitled to these permits. They can be issued only for work on a previously approved installation and only to an individual or corporation that employs persons specifically qualified in the trade for which the permit is issued. If tradespeople who perform the work involved are required to be licensed in the jurisdiction, then only those persons would be permitted to perform the work. If trade licensing is not required, then the building official needs to review and approve the qualifications of the persons who will be performing the work. The annual permit can apply only to the individual applicant that is owned or operated by the applicant.
+
+105.1.2 Annual permit records. The person to whom an annual permit is issued shall keep a detailed record of alterations made under such annual permit. The building official shall have access to such records at all times or such records shall be filed with the building official as designated.
+
+The work performed in accordance with an annual permit must be inspected by the building official, so it is necessary to know the location of such work and when it was performed. This can be accomplished by having records of the work available to the building official either at the premises or in the official's office, as determined by the official.
+
+105.2 Work exempt from permit. Exemptions from permit requirements of this code shall not be deemed to grant authorization for any work to be done in any manner in violation of the provisions of this code or any other laws or ordinances of this jurisdiction. Permits shall not be required for the following:
+
+## Building:
+
+1 One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area is not greater than 11 m².
+
+2 Fences not over 2.10 meters high.
+
+3 Oil derricks.
+
+4 Retaining walls that are not over 1.20 meters in height measured from the bottom of the footing to the top of the wall, unless supporting a surcharge or impounding Class I, II or IIIA liquids.
+
+5 Water tanks supported directly on grade if the capacity is not greater than 19000 L and the ratio of height to diameter or width is not greater than 2:1.
+
+6 Sidewalks and driveways not more than 750 mm above adjacent grade, and not over any
+
+===== Page 0049 =====
+basement or story below and are not part of an accessible route.
+
+7 Painting, papering, tiling, carpeting, cabinets, counter tops and similar finish work.
+
+8 Temporary motion picture, television and theater stage sets and scenery.
+
+9 Prefabricated swimming pools accessory to a Group R-3 occupancy that are less than 600 mm deep, are not greater than 19000 L and are installed entirely above ground.
+
+10 Shade cloth structures constructed for nursery or agricultural purposes, not including service systems.
+
+11 Swings and other playground equipment accessory to detached one- and two-family dwellings.
+
+12 Window awnings in Group R-3 and U occupancies, supported by an exterior wall that do not project more than 1.35 meters from the exterior wall and do not require additional support.
+
+13 Non fixed and movable fixtures, cases, racks, counters and partitions not over 1.8 meters in height.
+
+## Electrical:
+
+1 Repairs and maintenance: Minor repair work, including the replacement of lamps or the connection of approved portable electrical equipment to approved permanently installed receptacles.
+
+2 Radio and television transmitting stations: The provisions of this code shall not apply to electrical equipment used for radio and television transmissions but do apply to equipment and wiring for a power supply and the installations of towers and antennas.
+
+3 Temporary testing systems: A permit shall not be required for the installation of any temporary system required for the testing or servicing of electrical equipment or apparatus.
+
+4 Listed cord-and-plug connected temporary decorative lighting.
+
+5 Reinstallation of attachment plug receptacles but not the outlets therefor.
+
+6 Replacement of branch circuit overcurrent devices of the required capacity in the same location.
+
+7 Electrical wiring, devices, appliances, apparatus or equipment operating at less than 25 volts and not capable of supplying more than 50 watts of energy.
+8 Minor repair work, including the replacement of lamps or the connection of approved portable electrical equipment to approved permanently installed receptacles.
+
+## Gas:
+
+1 Portable heating appliance.
+
+2 Replacement of any minor part that does not alter approval of equipment or make such equipment unsafe.
+
+## Mechanical:
+
+1 Portable heating appliance.
+
+2 Portable ventilation equipment.
+
+3 Portable cooling unit.
+
+4 Steam, hot or chilled water piping within any heating or cooling equipment regulated by this code.
+
+5 Replacement of any part that does not alter its approval or make it unsafe.
+
+6 Portable evaporative cooler.
+
+7 Self-contained refrigeration system containing 4.50 kg or less of refrigerant and actuated by motors of 0.75 kW or less.
+
+8 Portable-fuel-cell appliances that are not connected to a fixed piping system and are not interconnected to a power grid.
+
+## Plumbing:
+
+1 The stopping of leaks in drains, water, soil, waste or vent pipe, provided, however, that if any concealed trap, drainpipe, water, soil, waste or vent pipe becomes defective and it becomes necessary to remove and replace the same with new material, such work shall be considered as new work and a permit shall be obtained and inspection made as provided in this code.
+
+2 The clearing of stoppages or the repairing of leaks in pipes, valves or fixtures and the removal and reinstallation of water closets, provided such repairs do not involve or require the replacement or rearrangement of valves, pipes or fixtures.
+
+Section 105.1 essentially requires a permit for any activity involving work on a building, its systems and other structures. This section lists those activities that are permitted to take place without first obtaining a permit from the building department. Note that in some cases, such as Items 9, 10, 11 and 12, the work is exempt only for certain occupancies. It is further the intent of the code that even though work may be exempted for permit purposes, it must still comply with the code and the owner is responsible for proper and safe construction for
+
+===== Page 0050 =====
+all work being done. Work exempted by the codes adopted by reference in Section 101.4 is also included here. However, even if a permit is not required, construction must not violate any code provisions. For example: If you replace a sink faucet, you don't need a permit, but the faucet would still have to meet material standard and water flow requirements in Chapter 6 of SBC 701.
+
+105.2.1 Emergency repairs. Where equipment replacements and repairs must be performed in an emergency situation, the permit application shall be submitted within the next working business day to the building official.
+
+This section recognizes that in some cases, emergency replacement and repair work must be done as quickly as possible, so it is not practical to take the necessary time to apply for and obtain approval. A permit for the work must be obtained the next day that the building department is open for business. Any work performed before the permit is issued must be done in accordance with the code and corrected if not approved by the building official.
+
+105.2.2 Repairs. Application or notice to the building official is not required for ordinary repairs to structures, replacement of lamps or the connection of approved portable electrical equipment to approved permanently installed receptacles. Such repairs shall not include the cutting away of any wall, partition or portion thereof, the removal or cutting of any structural beam or load-bearing support, or the removal or change of any required means of egress, or rearrangement of parts of a structure affecting the egress requirements; nor shall ordinary repairs include addition to, alteration of, replacement or relocation of any standpipe, water supply, sewer, drainage, drain leader, gas, soil, waste, vent or similar piping, electric wiring or mechanical or other work affecting public health or general safety.
+
+This section distinguishes between what might be termed by some as repairs but are in fact alterations, wherein the code is to be applicable, and ordinary repairs, which are maintenance activities that do not require a permit.
+
+105.2.3 Public service agencies. A permit shall not be required for the installation, alteration or repair of generation, transmission, distribution or metering or other related equipment that is under the ownership and control of public service agencies by established right.
+
+Utilities that supply electricity, gas, water, telephone, television cable, etc., do not require permits for work involving the transmission lines and metering equipment that they own and control; that is, to their point of delivery. Utilities are typically regulated by other laws that give them specific rights and authority in this area. Any equipment or appliances installed or serviced by such agencies that are not owned by them and under their full control are not exempt from a permit.
+
+105.3 Application for permit. To obtain a permit, the applicant shall first file an application therefor in writing on a form furnished by the Code Compliance Department for that purpose. Such application shall:
+
+1 Identify and describe the work to be covered by the permit for which application is made.
+
+2 Describe the land on which the proposed work is to be done by legal description, street address or similar description that will readily identify and definitely locate the proposed building or work.
+
+3 Indicate the use and occupancy for which the proposed work is intended.
+
+4 Be accompanied by construction documents and other information as required in Section 107.
+
+5 State the valuation of the proposed work.
+
+6 Be signed by the applicant, or the applicant's authorized agent.
+
+7 Give such other data and information as required by the building official.
+
+This section requires that a written application for a permit be filed on forms provided by the building department and details the information required on the application. Permit forms will typically have sufficient space to write a very brief description of the work to be accomplished, which is sufficient for only small jobs. For larger projects, the description will be augmented by construction documents as indicated in Item 4. As required by Section 105.1, the applicant must be the owner of the property or an authorized agent of the owner, such as an engineer, architect, contractor, tenant or other. The applicant must sign the application, and permit forms typically include a statement that if the applicant is not the owner, he or she has permission from the owner to make the application.
+
+105.3.1 Action on application. The building official or the building officials designated representative shall examine or cause to be examined applications for permits and amendments thereto within a reasonable time after filing. If the application or the construction documents do not conform to the requirements of pertinent laws, the building official shall reject such application in writing, stating the reasons therefor. If the building
+
+===== Page 0051 =====
+official is satisfied that the proposed work conforms to the requirements of this code and laws and ordinances applicable thereto, the building official shall issue a permit therefor as soon as practicable.
+
+This section requires the building official to act with reasonable speed on a permit application. In some instances, this time period is set by law. The building official must refuse to issue a permit when the application and accompanying documents do not conform to the code. In order to ensure effective communication and due process of law, the reasons for denial of an application for a permit are required to be in writing. Once the building official determines that the work described conforms to the code and other applicable laws, the permit must be issued upon payment of the fees required by Section 109.
+
+105.3.2 Time limitation of application. An application for a permit for any proposed work shall be deemed to have been abandoned 180 days after the date of filing, unless such application has been pursued in good faith or a permit has been issued; except that the building official is authorized to grant one or more extensions of time for additional periods not exceeding 90 days each. The extension shall be requested in writing and justifiable cause demonstrated.
+
+Typically, an application for a permit is submitted and goes through a review process that ends with the issuance of a permit. If a permit has not been issued within 180 days after the date of filing, the application is considered abandoned, unless the applicant was diligent in efforts to obtain the permit. The building official has the authority to extend this time limitation (in increments of 90 days), provided there is reasonable cause. This would cover delays beyond the applicant's control, such as prerequisite permits or approvals from other authorities within the jurisdiction. The intent of this section is to limit the time between the review process and the issuance of a permit.
+
+105.4 Validity of permit. The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any violation of any of the provisions of this code or of any other ordinance of the jurisdiction. Permits presuming to give authority to violate or cancel the provisions of this code or other ordinances of the jurisdiction shall not be valid. The issuance of a permit based on construction documents and other data shall not prevent the building official from requiring the correction of errors in the construction documents and other data. The building official is authorized to prevent occupancy or use of a structure where in violation of this code or of any other ordinances of this jurisdiction.
+
+This section states the fundamental premise that the permit is only a license to proceed with the work. It is not a license to violate, cancel or set aside any provisions of the code. This is significant because it means that despite any errors or oversights in the approval process, the permit applicant, not the building official, is responsible for code compliance. Also, the permit can be suspended or revoked in accordance with Section 105.6.
+
+105.5 Expiration. Every permit issued shall become invalid unless the work on the site authorized by such permit is commenced within 180 days after its issuance, or if the work authorized on the site by such permit is suspended or abandoned for a period of 180 days after the time the work is commenced. The building official is authorized to grant, in writing, one or more extensions of time, for periods not more than 180 days each. The extension shall be requested in writing and justifiable cause demonstrated.
+
+The permit becomes invalid under two distinct situations—both based on a 180-day period. The first situation is when no work was initiated 180 days from issuance of a permit. The second situation is when the authorized work has stopped for 180 days. The person who was issued the permit should be notified, in writing, that the permit is invalid and what steps must be taken to reinstate it and restart the work. The building official has the authority to extend this time limitation (in increments of 180 days), provided the extension is requested in writing and there is reason-able cause, which typically includes events beyond the permit holder's control.
+
+105.6 Suspension or revocation. The building official is authorized to suspend or revoke a permit issued under the provisions of this code wherever the permit is issued in error or on the basis of incorrect, inaccurate or incomplete information, or in violation of any ordinance or regulation or any of the provisions of this code.
+
+A permit is a license to proceed with the work. The building official, however, can suspend or revoke permits shown to be based, all or in part, on any false statement or misrepresentation of fact. A permit can also be suspended or revoked if it was issued in error, such as an omitted prerequisite approval or code violation indicated on the construction documents. An applicant may subsequently apply for a reinstatement of the permit with the appropriate corrections or modifications made to the application and construction documents.
+
+===== Page 0052 =====
+105.7 Placement of permit. The building permit or copy shall be kept on the site of the work until the completion of the project.
+
+The permit, or copy thereof, is to be kept on the job site until the work is complete, and made available to the building official or representative to conveniently make required entries thereon.
+
+## SECTION 106 FLOOR AND ROOF DESIGN LOADS
+
+106.1 Live loads posted. In commercial or industrial buildings, for each floor or portion thereof designed for live loads exceeding 2.50 kN/m², such design live loads shall be conspicuously posted by the owner or the owner's authorized agent in that part of each story in which they apply, using durable signs. It shall be unlawful to remove or deface such notices.
+
+This section requires that live loads be posted for most occupancies, since many of the live loads specified in Table 1607.1 exceed 2.50 kN/m². Where part of the floor is designed for 2.50 kN/m² or less and part for more than 2.50 kN/m², the live loads are required to be posted for those portions more than 2.50 kN/m². The code requires that the posting be done in the part where it applies. For example, an assembly area such as a restaurant would need to have the live load posted in the dining room.
+
+This live load posting gives the building department easy access to the information for field verification. It also serves as a notice of the loading restriction that is stated in Section 106.3.
+
+106.2 Issuance of certificate of occupancy. A certificate of occupancy required by Section 111 shall not be issued until the floor load signs, required by Section 106.1, have been installed.
+
+The design live load signs required by Section 106.1 need to be in place prior to the occupancy of the building for reference purposes. They serve as a record of the structural design loads for future reference, particularly when a change in occupancy is contemplated.
+
+106.3 Restrictions on loading. It shall be unlawful to place, or cause or permit to be placed, on any floor or roof of a building, structure or portion thereof, a load greater than is permitted by this code.
+
+The design live load signs required by Section 106.1 need to be in place prior to the occupancy of the building for reference purposes. They serve as a record of the structural design loads for future reference, particularly when a change in occupancy is contemplated.
+
+## SECTION 107 SUBMITTAL DOCUMENTS
+
+107.1 General. Submittal documents consisting of construction documents, statement of special inspections, engineering calculations, diagrams and other data, geotechnical report and other data shall be submitted in two or more sets with each permit application. The construction documents shall be prepared by a registered design professional Where special conditions exist, the building official is authorized to require additional construction documents to be prepared by a registered design professional.
+
+Exception: The building official is authorized to waive the submission of construction documents and other data not required to be prepared by a registered design professional if it is found that the nature of the work applied for is such that review of construction documents is not necessary to obtain compliance with this code.
+
+This section establishes the requirement to provide the building official with construction drawings, specifications and other documents that describe the structure or system for which a permit is sought (see Section 202 for a complete definition). It describes the information that must be included in the documents, who must prepare them and procedures for approving them.
+
+A detailed description of the work for which an application is made must be submitted. When the work can be briefly described on the application form and the services of a registered design professional are not required, the building official may utilize judgment in determining the need for detailed documents. An example of work that may not involve the submission of detailed construction documents is the replacement of an existing 60-amp electrical service with a 200-amp service. Other sections of the code also contain specific requirements for construction documents, such as Sections 1603, 1901.5, 2111.2, 2207.3 and 3103.2. These provisions are intended to reflect the minimum scope of information needed to determine code compliance. Although this section specifies that "one or more" sets of construction documents be submitted, note that Section 106.3.1 requires one set of approved documents be retained by the building official and one set be returned to the applicant, essentially requiring at least two sets of construction documents. The building official should establish a consistent policy of the number of sets required by the jurisdiction and
+
+===== Page 0053 =====
+make this information readily available to applicants.
+
+This section also requires the building official to determine that any professional registration laws be complied with as they apply to the preparation of construction documents.
+
+107.2 Construction documents. Construction documents shall be in accordance with Sections 107.2.1 through 107.2.8.
+
+This section provides instructions regarding the information and form of construction documents.
+
+107.2.1 Information on construction documents. Construction documents shall be dimensioned and drawn upon suitable material. Electronic media documents are permitted to be submitted where approved by the building official. Construction documents shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code and relevant laws, ordinances, rules and regulations, as determined by the building official.
+
+The construction documents are required to be of a quality and detail such that the building official can determine whether the work conforms to the code and other applicable laws and regulations. General statements on the documents, such as "all work must comply with SBC 201, are not an acceptable substitute for showing the required information. The following subsections and sections in other chapters indicated in the commentary to Sections 107.2.2 through 107.2.6 specify the detailed information that must be shown on the submitted documents. Where specifically allowed by the building official, documents can be submitted in electronic form.
+
+107.2.2 Fire protection system shop drawings. Shop drawings for the fire protection systems shall be submitted to indicate conformance to this code and the construction documents and shall be approved prior to the start of system installation. Shop drawings shall contain all information as required by the referenced installation standards in Chapter 9.
+
+Since the fire protection contractor(s) may not be selected at the time a permit is issued for construction of a building, detailed shop drawings for fire protection systems are not available. Because they provide the information necessary to determine code compliance, as specified in the appropriate referenced standard in Chapter 9, they must be submitted and approved by the building official before the con-tractor can begin installing the system. For example, the professional responsible for the design of an automatic sprinkler system should determine that the water supply is adequate, but will not be able to prepare a final set of hydraulic calculations if the specific materials and pipe sizes, lengths and arrangements have not been identified. Once the installing contractor is selected, specific hydraulic calculations can be prepared. Factors, such as classification of the hazard, amount of water supply available and the density or concentration to be achieved by the system, are to be included with the submission of the shop drawings. Specific data sheets identifying sprinklers, pipe dimensions, power requirements for smoke detectors, etc., should also be included with the submission.
+
+107.2.3 Means of egress. The construction documents shall show in sufficient detail the location, construction, size and character of all portions of the means of egress including the path of the exit discharge to the public way in compliance with the provisions of this code. In other than occupancies in Groups R-2, R-3, and I-1, the construction documents shall designate the number of occupants to be accommodated on every floor, and in all rooms and spaces.
+
+The complete means of egress system is required to be indicated on the plans to allow the building official to initiate a review and identify pertinent code requirements for each component. Additionally, requiring such information to be reflected in the construction documents requires the designer not only to become familiar with the code, but also to be aware of egress principles, concepts and purposes. The need to ensure that the means of egress leads to a public way is also a consideration during the plan review. Such an evaluation cannot be made without the inclusion of a site plan, as required by Section 107.2.5.
+
+Information essential for determining the required capacity (see Section 1005) and number (see Section 1006) of egress components from a space must be provided. The designer must be aware of the occupancy of a space and properly identify that information, along with its resultant occupant load, on the construction documents. In occupancies in Groups I-1, R-2 and R-3, the occupant load can be readily determined with little difference in the number so that the designation of the occupant load on the construction documents is not required.
+
+The exit discharge path to the public way must also be shown on the construction documents. The exit discharge path to the public way is an important component of the means of egress system for all buildings or structures. The exit discharge path needs to be delineated on the
+
+===== Page 0054 =====
+submitted and approved plans to ensure the path is reviewed for compliance with the provisions of the code. This will also provide an historical reference once the building is occupied to ensure the exit discharge path is maintained as intended for the life of the building or structure unless modifications are approved.
+
+107.2.4 Exterior wall envelope. Construction documents for all buildings shall describe the exterior wall envelope in sufficient detail to determine compliance with this code. The construction documents shall provide details of the exterior wall envelope as required, including flashing, intersections with dissimilar materials, corners, end details, control joints, intersections at roof, eaves or parapets, means of drainage, water-resistive membrane and details around openings.
+
+The construction documents shall include manufacturer's installation instructions that provide supporting documentation that the proposed penetration and opening details described in the construction documents maintain the weather resistance of the exterior wall envelope. The supporting documentation shall fully describe the exterior wall system that was tested, where applicable, as well as the test procedure used.
+
+This section specifically identifies details of exterior wall construction that are critical to the weather resistance of the wall and requires those details to be provided on the construction documents. Where the weather resistance of the exterior wall assembly is based on tests, the submitted documentation is to describe the details of the wall envelope and the test procedure that was used. This provides the building official with the information necessary to determine code compliance.
+
+107.2.5 Site plan. The construction documents submitted with the application for permit shall be accompanied by a site plan showing to scale the size and location of new construction and existing structures on the site, distances from lot lines, the established street grades and the proposed finished grades.; and it shall be drawn in accordance with an accurate boundary line survey. In the case of demolition, the site plan shall show construction to be demolished and the location and size of existing structures and construction that are to remain on the site or plot. The building official is authorized to waive or modify the requirement for a site plan where the application for permit is for alteration or repair or where otherwise warranted.
+
+Certain code requirements are dependent on the structure's location on the lot (see Sections 506.3, 507, 705, 1027 and 1205), the topography of the site (see Sections 1104, 1108.4, and 1108.7.4), and whether the site has flood hazard areas (see Section 1612). As a result, a scaled site plan containing the data listed in this section is required to permit review for compliance. The building official can waive the requirement for a site plan when it is not required to determine code compliance, such as for work involving only interior alterations or repairs.
+
+107.2.6 Structural information. The construction documents shall provide the information specified in Section 1603.
+
+The purpose of this reference to Section 1603 is as a reminder that there are requirements for structural information to be part of the construction documents. Section 1603 requires the design professional to provide appropriate structural details, criteria and design load data for verifying compliance with the provisions of Chapter 16 through 23. See the commentary to Section 1603 for additional information.
+
+107.2.7 Manufacturer’s installation instructions. Manufacturer’s installation instructions, as required by this code, shall be available on the job site at the time of inspection.
+
+107.2.8 Information on braced wall design. For buildings and structures utilizing braced wall design, and where required by the building official, braced wall lines shall be identified on the construction documents. Pertinent information including, but not limited to, bracing methods, location and length of braced wall panels and foundation requirements of braced wall panels at top and bottom shall be provided.
+
+107.3 Examination of documents. The building official shall examine or cause to be examined the accompanying submittal documents and shall ascertain by such examinations whether the construction indicated and described is in accordance with the requirements of this code and other pertinent laws or ordinances.
+
+The requirements of this section are related to those found in Section 105.3.1 regarding the action of the building official in response to a permit application. The building official can delegate review of the construction documents to subordinates as provided for in Section 103.3.
+
+107.3.1 Approval of construction documents. When the building official issues a permit, the construction documents shall be approved, in writing or by stamp, as “Reviewed for Code Compliance.” One set of construction documents so reviewed shall be retained by the building official. The other set shall be returned to the applicant, shall be kept at the site of work and shall be open to
+
+===== Page 0055 =====
+inspection by the building official or a duly authorized representative.
+
+The building official must stamp or otherwise endorse as “Reviewed for Code Compliance” the construction documents on which the permit is based. One set of approved construction documents must be kept on the construction site to serve as the basis for all subsequent inspections. To avoid confusion, the construction documents on the site must be the documents that were approved and stamped. This is because inspections are to be performed with regard to the approved documents, not the code itself. Additionally, the contractor cannot determine compliance with the approved construction documents unless they are readily available. If the approved construction documents are not available, the inspection should be postponed and work on the project halted.
+
+107.3.2 Previous approvals. This code shall not require changes in the construction documents, construction or designated occupancy of a structure for which a lawful permit has been heretofore issued or otherwise lawfully authorized, and the construction of which has been pursued in good faith within 180 days after the effective date of this code and has not been abandoned.
+
+If a permit is issued and construction proceeds at a normal pace and a new edition of the code is adopted by the legislative body, requiring that the building be constructed to conform to the new code is unreasonable. This section provides for the continuity of permits issued under previous codes, as long as such permits are being “actively prosecuted” subsequent to the effective date of the ordinance adopting this edition of the code.
+
+107.3.3 Phased approval. The building official is authorized to issue a permit for the construction of foundations or any other part of a building or structure before the construction documents for the whole building or structure have been submitted, provided that adequate information and detailed statements have been filed complying with pertinent requirements of this code. The holder of such permit for the foundation or other parts of a building or structure shall proceed at the holder's own risk with the building operation and without assurance that a permit for the entire structure will be granted.
+
+The building official has the authority to issue a partial permit to allow for the practice of "fast tracking" a job. Any construction under a partial permit is "at the holder's own risk" and "without assurance that a permit for the entire structure will be granted." The building official is under no obligation to accept work or issue a complete permit in violation of the code, ordinances or statutes simply because a partial permit had been issued. Fast tracking puts an unusual administrative and technical burden on the building official. The purpose is to proceed with construction while the design continues for other aspects of the work. Coordinating and correlating the code aspects into the project in phases requires attention to detail and project tracking so that all code issues are addressed. The coordination of these submittals is the responsibility of the registered design professional in responsible charge described in Section 107.3.4.
+
+107.3.4 Design professional in responsible charge. Where it is required that documents be prepared by a registered design professional, the building official shall be authorized to require the owner or the owner's authorized agent to engage and designate on the building permit application a registered design professional who shall act as the registered design professional in responsible charge. If the circumstances require, the owner or the owner's authorized agent shall designate a substitute registered design professional in responsible charge who shall perform the duties required of the original registered design professional in responsible charge. The building official shall be notified in writing by the owner or the owner's authorized agent if the registered design professional in responsible charge is changed or is unable to continue to perform the duties.
+
+The registered design professional in responsible charge shall be responsible for reviewing and coordinating submittal documents prepared by others, including phased and deferred submittal items, for compatibility with the design of the building.
+
+At the time of permit application and at various intervals during a project, the code requires detailed technical information to be submitted to the building official. This will vary depending on the complexity of the project, but typically includes the construction documents with supporting information, applications utilizing the phased approval procedure in Section 107.3.3 and reports from engineers, inspectors and testing agencies required in Chapter 17. Since these documents and reports are prepared by numerous individuals, firms and agencies, it is necessary to have a single person charged with responsibility for coordinating their submittal to the building official. This person is the point of contact for the building official for all information relating to the project. Other-wise, the building official could waste time and effort attempting to locate
+
+===== Page 0056 =====
+the source of accurate information when trying to resolve an issue such as a discrepancy in plans submitted by different designers. The requirement that the owner or their representative engage a person to act as the design professional in responsible charge is applicable to projects where the construction documents are required by law to be prepared by a registered design professional (see Section 107.1) and where required by the building official. The person employed by the owner to act as the design professional in responsible charge must be identified on the permit application, but the owner can change the designated person at any time during the course of the review process or work, provided the building official is so notified in writing.
+
+107.3.4.1 Deferred submittals. Deferral of any submittal items shall have the prior approval of the building official. The registered design professional in responsible charge shall list the deferred submittals on the construction documents for review by the building official.
+
+Documents for deferred submittal items shall be submitted to the registered design professional in responsible charge who shall review them and forward them to the building official with a notation indicating that the deferred submittal documents have been reviewed and found to be in general conformance to the design of the building. The deferred submittal items shall not be installed until the deferred submittal documents have been approved by the building official.
+
+“Deferred submittals” is defined in Chapter 2. Often, especially on larger projects, details of certain building parts are not available at the time of permit issuance because they have not yet been designed; for example, exterior cladding, prefabricated items such as trusses and stairs and the components of fire protection systems (see Section 107.2.2). The design professional in responsible charge must identify on the construction documents the items to be included in any deferred submittals. Documents required for the approval of deferred items must be reviewed by the design professional in responsible charge for compatibility with the design of the building, forwarded to the building official with a notation that this is the case and approved by the building official before installation of the items. Sufficient time must be allowed for the approval process. Note that deferred submittals differ from the phased permits described in Section 107.3.3 in that they occur after the permit for the building is issued and are not for work covered by separate permits.
+107.4 Amended construction documents. Work shall be installed in accordance with the approved construction documents, and any changes made during construction that are not in compliance with the approved construction documents shall be resubmitted for approval as an amended set of construction documents.
+
+Any amendments to the approved construction documents must be filed before constructing the amended item. In the broadest sense, amendments include all addenda, change orders, revised drawings and marked-up shop drawings. Building officials should maintain a policy that all amendments be submitted for review. Otherwise, a significant amendment may not be submitted because of misinterpretation, resulting in an activity that is not approved and that causes a needless delay in obtaining approval of the finished work.
+
+107.5 Retention of construction documents. One set of approved construction documents shall be retained by the building official for a period of not less than 180 days from date of completion of the permitted work except those subject to 104.7. Duplication and review shall be subject to 104.7.1.
+
+A set of the approved construction documents must be kept by the building official as may be required by laws, but for a period of not less than 180 days after the work is complete. Questions regarding an item shown on the approved documents may arise in the period immediately following completion of the work and the documents should be available for review. See Section 104.7 for requirements to retain other records that are generated as a result of the work.
+
+## SECTION 108 TEMPORARY STRUCTURES AND USES
+
+108.1 General. The building official is authorized to issue a permit for temporary structures and temporary uses. Such permits shall be limited as to time of service but shall not be permitted for more than 180 days. The building official is authorized to grant extensions for demonstrated cause.
+
+In the course of construction or other activities, structures that have a limited-service life are often necessary. This section contains the administrative provisions that permit such temporary structures without full compliance with the code requirements for permanently occupied structures. This section should not be confused with the scope of Section 3103, which regulates temporary structures larger than 11 m \( ^{2} \)  in area.
+
+This section allows the building official to issue permits for temporary structures or uses. The applicant must specify the time period desired
+
+===== Page 0057 =====
+for the temporary structure or use, but the approval period cannot exceed 180 days. Structures or uses that are temporary but are anticipated to be in existence for more than 180 days are required to conform to code requirements for permanent structures and uses. The section also authorizes the building official to grant extensions to this time period if the applicant can provide a valid reason for the extension, which typically includes circumstances beyond the applicant's control. This provision is not intended to be used to circumvent the 180-day limitation.
+
+108.2 Conformance. Temporary structures and uses shall conform to the structural strength, fire safety, means of egress, light, ventilation and sanitary requirements of this code as necessary to ensure the public health, safety and general welfare. Temporary structures and uses shall comply with the requirements in Section 3103.
+
+By a reference to Section 3103, this indicates that structures that will be permitted for a period of 180 days or less will comply with SBC 801 and SBC 201. SBC 201 provisions (see Section 3103.1.1) include those dealing with structural strength, fire safety, means of egress, accessibility, light, ventilation and sanitation requirements. These categories of the code must be complied with, despite the fact that the structure will be removed or the use discontinued. These criteria are essential for measuring the safety of any structure or use, temporary or permanent; therefore, the application of these criteria to a temporary structure cannot be waived.
+
+“Structural strength” refers to the ability of the temporary structure to resist anticipated live, environmental and dead loads (see Chapter 16). It also applies to anticipated live and dead loads imposed by a temporary use in an existing structure.
+
+“Fire safety” provisions are those required by Chapter 7, 8 and 9, invoked by virtue of the structure’s size, use or location on the property. “Means of egress” refers to full compliance with Chapter 10.
+
+“Accessibility” refers to full compliance with Chapter 11 for making buildings accessible to physically disabled persons, a requirement that is repeated in Section 1103.1.
+
+“Light, ventilation and sanitary” requirements are those imposed by Chapter 12 of the code or applicable sections of SBC 701 or SBC 501. If temporary structures are permitted in flood hazard areas established by Section 1612, a certain level of conformance is appropriate in order to minimize the likelihood of increasing flood heights or flood damage. Communities that participate in the NFIP must take the following measures into consideration:
+
+1 Anchoring should be required to prevent flotation and movement during conditions of the base flood.
+
+2 In A Zones, walled and roofed structures with floors below the elevation required by Section 1612 should have flood openings to minimize hydrostatic loads (see ASCE 24).
+3 Portions of structures that are below the elevation required by Section 1612 must be constructed of flood damage-resistant materials.
+
+4 If the structures have utility service or contain equipment, those elements should be elevated above the DFE.
+
+5 Placement in floodways and flood hazard areas subject to high-velocity wave action (V Zones) should be avoided.
+
+108.3 Temporary power. The building official is authorized to give permission to temporarily supply and use power in part of an electric installation before such installation has been fully completed and the final certificate of completion has been issued. The part covered by the temporary certificate shall comply with the requirements specified for temporary lighting, heat or power in NFPA 70 (or its equivalent in SBC 401).
+
+Commonly, the electrical service on most construction sites is installed and energized long before all of the wiring is completed. This procedure allows the power supply to be increased as construction demands. However, temporary permission is not intended to waive the requirements set forth in NFPA 70 (or its equivalent in SBC 401). Construction power from the permanent wiring of the building does not require the installation of temporary ground-fault circuit-interrupter (GFCI) protection or the assured equipment grounding program, because the building wiring installed as required by the code should be as safe for use during construction as it would be for use after completion of the building.
+
+108.4 Termination of approval. The building official is authorized to terminate such permit for a temporary structure or use and to order the temporary structure or use to be discontinued.
+
+This section provides the building official with the necessary authority to terminate the permit for a temporary structure or use. The building official can order that a temporary structure be removed or a temporary use be discontinued if conditions of the permit have been violated or the structure or use poses an imminent hazard to the public, in which case the provisions of Section 116 become applicable. This text is important because it allows the building official to act quickly when time is of the essence in
+
+===== Page 0058 =====
+order to protect public health, safety and welfare.
+
+## SECTION 109 FEES
+
+109.1 Payment of fees. A permit shall not be valid until the fees prescribed by law have been paid, nor shall an amendment to a permit be released until the additional fee, if any, has been paid.
+
+The code anticipates that jurisdictions will establish their own fee schedules. It is the intent that the fees collected by the department for building permit issuance, plan review and inspection be adequate to cover the costs to the department in these areas. If the department has additional duties, then its budget will need to be supplemented from the general fund. This section requires that all fees be paid prior to permit issuance or release of an amendment to a permit. Since department operations are intended to be supported by fees paid by the user of department activities, it is important that these fees are received before incurring any expense. This philosophy has resulted in some departments having fees paid prior to the performance of two areas of work: plan review and inspection.
+
+109.2 Schedule of permit fees. On buildings, structures, electrical, gas, mechanical, and plumbing systems or alterations requiring a permit, a fee for each permit shall be paid as required, in accordance with the schedule as established by the applicable governing authority.
+
+109.3 Building permit valuations. The applicant for a permit shall provide an estimated permit value at time of application. Permit valuations shall include total value of work, including materials and labor, for which the permit is being issued, such as electrical, gas, mechanical, plumbing equipment and permanent systems. If, in the opinion of the building official, the valuation is underestimated on the application, the permit shall be denied, unless the applicant can show detailed estimates to meet the approval of the building official. Final building permit valuation shall be set by the building official.
+
+As indicated in Section 109.2, jurisdictions usually base their fees on the total value of the work being performed. This section requires the applicant to provide this figure, including materials and labor, for work for which the permit is sought. If the building official believes that the value provided by the applicant is underestimated, the permit is to be denied unless the applicant can substantiate the value by providing detailed estimates of the work to the satisfaction of the building official. For the construction of new buildings, the building valuation data referred to in Section 109.2 can be used by the building official as a yardstick against which to compare the applicant's estimate.
+
+109.4 Work commencing before permit issuance. Any person who commences any work on a building, structure, electrical, gas, mechanical or plumbing system before obtaining the necessary permits shall be considered a violation and subject to a fee established by the building official that shall be in addition to the required permit fees.
+
+The building official will incur certain costs (e.g., inspection time and administrative) when investigating and citing a person who has commenced work without having obtained a permit. The building official is, therefore, entitled to recover these costs by establishing a fee, in addition to that collected when the required permit is issued, to be imposed on the responsible party. Note that this is not a penalty, as described in Section 114.4, for which the person can also be liable.
+
+109.5 Related fees. The payment of the fee for the construction, alteration, removal or demolition for work done in connection to or concurrently with the work authorized by a building permit shall not relieve the applicant or holder of the permit from the payment of other fees that are prescribed by law.
+
+The fees for a building permit may be in addition to other fees required by the jurisdiction or others for related items, such as sewer connections, water service taps, driveways and signs. It cannot be construed that the building permit fee includes these other items.
+
+109.6 Refunds. The building official is authorized to establish a refund policy. The building official shall authorize the refunding of fees as follows:
+
+1 The full amount of any fee paid hereunder which was erroneously paid or collected.
+
+2 Not more than (80% recommended) percent of the permit fee paid where work has not been done under a permit issued in accordance with this code.
+
+3 Not more than (80% recommended) percent of the plan review fee paid where an application for a permit for which a plan review fee has been paid is withdrawn or cancelled before any plan review effort has been expended.
+
+The building official shall not authorize the refunding of any fee paid, except upon written application filed by the original permittee not later than 180 days after the date of fee payment.
+
+This section allows for a refund of fees, which may be full or partial, typically resulting from the revocation, abandonment or discontinuance of a building project for which a permit has been
+
+===== Page 0059 =====
+issued and fees have been collected. The refund of fees should be related to the cost of enforcement services not provided because of the termination of the project. The building official, when authorizing a fee refund, is authorizing the disbursement of public funds; therefore, the request for a refund must be in writing and for good cause.
+
+## SECTION 110 INSPECTIONS
+
+110.1 General. Construction or work for which a permit is required shall be subject to inspection by the building official and such construction or work shall remain accessible and exposed for inspection purposes until approved. Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid. It shall be the duty of the owner or the owner's authorized agent to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor the jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.
+
+The inspection function is one of the more important aspects of building department operations. This section authorizes the building official to inspect the work for which a permit has been issued and requires that the work to be inspected remains accessible to the building official until inspected and approved. Any expense incurred in removing or replacing material that conceals an item to be inspected is not the responsibility of the building official or the jurisdiction. As with the issuance of permits (see Section 105.4), approval as a result of an inspection is not a license to violate the code and an approval in violation of the code does not relieve the applicant from complying with the code and is not valid.
+
+110.2 Preliminary inspection. Before issuing a permit, the building official is authorized to examine or cause to be examined buildings, structures and sites for which an application has been filed.
+
+The building official is granted authority to inspect the site before permit issuance. This may be necessary to verify existing conditions that impact the plan review and permit approval. This section provides the building official with the right-of-entry authority that otherwise does not occur until after the permit is issued (see Section 104.6).
+
+110.3 Required inspections. The building official, upon notification, shall make the inspections set forth in Sections 110.3.1 through 110.3.13.
+
+The building official is required to verify that the building is constructed in accordance with the approved construction documents. It is the responsibility of the permit holder to notify the building official when the item is ready for inspection. The inspections that are necessary to provide such verification are listed in the following sections, with the caveat in Section 110.3.10 that inspections in addition to those listed here may be required depending on the work involved.
+
+110.3.1 Footing and foundation inspection. Footing and foundation inspections shall be made after excavations for footings are complete and any required reinforcing steel is in place. For concrete foundations, any required formals shall be in place prior to inspection. Materials for the foundation shall be on the job, except where concrete is ready mixed in accordance with ASTM C 94, the concrete need not be on the job.
+
+It is necessary for the building official to inspect the soil upon which the footing or foundation is to be placed. This inspection also includes any reinforcing steel, concrete forms and materials to be used in the foundation, except for ready-mixed concrete that is prepared off site.
+
+110.3.2 Concrete slab and under-floor inspection. Concrete slab and under-floor inspections shall be made after in-slab or under-floor reinforcing steel and building service equipment, conduit, piping accessories and other ancillary equipment items are in place, but before any concrete is placed or floor sheathing installed, including the subfloor.
+
+The building official must be able to inspect the soil and any required under-slab drainage, waterproofing or dampproofing material, as well as reinforcing steel, conduit, piping and other service equipment embedded in or installed below a slab prior to placing the concrete. Similarly, items installed below a floor system other than concrete must be inspected before they are concealed by the floor sheathing or subfloor.
+
+## 110.3.3 Reserved for numbering
+
+110.3.4 Frame inspection. Framing inspections shall be made for each floor and vertical elements prior to the placement of subsequent floors and the pipes, chimneys and vents to be concealed are complete and the rough electrical, plumbing, heating wires, pipes and ducts are approved.
+
+This section requires that the building official be able to inspect the framing members, such as studs, joists, rafters and girders and other items, such as vents and chimneys, that will be concealed by wall construction. Rough
+
+===== Page 0060 =====
+electrical work, plumbing, heating wires, pipes and ducts must have already been approved in accordance with the applicable codes prior to this inspection.
+
+110.3.5 Types IV-A, IV-B and IV-C connection protection inspection. In buildings of Types IV-A, IV-B and IV-C construction, where connection fire-resistance ratings are provided by wood cover calculated to meet the requirements of Section 2304.10.1, inspection of the wood cover shall be made after the cover is installed, but before any other coverings or finishes are installed.
+
+☑ Inspection of tall wood buildings should take place since the connections of the structural members, and their protection to achieve a fire-resistance rating, represent a significant component to the entire design of mass timber buildings.
+
+110.3.6 Lath, gypsum board and gypsum panel product inspection. Lath, gypsum board and gypsum panel product inspections shall be made after lathing, gypsum board and gypsum panel products, interior and exterior, are in place, but before any plastering is applied or gypsum board and gypsum panel product joints and fasteners are taped and finished.
+
+Exception: Gypsum board and gypsum panel products that are not part of a fire-resistance-rated assembly or a shear assembly.
+
+In order to verify that lath, gypsum board or gypsum wallboard products are properly attached to framing members, it is necessary for the building official to be able to conduct an inspection before the plaster or joint finish material is applied. This is required only for gypsum board or gypsum panel products that are part of either a fire-resistant assembly or a shear wall. See the definitions for gypsum board and gypsum panel products.
+
+110.3.7 Weather-exposed balcony and walking surface waterproofing. Where balconies or other elevated walking surfaces have weather-exposed surfaces, and the structural framing is protected by an impervious moisture barrier, all elements of the impervious moisture barrier system shall not be concealed until inspected and approved.
+
+Exception: Where special inspections are provided in accordance with Section 1705.1.1, Item 3.
+
+☑ Section 107.2.5 specifies requirements for the construction documents associated with waterproofing of weather-exposed balcony and walking surfaces. This section allows for inspections for the moisture barrier system for those walking surfaces. The exception allows for the building official to ask for special inspections where there are additional manufacturer's instructions past those prescribed in the code.
+
+110.3.8 Fire- and smoke-resistant penetrations. Protection of joints and penetrations in fire-resistance rated assemblies, smoke barriers and smoke partitions shall not be concealed from view until inspected and approved.
+
+The building official must have an opportunity to inspect joint protection required by Section 715 and penetration protection required by Section 714 for fire-resistance-rated assemblies, smoke barriers and smoke partitions before they become concealed from view.
+
+110.3.9 Energy efficiency inspections. Inspections shall be made to determine compliance with Chapter 13 and shall include, but not be limited to, inspections for: envelope insulation R- and U-values, fenestration U-value, duct system R-value, and HVAC and water-heating equipment efficiency.
+
+Items installed in a building that are required by SBC 601 and SBC 602 to comply with certain criteria, such as insulation material, windows, HVAC and water-heating equipment, must be inspected and approved.
+
+110.3.10 Other inspections. In addition to the inspections specified in Sections 110.3.1 through 110.3.7, the building official is authorized to make or require other inspections of any construction work to ascertain compliance with the provisions of this code and other laws that are enforced by the Code Compliance Department.
+
+Any item regulated by the code is subject to inspection by the building official to determine compliance with the applicable code provision, and no list can include all items in a given building. This section, therefore, gives the building official the authority to inspect any regulated items.
+
+110.3.11 Plumbing, mechanical, gas and electrical systems inspection. Rough inspection of plumbing, mechanical, gas and electrical systems shall be made prior to covering or concealment, before fixtures or appliances are set or installed, and prior to framing inspection.
+
+Exception: Backfilling of ground-source heat pump loop systems tested in accordance with Section 2105.1 in SBC 1101/1102 prior to inspection shall be permitted.
+
+110.3.12 Special inspections. For special inspections, see Chapter 17.
+
+Special inspections are to be provided by the owner for the types of work required in Section 1704. The building official is to approve special
+
+===== Page 0061 =====
+inspectors and verify that the required special inspections have been conducted. See the commentary to Section 1704 for a complete discussion of this topic.
+
+110.3.13 Final inspection. The final inspection shall be made after all work required by the building permit is completed.
+
+Special inspections are to be provided by the owner for the types of work required in Section 1704. The building official is to approve special inspectors and verify that the required special inspections have been conducted. See the commentary to Section 1704 for a complete discussion of this topic.
+
+110.4 Inspection agencies. The building official is authorized to accept reports of approved inspection agencies, provided such agencies satisfy the requirements as to qualifications and reliability.
+
+As an alternative to the building official conducting the inspection, he or she is permitted to accept inspections of and reports by approved inspection agencies. Appropriate criteria on which to base approval of inspection agencies can be found in Section 1703.
+
+110.5 Inspection requests. It shall be the duty of the holder of the building permit or their duly authorized agent to notify the building official when work is ready for inspection. It shall be the duty of the permit holder to provide access to and means for inspections of such work that are required by this code.
+
+It is the responsibility of the permit holder or other authorized person, such as the contractor performing the work, to arrange for the required inspections when completed work is ready and to allow for sufficient time for the building official to schedule a visit to the site to prevent work from being concealed prior to being inspected. Access to the work to be inspected must be provided, including any special means such as a ladder.
+
+110.6 Approval required. Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official. The building official, upon notification, shall make the requested inspections and shall either indicate the portion of the construction that is satisfactory as completed, or notify the permit holder or his or her agent wherein the same fails to comply with this code. Any portions that do not comply shall be corrected and such portion shall not be covered or concealed until authorized by the building official.
+
+This section establishes that work cannot progress beyond the point of a required inspection without the building official's approval. Upon making the inspection, the building official must either approve the completed work or notify the permit holder or other responsible party of that which does not comply with the code. Approvals and notices of noncompliance must be in writing, as required by Section 104.4, to avoid any misunderstanding as to what is required. Any item not approved cannot be concealed until it has been corrected and approved by the building official.
+
+## SECTION 111 CERTIFICATE OF OCCUPANCY
+
+111.1 Use and occupancy. A building or structure shall not be used or occupied, and a change in the existing use or occupancy classification of a building or structure or portion thereof shall not be made, until the building official has issued a certificate of occupancy therefor as provided herein. Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.
+
+Exception: Certificates of occupancy are not required for work exempt from permits in accordance with Section 105.2
+
+This section establishes that a new building or structure cannot be occupied until a certificate of occupancy is issued by the building official, which reflects the conclusion of the work allowed by the building permit. Also, no change in occupancy or the use of an existing building is permitted without first obtaining a certificate of occupancy for the new use.
+
+The tool that the building official uses to control the uses and occupancies of various buildings and structures within the jurisdiction is the certificate of occupancy. It is unlawful to use or occupy a building or structure unless a certificate of occupancy has been issued. Its issuance does not relieve the building owner from the responsibility for correcting any code violation that may exist.
+
+The exception simply states that when work is not under the monitor of the building department, there is no need to deal with a certificate of occupancy.
+
+111.2 Certificate issued. After the building official inspects the building or structure and does not find violations of the provisions of this code or other laws that are enforced by the Code Compliance Department, the building official shall issue a certificate of occupancy that contains the following:
+
+1 The building permit number.
+
+2 The address of the structure.
+
+3 The name and address of the owner or the owner’s authorized agent.
+
+===== Page 0062 =====
+4 A description of that portion of the structure for which the certificate is issued.
+
+5 A statement that the described portion of the structure has been inspected for compliance with the requirements of this code for the occupancy and division of occupancy and the use for which the proposed occupancy is classified.
+
+6 The name of the building official.
+
+7 The edition of the code under which the permit was issued.
+
+8 The use and occupancy, in accordance with the provisions of Chapter 3.
+
+9 The type of construction as defined in Chapter 6.
+
+10 The design occupant load.
+
+11 If an automatic sprinkler system is provided, whether the sprinkler system is required.
+
+12 Any special stipulations and conditions of the building permit.
+
+The building official is required to issue a certificate of occupancy after a successful final inspection has been completed and all deficiencies and violations have been resolved. This section lists the information that must be included on the certificate. This information is useful to both the building official and the owner because it indicates the criteria under which the structure was evaluated and approved at the time the certificate was issued. This is important when applying SBC 901 or SBC 801 to existing buildings.
+
+111.3 Temporary occupancy. The building official is authorized to issue a temporary certificate of occupancy before the completion of the entire work covered by the permit, provided that such portion or portions shall be occupied safely. The building official shall set a time period during which the temporary certificate of occupancy is valid.
+
+The building official is permitted to issue a temporary certificate of occupancy for all or a portion of a building prior to the completion of all work. Such certification is to be issued only when the building or portion in question can be safely occupied prior to full completion. The certification is intended to acknowledge that some building features may not be completed even though the building is safe for occupancy, or that a portion of the building can be safely occupied while work continues in another area. This provision precludes the occupancy of a building or structure that does not contain all of the required fire protection systems and means of egress. Temporary certificates should be issued only when incidental construction remains, such as site work and interior work that is not regulated by the code and exterior decoration not necessary to the integrity of the building envelope. The building official should view the issuance of a temporary certificate of occupancy as substantial an act as the issuance of the final certificate. Indeed, the issuance of a temporary certificate of occupancy offers a greater potential for conflict because once the building or structure is occupied, it is very difficult to remove the occupants through legal means. The certificate must specify the time period for which it is valid.
+
+111.4 Revocation. The building official is authorized to, in writing, suspend or revoke a certificate of occupancy or completion issued under the provisions of this code wherever the certificate is issued in error, or on the basis of incorrect information supplied, or where it is determined that the building or structure or portion thereof is in violation of any ordinance or regulation or any of the provisions of this code.
+
+This section is needed to give the building official the authority to revoke a certificate of occupancy for the reasons indicated in the code text. The building official may also suspend the certificate of occupancy until all of the code violations are corrected.
+
+## SECTION 112 SERVICE UTILITIES
+
+112.1 Connection of service utilities. A person shall not make connections from a utility, source of energy, fuel or power to any building or system that is regulated by this code for which a permit is required, until released by the building official.
+
+This section establishes the authority of the building official to approve utility connections to a building for items such as water, sewer, electricity, gas and steam, and to require their disconnection when hazardous conditions or emergencies exist.
+
+The approval of the building official is required before a connection can be made from a utility to a building system that is regulated by the code, including those referenced in Section 101.4. This includes utilities supplying water, sewer, electricity, gas and steam services. For the protection of building occupants, including workers, such systems must have had final inspection approvals, except as allowed by Section 112.2 for temporary connections.
+
+112.2 Temporary connection. The building official shall have the authority to authorize the temporary connection of the building or system to the utility, source of energy, fuel or power.
+
+The building official is permitted to issue temporary authorization to make connections to the public utility system prior to the completion of all work. This acknowledges that, because of seasonal limitations, time
+
+===== Page 0063 =====
+constraints or the need for testing or partial operation of equipment, some building systems may be safely connected even though the building is not suitable for final occupancy. The temporary connection and utilization of connected equipment should be approved when the requesting permit holder has demonstrated to the building official's satisfaction that public health, safety and welfare will not be endangered.
+
+112.3 Authority to disconnect service utilities. The building official shall have the authority to authorize disconnection of utility service to the building, structure or system regulated by this code and the referenced codes and standards set forth in Section 101.4 in case of emergency where necessary to eliminate an immediate hazard to life or property or where such utility connection has been made without the approval required by Section 112.1 or 112.2. The building official shall notify the serving utility, and wherever possible the owner and occupant of the building, structure or service system of the decision to disconnect prior to taking such action. If not notified prior to disconnecting, the owner or occupant of the building, structure or service system shall be notified in writing, as soon as practical thereafter.
+
+☑ Disconnection of one or more of a building's utility services is the most radical method of hazard abatement available to the building official and should be reserved for cases in which all other lesser remedies have proven ineffective. Such an action must be pre-ceded by written notice to the utility and the owner and occupants of the building. Disconnection must be accomplished within the time frame established by the building official in the notice. When the hazard to the public health, safety or welfare is so imminent as to mandate immediate disconnection, the building official has the authority and even the obligation to cause disconnection without notice. In such cases, the owner or occupants must be given written notice as soon as possible.
+
+## SECTION 113 MEANS OF APPEALS
+
+113.1 General. In order to hear and decide appeals of orders, decisions or determinations made by the building official relative to the application and interpretation of this code, there shall be and is hereby created a board of appeals. The board of appeals shall be appointed by the applicable governing authority and shall hold office at its pleasure. The board shall adopt rules of procedure for conducting its business and shall render all decisions and findings in writing to the appellant with a duplicate copy to the building official.
+This section provides aggrieved parties with a material interest in the decisions of the building official a process to appeal such decisions before a board of appeals. This provides a forum, other than the court of jurisdiction, in which to review the building official's actions.
+
+While this section allows literally any person to appeal a decision of the building official, in practice, it has been interpreted to permit appeals only by those aggrieved parties with a material or definitive interest in the decision. An aggrieved party may not appeal a code requirement per se. The intent of the appeal process is not to waive or set aside a code requirement; rather, it is intended to provide a means of reviewing a building official's decision on an interpretation or application of the code, or to review the equivalency of protection to the code requirements. The members of the appeals board are appointed by the "governing body" of the jurisdiction, typically a council or administrator, such as a mayor or city manager, and remain members until removed from office. The board must establish procedures for electing a chairperson, scheduling and conducting meetings, and administration. Note that Appendix B contains complete, detailed requirements for creating an appeals board, including number of members, qualifications and administrative procedures. Jurisdictions desiring to utilize these requirements must include Appendix B in their adopting ordinance.
+
+113.2 Limitations on authority. An application for appeal shall be based on a claim that the true intent of this code or the rules legally adopted thereunder have been incorrectly interpreted, the provisions of this code do not fully apply or an equivalent or better form of construction is proposed. The board shall not have authority to waive requirements of this code or interpret the administration of this code.
+
+This section limits appeals to claims that the building official has misinterpreted or misapplied a code provision. The board is not allowed to set aside any of the technical requirements of the code. It is, however, allowed to consider alternative methods of compliance with the technical requirements (see Section 104.11).
+
+113.3 Qualifications. The board of appeals shall consist of members who are qualified by experience and training to pass on matters pertaining to building construction and are not employees of the jurisdiction.
+
+It is important that the decisions of the appeals board are based purely on the technical merits involved in an appeal. It is not the place for policy or political deliberations. The members
+
+===== Page 0064 =====
+of the appeals board are, therefore, expected to have experience in building construction matters. Appendix B provides more detailed qualifications for appeals board members and can be adopted by jurisdictions desiring that level of expertise.
+
+113.4 Administration. The building official shall take immediate action in accordance with the decision of the board.
+
+The building official is to take whatever action is necessary to see that the orders of the board are carried out.
+
+## SECTION 114 VIOLATIONS
+
+114.1 Unlawful acts. It shall be unlawful for any person, firm or corporation to erect, construct, alter, extend, repair, move, remove, demolish or occupy any building, structure or equipment regulated by this code, or cause same to be done, in conflict with or in violation of any of the provisions of this code. Violations of the code are prohibited and form the basis for all citations and correction notices.
+
+authorized to serve a notice of violation or order on the person responsible for the erection, construction, alteration, extension, repair, moving, removal, demolition or occupancy of a building or structure in violation of the provisions of this code, or in violation of a permit or certificate issued under the provisions of this code. Such order shall direct the discontinuance of the illegal action or condition and the abatement of the violation.
+
+The building official is required to notify the person responsible for the erection or use of a building found to be in violation of the code. The section that is allegedly being violated must be cited so that the responsible party can respond to the notice.
+
+114.3 Prosecution of violation. If the notice of violation is not complied with promptly, the building official is authorized to request the legal counsel of the jurisdiction to institute the appropriate proceeding at law or in equity to restrain, correct or abate such violation, or to require the removal or termination of the unlawful occupancy of the building or structure in violation of the provisions of this code or of the order or direction made pursuant thereto.
+
+The building official must pursue, through the use of legal counsel of the jurisdiction, legal means to correct the violation. This is not optional.
+
+Any extensions of time, so that the violations may be corrected voluntarily, must be for a reasonable and valid cause, otherwise the building official may be subject to criticism for "arbitrary and capricious" actions. In general, it is better to have a standard time limitation for correction of violations. Departures from this standard must be for a clear and reasonable purpose, usually stated in writing by the violator.
+
+114.4 Violation penalties. Any person who violates a provision of this code or fails to comply with any of the requirements thereof or who erects, constructs, alters or repairs a building or structure in violation of the approved construction documents or directive of the building official, or of a permit or certificate issued under the provisions of this code, shall be subject to penalties as prescribed by law.
+
+Penalties for violating provisions of the code are typically contained in state law, particularly if the code is adopted at that level, and the building department must follow those procedures. If there is no such procedure already in effect, one must be established with the aid of legal counsel.
+
+## SECTION 115 STOP WORK ORDER
+
+115.1 Authority. Where the building official finds any work regulated by this code being performed in a manner either contrary to the provisions of this code or dangerous or unsafe, the building official is authorized to issue a stop work order. The building official's designated representative shall not issue stop orders without first obtaining approval from the Municipal Building Official.
+
+Whenever the building official finds any work regulated by this code being performed in a manner that is contrary to the provisions of this code, dangerous or unsafe, the building official is authorized to issue a stop work order.
+
+This section provides for the suspension of work for which a permit was issued, pending the removal or correction of a severe violation or unsafe condition identified by the building official.
+
+Normally, correction notices, issued in accordance with Section 110.6, are used to inform the permit holder of code violations. Stop work orders are issued when enforcement can be accomplished no other way or when a dangerous condition exists.
+
+115.2 Issuance. The stop work order shall be in writing and shall be given to the owner of the property involved, the owner's authorized agent or the person performing the work. Upon issuance of a stop work order, the cited work shall immediately cease. The stop work order shall state the reason for the order and the conditions under which the cited work will be permitted to resume.
+
+Upon receipt of a violation notice from the building official, all construction activities identified in the notice must immediately cease,
+
+===== Page 0065 =====
+except as expressly permitted to correct the violation.
+
+115.3 Unlawful continuance. Any person who shall continue any work after having been served with a stop work order, except such work as that person is directed to perform to remove a violation or unsafe condition, shall be subject to penalties as prescribed by Chapter 6 of the Implementation regulations of SBC 201.
+
+This section states that the work in violation must terminate and that all other work, except that which is necessary to correct the violation or unsafe condition, must cease as well. As determined by the municipality, a penalty may be assessed for failure to comply with this section.
+
+## SECTION 116 UNSAFE STRUCTURES AND EQUIPMENT
+
+116.1 Conditions. Structures or existing equipment that are or hereafter become unsafe, insanitary or deficient because of inadequate means of egress facilities, inadequate light and ventilation, or that constitute a fire hazard, or are otherwise dangerous to human life or the public welfare, or that involve illegal or improper occupancy or inadequate maintenance, shall be deemed an unsafe condition. Unsafe structures shall be taken down and removed or made safe, as the building official deems necessary and as provided for in this section. A vacant structure that is not secured against entry shall be deemed unsafe.
+
+This section describes the responsibility of the building official to investigate reports of unsafe structures and equipment and provides criteria for such determination.
+
+Unsafe structures are defined as buildings or structures that are insanitary; are deficient in light, ventilation or adequate exit facilities; constitute a fire hazard; or are otherwise dangerous to human life.
+
+This section establishes that unsafe buildings can result from illegal or improper occupancies. For example, prima facie evidence of an unsafe structure is an unsecured (open at door or window) vacant building. All unsafe buildings must either be demolished or made safe and secure as deemed appropriate by the building official.
+
+116.2 Record. The building official shall cause a report to be filed on an unsafe condition. The report shall state the occupancy of the structure and the nature of the unsafe condition.
+
+The building official must file a report on each investigation of unsafe conditions, stating the occupancy of the structure and the nature of the unsafe condition. This report provides the basis for the notice described in Section 116.3
+
+116.3 Notice. If an unsafe condition is found, the building official shall serve on the owner, agent or person in control of the structure, a written notice that describes the condition deemed unsafe and specifies the required repairs or improvements to be made to abate the unsafe condition, or that requires the unsafe structure to be demolished within a stipulated time. Such notice shall require the person thus notified to declare immediately to the building official acceptance or rejection of the terms of the order.
+
+When a building is found to be unsafe, this information must be provided to the building owner or agent so that they have the opportunity to fix the problem or tear down the structure. The notice should include a time frame for when the items need to be addressed. After the building owner or agent receives the report (see Section 116.2), they must inform the building official how they will address the issues, or stipulate why they disagree with the findings.
+
+116.4 Method of service. Such notice shall be deemed properly served if a copy thereof is
+
+(a) delivered to the owner personally;
+(b) sent by certified or registered mail addressed to the owner at the last known address with the return receipt requested; or
+
+(c) delivered in any other manner as prescribed by law.
+
+If the certified or registered letter is returned showing that the letter was not delivered, a copy thereof shall be posted in a conspicuous place in or about the structure affected by such notice. Service of such notice in the foregoing manner upon the owner's agent or upon the person responsible for the structure shall constitute service of notice upon the owner.
+
+The notice must be delivered to the owner in person, by certified mail or in some other lawful manner, such as delivery to a specified agent of the owner. If the owner or agent cannot be located, additional procedures are established, including posting the unsafe notice on the premises in question. Such action may be considered the equivalent of personal notice. However, it may or may not be deemed by the courts as representing a "good faith" effort to notify. In addition to complying with this section, therefore, public notice through the use of newspapers and other postings in a prominent location at the government center should be used.
+
+116.5 Restoration. Where the structure or equipment determined to be unsafe by the building
+
+===== Page 0066 =====
+official is restored to a safe condition, to the extent that repairs, alterations or additions are made or a change of occupancy occurs during the restoration of the structure, such repairs, alterations, additions and change of occupancy shall comply with the requirements of Section 105.2.2 and SBC 901.
+
+This section provides that unsafe structures may be restored to a safe condition. This means that the cause of the unsafe structure notice can be abated without the structure being required to comply fully with the provisions for new construction. Any work done to eliminate the unsafe condition, as well as any change in occupancy that may occur, must comply with the code.
+
+===== Page 0067 =====
+## TABLES OF CHAPTER 1
+
+TABLE 1-A: Referenced Structural Codes
+
+<table>CodeTitleSBC 301The Saudi Code for Structural Design Loads, Seismic, and WindSBC 302The Saudi Code for ConstructionSBC 303The Saudi Code for Soils and FoundationsSBC 304The Saudi Code for Concrete StructuresSBC 305The Saudi Code for Masonry StructuresSBC 306The Saudi Code for Steel StructuresSBC 307The Saudi Code for Seismic Design of Steel StructuresSBC 308The Saudi Code for Cold-Formed Steel MembersSBC 309The Saudi Code for Cold-Formed Steel Light-FrameSBC 310The Saudi Code for Assessment, Repair, and Rehabilitation of Existing Concrete StructuresSBC 311The Saudi Code for GFRP Reinforced ConcreteSBC 312The Saudi Code for Precast ConcreteSBC 313The Saudi Technical Guide for Innovative Residential Construction Systems</table>
+
+===== Page 0068 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 Legal Aspects of Code Administration. Country Club Hills, IL: International Code Council, 2002.
+
+2 ASTM C94/C94M-13, Specification for Ready-Mixed Concrete, West Conshohocken, PA: ASTM International, 2013.
+
+3 NFPA 14-13, Standpipe and Hose Systems. Quincy, MA: National Fire Protection Association, 2013.
+
+4 NFPA 409-11, Standard for Aircraft Hangars. Quincy, MA: National Fire Protection Association, 2011.
+
+===== Page 0069 =====
+This page was intentionally left blank
+

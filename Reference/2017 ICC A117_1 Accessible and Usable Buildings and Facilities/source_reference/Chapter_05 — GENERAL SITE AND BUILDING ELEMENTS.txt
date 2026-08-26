@@ -1,0 +1,465 @@
+# CHAPTER 5
+GENERAL SITE AND BUILDING ELEMENTS
+
+## SECTION 501
+
+GENERAL
+
+501.1 Scope.
+
+General site and building elements required to be accessible by the scoping provisions adopted by the administrative authority shall comply with the applicable provisions of Chapter 5.
+
+## SECTION 502
+
+## PARKING SPACES
+
+502.1 General. INSIGHTS
+
+Car and van parking spaces in parking lots shall comply with Sections 502.2 through 502.8. Car and van parking spaces provided as part of on-street parking shall comply with Sections 502.9 and 502.10. Where an electrical vehicle charging station is provided at a parking space, it shall comply with Section 502.11.
+
+
+## 502.2 Vehicle space size. INSIGHTS
+
+Car parking spaces shall be 96 inches (2440 mm) minimum in width. Van parking spaces shall be 132 inches (3355 mm) minimum in width.
+
+Exception: Where the adjacent access aisle is 96 inches (2440 mm) minimum in width, van parking spaces shall be 96 inches (2440 mm) minimum in width.
+
+
+FIGURE 502.2(A) VEHICLE PARKING SPACE SIZE
+
+FIGURE 502.2(B) VAN PARKING SPACE SIZE EXCEPTION
+
+## 502.3 Vehicle space marking. INSIGHTS
+
+Car and van parking spaces shall be marked to define the width. Where parking spaces are marked with lines, the width measurements of parking spaces and adjacent access aisles shall be made from the centerline of the markings.
+
+Exception: Where parking spaces or access aisles are not adjacent to another parking space or access aisle, measurements shall be permitted to include the full width of the line defining the parking space or access aisle.
+
+
+## 502.4 Access aisle. INSIGHTS
+
+Car and van parking spaces shall have an adjacent access aisle complying with Section 502.4.
+
+
+FIGURE 502.4 PARKING SPACE ACCESS AISLE
+
+## 502.4.1 Location.
+
+Access aisles shall adjoin an accessible route. Two parking spaces shall be permitted to share a common access aisle. Access aisles shall not overlap with the vehicular way. Parking spaces shall be permitted to have access aisles placed on either side of the car or van parking space. Van parking spaces that are angled shall have access aisles located on the passenger side of the parking space.
+
+## 502.4.2 Width.
+
+Access aisles serving car and van parking spaces shall be 60 inches (1525 mm) minimum in width.
+
+## 502.4.3 Length.
+
+Access aisles shall extend the full length of the parking spaces they serve.
+
+## 502.4.4 Marking. INSIGHTS
+
+Access aisles shall be marked so as to discourage parking in them. Where access aisles are marked with lines, the width measurements of access aisles and adjacent parking spaces shall be made from the centerline of the markings.
+
+Exception: Where access aisles or parking spaces are not adjacent to another access aisle or parking space, measurements shall be permitted to include the full width of the line defining the access aisle or parking space.
+
+
+## 502.5 Floor surfaces. INSIGHTS
+
+Parking spaces and access aisles shall comply with Section 302 and have surface slopes not steeper than 1:48. Access aisles shall be at the same level as the parking spaces they serve.
+
+
+## 502.6 Vertical clearance. INSIGHTS
+
+A vertical clearance of 98 inches (2490 mm) minimum shall be provided at the following locations:
+
+1. Parking spaces for vans.
+
+2. The access aisles serving parking spaces for vans.
+
+3. The vehicular routes serving parking spaces for vans.
+
+
+## 502.7 Identification. INSIGHTS
+
+Where parking spaces are required to be identified by signs, the signs shall include the International Symbol of Accessibility complying with Section 703.6.3.1. Signs identifying van parking spaces shall contain the designation "van accessible." Signs shall be 60 inches (1525 mm) minimum above the floor of the parking space, measured to the bottom of the sign.
+
+
+## 502.8 Relationship to accessible routes. INSIGHTS
+
+Parking spaces and access aisles shall be designed so that cars and vans, when parked, do not obstruct the required clear width of adjacent accessible routes.
+
+
+## 502.9 On-street parking spaces. INSIGHTS
+
+On-street parallel parking spaces shall comply with Section 502.9.1. On-street perpendicular or angled parking shall comply with Section 502.9.2.
+
+
+## 502.9.1 Wide sidewalks.
+
+Where the width of the adjacent sidewalk or available right-of-way exceeds 14 feet (4265 mm), an access aisle 60 inches (1525 mm) wide minimum shall be provided at street level the full length of the parking space and shall connect to a pedestrian access route. The access aisle shall comply with Section 502.4 and shall not encroach on vehicular travel lanes.
+
+FIGURE 502.9.1 WIDE SIDEWALKS
+
+## 502.9.1.1 Alterations.
+
+In alterations where the street or sidewalk adjacent to the parking spaces is not altered, an access aisle shall not be required provided the parking spaces are located at the end of the block face.
+
+## 502.9.1.2 Narrow sidewalks.
+
+An access aisle is not required where the width of the adjacent sidewalk or the available right-of-way is less than or equal to 14 feet (4265 mm). Where an access aisle is not provided, the parking spaces shall be located at the end of the block face.
+
+FIGURE 502.9.1.2 NARROW SIDEWALKS
+
+## 502.9.2 Perpendicular or angled parking spaces.
+
+Where perpendicular or angled parking is provided, an access aisle 96 inches (2440 mm) wide minimum shall be provided at street level the full length of the parking space and shall connect to a pedestrian access route. The access aisle shall comply with Section 502.4 and shall be marked so as to discourage parking in the access aisle. Two parking spaces are permitted to share a common access aisle.
+
+FIGURE 502.9.2 PERPENDICULAR OR ANGLED PARKING SPACE
+
+## 502.10 Parking meters and parking pay stations. INSIGHTS
+
+Parking meters and parking pay stations that serve parking spaces shall comply with Section 309.
+
+
+## 502.10.1 Location.
+
+At parallel parking spaces, parking meters shall be located at the head or foot of the parking space.
+
+## 502.10.2 Displays and information.
+
+Displays and information shall be visible from a point located 40 inches (1015 mm) maximum above the center of the clear space in front of the parking meter or parking pay station.
+
+## 502.11 Electrical vehicle charging stations. INSIGHTS
+
+An electrical vehicle charging station serving a parking space shall comply with Section 502.11.
+
+
+## 502.11.1 Operable parts.
+
+Operable parts on the charging station intended for operation by the user, including card readers, shall comply with Section 309.
+
+## 502.11.2 Accessible route.
+
+An accessible route shall be provided from the access aisle adjacent to the parking space to the clear floor space complying with Section 502.11.1 adjacent to the vehicle charging station. When the vehicle is being charged, the accessible route shall not be obstructed by the cable between the car and charging station.
+
+## 502.11.3 Obstructions.
+
+Protection bollards, curbs or wheel stops shall be located so that they do not obstruct the clear floor space required by Section 502.11.1 or the accessible route required by Section 502.11.2.
+
+## SECTION 503
+PASSENGER LOADING ZONES
+
+## 503.1 General.
+
+Passenger loading zones shall comply with Section 503.
+
+## 503.2 Vehicle pull-up space size. INSIGHTS
+
+Passenger loading zones shall provide a vehicular pull-up space 96 inches (2440 mm) minimum in width and 20 feet (6095 mm) minimum in length.
+
+
+## 503.3 Access aisle. INSIGHTS
+
+Passenger loading zones shall have an adjacent access aisle complying with Section 503.3.
+
+
+FIGURE 503.3(A) PASSENGER LOADING ZONE ACCESS AISLE - NEW BUILDINGS
+
+FIGURE 503.3(B) PASSENGER LOADING ZONE ACCESS AISLE - EXISTING BUILDINGS
+
+## 503.3.1 Location.
+
+Access aisles shall adjoin an accessible route. Access aisles shall not overlap vehicular ways.
+
+## 503.3.2 Width.
+
+## 503.3.2.1 New buildings and facilities.
+
+In new buildings and facilities, aisles serving vehicle pull-up spaces shall be 67 inches (1700 mm) minimum in width.
+
+## 503.3.2.2 Existing buildings and facilities.
+
+In existing buildings and facilities, access aisles serving vehicle pull-up spaces shall be 60 inches (1525 mm) minimum in width.
+
+## 503.3.3 Length.
+
+Access aisles shall extend the full length of the vehicle pull-up spaces they serve.
+
+## 503.3.4 Marking.
+
+Access aisles shall be marked so as to discourage parking in them.
+
+## 503.4 Floor surfaces. INSIGHTS
+
+Vehicle pull-up spaces and access aisles serving them shall comply with Section 302 and shall have slopes not steeper than 1:48. Access aisles shall be at the same level as the vehicle pull-up space they serve.
+
+
+## 503.5 Vertical clearance. INSIGHTS
+
+A vertical clearance of 114 inches (2895 mm) minimum shall be provided at the following locations:
+
+1. Vehicle pull-up spaces;
+
+2. The access aisles serving vehicle pull-up spaces;
+
+3. A vehicular route from an entrance to the passenger loading zone, and;
+
+4. A vehicular route from the passenger loading zone to a vehicular exit serving vehicle pull-up spaces.
+
+
+## SECTION 504
+STAIRWAYS
+
+## 504.1 General.
+
+Accessible stairs shall comply with Section 504.
+
+## 504.2 Treads and risers.
+
+All steps on a flight of stairs shall have uniform riser height and uniform tread depth. Risers shall be 4 inches (100 mm) minimum and 7 inches (180 mm) maximum in height. Treads shall be 11 inches (280 mm) minimum in depth.
+
+FIGURE 504.2 TREADS AND RISERS FOR STAIRWAYS
+
+## 504.3 Open risers.
+
+Open risers shall not be permitted.
+
+## 504.4 Tread surface.
+
+Stair treads shall comply with Section 302 and shall have a slope not steeper than 1:48.
+
+## 504.5 Nosings. INSIGHTS
+
+Nosings shall comply with the following:
+
+1. Nosings within a stairway shall be uniform.
+
+2. If rounded, the radius of curvature at the leading edge of the tread shall be  \( \frac{1}{2} \)  inch (13 mm) maximum.
+
+3. If beveled, the bevel at the leading edge shall slope at 45 degrees to the plane of the top surface of the tread and landing and extend for a horizontal distance of  \( \frac{1}{2} \)  inch (13 mm) maximum.
+
+4. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled.
+
+5. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical.
+
+6. The permitted projection of the nosing shall be  \( 1\frac{1}{2} \)  inches (38 mm) maximum over the tread or floor below.
+
+
+FIGURE 504.5(A) STAIR NOSINGS - VERTICAL RISER - CURVE OR BEVEL AT LEADING EDGE
+
+FIGURE 504.5(B) STAIR NOSINGS - VERTICAL RISER CURVED NOSING
+
+FIGURE 504.5(C) STAIR NOSINGS - VERTICAL RISER BEVELED NOSING
+
+## FIGURE 504.5(D) STAIR NOSINGS - VERTICAL RISER ANGLED RISER
+
+## 504.6 Visual contrast. INSIGHTS
+
+Visual contrast shall comply with either 1 or 2:
+
+1. The leading 1 to 2 inches (25 to 51 mm) of every tread and landing, measured horizontally from the leading edge of the nosing, shall consist of a solid color having visual contrast of dark-on-light or light-on-dark from the remainder of the tread. The contrasting marking shall be durable and shall extend from one side of each tread to the other side of each tread.
+2. Durable distinctive warning markings required by the adopted building code or ANSI safety standard.
+
+
+## 504.7 Handrails.
+
+Stairs shall have handrails complying with Section 505.
+
+## 504.8 Wet conditions.
+
+Stair treads and landings subject to wet conditions shall be designed to prevent the accumulation of water.
+
+## 504.9 Lighting.
+
+Lighting for interior stairways shall comply with Section 504.9.
+
+## 504.9.1 Illumination level. INSIGHTS
+
+Lighting facilities shall be capable of providing illuminance of stairs measured at the center of tread surfaces and on landing surfaces within 24 inches (610 mm) of step nosings as follows:
+
+1. A 1-foot-candle (10.8 lux) minimum illumination at times other than conditions of stair use
+
+2. A 10-foot-candle (108 lux) minimum illumination during conditions of stair use
+
+3. The transition from 1 foot candle (10.8 lux) to 10 foot candle (108 lux) under conditions of stair use shall be permitted to be achieved by automatic, motion sensor-type lighting switches provided the switch controllers comply with all of the following:
+
+3.1 The switch controllers are equipped for fail-safe operation and evaluated for this purpose
+
+3.2 The motion sensor is activated by occupant movement on the stair or stair landings
+
+3.3 The illumination timers are set for a minimum 15-minute duration.
+
+
+## 504.9.2 Lighting controls.
+
+If provided, occupancy-sensing automatic controls shall activate the stairway lighting so the illuminance level required by Section 504.9.1 is provided on the entrance landing, each stair flight adjacent to the entrance landing, and on the landings above and below the entrance landing prior to any step being used.
+
+## 504.10 Tactile signage within the stairway enclosure. INSIGHTS
+
+Stair level identification signs in raised characters and braille complying with Sections 703.3 and 703.4 shall be located at each floor level landing in all enclosed stairways adjacent to the door leading from the stairwell into the corridor to identify the floor level. The exit door discharging to the outside or to the level of exit discharge shall have a sign with raised characters and braille stating "EXIT."
+
+
+## 504.11 Tactile signage at exits. INSIGHTS
+
+A sign stating EXIT in raised characters and Braille and complying with Sections 703.3 and 703.4 shall be provided adjacent to each door to an area of refuge providing direct access to a stairway, an exterior area for assisted rescue, an exit stairway, an exit ramp, an exit passageway and the exit discharge.
+
+
+## SECTION 505
+
+## HANDRAILS
+
+## 505.1 General. INSIGHTS
+
+Handrails required by Section 405.8 for ramps, Section 504.6 for stairs, Section 1009.3.3 for pool sloped entries and Section 1009.6.2 for pool stairs shall comply with Section 505.
+
+
+## 505.2 Location. INSIGHTS
+
+Handrails shall be provided on both sides of stairs and ramps.
+
+Exceptions:
+
+1. In assembly seating areas, handrails shall not be required on both sides along aisle stairs, provided with a handrail either at the side or within the aisle.
+
+2. In assembly seating areas, handrails shall not be required on the sides of ramped aisles serving seats.
+
+
+## 505.3 Continuity. INSIGHTS
+
+Handrails shall be continuous within the full length of each stair flight or ramp run. Inside handrails on switchback or dogleg stairs or ramps shall be continuous between flights or runs. Other handrails shall comply with Sections 505.10 and 307.
+
+Exception: Handrails shall not be required to be continuous in aisles serving seating where handrails are discontinuous to provide access to seating and to permit crossovers within the aisles.
+
+
+## 505.4 Height. INSIGHTS
+
+Top of gripping surfaces of handrails shall be 34 inches (865 mm) minimum and 38 inches (965 mm) maximum vertically above stair nosings, ramp surfaces and walking surfaces. Handrails shall be at a consistent height above stair nosings, ramp surfaces and walking surfaces.
+
+
+FIGURE 505.4(A) HANDRAIL HEIGHT - STAIRS
+
+FIGURE 505.4(B) HANDRAIL HEIGHT - RAMPS
+
+505.5 Clearance. INSIGHTS
+
+Clearance between handrail gripping surface and adjacent surfaces shall be  \( 1^{1}/_{2} \)  inches (38 mm) minimum.
+
+
+FIGURE 505.5 HANDRAIL CLEARANCE
+
+505.6 Gripping surface. INSIGHTS
+
+Gripping surfaces shall be continuous, without interruption by newel posts, other construction elements, or obstructions.
+
+## Exceptions:
+
+1. Handrail brackets or balusters attached to the bottom surface of the handrail shall not be considered obstructions, provided the brackets or balusters comply with the following criteria:
+
+1.1. Not more than 20 percent of the handrail length is obstructed,
+
+1.2. Horizontal projections beyond the sides of the handrail occur  \( 1^{1}/_{2} \)  inches (38 mm) minimum below the bottom of the handrail, and provided that for each  \( ^{1}/_{2} \)  inch (13 mm) of additional handrail perimeter dimension above 4 inches (100 mm), the vertical clearance dimension of  \( 1^{1}/_{2} \)  inch (38 mm) shall be permitted to be reduced by  \( ^{1}/_{8} \)  inch (3.2 mm), and
+
+1.3. Edges shall be rounded.
+
+2. Where handrails are provided along walking surfaces with slopes not steeper than 1:20, the bottoms of handrail gripping surfaces shall be permitted to be obstructed along their entire length where they are integral to crash rails or bumper guards.
+
+
+505.7 Cross section. INSIGHTS
+
+Handrails shall have a cross section complying with Section 505.7.1 or 505.7.2.
+
+
+FIGURE 505.7(A) HANDRAIL CROSS SECTION - CIRCULAR
+
+FIGURE 505.7(B) HANDRAIL CROSS SECTION - NONCIRCULAR
+
+## FIGURE 505.7(C) HANDRAIL CROSS SECTION - NONCIRCULAR
+
+## 505.7.1 Circular cross section.
+
+Handrails with a circular cross section shall have an outside diameter of  \( 1^{1}/_{4} \)  inches (32 mm) minimum and 2 inches (51 mm) maximum.
+
+## 505.7.2 Noncircular cross sections.
+
+Handrails with a noncircular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and  \( 6^{1}/_{4} \)  inches (160 mm) maximum, and a cross-section dimension of  \( 2^{1}/_{4} \)  inches (57 mm) maximum.
+
+## 505.8 Surfaces. INSIGHTS
+
+Handrails, and any wall or other surfaces adjacent to them, shall be free of any sharp or abrasive elements. Edges shall be rounded.
+
+
+## 505.9 Fittings. INSIGHTS
+
+Handrails shall not rotate within their fittings.
+
+
+## 505.10 Handrail extensions. INSIGHTS
+
+Handrails shall extend beyond and in the same direction of stair flights and ramp runs in accordance with Section 505.10.
+
+## Exceptions:
+
+1. Continuous handrails at the inside turn of stairs and ramps.
+
+2. Handrail extensions shall not be required in aisles serving seating where the handrails are discontinuous to provide access to seating and to permit cross-overs within the aisle.
+
+3. In alterations, full extensions of handrails shall not be required where such extensions would be hazardous due to plan configuration.
+
+
+## 505.10.1 Top and bottom extension at ramps.
+
+Ramp handrails shall extend horizontally above the landing 12 inches (305 mm) minimum beyond the top and bottom of ramp runs. Extensions shall return to a wall, guard, or floor, or shall be continuous to the handrail of an adjacent ramp run.
+
+## FIGURE 505.10.1 TOP AND BOTTOM HANDRAIL EXTENSION AT RAMPS
+
+## 505.10.2 Top extension at stairs.
+
+At the top of a stair flight, handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beginning directly above the landing nosing. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
+
+## FIGURE 505.10.2 TOP HANDRAIL EXTENSION AT STAIRS
+
+## 505.10.3 Bottom extension at stairs.
+
+At the bottom of a stair flight, handrails shall extend at the slope of the stair flight for a horizontal distance equal to one tread depth beyond the bottom tread nosing. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
+
+FIGURE 505.10.3 BOTTOM HANDRAIL EXTENSION AT STAIRS
+
+## SECTION 506
+
+WINDOWS INSIGHTS
+
+
+## 506.1 General.
+
+Where operable windows are provided in an accessible room or space, at least one shall comply with Section 506. Where operable windows are required to provide natural ventilation or operable windows are required to provide an emergency escape and rescue opening, that window shall be the operable window that complies with Section 506.
+
+## Exceptions:
+
+1. Operable windows that are operated only by employees shall not be required to comply with this section.
+
+2. Operable windows in Type A units that comply with Section 1103.13.
+
+3. Operable skylights shall not be required to comply with this section.
+
+## 506.2 Operating force.
+
+The operating force for windows includes forces for opening, closing, locking or latching, and unlocking or unlatching and shall be determined in accordance with AAMA 513 listed in Section 106.2.11. Operable parts for locking or latching and unlocking or unlatching shall comply with Section 309. The operating force for opening and closing operable windows shall be as follows:
+
+1. 8.5 pounds (37.7 N) maximum for vertical or horizontal sliding windows.
+
+2. 5 pounds (22.2N) maximum for all other types of operating windows.
+
+## SECTION 507
+
+## ACCESSIBLE ROUTES THROUGH PARKING INSIGHTS
+
+
+## 507.1 General.
+
+Where accessible routes pass through parking facilities, they shall be physically separated from vehicular traffic.
+
+## Exceptions:
+
+1. Accessible routes crossing drive aisles shall not be required to comply with this section.
+
+2. Accessible routes only from parking spaces complying with Section 502 and passenger loading zones complying with Section 503 to accessible entrances shall not be required to comply with this section.
+

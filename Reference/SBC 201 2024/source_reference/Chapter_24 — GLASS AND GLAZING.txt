@@ -1,0 +1,837 @@
+===== Page 1759 =====
+# CHAPTER 24—GLASS AND GLAZING
+
+## General Comments
+
+Chapter 24 includes design provisions and quality requirements for glazing consisting of glass and, to a limited extent, light-transmitting plastics.
+
+Section 2401 contains the general contents and scope of this chapter.
+
+Section 2402 states the requirements for replacement of glazing.
+
+Section 2403 establishes the identification requirements for safety and non-safety glazing, glass support and framing systems, glass thicknesses and requirements for glass at interior locations. This section also addresses special provisions for louvered and jalousie windows.
+
+Section 2404 provides the design requirements and limitations for vertical glass exposed to wind loads, and sloped glass exposed to wind and dead loads. Design factors for the more common types of glass are included in the design tables.
+
+Section 2405 defines the allowable glazing types and related requirements for sloped glazing and skylights.
+
+Section 2406 provides a detailed listing of the applications where safety glazing is required. Test standard category classification requirements are also included in this section. Section 2407 considers glass used as either structural balustrades or in-fill panels in handrail and guard-rail systems.
+
+Section 2408 clarifies the special requirements for glass areas exposed to extraordinary impact from people. These are applicable to walls and doors in certain athletic facilities.
+
+Section 2409 covers glass in walkways, elevator cars and hoistway enclosures.
+
+As is true with other chapters in the code that deal with building materials and components, this chapter evolved from the considerations of safety, public welfare and the integrity of a building's construction. There is an ever-growing demand from building owners and architects to incorporate larger quantities of glass in buildings. This in turn increases the concerns for such things as safety and energy conservation. The glass industry is being called on to meet these demands. Model building codes are changing almost daily to stay abreast of the ever-changing technology being employed in the glass industry. Recognizing the risks should sloped glass fail, the model code groups, and the glass and glazing industry have developed changes that only allow safety glazing materials over occupiable areas. Complying materials include laminated, fully tempered and wired glasses, and acrylic and polycarbonate plastics. Except in residential occupancies, fully tempered glass is required to have a screen below the glass. In addition to the concern for overhead glazing, a need developed to codify and address glazing materials in locations that are exposed to human impact, including but not necessarily limited to: sliding patio doors; side-swinging storm and primary use doors; tub and shower enclosures; and doors and certain fixed and operable glass panels. Building officials and the glass industry joined together to develop and enact safety glazing requirements to fill this need. As a result, safety glazing laws have been adopted in many states. Based on the recommendation of the Consumer Product Safety Commission (CPSC). This chapter also addresses the design and selection of glass to withstand wind loads, dead loads and other imposed loads.
+
+The code uses the terms “glass” and “glazing” interchangeably as if there is no difference between the two. This can cause confusion when talking about “safety glazing” or “safety glass.”
+
+Glass is a hard, brittle, inorganic material that is manufactured from a mixture of silica, flux and a stabilizer to form a transparent, translucent or opaque material. While in its molten (semiliquid) form, it can be blown, drawn, rolled, pressed or cast into a variety of shapes. Most of the glass referenced in the code is in sheet form. Glass, safety or not, as well as other materials can be used as glazing. On the other hand, to “glaze” means to furnish or fit with glass, such as to install glass in an opening in a door. Glass installed in an exterior wall would be properly identified as a glazed opening, or more commonly, a window. An enclosure around a shower can be constructed of many materials, but it is considered to be a glazed enclosure if the enclosing material is glass. The code does permit the limited use of some plastics as glazing materials.
+
+To assist in evaluating the requirements for glass in buildings, properties of the various types are listed here:
+
+Annealed glass has been subjected to the annealing process, which consists of controlled cooling in a cooling or annealing oven. Types
+
+===== Page 1760 =====
+of annealed glass include float, plate and sheet.
+
+Float glass is produced by floating a continuous ribbon of molten glass on molten tin. As the glass flows downstream, the temperature of the glass and tin is reduced. When the glass ribbon solidifies, it is lifted from the tin onto rollers and slowly cooled in a controlled cooling oven or annealing lehr. There is no further treatment of the glass. Most clear, gray, bronze and green-tinted glass for architectural use is presently produced by the float process.
+
+Heat-strengthened glass is produced in much the same way as tempered glass, except the level of surface compression is less. Heat-strengthened glass has approximately twice the strength of regular annealed glass and breaks into relatively large pieces. It is not a safety glazing material.
+
+Insulating glass is a factory-assembled glazing unit consisting of two or more panes of glass separated by airspaces. The edges of the finished glazing unit, including the airspaces, are hermetically sealed. The entrapped air is removed, creating a vacuum, which is necessary to prevent condensation within the sealed airspaces. The airspaces between the glass can be filled with specialized gas to add to the energy efficiency of the glazing unit. The panes of glass may be any type, except for patterned glasses with deep patterns.
+
+Laminated glass is a sandwich of two or more plies of glass bonded together with resilient plastic interlayers, usually polyvinyl butyral. The glass plies may be regular, tempered or heat-strengthened glass. The plastic interlayer thickness is generally 0.75 mm but may range up to 2.5 mm for some applications. When this glass breaks, the fragments are held together by the plastic interlayer.
+
+Patterned glass has a texture or pattern embossed on one or both surfaces during the manufacturing process. Some glass with shallow patterns can be tempered and heat strengthened.
+
+Plate glass is produced by grinding and polishing rough glass blanks. The glass blanks are formed by drawing semi molten glass through textured rollers, which are then fed through an annealing lehr prior to grinding and polishing. It should be noted that there is limited domestic production of plate glass material.
+
+Sheet glass is manufactured by continuously drawing molten glass from a bath, horizontally or vertically over rollers, through an annealing lehr. Because of the manufacturing process, sheet glass has an inherent waviness characteristic, and is, therefore, not typically used in applications where good optical quality is desired, such as architectural glazing, reflective glazing or show windows. The most common use of sheet glass is in residential applications.
+
+Spandrel glass is manufactured from either float glass or plate glass that has an opaque coating of fired on ceramic glaze on the interior surface (or room side). This glass is typically heat strengthened or tempered to resist the thermal stresses (movement) caused by the high absorption of solar radiation by the opaque coating.
+
+Tempered or fully tempered glass is annealed glass that has been heated and quenched in a controlled operation to provide a high level of surface compression. For most types of loading conditions, it has approximately four times the strength of regular annealed glass. Tempered glass breaks into small, relatively harmless fragments, and is used as safety glazing material. After tempering, this glass cannot be cut, drilled or otherwise altered without breaking.
+
+Wired glass is a monolithic glass with wire mesh embedded in approximately the center of the glass thickness. Coupled with a suitable framing system, some wire glass is fire resistant. The surface of wire glass may be smooth or textured. Wired glass cannot be tempered, or heat strengthened.
+
+## Purpose
+
+The primary purpose of this chapter is to provide information to establish the adequacy of glazing from the standpoint of life safety and performance. The sections on glass in handrails and guards, glazing in athletic facilities and safety glazing dictate a performance standard that will minimize risks to a level consistent with other provisions of the code.
+
+## SECTION 2401 GENERAL
+
+2401.1 Scope. The provisions of this chapter shall govern the materials, design, construction and quality of glass, light-transmitting ceramic and light-transmitting plastic panels for exterior and interior use in both vertical and sloped applications in buildings and structures. Light-transmitting plastic glazing shall also meet the applicable requirements of Chapter 26.
+
+This chapter establishes regulations for glass and glazing used in buildings and structures that, when installed, are subjected to wind and dead loads. Engineering and design requirements in the form of tables, formulas and design loads are contained in this chapter. Additional structural requirements are found in Chapter 16.
+
+A second concern of this chapter is glass and glazing used in locations where it is likely to be
+
+===== Page 1761 =====
+impacted by building occupants. Requirements for identification of safety glass, human impact loads, identification of hazardous locations and the types of glass that are allowed in railings and walls are included in this chapter.
+
+This chapter details certain prescriptive and performance requirements for glazing used in buildings, including thickness limitations, design of glass supports and allowable sizes based on wind and dead loads. The limitations on glass used in sloped glazing and areas exposed to human impact are also included. For additional information on plastic materials, referenced standards and other code requirements for plastics, refer to Chapter 26.
+
+## SECTION 2402 GLAZING
+REPLACEMENT
+
+2402.1 General. The installation of replacement glass shall be as required for new installations.
+
+Any glazing installed in existing construction is required to meet all the requirements and standards of the code. This includes installing new glass in an existing window, door or other type of opening, even where the glass being replaced did not comply with the standards of the code.
+
+Relocating any type of manufactured unit containing glass, such as a door or window, from one location in an existing building or structure to another location in the same building or structure, or even a different building or structure, is to be considered new glazing, even though the unit containing the glass is existing.
+
+## SECTION 2403 GENERAL
+
+## REQUIREMENTS FOR GLASS
+
+2403.1 Identification. Each pane shall bear the manufacturer's mark designating the type and thickness of the glass or glazing material. The identification shall not be omitted unless approved and an affidavit is furnished by the glazing contractor certifying that each light is glazed in accordance with approved construction documents that comply with the provisions of this chapter. Safety glazing shall be identified in accordance with Section 2406.3.
+
+Each pane of tempered glass, except tempered spandrel glass, shall be permanently identified by the manufacturer. The identification mark shall be acid etched, sand blasted, ceramic fired, laser etched, embossed or of a type that, once applied, cannot be removed without being destroyed.
+
+Tempered spandrel glass shall be provided with a removable paper marking by the manufacturer.
+
+Basic marking for identifying type and thickness of glass, as well as requirements and precautionary statements regarding the glass support system, is prescribed in this section. Detailed performance requirements are addressed in other sections.
+
+Glass is a product that is manufactured and fabricated as assemblies at locations other than the building site. Identification of glass and glazing with a mark bearing the type and thickness is needed by the building inspector to perform a visual inspection (see Commentary Figure 2403.1). The inspection is needed to verify that the glazing is installed in the proper location in the building in compliance with this chapter for hazardous locations and structural loads. Other than verifying compliance with wind load requirements for glazing exposed to such loading, the glass thickness itself is not necessarily an indication of code compliance. For example, where a specific performance is required, such as for safety glazing in Section 2406, the manufacturer's mark must identify the standard to which the glass has been tested (see Section 2406.3), which is sufficient to determine compliance with the standard. Note that CPS 16 CFR, Part 1201, does not require the glass thickness to be part of the marking while in accordance with ANSI Z97.1 the glass thickness is an optional marking. The code requires that each light, which is an individual pane of glass, be marked. Only tempered glass is required by the code to be permanently identified. The identification is to be visible after installation. Tempered glass, both heat strengthened and fully tempered, is produced by reheating and rapidly cooling annealed glass. Heat-strengthened glass and fully tempered glass have increased mechanical strength and resistance to thermal stresses. Fully tempered glass is twice as strong as heat-strengthened glass. Fully tempered glass will pulverize into numerous small, cube-like fragments when broken at any point. Heat-strengthened glass breaks similarly to annealed glass. Heat-strengthened and fully tempered glass cannot be altered after fabrication. Tempered glass cannot be cut, drilled, ground or polished without fracture. The manufacturer of tempered glass must furnish the exact size and shape. Laminated, annealed, float and spandrel glass, unlike tempered glass, can be cut and fabricated without fracturing. Laminated glass is stockpiled in standard-size sheets by its manufacturers. It consists of two or more sheets of glass held together by an intervening layer of plastic material. The stock sheets are marked by the manufacturer in one corner, which is cut off in the fabrication process. A permanent mark is therefore impractical, so the building official has to rely on an affidavit from the installer of the glazing. Permanent identification of spandrel glass is not required.
+
+===== Page 1762 =====
+by the code, since a permanent label may alter the performance of the glass and cause breakage. Spandrel glass is an opaque glass that is heat strengthened through the process of fire fusing an opaque ceramic color to the interior surface of the glass. Spandrel glass is used as exterior windows and curtain walls to conceal internal construction and to provide solar control and energy conservation. An exposed permanent mark on tinted and reflective spandrel glass could change the coefficient of expansion of the glass. The label reacts differently to the heating and cooling effects of the atmosphere than the coated glass surface, which can cause increased incidence of glass breakage. The code, therefore, permits a removable paper mark for identification of spandrel glass. The glazing contractor is responsible for the final installation of glass and glazing in the building and, with the approval of the building official, may provide an affidavit as an alternative to marking. The affidavit must certify that each light is glazed under the approved plans and specifications. The affidavit relieves the building inspector of the responsibility for inspecting the glass and glazing for type and thickness; however, it does not relieve the plans examiner from the responsibility of reviewing the plans and specifications for compliance with the code. An affidavit may not be submitted for tempered glass that must be permanently identified in compliance with the requirements of this section.
+
+2403.2 Glass supports. Where one or more sides of any pane of glass are not firmly supported, or are subjected to unusual load conditions, detailed construction documents, detailed shop drawings and analysis or test data ensuring safe performance for the specific installation shall be prepared by a registered design professional.
+
+Most glass in buildings is firmly supported on all four edges. With many contemporary designs, glass is installed with support at the top and bottom edges only and, in some cases, with support on three edges. The free edges usually abut adjacent glass panels. When one or more edges of the glass are unsupported, the resistance to wind load is reduced. In this case, or in other cases where glass is subjected to unusual loading conditions, the code requires special engineering analysis and detailed construction documents to demonstrate compliance.
+
+2403.3 Glass Framing. To be considered firmly supported, the framing members for each individual pane of glass shall be designed so that the deflection of the edge of the glass perpendicular to the glass pane does not exceed 1/175 of the glass edge length where the glass edge length is not more than 4050 mm, or 1/240 of the glass edge length + 6.25 mm where the glass edge length is greater than 4050 mm, when subjected to the larger of the positive or negative load where loads are combined as specified in Section 1605.
+
+Framing for glazing systems includes but is not necessarily limited to: aluminum storefront framing; hollow metal framing; job-fabricated custom wood framing; and factory-manufactured window units constructed of wood, metal, vinyl or a combination of these materials, most of which are industry standards recognized by the code. Regardless of the framing system, it is necessary to comply with the structural requirements of Chapter 16.
+
+It is important to note that “all edges” of each piece of glass must be supported within the parameters described in this section and elsewhere in the code. If not, detailed engineering analysis must be done as indicated in Section 2403.2.
+
+2403.4 Interior glazed areas. Where interior glazing is installed adjacent to a walking surface, the differential deflection of two adjacent unsupported edges shall be not greater than the thickness of the panels when a force of 730 N/m is applied horizontally to one panel at any point up to 1.0 m above the walking surface.
+
+This provision addresses the installation of glass panels in interior locations adjacent to walking surfaces, such as storefronts within covered mall buildings. Unlike exterior locations, interior installations do not require the placement of millions between adjacent panels to provide weather resistance. Without intermediate millions, individual glass panels are free to move independently of each other. When only one panel is subjected to horizontal pressure, the deflection of the panel may cause gaps between adjacent panels. These gaps pose a potential pinching hazard to anyone who may contact the glass panels and cause the differential deflection. This hazard is greater when the glass panels are not mounted in the same plane and the meeting edges form an angle.
+
+The design criteria provided in this section limit the use of glass panels to those that will not deflect more than the thickness of the glass panel itself when the specified force is applied at a height up to 1 m above the walking surface. This limitation protects against the occurrence of gaps between adjacent panels that would otherwise create a pinching hazard. The 1 m dimension represents the height range in which a person's body will likely contact the glass. The load must be assumed to occur at the point anywhere within the 1.0 m range that will cause
+
+===== Page 1763 =====
+the greatest differential deflection between the glass panels.
+
+2403.5 Louvered windows or jalousies. Float wired and patterned glass in louvered windows and jalousies shall be no thinner than nominal 5 mm and no longer than 1.2 m. Exposed glass edges shall be smooth.
+
+Wired glass with wire exposed on longitudinal edges shall not be used in louvered windows or jalousies.
+
+Where other glass types are used, the design shall be submitted to the building official for approval.
+
+Louvered and jalousie windows consist of a series of overlapping horizontal glass louvers that pivot simultaneously in the window frame. During opening, the bottom edge of each louver swings toward the exterior and the top edge swings toward the interior. The glass panels are supported on two vertical sides with the horizontal edges of the glass exposed.
+
+For safety reasons, the exposed edges of the louvered panels are required to be smooth. Thus, wire glass panels, if used, must have no exposed projecting wire. To provide structural strength, the panels are limited to a minimum thickness of 5 mm and a maximum length of 1.2 m.
+
+Louvered and jalousie windows are exempt from safety glazing requirements in all applications, including those where a flat pane of glass is otherwise required to be safety glass. This exemption is based on records that show the injuries associated with this use of glass are primarily from persons impacting the glass edge with no cutting or piercing injuries resulting from glass breakage. Safety glass would not have an effect on this type of injury. There are also practical production reasons associated with fabricating safety glazing for the relatively long, thin slats.
+
+## SECTION 2404 WIND, SEISMIC AND DEAD LOADS ON GLASS
+
+2404.1 Vertical glass. Glass sloped 15 degrees or less from vertical in windows, curtain and window walls, doors and other exterior applications shall be designed to resist the wind loads due to basic design wind speed, V, in Section 1609 for components and cladding. Glass in glazed curtain walls, glazed storefronts and glazed partitions shall meet the seismic requirements of SBC 301, Section 13.5.9. The load resistance of glass under uniform load shall be determined in accordance with ASTM E1300.
+
+The design of vertical glazing shall be based on Equation 24-1.
+
+ \[ 0.6F_{gw}\leq F_{ga} \quad (24-1) \]
+
+Where:
+
+ \( F_{gw} \)  is the wind load on the glass due to basic design wind speed, V, computed in accordance with Section 1609.
+
+ \( F_{ga} \)  Short duration load on the glass as determined in accordance with ASTM E1300.
+
+The procedures for determining compliance of the more common types of glass used in vertical applications are stated in this section. For a given glass type, thickness, plate length and plate width, allowable loads are determined in accordance with ASTM E1300 using non-factored loads and established factors that are based on glass type. ASTM E1300 also considers the influence of width-to-height ratios, effects of weathering and exposure, and statistical influence of glass size. The standard contains more than 40 non-factored charts covering one-, two-, three- and four-sided support conditions. The application of ASTM E1300 results in an allowable uniform wind load for a specified glass type, thickness and size. The allowable wind load must equal or exceed the required wind loads determined from Section 1609 for components and cladding. If the allowable wind load is less than the required wind load from Section 1609, thicker glass must be provided.
+
+In buildings having an elevated seismic risk, glazed partitions, glazed storefronts and glazed curtain walls must be capable of withstanding the relative seismic displacements between the points of attachment to the supporting structure(s). The objective of the referenced SBC 301 earthquake load provision is to limit the hazard of falling glass during and immediately after an earthquake.
+
+2404.2 Sloped glass. Glass sloped more than 15 degrees from vertical in skylights, sunrooms, sloped roofs and other exterior applications shall be designed to resist the most critical combinations of loads determined by Equations 24-2, 24-3 and 24-4.
+
+ \[ \mathrm{F}_{\mathrm{g}}=0.6\mathrm{W}_{\mathrm{o}}-\mathrm{D} \quad (24-2) \]
+
+ \[ \mathrm{F}_{\mathrm{g}}=0.6\mathrm{W}_{\mathrm{i}}+\mathrm{D} \quad (24-3) \]
+
+ \[ \mathrm{F}_{\mathrm{g}}=0.3W_{\mathrm{i}}+\mathrm{D} \quad (24-4) \]
+
+Where:
+
+ \[  Glass dead load\left(kN/m^{2}\right) \]
+
+For glass sloped 30 degrees or less from horizontal, D =
+
+ \[ \begin{aligned}For glass sloped more than 30 degrees from\\ horizontal,0.0245t_{g}\cos\theta\end{aligned} \]
+
+ \[ \mathrm{F}_{\mathrm{g}}=\quad\mathrm{T o t a l~l o a d},(\mathrm{k N}/\mathrm{m}^{2})\mathrm{o n~g l a s s}, \]
+
+ \[ \mathrm{t}_{\mathrm{g}}=\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\mathrm{t}_{\mathrm{g}}\end{array}\begin{array}{c}\mathrm{t}_{\mathrm{g}}\\\
+
+===== Page 1764 =====
+ \( W_{0}= \)  Outward wind force, (kN/m \( ^{2} \) ) due to basic design wind speed, V as calculated in Section 1609,  \( \theta= \)  Angle of slope from horizontal.
+
+Exception: The performance grade rating of unit skylights and tubular daylighting devices shall be determined in accordance with Section 2405.5. The design of sloped glazing shall be based on Equation 24-5.
+
+ \[ F_{g}\leq F_{ga} \quad (24-5) \]
+
+Where:
+
+ \( F_{g}=Total load on the glass determined by Equations 24-2, 24-3, 24-4. \)
+
+ \( F_{ga}=Short \)  duration load resistance of the glass as determined in accordance with ASTM E1300 for Equations 24-2 and 24-3; or the long duration load resistance of the glass as determined in accordance with ASTM E1300 for Equation 24-4.
+
+This section provides the procedure for determining the maximum allowable load that may be supported by a sloped glazing system. The maximum allowable load must be greater than the required design loads. The required design loads are first determined from the three load combinations listed as Equations 24-2, 24-3 and 24-4. The applicable wind loads from the components and cladding requirements of Section 1609 are used to determine the required design loads from the three load combinations.
+
+After the required design loads are determined, the maximum allowable load resistance of the specified glass is determined in accordance with ASTM E1300. See the commentary to Section 2404.1 for a discussion of ASTM E1300.
+
+If the determined maximum allowable load resistance of the glass is not greater than that required from the load combinations, an option would be to choose a greater glass thickness and determine the maximum allowable load resistance of the glass in accordance with ASTM E1300.
+
+For load combinations given by Equations 24-2 and 24-3, wind is the primary loading, and the short-term load resistance from ASTM E1300 applies. In Equation 24-4, wind becomes a "companion load" requiring use of the long duration load resistance in satisfying Equation 24-5.
+
+The exception refers to design provisions that are specific to unit skylights (i.e., single-panel, factory assembled units) and tubular daylighting devices.
+
+2404.3 Wired patterned and sandblasted glass.
+2404.3.1 Vertical wired glass. Wired glass sloped 15 degrees or less from vertical in windows, curtain and window walls, doors and other exterior applications shall be designed to resist the load loads in Section 1609 for components and cladding according to the following equation:
+
+ \[ 0.6F_{gw}<0.5F_{ge} \quad (24-6) \]
+
+Where:
+
+ \( F_{gw} = \frac{Wind load on the glass due to basic design}{wind speed, V, computed in accordance with Section 1609,} \)
+
+ \( F_{ge} = \frac{Non-factored load from ASTM E1300 using a thickness designation for monolithic glass that is not greater than the thickness of wired glass.} \)
+
+Wired glass is not within the scope of ASTM E1300 and the requirements for vertical wired glass are therefore specified in the code. As with other vertical glazing, the wind loading on the glass is required to be determined in accordance with Section 1609 of the code. The allowable load on vertical wired glass is based on requirements for monolithic glass, as contained in ASTM E1300, of a thickness less than or equal to that specified for the wired glass. ASTM E1300 provides the method for determining values of short-duration and long-duration load resistance for specific glazing types by taking a nonfactored load from the load chart and adjusting that value for the glass type, as well as the load duration. For wired glass, patterned glass or sandblasted glass, the nonfactored load from ASTM E1300 is utilized. The factors in the corresponding code equations adjust the nonfactored load to establish a resistance value for these glass types. Note that a factor of 0.5 is used with the nonfactored load determined in accordance with ASTM E1300.
+
+2404.3.2 Sloped wired glass. Wired glass sloped more than 15 degrees from vertical in skylights, sunspaces, sloped roofs and other exterior applications shall be designed to resist the most critical of the combinations of loads from Section 2404.2.
+
+For Equations 24-2 and 24-3:
+
+ \[ F_{g}<0.5F_{ge} \quad (24-7) \]
+
+For Equation 24-4:
+
+ \[ F_{g}<0.3F_{ge} \quad (24-8) \]
+
+Where:
+
+ \( F_{g}=Total load on the glass as determined by Equations 24-2, 24-3 and 24-4, \)
+
+ \( F_{ge}=Non-factored load in accordance with ASTM E1300. \)
+
+Wired glass is not within the scope of ASTM E1300 and the requirements for sloped wired glass are therefore specified in the code. As with other sloped glazing, the maximum allowable load must be greater than the
+
+===== Page 1765 =====
+required loads. The required design loads are first determined from the three load combinations listed as Equations 24-2, 24-3 and 24-4. The applicable wind loads from the components and cladding requirements of Section 1609 are used to determine the required design loads from the three load combinations.
+
+After the required design loads are determined, the maximum allowable load resistance of the specified glass is determined in accordance with ASTM E1300. ASTM E1300 provides the method for determining values of short-duration and long-duration load resistance for specific glazing types by taking a nonfactored load from the load chart and adjusting that value for the glass type and load duration. For wired glass, patterned glass or sandblasted glass, the nonfactored load from ASTM E1300 is utilized. The factors in the corresponding code equations adjust the nonfactored load to establish a corresponding resistance value for these glass types. Note that factors of either 0.5 or 0.3 are used with the nonfactored load determined in accordance with ASTM E1300. This equates to a factor of 2 or 3.33 on the loads determined in the corresponding load combination. The resistance for sloped wired glass, patterned glass or sandblasted glass is to be determined using the nonfactored load from ASTM E1300. The code fails to specify which type of glazing is appropriate to establish this resistance, but Section 2404.3.1 uses the values for monolithic glass; therefore, it is likely that the intent is to use the nonfactored load for monolithic glass in this section as well.
+
+2404.3.3 Vertical patterned glass. Patterned glass sloped 15 degrees or less from vertical in windows, curtain and window walls, doors and other exterior applications shall be designed to resist the wind loads in Section 1609 for components and cladding according to Equation 24-9.
+
+ \[ F_{gw}<1.0F_{ge} \quad (24-9) \]
+
+Where:
+
+ \( F_{gw} = \frac{\text{Wind load on the glass due to basic design}}{\text{wind speed, } V, \text{ computed in accordance with Section 1609,}} \)
+
+ \( F_{ge} = \frac{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non-factored load charts in ASTM E1300 shall be permitted.}}}{\text{Non-factored load in accordance with ASTM E1300. The value for patterned glass shall be based on the thinnest part of the glass. Interpolation between non
+
+===== Page 1766 =====
+Section 1609 are used to determine the required design loads from the three load combinations.
+
+The allowable load on vertical patterned glass is to be as contained in ASTM E1300 for a thickness less than or equal to the thinnest portion specified for the patterned glass. ASTM E1300 provides the method for determining values of short-duration and long-duration load resistance for specific glazing types by taking a nonfactored load from the load chart and adjusting that value for the glass type as well as the load duration. For wired glass, patterned glass or sandblasted glass, the nonfactored load from ASTM E1300 is utilized. The factors in the corresponding code equations adjust the nonfactored load to establish a corresponding resistance value for these glass types. Note that a factor of 0.5 is used with the nonfactored load determined in accordance with ASTM E1300. This equates to a factor of 2 on the wind loads determined in Section 1609. The resistance for sloped wired glass, patterned glass or sandblasted glass is to be determined using the nonfactored load from ASTM E1300. The code fails to specify which type of glazing is appropriate to establish this resistance, but Section 2404.3.1 uses the values for monolithic glass in this section as well.
+
+2404.3.5 Vertical sandblasted glass. Sandblasted glass sloped 15 degrees or less from vertical in windows, curtain and window walls, doors, and other exterior applications shall be designed to resist the wind loads in Section 1609 for components and cladding according to Equation 24-12.
+
+ \[ 0.6F_{gw}<0.5F_{ge} \quad (24-12) \]
+
+Where:
+
+ \( F_{gw} = \frac{Wind load on the glass due to basic design}{wind speed, V, computed in accordance with Section 1609} \)
+
+ \( F_{ge} = Non-factored load in accordance with ASTM E1300. \)  The value for sandblasted glass is for moderate levels of sandblasting.
+
+Sandblasted glass is not within the scope of ASTM E1300 and the requirements for vertical sandblasted glass are, therefore, specified in the code. As with other vertical glazing, the wind loading on the glass is required to be determined in accordance with Section 1609 of the code. The allowable load on vertical patterned glass is to be as contained in ASTM E1300. ASTM E1300 provides the method for determining values of short-duration and long-duration load resistance for specific glazing types by taking a nonfactored load from the load chart and adjusting that value for the glass type as well as the load duration. For wired glass, patterned glass or sandblasted glass, the nonfactored load from ASTM E1300 is utilized. The factors in the corresponding code equations adjust the nonfactored load to establish a corresponding resistance value for these glass types. Note that a factor of 0.5 is used with the nonfactored load determined in accordance with ASTM E1300. This equates to a factor of 2 on the wind loads determined in Section 1609. The resistance for sloped wired glass, patterned glass or sandblasted glass, the nonfactored load from ASTM E1300 is utilized. The factors in the corresponding code equations adjust the nonfactored load to establish a corresponding resistance value for these glass types. Note that a factor of 0.5 is used with the nonfactored load determined in accordance with ASTM E1300. This equates to a factor of 2 on the wind loads determined in Section 1609. The resistance for sloped wired glass, patterned glass or sandblasted glass is to be determined using the nonfactored load from ASTM E1300. The code fails to specify which type of glazing is appropriate to establish this resistance, but Section 2404.3.1 uses the values for monolithic glass; therefore, it is likely that the intent is to use the nonfactored load for monolithic glass in this section as well.
+
+2404.4 Other designs. For designs outside the scope of this section, an analysis or test data for the specific installation shall be prepared by a registered design professional.
+
+This section recognizes that neither the code nor the referenced standard includes all types of glass and all support conditions. Therefore, if a designer proposes an installation that falls outside the scope of the code and referenced standard, this section requires an analysis to be prepared and submitted to the building official for specific approval.
+
+## SECTION 2405 SLOPED GLAZING AND SKYLIGHTS
+
+2405.1 Scope. This section applies to the installation of glass and other transparent, translucent or opaque glazing material installed at a slope of more than 15 degrees from the vertical plane, including glazing materials in skylights, roofs and sloped walls.
+
+This section covers all applications of glazing and light-transmitting plastics installed on a slope of more than 15 degrees from vertical. The provisions for determining the combination of wind and dead loads that sloped glazing must resist are found in Section 2404. For additional information on the design of sloped glazing and skylights, refer to Glass Design for Sloped Glazing, available from the American Architectural Manufacturers Association (AAMA).
+
+“Sloped glazing” is defined as any glazing system or material installed from vertical. Where glass is installed within 15 degrees of vertical, the component of the weight (dead load) that acts normal to the plane of the glass is relatively small and does not contribute materially to the total load. From an
+
+===== Page 1767 =====
+engineering standpoint, glass within 15 degrees of vertical will perform essentially the same as glass installed vertically.
+
+Sloped glazing is not intended to specifically exclude any type of glass or glazing system from the requirements of Chapter 24. Opaque glass such as spandrel glass; transparent and translucent glass; opaque and light-transmitting plastics; decorative glass and glazing; and any other glazing-type material contained in the chapter are subject to the design and structural requirements of this chapter, Chapter 16 and related chapters elsewhere in the code.
+
+2405.2 Allowable glazing materials and limitations. Sloped glazing shall be any of the following materials, subject to the listed limitations.
+
+1 For monolithic glazing systems, the glazing material of the single light or layer shall be laminated glass with a minimum 0.7 mm polyvinyl butyral (or equivalent) interlayer, wired glass, light-transmitting plastic materials meeting the requirements of Section 2607, heat-strengthened glass or fully tempered glass.
+
+2 For multiple-layer glazing systems, each light or layer shall consist of any of the glazing materials specified in Item 1.
+
+Annealed glass is permitted to be used as specified in Exceptions 2 and 3 of Section 2405.3.
+
+Laminated glass and plastic materials described in Items 1 and 2 shall not require the screening or height restrictions provided in Section 2405.3.
+
+For additional requirements for plastic skylights, see Section 2610. Glass-block construction shall conform to the requirements of Section 2110.1.
+
+All configurations of glazing and plastic are covered in this section. This includes single (monolithic) glass and plastic, insulating glass units consisting of any number of glass panes (but usually two), double walled plastic skylights and any combination of glass or plastic panels separately framed and inserted into a single opening (such as a prime window and a storm window).
+
+Laminated glass is required to have a minimum 0.7 mm plastic interlayer. Approved plastic materials are those that comply with the provisions of the code for strength, durability, sanitation and fire performance required for installation. Acrylics (e.g., Plexiglas) and polycarbonates (e.g., Lexan) are examples of plastics that are commonly found in sloped glazing installations.
+
+2405.3 Screening. Where used in monolithic glazing systems, annealed, heat-strengthened, fully tempered and wired glass shall have broken glass retention screens installed below the glazing material. The screens and their fastenings shall be: capable of supporting twice the weight of the glazing; firmly and substantially fastened to the framing members; and installed within 100 mm of the glass. The screens shall be constructed of a noncombustible material not thinner than No. 12 B&S gage with mesh not larger than 25 mm by 25 mm. In a corrosive atmosphere, structurally equivalent noncorrosive screen materials shall be used. Annealed, heat-strengthened, fully tempered and wired glass, where used in multiple-layer glazing systems as the bottom glass layer over the walking surface, shall be equipped with screening that conforms to the requirements for monolithic glazing systems.
+
+Exception: In monolithic and multiple layer sloped glazing systems, the following applies:
+
+1. Fully tempered glass installed without protective screens where glazed between intervening floors at a slope of 30 degrees or less from the vertical plane shall have the highest point of the glass 3.0 m or less above the walking surface.
+
+2. Screens are not required below any glazing material, including annealed glass, where the walking surface below the glazing material is permanently protected from the risk of falling glass or the area below the glazing material is not a walking surface.
+
+3. Any glazing material, including annealed glass, is permitted to be installed without screens in the sloped glazing systems of commercial or detached noncombustible greenhouses used exclusively for growing plants and not open to the public, provided that the height of the greenhouse at the ridge does not exceed 9.0 m above grade.
+
+4. Screens shall not be required in individual dwelling units in Groups R-2, R-3 and R-4 where fully tempered glass is used as single glazing or as both panels in an insulating glass unit, and the following conditions are met:
+
+4.1. Each pane of the glass is  \( 1.5 \, m^{2} \)  or less in area.
+
+4.2. The highest point of the glass is 3.5 m or less above any walking surface or other accessible area.
+
+4.3. The glass thickness is 5 mm or less.
+
+5. Screens shall not be required for laminated glass with a 0.4 mm polyvinyl butyral (or equivalent) interlayer used in individual dwelling units in Groups R-2, R-3 and R-4 within the following limits:
+
+===== Page 1768 =====
+5.1. Each pane of glass is 1.5 m² or less in area.
+
+5.2. The highest point of the glass is 3.5 m or less above a walking surface or other accessible area.
+
+In sloped applications, certain glass types have a tendency to fall from the opening when broken. As a result, a retaining net or screening is required in specific locations. Regular (annealed) glass may not be used in sloped glazing installations, except as defined in Section 2405.3. Heat-strengthened and fully tempered glazing are two types of glass that may fall from an opening when broken by wind. For these glasses, a retaining screen is required on the interior side of the glazing unit. This would apply to single glazing or when the glass is the inboard pane in an insulating glass unit. Other exceptions for fully tempered glass are listed in Section 2405.3.
+
+Wired glass, when used as the inboard pane in an insulating glass unit, has a tendency to crack from thermal stresses. This is due to weakening at the edges where the wire protrudes. Where fire-resistance-rated glazing material is needed, wired glass is commonly used. In this case, because of the increased likelihood of breakage, a retaining screen is also required.
+
+There are both performance and prescriptive requirements for the retaining screen. Any screen that meets the performance requirements is acceptable.
+
+Five exceptions to the requirements for a retaining screen are listed. For the purposes of this section, patterned glass that is annealed is to be considered regular (annealed) glass:
+
+1 Fully tempered glass does not require a protective screen when the glass is sloped 30 degrees or less from vertical, and the top edge is less than 3.0 m above a walking surface. The sloped walls in many commercial buildings are within these limitations. The glass has been satisfactory with no known risks. When broken, fully tempered glass will break into small, fragmented pieces, which are unlikely to cause harm upon impact [see Commentary Figure 2405.3(1)].
+
+2 In cases where the area below the glass is either permanently protected or inaccessible, falling glass does not present a risk. When these conditions are met, screens are not required below the sloped glazing [see Commentary Figure 2405.3(2)].
+
+3 Glass in greenhouses does not pose a serious risk to the general public. The failure of a sloped glazing system in a private greenhouse is not considered a high risk, as the majority of floor space is taken up by plants and the building is not occupied on a regular basis by a large number of people. Where a greenhouse is not attached to any other structure, has restricted access and meets the specified height limitation, screens are not required below the sloped glazing.
+
+4 Sloped glazing installations using fully tempered glass are not required to have screens installed below the glass when the glazing units or skylights are installed within individual dwelling units of Group R-2, R-3 and R-4 occupancies, and the glazing complies with the size, thickness and location requirements specified in Items 4.1, 4.2 and 4.3. This exception is applicable only to glazing installations that are located within a dwelling unit. It does not apply to any public or common areas. It is also not applicable to areas in buildings containing two-family and multiple-family dwellings that are common to all occupants (e.g., entry foyers, main corridors, community storage and laundry rooms).
+
+This exception is based on a survey conducted by the glass and glazing industry. The information produced from the survey indicated a 0.081-percent incidence of breakage among fully tempered sun spaces and skylights. More importantly, the survey found no incidences of injury were reported when the glazing was fully tempered glass installed within the limitations specified in the exception.
+
+This exception is permitted because of the protection afforded by the polyvinyl butyral interlayer located within the laminated glass panel. The interlayer serves to keep the broken pieces of glass in place so that little or no glass falls when broken by impact. This exception applies only to individual dwelling units within Group R-2, R-3 and R-4 occupancies when sized and located as prescribed in Items 5.1 and 5.2.
+
+2405.4 Framing. In Types I and II construction, sloped glazing and skylight frames shall be constructed of noncombustible materials. In structures where acid fumes deleterious to metal are incidental to the use of the buildings, approved pressure-treated wood or other approved noncorrosive materials are permitted to be used for sash and frames. Framing supporting sloped glazing and skylights shall be designed to resist the tributary roof loads in Chapter 16. Skylights set at an angle of less than 45 degrees from the horizontal plane shall be mounted not less than 100 mm above the plane of the roof on a curb constructed as required for the frame. Skylights shall not be installed in the plane of the roof where the roof pitch is less than 45 degrees from the horizontal.
+
+===== Page 1769 =====
+Exception: Installation of a skylight without a curb shall be permitted on roofs with a minimum slope of 14 degrees (three units vertical in 12 units horizontal) in Group R-3 occupancies. Unit skylights installed in a roof with a pitch flatter than 14 degrees shall be mounted not less than 100 mm above the plane of the roof on a curb constructed as required for the frame unless otherwise specified in the manufacturer's installation instructions.
+
+The requirement for noncombustible (metal) framing for glazing systems in Types I and II construction must be consistent with the requirements for the remainder of the structure. In cases where acidic fumes harmful to metal framing may occur, pressure-treated wood or noncorrosive material may be used.
+
+Regardless of the type of construction, when installed on surfaces having a slope of less than 45 degrees from the horizontal, all sloped glazing and skylights are required to be mounted on curbs at least 100 mm high. The raised curb will provide additional protection to the skylight from burnt or burning debris in the event of a fire. Burnt or burning pieces of wood are known technically as "brands." When air borne, they are known as "flying brands." For slopes 45 degrees and greater, the protection provided by the curbs is not necessary. In these cases, the glass may be installed flush with the surrounding roof.
+
+The exception for Group R-3 occupancies is based on field experience and general practice for one- and two-family dwellings. For the 3:12 slope typical for Group R-3 occupancies, neither flying brands nor water runoff has been a problem.
+
+2405.5 Unit skylights and tubular daylighting devices. Unit skylights and tubular daylighting devices shall be tested and labeled as complying with AAMA/WDMA/CSA 101/ I.S./A440. The label shall state the name of the manufacturer, the approved labeling agency, the product designation and the performance grade rating as specified in AAMA/WDMA/CSA 101/I.S.2/A440. Where the product manufacturer has chosen to have the performance grade of the skylight rated separately for positive and negative design pressure, then the label shall state both performance grade ratings as specified in AAMA/WDMA/CSA 101/I.S.2/A440 and the skylight shall comply with Section 2405.5.2. Where the skylight is not rated separately for positive and negative pressure, then the performance grade rating shown on the label shall be the performance grade rating determined in accordance with AAMA/WDMA/CSA 101/I.S.2/A440 for both positive and negative design pressure and the skylight shall conform to Section 2405.5.1.
+
+This section establishes design provisions for unit skylights (single-panel, factory-assembled units) and tubular daylighting devices that are consistent with those provided for sloped glazing in Section 2404.2, but permit these items to be designed separately for maximum positive and negative pressure. The most critical load on a skylight is determined by the climate in which it is installed. The opposite will be the case in warmer, coastal climates with higher design wind speeds and little.
+
+This method of rating skylights and tubular daylighting devices is addressed in the referenced standard AAMA/WDMA/CSA 101/I.S.2/A440, Specification for Windows, Doors and Unit Skylights. The separate rating system for positive and negative pressure on skylights allows the manufacturer to design and fabricate products that are best suited for the climate in which they will be used. AAMA/WDMA/CSA 101/I.S.2/A440 establishes the performance requirements for units based on the desired performance grade rating, which includes minimum requirements for resistance to air leakage, water infiltration and design load pressures. The resulting performance grade rating states the design load pressure used to rate the product, but also includes consideration of these additional performance characteristics. For units certified for only one performance grade, the rating is based on the minimum requirements met for both positive and negative design pressure. Units certified for two performance grades are rated separately for positive and negative design pressure.
+
+ \[ F_{g}\leq PG \quad (24-13) \]
+
+Where:
+
+ \( F_{g} \)  = Maximum load on the skylight determined from Equations 24-2 through 24-4 in Section 2404.2.
+
+PG = Performance grade rating of the skylight.
+
+For skylights that are not rated separately for positive and negative design pressure, this section requires that the minimum performance grade rating of the skylight must not be exceeded by any of the load combinations given in Section 2404.2.
+
+===== Page 1770 =====
+2405.5.2 Skylights rated for separate performance grades for positive and negative design pressure. The design of skylights rated for performance grade for both positive and negative design pressures shall be based on Equations 24-14 and 24-15.
+
+ \[ \begin{aligned}&F_{gi}\leq P G_{Po}\\ &\\ &F_{go}\leq P G_{Ne}\\ \end{aligned} \quad (24-14) \quad (24-15) \]
+
+Where:
+
+ \( P G_{Po} \)  = Performance grade rating of the skylight under positive design pressure,
+
+ \( P G_{Neg} \)  = Performance grade rating of the skylight under negative design pressure,
+
+ \( F_{gi} \)  and  \( F_{go} \)  are determined in accordance with the following:
+
+for
+
+ \[ 0.6W_{o}\geq D \]
+
+Where,
+ \( W_{o} \)  = Outward wind force, kN/m \( ^{2} \)  due to basic design wind speed, V as calculated in Section 1609.
+
+D = The dead weight of the glazing, kN/m \( ^{2} \)  as determined in Section 2404.2 for glass, or by the weight of the plastic, kN/m \( ^{2} \)  for plastic glazing.
+
+ \( F_{gi} \)  = Maximum load on the skylight determined from Equations 24-3 and 24-4 in Section 2404.2.
+
+ \( F_{go} \)  = Maximum load on the skylight determined from Equations 24-2 through 24-4 in section 2404.2.
+
+For  \( 0.6W_{o} \leq D \) ,
+
+Where,
+ \( W_{o} \)  = Outward wind force, kN/m \( ^{2} \)  due to basic design wind speed, V as calculated in Section 1609.
+
+D = The dead weight of the glazing, kN/m \( ^{2} \)  as determined in Section 2404.2 for glass, or by the weight of the plastic, kN/m \( ^{2} \)  for plastic glazing.
+
+ \( F_{gi} \)  = Maximum load on the skylight determined from Equations 24-2 through 24-5 in Section 2404.2.
+
+This section establishes requirements for skylights that are rated separately for positive and negative design pressure. The performance grade rating for positive design pressure is not to be exceeded by load combinations that include dead loads and wind acting toward the face of the skylight, and the performance grade rating for negative design pressure is not to be exceeded by the load combination that considers wind acting away from the face of the skylight.
+
+## SECTION 2406 SAFETY GLAZING
+
+2406.1 Human impact loads. Individual glazed areas, including glass mirrors, in hazardous locations as defined in Section 2406.4 shall comply with Sections 2406.1.1 through 2406.1.4.
+
+Exception: Mirrors and other glass panels mounted or hung on a surface that provides a continuous backing support.
+
+* With the increased use of sliding patio doors, glass tub and shower enclosures and similar applications where large pieces of glass are used, cutting and piercing injuries from contact with broken glass have become a safety concern. In recognition of a lack of code provisions controlling these risks, codes included limited requirements that regulated the use of glass. It was recognized that safety glazing materials must be required for glazed areas that would reasonably be exposed to human impact. Some questions arose as to the proper definition of these areas (Section 2406.4 identifies these "hazardous locations"). In response, Section 2406 provides comprehensive regulations for the use of safety glazing materials and installation parameters.
+
+Safety glazing requirements apply to both replacement glass and new construction. Replacement glass includes windows, doors and other assemblies containing glass that are moved, partially or intact, from one location in a building to another location in the same building, or to another building on the same site or a different site.
+
+While glass mirrors are included within the scope of glazing, mirrors with a continuous backing support are not required to be safety glazed according to the exception. This exception recognizes the potential for minimizing cutting or piercing injuries when the glass or glazing material is completely supported by a solid, continuous backing material, as is often the case for mounted mirrors or other glass panels. When glazing is fully supported with a solid backing material, it still may be susceptible to breakage by human impact; however, a person's limb or other body part would be protected because the backing material would prevent it from being in the path of falling glass.
+
+2406.1.1 Impact test. Except as provided in Sections 2406.1.2 through 2406.1.4, all glazing shall pass the impact test requirements of Section 2406.2.
+
+===== Page 1771 =====
+Sections 2406.1.2 through 2406.1.4 are essentially exceptions to the performance standards for safety glazing that are given in Section 2406.2.
+
+2406.1.2 Plastic glazing. Plastic glazing shall meet the weathering requirements of ANSI Z97.1.
+
+This section has requirements for weather testing plastic safety glazing that have been eliminated from CPSC 16 CFR, Part 1201, necessitating the use of ANSI Z97.1 for plastic glazing. Requirements for plastic glazing are in Chapter 26.
+
+2406.1.3 Glass block. Glass-block walls shall comply with Section 2110.
+
+The design and installation requirements for glassblock walls are covered in Chapter 21. Glass-block walls and panels are also not required to meet the impact test requirements; however, that does not mean there are no safety requirements placed on the installation of glass block. Structural limitations to prevent failure caused by excessive loading, size limitations of panels, location and extent of panels in fire-resistance-rated assemblies and other safety issues are defined elsewhere in the code.
+
+2406.1.4 Louvered windows and jalousies. Louvered windows and jalousies shall comply with Section 2403.5.
+
+Louvered and jalousie windows are discussed in detail in Section 2403.5. Jalousie and louvered windows are not classified as hazardous locations and are not required to be glazed with safety glass or other approved safety glazing material.
+
+2406.2 Impact test. Where required by other sections of this code, glazing shall be tested in accordance with CPSC 16 CFR Part 1201. Glazing shall comply with the test criteria for Category II, unless otherwise indicated in Table 2406.2(1).
+
+Exception: Glazing not in doors or enclosures for hot tubs, whirlpools, saunas, steam rooms, bathtubs and showers shall be permitted to be tested in accordance with ANSI Z97.1. Glazing shall comply with the test criteria for Class A, unless otherwise indicated in Table 2406.2(2).
+
+The code specifically requires the installation of safety glazing materials meeting CPSC 16 CFR, Part 1201 in storm doors, combination doors, entrance-exit doors, sliding patio doors, closet doors and shower and tub doors and enclosures (see Section 2406.4.1).
+
+The exception permits glazing complying with ANSI Z97.1 at locations where the code does not mandate compliance solely with CPSC 16 CFR, Part 1201 (see Sections 2406.4.2 through 2406.4.7). The primary difference between the CPSC 16 CFR, Part 1201 standard and the ANSI Z97.1 standard relates to their scope and function. ANSI Z97.1 is a voluntary safety performance specification and test method that does not dictate where safety glazing materials must be used, leaving that determination up to the code.
+
+Not all of the hazardous locations are indicated in Table 2406.2(1) and Table 2406.2(2). The code uses the more stringent test criteria as the default classification and the tables relax the requirement by permitting a lower classification for specific applications.
+
+The classifications in this table are according to the CPSC 16 CFR, Part 1201, regulation. Category I glass is impacted from a drop height of 450 mm and Category II is impacted from a drop height of 1.2 m. The higher drop height for Category II results in a higher impact test load, making Category II the more stringent classification.
+
+ANSI Z97.1 identifies three separate classes that are based on impact performance. Class A glazing materials are comparable to the CPSC's Category II glazing materials, passing a 1.2 m drop height test, and Class B glazing materials are comparable to the CPSC's Category I glazing materials, passing the 450 mm drop height test. ANSI Z97.1 also has a product-specific Class C impact test, which uses a 300 mm drop height test and is applicable only for fire-resistant glazing materials; however, Section 2406.2 does not recognize Class C as an acceptable product for use in locations requiring safety glazing.
+
+2406.3 Identification of safety glazing. Except as indicated in Section 2406.3.1, each pane of safety glazing installed in hazardous locations shall be identified by a manufacturer's designation specifying who applied the designation, the manufacturer or installer and the safety glazing standard with which it complies, as well as the information specified in Section 2403.1. The designation shall be acid etched, sand blasted, ceramic fired, laser etched, embossed or of a type that once applied, cannot be removed without being destroyed. A label meeting the requirements of this section shall be permitted in lieu of the manufacturer's designation.
+
+Exceptions:
+
+1. For other than tempered glass, manufacturer's designations are not required, provided that the building official approves the use of a certificate, affidavit or other evidence confirming compliance with this code.
+
+===== Page 1772 =====
+2. Tempered spandrel glass is permitted to be identified by the manufacturer with a removable paper designation.
+
+This section requires that each individual piece of safety glazing must be permanently marked with the manufacturer's or installer's designation. The designation is applied directly to the glass by the manufacturer or installer and states that the product or material complies with the specified standards or requirements as defined in Section 2406.2.
+
+Many manufacturers of safety glazing materials have their products certified by the Safety Glazing Certification Council (SGCC) to meet CPSC 16 CFR, Part 1201. This standard provides the basis for the marking of safety glazing materials.
+
+2406.3.1 Multinane assemblies. Multinane glazed assemblies having individual panes not exceeding 0.01 m² in exposed areas shall have one pane or more in the assembly marked as indicated in Section 2406.3. Other panes in the assembly shall be marked “CPSC 16 CFR Part 1201” or “ANSI Z97.1,” as appropriate.
+
+In the case of glass material, many times the glass is purchased by the fabricator/installer in large sheets from the manufacturer and cut into many pieces to fit various openings. This is particularly true with laminated or plastic glazing material. In this instance, it is impracticable to apply the designation label in such a manner that each cut piece will have a manufacturer's permanent designation. Where this occurs, the code permits multilight glazed assemblies to have only one light marked with the required information.
+
+2406.4 Hazardous locations. The locations specified in Sections 2406.4.1 through 2406.4.7 shall be considered specific hazardous locations requiring safety glazing materials.
+
+The provisions of this section apply to all occupancies and building types, except as specifically excluded in this chapter. This section identifies locations that are considered to be hazardous and require the use of safety glass for glazed openings or partitioning. Several Commentary Figure 2406.4.1, Figure 2406.4.2(1), Figure 2406.4.2(2), Figure 2406.4.2(3), Figure 2406.4.3(1), Figure 2406.4.3(2), Figure 2406.4.3(3), Figure 2406.4.5(1), and Figure 2406.4.5(2) are included to help illustrate how and where safety glazing must be used.
+
+2406.4.1 Glazing in doors. Glazing in all fixed and operable panels of swinging, sliding and bifold doors shall be considered a hazardous location.
+
+Exceptions:
+
+1. Glazed openings of a size through which a 75 mm diameter sphere is unable to pass.
+
+2. Decorative glazing.
+
+3. Glazing materials used as curved glazed panels in revolving doors.
+
+4. Commercial refrigerated cabinet glazed doors.
+
+This section makes it clear that any door containing glazing must be glazed with safety glass or other safety glazing material recognized by the code for that intended purpose. The requirement for safety glazing in not limited to egress or exit doors (see Commentary Figure 2406.4.1). Jalousie assemblies in doors, as described in Section 2403.5, are not required to have safety glazing.
+
+There are four exceptions to this section:
+
+1 Glass view panels 75 mm or less in diameter installed in doors are not likely to create a safety hazard if the glass is broken.
+
+2 Decorative glass assemblies in doors are readily visible and easily identified; therefore, they are less likely to be inadvertently impacted. As a rule, stained glass assemblies are made from small pieces of glass that would cause little or no damage if broken.
+
+3 The reason for not classifying revolving doors, which are generally made from curved glass panels, as a hazardous location is that the two primary safety concerns are either not present or pose minimal or no unsafe condition in the case of human impact.
+
+Several factors must be considered when classifying revolving doors. The first thing to be considered is that they cannot be used as part of the required means of egress. Another thing to consider is that revolving doors are not fixed glass panels that can be mistaken for a passageway or clear opening. In addition, the individual pieces of glass used to make the large door panels, by necessity, are required to be very thick. The extra thickness of glass, coupled with the added strength of the curved form and the movable panel, make it highly unlikely that injury could result from glass breakage caused by human impact.
+
+4 This exception is based on CPSC 16 CFR, Part 1201. Technically, glass in doors of refrigerator cabinets should comply with the standard when the door is open. The intent, however, was not to cover doors a person would not ordinarily use for egress. Refrigerated cabinets in food markets would be in this category and are, therefore, exempt. There are also no records of injuries from glass in this application.
+
+===== Page 1773 =====
+2406.4.2 Glazing adjacent to doors. Glazing in an individual fixed or operable panel adjacent to a door where the nearest vertical edge of the glazing is within a 600 mm arc of either vertical edge of the door in a closed position and where the bottom exposed edge of the glazing is less than 1.5 m above the walking surface shall be considered to be a hazardous location.
+
+Exceptions:
+
+1. Decorative glazing.
+
+2. Where there is an intervening wall or other permanent barrier between the door and glazing.
+
+3. Where access through the door is to a closet or storage area 900 mm or less in depth. Glazing in this application shall comply with Section 2406.4.3.
+
+4. Glazing in walls on the latch side of and perpendicular to the plane of the door in a closed position in one- and two-family dwellings or within dwelling units in Group R-2.
+
+The purpose for identifying the area adjacent to a door as a hazardous location is to provide protection in cases where a person may slip or mistake a glass panel adjacent to a door for a passageway and walk into the glass or where a person may push against the sidelight with one hand for support while opening the door with the other hand. There are reported accidents where a person's hand has slipped from the doorknob, impacting and breaking the glass adjacent to the door, thereby causing injury. This item is applicable to glass adjacent to both exterior and interior doors used for passage for all occupancies and types of buildings.
+
+It is not necessary for an entire piece of glass in a glazed wall or opening to be within the 600 mm arc to require it to be safety glass. If any portion of an individual piece of glass is within the arc, that piece of glass must be safety glass [see Commentary Figure 2406.4.2(1)].
+
+There are four exceptions that eliminate the need for safety glazing adjacent or in close proximity to glass doors. These exceptions are included because they eliminate or greatly reduce the possibility of human impact with fixed glazing:
+
+Decorative glass and decorative glass assemblies are readily visible and easily identified; therefore, they are not likely to be mistaken for an open passageway when they are adjacent to a door. As a rule, stained glass assemblies are made from small pieces of glass that would cause little or no damage if broken.
+2 An intervening wall provides a permanent barrier that prevents people from having physical contact with any glass that is beyond the intervening wall, but is still within the 600 mm arc. This barrier eliminates many of the safety issues addressed in this section. This exception may be applied to an interior or exterior wall/glazing condition [see Commentary Figure 2406.4.2(2)]. The code does not specify a minimum height requirement for the intervening wall; therefore, where the wall does not extend to the full height of the rooms or spaces where the door/wall is located, the 1.5 m requirement must be applied. If, for example, the top of the wall is 1.5 m above the floor, any individual piece of glass that extends below the top of the wall must be safety glass or the top of the wall must be extended to provide a barrier for any piece of nonsafety glazing within 1.5 m of the floor. The same must be applied to the 600 mm arc in the plan dimension. Any glazing within the arc must be safety glazing, or the wall must be extended to include glazing not protected by the wall [see Commentary Figure 2406.4.2(3)].
+
+3 This exception addresses closets and other storage areas that are not considered "walkins." The assumption is that at such locations a building occupant would not need to pass through the door opening to access the storage area, thus reducing the risk of impact with any adjacent glazing.
+
+4 Because the occupants of one- and two-family dwellings are presumed to be familiar with their environment, and walls that are perpendicular to the plane of a door are, by definition, parallel to the direction of travel of an occupant using the door, the risk of impact with glazing is considered to be low. This decreased risk is recognized by Exception 4. Since there is a chance that an opening door could push a person into the wall toward which the door opens, the exception does not apply and safety glazing would be required at that location.
+
+Individual dwelling units within Group R-2 occupancies are allowed the same exemption; however, it does not extend to the use of glazing in close proximity to doors in public-use areas.
+
+2406.4.3 Glazing in windows. Glazing in an individual fixed or operable panel that meets all of the following conditions shall be considered a hazardous location:
+
+1 The exposed area of an individual pane is greater than  \( 0.85 \, m^{2} \) .
+
+===== Page 1774 =====
+2 The bottom edge of the glazing is less than 450 mm above the floor.
+
+3 The top edge of the glazing is greater than 900 mm above the floor.
+
+4 One or more walking surface(s) are within 900 mm, measured horizontally and in a straight line, of the plane of the glazing.
+
+Exceptions:
+
+1. Decorative glazing.
+
+2. Where a horizontal rail is installed on the accessible side(s) of the glazing 850 mm to 950 mm above the walking surface. The rail shall be capable of withstanding a horizontal load of 730 N/m without contacting the glass and be not less than 40 mm in cross-sectional height.
+
+3. Outboard panels in insulating glass units or multiple glazing where the bottom exposed edge of the glass is 7.5 m or more above any grade, roof, walking surface or other horizontal or sloped (within 45 degrees of horizontal) surface adjacent to the glass exterior.
+
+The reason for including this type of glazed opening as a hazardous location is to provide protection where the glazed opening could be mistaken for a passageway or a clear opening that someone might be able to walk through, fall into or otherwise be accidentally forced into. In the case of a child, the opening would not need to be very large to provide the necessary setting to encourage an accident. A glazed opening sized and located within the four listed criteria and not protected with safety glazing presents an unsafe condition [see Commentary Figure 2406.4.3(1)].
+
+The requirements in this section are modeled after the criteria established in CPSC 16 CFR, Part 1201, which requires the use of safety glazing where all four of the listed conditions occur.
+
+In Item 1, the 0.85 m \( ^{2} \)  requirement refers to an individual piece or pane of glass. It is not intended to limit the number of panes that can be placed next to each other within a single glazed opening. It just requires that every individual piece exceeding the size specified be safety glass.
+
+Item 2 applies when the bottom edge of a glazed opening is less than 450 mm above a floor or walking surface. This type of glazed opening does not present enough of a visual barrier to provide ample warning to prevent someone from mistaking the glazed opening for a passageway or clear opening. People have a natural tendency to look forward while walking rather than looking down; therefore, a more substantial visual barrier is needed at the floor level.
+
+Where Item 2 addresses the sill height of glazed openings with no regard to how high the head of the opening may be, it assumes the opening is high enough for an adult to walk through. Item 3 addresses the head height of the glazed opening with the assumption that the sill is at the floor level. Item 3 is aimed at the same basic set of safety concerns; however, it is directing the focus at a different group of people: children. Just as adults can mistake a tall glazed opening for a passageway or clear opening, a small child can do the same for a glazed opening with a low head height. Other examples of potential accidents from impacting glass at this type of opening might include: people in wheelchairs, shopping carts, baby strollers (with or without baby inside) and children on tricycles or other small riding toys. The accident potential for this type of glazed opening is high; therefore, safety glass or other approved safety glazing material is demanded accordingly.
+
+The focus of Item 4 for requiring safety glass is no different than it has been throughout this section, which is preventing unsafe glazed openings that people can mistake for passageways or clear openings. In Items 1 through 3, it states that where a walking surface is adjacent to the wall where the glazed opening is located, human contact with the glass in the opening is inevitable. Item 4 states that if there is not a walking surface within 900 mm horizontally, in conjunction with the other requirements, the risks described throughout this section are minimal, so safety glass is not needed. It is only when walking surfaces are within 900 mm that human contact becomes a safety concern that must be addressed. The three exceptions are allowed because the concerns of this section are resolved or they do not exist. When these exceptions are met, there is no need for the use of safety glass or other approved safety glazing:
+
+Decorative glass window assemblies are readily visible and easily identified, so they are much less likely to be mistaken for an open passageway. As a rule, stained glass assemblies are made from small pieces of glass that would cause little or no damage if broken.
+
+2 The horizontal rail described in this exception will provide a visual and physical barrier, both of which will prevent someone from attempting to walk through a glazed opening [see Commentary Figure 2406.4.3(2)].
+
+3 The outboard pane of insulating glass as described in this exception is well outside the area that any person could possibly come
+
+===== Page 1775 =====
+into contact with and certainly would not be mistaken for a passageway or clear opening. It should be noted that this exception applies only to the outboard pane. The criteria for requiring the inboard pane to be safety glass would be as prescribed in this section as well as elsewhere in this chapter [see Commentary Figure 2406.4.3(3)].
+
+2406.4.4 Glazing in guards and railings. Glazing in guards and railings, including structural baluster panels and nonstructural in-fill panels, regardless of area or height above a walking surface shall be considered a hazardous location.
+
+☑ Regardless of any provision for safety glazing or exemption from requiring safety glazing contained in the code, where glass or other approved glazing material is used in guards or railings—whether structural or nonstructural and regardless of size, location, type or any other circumstances not specifically mentioned herein—it must be safety glass or other approved safety glazing material. As there are no exceptions listed, any glazing material that is not available as an approved safety glazing material is not permitted in guards or railings.
+
+2406.4.5 Glazing and wet surfaces. Glazing in walls, enclosures or fences containing or facing hot tubs, spas, whirlpools, saunas, steam rooms, bathtubs, showers and indoor or outdoor swimming pools where the bottom exposed edge of the glazing is less than 1.5 m measured vertically above any standing or walking surface shall be considered a hazardous location. This shall apply to single glazing and all panes in multiple glazing.
+
+Exception: Glazing that is more than 1.5 m, measured horizontally and in a straight line, from the water's edge of a bathtub, hot tub, spa, whirlpool or swimming pool.
+
+The reason for requiring safety glazing at walls or fencing used for enclosing swimming pools, hot tubs and spas is the high amount of activity coupled with the wet walking surface conditions that are typically present in these types of facilities or spaces. The conditions presented in this section are focused on glazing in openings as viewed from the pool or spa side of the wall, fence or enclosure. Glazed openings in pool or spa walls viewed from the side of the wall away from the pool or spa are discussed elsewhere in this section. As a point of clarification, a wall, fence or enclosure refers to any wall that encloses a pool or spa area. It can be a wall constructed specifically to enclose an outdoor pool or spa; an existing or new exterior building wall; a residential garage wall; a dressing cabana or a shed for pool equipment. It can also be an interior or exterior wall. It applies to any wall that can support a glazed opening.
+
+Glass wall partitions and glass doors that are not part of the primary building wall construction, interior or exterior, used to enclose these areas must be constructed from safety glass or other safety glazing material allowed by the code. Glazed openings in interior or exterior primary building walls located within the enclosed compartment areas identified in this section, where the bottom edge of the glass is within 1.5 m of the standing or walking surface, must be glazed with safety glass or other safety glazing material allowed by the code [see Commentary Figure 2406.4.5(1)]. Glazed openings (i.e., windows) located outside the identified enclosures are not required to be glazed with safety glass, unless required by other sections in this chapter or elsewhere in the code.
+
+When comparing the 450 mm bottom edge height threshold in Section 2406.4.3 to the 1.5 m required herein, one will find that the 450 mm height is intended to serve as a visual warning in order to avoid contact with glass, whereas the 1.5 m threshold is based on an impact consideration [see Commentary Figure 2406.4.5(2)].
+
+The exception states that any glazing that is more than 1.5 m from the edge of the pool, tub or spa is exempt from the requirements in this section. Beyond this distance, any glazing should be evaluated against the hazardous location criteria stated in other sections (for example, for windows or doors).
+
+2406.4.6 Glazing adjacent to stairways and ramps. Glazing where the bottom exposed edge of the glazing is less than 1.5 m above the plane of the adjacent walking surface of stairways, landings between flights of stairs and ramps shall be considered a hazardous location.
+
+Exceptions:
+
+1. The side of a stairway, landing or ramp that has a guard complying with the provisions of Sections 1015 and 1607.9, and the plane of the glass is greater than 450 mm from the railing.
+
+2. Glazing 900 mm or more measured horizontally from the walking surface.
+
+Stairways and ramps pose a greater risk for injury caused by falling than a flat surface. Further, when using a stairway, the injuries are potentially more severe. Unlike falling on a flat surface where the floor will, for the most part, break a person's fall, there is nothing to stop someone from continuing to fall until he or she reaches the bottom of the stairway. The increased risks inherent in stairways, as well as attempting to be consistent with other chapters
+
+===== Page 1776 =====
+in the code that mandate more restrictive requirements when addressing safety issues involving stairways and ramps, account for the more restrictive requirements for glazing adjacent to stairways or ramps.
+
+Exception 1 relieves the requirement for safety glazing because the risk of a cutting or piercing injury caused by broken glass upon human contact is effectively eliminated. Guards and railings that comply with the means of egress requirements prescribed in Chapter 10 as well as the structural requirements of Chapter 16 will effectively serve to prevent someone from impacting glazed walls or glazed openings in walls located in close vertical proximity to stairways or ramps, provided the glazing is more than 450 mm from the guards or railings. Exception 2 excludes any glazing that is at least 900 mm horizontally from any walking surface. The walking surface in question would be part of a stairway or ramp itself, including top, bottom and intermediate landings. It does not include adjacent floors or other walking surfaces.
+
+2406.4.7 Glazing adjacent to the bottom stairway landing. Glazing adjacent to the landing at the bottom of a stairway where the glazing is less than 1.5 m above the landing and within a 1.5 m horizontal arc that is less than 180 degrees from the bottom tread nosing shall be considered a hazardous location.
+
+Exception: Glazing that is protected by a guard complying with Sections 1015 and 1607.9 where the plane of the glass is greater than 450 mm from the guard.
+
+This section addresses glass that is located within 1.5 m from the bottom tread in a run of stairs and within 1.5 m vertically of the landing surface. The code does not distinguish between a bottom tread at a floor level or at an intermediate landing between floors. The last tread in a run of steps is the bottom tread. The 1.5 m dimension is from any point on the bottom tread, horizontally in any direction to the surface of any glazing within that range.
+
+The exception relieves the requirement for safety glazing because a guard minimizes the risk of a cutting or piercing injury caused by broken glass upon human contact. Guards that comply with the means of egress requirements prescribed in Chapter 10 and the structural requirements of Chapter 16 effectively prevent someone from falling or stumbling into glazed walls or glazed openings in walls located in close vertical proximity to stairways or ramps, provided the glazing is more than 450 mm from the guard.
+
+2406.5 Fire department access panels. Fire department glass access panels shall be of tempered glass. For insulating glass units, all panels shall be tempered glass.
+Because of the need to provide safety for firefighting access, this section requires that all glass be safety glazing. When fire-fighting operations include breaking through openings, all glass will obviously be broken, which will subject fire fighters to the hazards of broken glass from all panels.
+
+## SECTION 2407 GLASS IN HANDRAILS AND GUARDS
+
+2407.1 Materials. Glass used in a handrail, or a guard shall be laminated glass constructed of fully tempered or heat-strengthened glass and shall comply with Category II of CPSC 16 CFR Part 1201 or Class A of ANSI Z97.1. Glazing in a handrail or a guard shall be of an approved safety glazing material that conforms to the provisions of Section 2406.1.1. For all glazing types, the minimum nominal thickness shall be 6.5 mm.
+Exception: Single fully tempered glass complying with Category II of CPSC 16 CFR Part 1201 or Class A of ANSI Z97.1 shall be permitted to be used in handrails and guards where there is no walking surface beneath them or the walking surface is permanently protected from the risk of falling glass.
+
+This section provides requirements for glass applications in handrail and guard assemblies. Glass in handrail and guard applications is often exposed to impact from people, carried objects and other items. Early code requirements were vague regarding the appropriate types of glass for these installations.
+
+Glass used in handrail and guard applications is often exposed to live loads, dead loads, and accidental impacts. Early code requirements were vague regarding the appropriate types of glass to be used in guard installations.
+
+Glass guard in-fill panels, unlike guards with structural glass balusters addressed in Section 2407.1.2, are assemblies that use posts and rails, typically installed in a hard-setting expanding cement, to provide rigid and secure supports for nonload bearing glass in-fill panels. As the term in-fill panel is not defined in the code, Section 2407 refers to these types of assemblies as guards.
+
+Whether a glass in-fill panel supports the railing above it or not, only glass with a minimum nominal thickness of 6.4mm that meets the requirements of Category II of CPSC 16 CFR 1201 or Class A of ANSI Z97.1 may be used in these assemblies. If there is a walkway beneath, only laminated tempered or laminated heat-strengthened glass may be used. If there
+
+===== Page 1777 =====
+is no walkway, or the walkway is permanently protected from the risk of falling glass, single (monolithic) tempered glass may be used.
+
+2407.1.1 Loads. Glass handrails and guards and their support systems shall be designed to withstand the loads specified in Section 1607.9. Glass handrails and guards shall be designed using a factor of safety of four.
+
+Glass guards and handrails must meet the load requirements of Section 1607.9.
+
+Glass used in guards and handrails must be designed using a factor of safety of four. This is because nominally identical panes of glass can vary in physical condition due to a variety of factors, from manufacturing differences to differences in wear and tear during and after installation. These variations can result in differences in the maximum stresses that will result in a failure of the glass. A safety factor of four is required to ensure that glass used in guards will not break under the loads specified in Section 1607.9.
+
+All other types of materials used in a glass guard assembly (e.g., steel, aluminum, or any other type of material) must meet the minimum load requirements specified in Section 1607.9 and any other requirements specified for that type of material.
+
+2407.1.2 Guards with structural glass balusters. Guards with structural glass balusters, whether vertical posts, columns or panels, shall be installed with an attached top rail or handrail. The top rail or handrail shall be supported by not fewer than three glass balusters or shall be otherwise supported to remain in place should one glass baluster fail.
+
+Exception: An attached top rail or handrail is not required where the glass baluster panels are laminated glass with two or more glass plies of equal thickness and of the same glass type. The balusters shall be tested to remain in place as a barrier following impact or glass breakage in accordance with ASTM E2353.
+
+Unlike the glass in-fill panels described above, glass typically provides the structural support for guard assemblies using glass balusters. Guards with structural glass balusters, whether vertical posts, columns or panels, must be designed to withstand design loads applied to the handrails using the "safety factor of four" (see commentary, Section 2407.1.1).
+
+The exception allows an option where a top rail is an undesirable visual barrier. An example is the guard at the front of the spectator levels of sport arenas and theaters. The balusters must be laminated glass that is tested in accordance with ASTM E2353 to demonstrate that it will remain in place after breakage.
+
+2407.1.3 Parking garages. Glazing materials shall not be installed in handrails or guards in parking garages except for pedestrian areas not exposed to impact from vehicles.
+
+Vehicle collisions can result in impact loads that far exceed those specified in SBC 201 for glass guards. Consequently, glass may not be used in handrails or guards in parking garages unless they are in a pedestrian area that is not exposed to the possibility of vehicular impact.
+
+2407.1.4 Glazing in wind-borne debris regions. Glazing installed in exterior handrails or guards in windborne debris regions shall be laminated glass complying with Category II of CPSC 16 CFR 1201 or Class A of ANSI Z97.1. Where the top rail is supported by glass, the assembly shall be tested according to the impact requirements of Section 1609.2 and the top rail shall remain in place after impact.
+
+In windborne debris regions, to prevent glass handrails from becoming missile-like debris, this section requires the glass used in exterior handrails and guards to be laminated and comply with the Category II requirements of CPSC 16 CFR 1201 or Class A of ANSI Z97.1. Additionally, if a top rail or handrail in an exterior guard assembly is supported by glass, the guard assembly must also meet the windborne debris impact requirements that are specified in Section 1609.2 for glass used in windows and other openings in buildings.
+
+## SECTION 2408 GLAZING IN ATHLETIC FACILITIES
+
+2408.1 General. Glazing in athletic facilities and similar uses subject to impact loads, which forms whole or partial wall sections or which is used as a door or part of a door, shall comply with this section.
+
+In most applications of safety glazing materials, human impact into glass is an unexpected and infrequent occurrence. Safety glazing is required to minimize injury associated with the unintentional impact and subsequent breakage of fixed glass or glazing. Glass in walls or doors of enclosures for athletic activity can be exposed to frequent and intentional impact. For proper performance, the glass not only must break in a relatively safe manner, but must also resist breakage under normal use. A further requirement is that the glass be sufficiently rigid to provide a resilient playing surface. Therefore, safety glazing must be used in any athletic facility, as well as similar areas where the glass is subject to frequent human impact in the opinion of the building official. This
+
+===== Page 1778 =====
+section includes the performance requirements for glass in these specialized applications.
+
+2408.2 Racquetball and squash courts.
+
+The primary focus of this section is the walls and doors of racquetball, handball, squash and volleyball courts. In these applications, the glass is intentionally and frequently impacted in the normal course of its use.
+
+2408.2.1 Testing. Test methods and loads for individual glazed areas in racquetball and squash courts subject to impact loads shall conform to those of CPSC 16 CFR Part 1201 or ANSI Z97.1 with impacts being applied at a height of 1.5 m above the playing surface to an actual or simulated glass wall installation with fixtures, fittings and methods of assembly identical to those used in practice.
+
+Glass walls shall comply with the following conditions:
+
+1 A glass wall in a racquetball or squash court, or similar use subject to impact loads, shall remain intact following a test impact.
+
+2 The deflection of such walls shall be not greater than 40 mm at the point of impact for a drop height of 1.2 m.
+
+Glass doors shall comply with the following conditions:
+
+1 Glass doors shall remain intact following a test impact at the prescribed height in the center of the door.
+
+2 The relative deflection between the edge of a glass door and the adjacent wall shall not exceed the thickness of the wall plus 12.5 mm for a drop height of 1.2 m.
+
+The acceptance testing for the glass walls is similar in some respects to that included in CPSC 16 CFR, Part 1201, and ANSI Z97.1. There are some significant variations in the impact testing and end-point criteria. There are two major differences in the testing: the glass is impacted at a height of 1.5 m and the actual (or simulated) construction, complete with fixtures and attachments, is tested. The impact level of 1.5 m is the average shoulder height for an adult male as listed in handbooks for architectural design.
+
+The end-point criteria require that the glass assembly not fail upon impact and the maximum deflection not exceed 40 mm. Although the latter is not related to safety, it is included to provide a reasonable playing surface. Both are unique and are not ordinary requirements for safety glazing materials.
+
+Glass doors in the applications cited have been particularly hazardous in some designs. A player may impact and deflect the access door, while the adjacent wall remains in its original position. Occasionally, a player's fingers have become trapped between the door and the wall when the force on the door is released. This section of the code is directed at reducing this hazard.
+
+Though not stated, the intent is that the impact for the glass panels be at the midpoint of the horizontal dimension.
+
+2408.3 Gymnasiums and basketball courts. Glazing in multipurpose gymnasiums, basketball courts and similar athletic facilities subject to human impact loads shall comply with Category II of CPSC 16 CFR Part 1201 or Class A of ANSI Z97.1.
+
+Unlike racquetball and squash courts, the intentional impacting of gymnasium and basketball court enclosures is not anticipated. Nevertheless, due to the nature of their use, these facilities have a higher incidence of unintentional glazing impacts. This section requires any glazing that is subject to human impact loads in gymnasiums, basketball courts and similar athletic facilities to be CPSC 16 CFR, Part 1201, Category II, or Class A in accordance with ANSI Z97.1 [see commentary, Table 2406.2(1) and Table 2406.2(2)].
+
+## SECTION 2409 GLASS IN WALKWAYS, ELEVATOR HOISTWAYS AND ELEVATOR CARS
+
+2409.1 Glass walkways. Glass installed as a part of a floor/ceiling assembly as a walking surface and constructed with laminated glass shall comply with ASTM E2751 or with the load requirements specified in Chapter 16. Such assemblies shall comply with the fire-resistance rating and marking requirements of this code where applicable.
+
+Because ASTM E2751 addresses load-bearing glass walkways constructed of laminated glass, this section applies specifically to glass walkways constructed of laminated glass. An engineered design utilizing the applicable load requirements of Chapter 16 is necessary for glass walkways that are constructed of other types of glass, such as a walkway constructed of glass block.
+
+2409.2 Glass in elevator hoistway enclosures. Glass in elevator hoistway enclosures and hoistway doors shall be laminated glass conforming to ANSI Z97.1 or CPSC 16 CFR Part 1201.
+
+The purpose of this section is to provide requirements for glass in elevator cars and elevator hoistways comparable to those in ASME A17.1. This section provides a level of protection to building occupants from the hazards associated with broken glass as it relates to glass in elevator enclosures. This glazing is susceptible to impact from
+
+===== Page 1779 =====
+components during elevator operation or servicing.
+
+2409.2.1 Fire-resistance-rated hoistways. Glass installed in hoistways and hoistway doors where the hoistway is required to have a fire-resistance rating shall also comply with Section 716.
+
+This section provides a cross reference to the Chapter 7 requirements for a hoistway that must be fire-resistance rated.
+
+2409.2.2 Glass hoistway doors. The glass in glass hoistway doors shall be not less than 60 percent of the total visible door panel surface area as seen from the landing side.
+
+This section establishes a minimum area threshold for glass hoistway doors.
+
+2409.3 Visions panels in elevator hoistway doors. Glass in vision panels in elevator hoistway doors shall be permitted to be any transparent glazing material not less than 6 mm in thickness conforming to Class A in accordance with ANSI Z97.1 or Category II in accordance with CPSC 16 CFR Part 1201. The area of any single vision panel shall be not less than 155 cm \( ^{2} \)  and the total area of one or more vision panels in any hoistway door shall be not more than 550 cm \( ^{2} \) .
+
+This section requires CPSC 16 CFR, Part 1201, Category II safety glazing or Class A in accordance with ANSI Z97.1 in vision panels in hoistway doors in a manner that is consistent with similar hazardous locations.
+
+2409.4 Glass in elevator cars. Glass in elevator cars shall be in accordance with this section.
+
+This section establishes the permitted glazing type for glass elevator cars and sets a minimum area of glazing in glass doors of elevator cars.
+
+2409.4.1 Glass types. Glass in elevator car enclosures, glass elevator car doors and glass used for lining walls and ceilings of elevator cars shall be laminated glass conforming to Class A in accordance with ANSI Z97.1 or Category II in accordance with CPSC 16 CFR Part 1201.
+
+Exception: Tempered glass shall be permitted to be used for lining walls and ceilings of elevator cars provided:
+
+1. The glass is bonded to a non-polymeric coating, sheeting or film backing having a physical integrity to hold the fragments when the glass breaks.
+
+2. The glass is not subjected to further treatment such as sandblasting; etching; heat treatment or painting that could alter the original properties of the glass.
+
+3. The glass is tested to the acceptance criteria for laminated glass as specified for Class A in accordance with ANSI Z97.1 or Category II in accordance with CPSC 16 CFR Part 1201.
+
+The requirement for laminated glass is consistent with the requirements of ASME A17.1.
+
+2409.4.2 Surface area. The glass in glass elevator car doors shall be not less than 60 percent of the total visible door panel surface area as seen from the car side of the doors.
+
+This section establishes a minimum area threshold for glass doors in elevator cars
+
+===== Page 1780 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 AAMA/WDMA/CSA 101/I.S.2/A440-11, North American Fenestration Standard/Specifications for Windows, Doors and Skylights. Schaumburg, IL: American Architectural Manufacturers Association, 2011.
+
+2 ANSI Z97.1-14, Safety Glazing Materials Used in Buildings—Safety Performance Specifications and Methods of Test. New York: American National Standards Institute, 2014.
+
+3 ASTM E1300-12AE1, Standard Practice for Determining Load Resistance of Glass in Buildings. West Conshohocken, PA: ASTM International, 2012.
+
+4 CPSC 16 CFR, Part 1201 (2002), Safety Standard for Architectural Glazing. Washington, DC: Consumer Product Safety Commission, 2002.
+
+5 Glass Design for Sloped Glazing. Des Plaines, IL: American Architectural Manufacturers Association, 1987.
+
+===== Page 1781 =====
+## TABLES AND FIGURES OF CHAPTER 24
+
+TABLE 2406.2(1)
+
+MINIMUM CATEGORY CLASSIFICATION OF GLAZING USING CPSC 16 CFR PART 1201
+
+<table>Exposed surface area of one side of one litGlazing in storm or combination doors (Category class)Glazing in doors (Category class)Glazed panels regulated by Section 2406.4.3 (Category class)Glazed panels regulated by Section 2406.4.2 (Category class)Doors and enclosures regulated by Section 2406.4.2 (Category class)Sliding glass doors or patio type (Category class)0.84 m² or lessIINo requirementIIIIIMore than 0.84 m²IIIIIIIIIIII</table>
+
+TABLE 2406.2(2)
+
+MINIMUM CATEGORY CLASSIFICATION OF GLAZING USING ANSI Z97.1
+
+<table>Exposed surface area of one side of one litGlazed panels regulated by Section 2406.4.3 (Category class)Glazed panels regulated by Section 2406.4.2 (Category class)Doors and enclosures regulated by Section 2406.4.5 a (Category class)0.84 m² or lessNo requirementBAMore than 0.84 m²AAA</table>
+
+Use is only permitted by the exception to Section 2406.2.
+
+a. "I" after "16 CFR 1201" indicates sizes 0.84 m² and less are covered; "II" indicates all sizes are covered.
+
+b. "U" indicates all sizes are covered; "L" indicates only sizes listed by the Safety Glazing Certification Council (SGCC) are covered.
+
+c. Numbers or letters for date coding and plant identification may also be included.
+
+FIGURE 2403.1
+EXAMPLE IDENTIFYING MARK
+
+===== Page 1782 =====
+FIGURE 2405.3(1)
+
+FULLY TEMPERED GLAZING – 30° MAXIMUM SLOPE
+
+FIGURE 2405.3(2)
+
+INACCESSIBLE AREA UNDER SLOPED GLAZING
+
+===== Page 1783 =====
+HE UNDERSIGNED MANUFACTURER HEREBY CERTIFIES that the products
+
+identified below and on attached sheets are marked with the Collective Mark of the AMERICAN INSTITUTE OF TIMBER CONSTRUCTION (AITC) and were manufactured in conformance with applicable provisions of the latest revision of American National Standard for wood products – Structural Glued Laminated Timber, ANSI/AITC A190.1, and that such manufacture occurred at our plant in ___, which plant has a quality control system approved by the INSPECTION BUREAU OF THE AMERICAN INSTITUTE OF TIMBER CONSTRUCTION, and is audited periodically by such Bureau.
+
+Job Name: ___
+
+Job Location: ___
+
+Customer's Order No. ___ Date: ___ Mfgr's Order No. ___
+
+Order Description:
+
+Signature: ___ Company: ___
+
+Title: ___ Address: ___ Date: ___
+
+AITC HEREBY CERTIFIES that the said company at its said plant is licensed by the AMERICAN INSTITUTE OF TIMBER CONSTRUCTION to use the AITC Collective Mark in respect of products which comply with applicable provisions of said Standard, that the adequacy of the quality control system in effect at said plant is periodically audited and verified by the AITC INSPECTION BUREAU, and that in the judgment of such Bureau, said company is capable of complying with applicable manufacturing and testing provisions of said Standard in respect of products manufactured in said plant. Conformance with the Standard in respect of any specific or particular product is the sole responsibility of the manufacturer. AITC's guarantee hereunder being only that the said company is qualified to produce a product meeting the said Standard and that its plant is periodically audited and verified by the AITC INSPECTION BUREAU.
+
+AITC Certificate No.
+
+Void without Label
+
+AMERICAN INSTITUTE OF TIMBER CONSTRUCTION
+© 2010 AMERICAN INSTITUTE OF TIMBER CONSTRUCTION
+
+FIGURE 2306.1
+CERTIFICATE OF CONFORMANCE
+
+===== Page 1784 =====
+FIGURE 2406.4.1
+EXAMPLES OF DOORS REQUIRING SAFETY GLAZING
+
+===== Page 1785 =====
+FIGURE 2406.4.2(1)
+SAFETY GLAZING IN CLOSE PROXIMITY TO DOORS
+
+===== Page 1786 =====
+① SAFETY GLAZING REQUIRED
+FIGURE 2406.4.2(2)
+SAFETY GLAZING AT FULL-HEIGHT INTERVENING WALL
+
+===== Page 1787 =====
+FIGURE 2406.4.2(3)
+SAFETY GLAZING AT INTERMEDIATE-HEIGHT INTERVENING WALL
+
+===== Page 1788 =====
+FIGURE 2406.4.3(1)
+FIXED OR OPERABLE GLAZED OPENING
+
+FIGURE 2406.4.3(2)
+HORIZONTAL RAIL AT GLAZED OPENINGS
+
+===== Page 1789 =====
+FIGURE 2406.4.3(3)
+ELEVATED GLAZED OPENINGS
+
+===== Page 1790 =====
+FIGURE 2406.4.5(1)
+SAFETY GLAZING AT WET SURFACES
+
+FIGURE 2406.4.5(2)
+GLAZING IN POOL ENCLOSURE
+
+===== Page 1791 =====
+This page left intentionally blank
+

@@ -1,0 +1,1625 @@
+===== Page 0198 =====
+# CHAPTER 3—USE AND OCCUPANCY CLASSIFICATION
+
+## General Comments
+
+Chapter 3 provides for the classification of buildings, structures and parts thereof into occupancy groups based on the purpose or purposes for which they are used.
+
+Section 302 identifies the occupancy groups into which all buildings, structures and parts thereof must be classified.
+
+Sections 303 through 312 identify the occupancy characteristics of each group classification. In some sections, specific group classifications having requirements in common are collectively organized such that one term applies to all. For example, Groups A-1, A-2, A-3, A-4 and A-5 are individual groups. The general term Group A, however, includes each of these individual groups. For this reason, each specific assembly group classification is included in Section 303.
+
+Definitions play a key role in determining the occupancy classification. All definitions are located in Chapter 2.
+
+In the early years of building code development, the essence of regulatory safeguards from fire was to provide a reasonable level of protection to property. The idea was that if property was adequately protected from fire, then the building occupants would also be protected.
+
+From this outlook on fire safety, the concept of equivalent risk has evolved in the code. This concept maintains that, in part, an acceptable level of risk against the damages of fire respective to a particular occupancy type (group) can be achieved by limiting the height and area of buildings containing such occupancies according to the building's construction type (i.e., its relative fire endurance).
+
+The concept of equivalent risk involves three interdependent considerations:
+
+1 The level of fire hazard associated with the specific occupancy of the facility.
+
+2 The reduction of fire hazard by limiting the floor areas and the height of the building based on the fuel load (combustible contents and burnable building components).
+
+3 The level of overall fire resistance provided by the type of construction used for the building.
+
+The interdependence of these fire safety considerations can be seen by first looking at Tables 601 and 705.5, which show the fire-resistance ratings of the principal structural elements comprising a building in relation to the five classifications for types of construction. Type I construction is the classification that generally requires the highest fire-resistance ratings for structural elements, whereas Type V construction, which is designated as a combustible type of construction, generally requires the least amount of fire-resistance-rated structural elements. If one then looks at Tables 504.3, 504.4 and 506.2, the relationship among occupancy classification, allowable heights and areas, and types of construction becomes apparent. Respective to each occupancy classification, the greater the fire-resistance rating of structural elements, as represented by the type of construction, the greater the floor area and height allowances. The greater the potential fire hazards indicated as a function of the group, the lesser the height and area allowances for a particular construction type.
+
+As a result of extensive research and advancements in fire technology, today's building codes are more comprehensive and complex regulatory instruments than they were in the earlier years of code development. While the principle of equivalent risk remains an important component in building codes, perspectives have changed, and life safety is now the paramount fire issue. Even so, occupancy classification still plays a key part in organizing and prescribing the appropriate protection measures. As such, threshold requirements for fire protection and means of egress systems are based on occupancy classification (see Chapters 9 and 10).
+
+Other sections of the code also contain requirements respective to the classification of building groups. For example, Section 705 addresses requirements for exterior wall fire-resistance ratings that are tied to the occupancy classification of a building and Section 803.13 contains interior finish requirements that are dependent upon the occupancy classification.
+
+## Purpose
+
+The purpose of this chapter is to classify a building, structure or part thereof into a group based on the specific purpose for which it is designed, occupied and used. Throughout the code, occupancy group classifications are considered a fundamental principle in
+
+===== Page 0199 =====
+organizing and prescribing the appropriate features of construction and occupant safety requirements for buildings, especially general building limitations, means of egress, fire protection systems and interior finishes.
+
+## SECTION 301 SCOPE.
+
+301.1 General. The provisions of this chapter shall control the classification of all buildings and structures as to occupancy and use. Different classifications of occupancy and use represent varying levels of hazard and risk to building occupants and adjacent properties.
+
+As used throughout the code, the classification of an occupancy into a group is established by the requirements of this chapter. The purpose of these provisions is to provide rational criteria for the classification of various occupancies into groups based on their relative fire hazard and life safety properties. This is necessary because the code utilizes group classification as a fundamental principle for differentiating requirements in other parts of the code related to fire and life safety protection.
+
+## SECTION 302 OCCUPANCY
+
+## CLASSIFICATION AND USE DESIGNATION
+
+302.1 Occupancy classification. Occupancy classification is the formal designation of the primary purpose of the building, structure or portion thereof. Structures shall be classified into one or more of the occupancy groups specified in this section based on the nature of the hazards and risks to building occupants generally associated with the intended purpose of the building or structure. An area, room or space that is intended to be occupied at different times for different purposes shall comply with all applicable requirements associated with such potential multipurpose. Structures containing multiple occupancy groups shall comply with Section 508. Where a structure is proposed for a purpose that is not specified in this section, such structure shall be classified in the occupancy it most nearly resembles based on the fire safety and relative hazard. Occupied roofs shall be classified in the group that the occupancy most nearly resembles, according to the fire safety and relative hazard, and shall comply with Section 503.1.4.
+
+1 Assembly (see Section 303): Groups A-1, A-2, A-3, A-4 and A-5.
+
+2 Business (see Section 304): Group B.
+
+3 Educational (see Section 305): Group E.
+
+4 Factory and Industrial (see Section 306): Groups F-1 and F-2.
+
+5 High Hazard (see Section 307): Groups H-1, H-2, H-3, H-4 and H-5.
+6 Institutional (see Section 308): Groups I-1, I-2, I-3 and I-4.
+
+7 Mercantile (see Section 309): Group M.
+
+8 Residential (see Section 310): Groups R-1, R-2, R-3 and R-4.
+
+9 Storage (see Section 311): Groups S-1 and S-2.
+
+10 Utility and Miscellaneous (see Section 312): Group U.
+
+This section requires all structures to be classified in one or more of the groups listed according to the structure's purpose and function (i.e., its occupancy). By organizing occupancies with similar fire hazard and life safety properties into groups, the code has incorporated the means to differentiate occupancies such that various fire protection and life safety requirements can be rationally organized and applied. Each specific group has an individual classification. Each represents a different characteristic and level of fire hazard that requires special code provisions to lessen the associated risks. There are some group classifications that are very closely related to other specific groups and, therefore, are collectively referred to as a single group (e.g., Group F applies to Groups F-1 and F-2). In these cases, there are requirements within the code that are common to each specific group classification. These common requirements are applicable based on the reference to the collective classification. For example, the automatic sprinkler system requirement of Section 903.2.8 applies to each specific group classification (R-1, R-2, R-3 and R-4) listed under the term "Group R." Although many requirements applicable to a general occupancy classification are the same for all of the subclassifications within the occupancy group, there are enough differences to warrant the division of the general category into two or more specific classifications.
+
+Example: Both a restaurant (Group A-2) and a mosque (Group A-3) are included in Group A, but they have different specific group classifications. Both Groups A-2 and A-3 are subject to the same travel distance limitations (see Table 1017.2) and corridor fire-resistance ratings (see Table 1020.2), but have different thresholds for when automatic sprinkler systems are required (see Section 903).
+
+Buildings that contain more than one occupancy group are mixed-occupancy buildings. Buildings with mixed occupancies must comply with one of the design options contained in Section 508 to establish the allowable height, number of stories and area of the building. Options established in Section 508 include the regulation of the mixed-
+
+===== Page 0200 =====
+occupancy conditions as accessory occupancies, nonseparated occupancies or separated occupancies.
+
+Occasionally, a building or space is intended to be occupied for completely different purposes at different times. In these cases, the code provisions for each occupancy must be satisfied.
+
+In cases where a structure has a purpose that is not specifically identified within any particular occupancy classification, that structure is to be classified in the group that it most closely resembles. Before an accurate classification can be made, however, a detailed description of the activities or processes taking place inside the building, the occupant load, and the materials and equipment used and stored therein must be submitted to the building official. The building official must then compare this information to the various occupancy classifications, determine which one the building most closely resembles and classify the building as such.
+
+Example: A designer presents the building official with a building needing an occupancy group classification. The building official is informed that the building is to be used as an indoor shooting gallery, open to the public but used mostly by police officers. After reviewing the code, the official cannot find a specific reference to a shooting gallery in Sections 303 through 312 or in the associated tables. The building official asks the designer for additional information about the activities to be conducted in the building and is told that there will be a small sign-in booth, patron waiting/viewing area and the actual shooting area. Based on this information, the building official can determine that the most logical classification of the building is Group A-3, assembly. This classification is based on the fact that the building is used for the congregation of people for recreation. If the occupant load of the building is less than 50 persons, the building could be classified as Group B (see Section 303.1.1). A shooting gallery is similar in many respects to a bowling centre, which is classified as Group A-3 (see Commentary Figure 302.1). The use of an occupied roof must also be classified to the occupancy it most nearly resembles. Provisions in Section 503.1.4 specifically address the use of occupied roofs.
+
+302.2 Use Designations Occupancy groups contain subordinate uses having similar hazards and risks to building occupants. Uses include, but are not limited to, those functional designations specified within the occupancy group descriptions in Section 302.1. Certain uses require specific limitations and controls in accordance with the provisions of Chapter 4 and elsewhere in this code.
+
+The accumulation of similar uses in occupancy group classifications is useful in a broad perspective and allows the application of criteria to all uses in the group. However, there are times where uses within an occupancy are regulated by a distinct provision. For example, requirements specific to all Group I-2 occupancies are detailed in Section 407. Within Section 407, Section 407.2.6 specifically allows cooking facilities to open onto a corridor in a nursing home, but such would not be allowed in another Group I-2 occupancy use—hospitals. Within the broad group of uses classified as Group B are educational occupancies for students above the high school. Such colleges or universities might have a scientific research laboratory where many substances are used, some of which might be classified as hazardous. Section 428 provides specific provisions for higher education laboratories.
+
+## SECTION 303 ASSEMBLY GROUP A
+
+303.1 Assembly Group A. Assembly Group A occupancy includes, among others, the use of a building or structure, or a portion thereof, for the gathering of persons for purposes such as civic, social or religious functions; recreation, food or drink consumption or awaiting transportation.
+
+Because of the arrangement and density of the occupant load associated with occupancies classified in the Group A assembly category, the potential for multiple fatalities and injuries from fire is comparatively high. For example, no other use listed in Section 302.1 contemplates occupant loads as dense as 0.45 m² per person (see Table 1004.5). Darkened spaces in theatres and similar spaces serve to increase hazards. In sudden emergencies, the congestion caused by large numbers of people rushing to exits can cause panic conditions. For these and many other reasons, there is a relatively high degree of hazard to life safety in assembly facilities. The relative hazards of assembly occupancies are reflected in the height and area limitations specified in Tables 504.3, 504.4 and 506.2, which are, in comparison, generally more restrictive than for buildings in other group classifications.
+
+A room or space with an occupant load of 50 or more persons should not be automatically classified as Group A. However, if a room or space is used for assembly purposes (i.e., gathering of persons for purposes such as civic, social or religious functions; recreation, food or drink consumption; or awaiting transportation per Section 303.1) and the occupant load is 50 or more, Group A is likely
+
+===== Page 0201 =====
+to be the appropriate designation. Other uses can have an occupant load of more than 50 in a space or room—for example, a large office space, a grocery store or the main floor of a major retail business—but these are not
+
+There are five specific assembly group classifications. Groups A-1 through A-5, described in this section. Where used in the code, the general term “Group A” is intended to include all five classifications.
+
+The fundamental characteristics of all assembly occupancies are identified in this section. Structures that are designed or occupied for assembly purposes must be placed in one of the assembly group classifications. There are buildings and spaces that are used for assembly purposes but are not classified as assembly occupancies. The "exceptions" to this rule include small assembly buildings, tenant spaces and assembly spaces in mixed-use buildings. These exceptions to the Group A classification are addressed in Sections 303.1.1 through 303.1.5.
+
+303.1.1 Small buildings and tenant spaces. A building or tenant space used for assembly purposes with an occupant load of less than 50 persons shall be classified as a Group B occupancy.
+
+There are often small establishments that typically serve food and have a few seats that technically meet the definition of an assembly Group A occupancy but due to the low occupant load pose a lower risk than a typical assembly occupancy. These types of buildings and tenant spaces are to be considered as Group B occupancies when the occupant load is determined to be less than 50 persons. Examples of this include small “fast food” establishments and small “mom-and-pop” cafes or coffee shops.
+
+303.1.2 Small assembly spaces. The following rooms and spaces shall not be classified as Assembly occupancies:
+
+1 A room or space used for assembly purposes with an occupant load of less than 50 persons and accessory to another occupancy shall be classified as a Group B occupancy or as part of that occupancy.
+
+2 A room or space used for assembly purposes that is less than  \( 70 \, m^{2} \)  in area and accessory to another occupancy shall be classified as a Group B occupancy or as part of that occupancy.
+
+Assembly rooms or spaces within larger buildings that house other uses may be classified as other than Group A, depending on occupant load or the size of the space. Where the occupant load of the assembly space is less than 50, or where the floor area of the space used for assembly purposes is less than  \( 70 \, m^{2} \) , a classification of other than Group A is permitted. In both cases, the purpose of the assembly space must be accessory to the principal occupancy of the structure (i.e., the activities in the assembly space are subordinate and secondary to the primary occupancy). If either the maximum occupant load or floor area limit requirement is satisfied and the purpose of the assembly space is accessory to the principal occupancy, the space is permitted to be classified as either a Group B occupancy or as part of the principal occupancy. Although the term “accessory” is used in describing the relationship of the uses, the intent of the term here is that the use of the space is related to, or part of, the main use of the space. In either case, Section 508.2 does not apply to this section; these assembly spaces (individually or in aggregation) are not required to be less than 10 percent of the area of the story on which they are located (IBC Interpretation No. 20-04).
+
+The allowances given to assembly spaces in buildings containing multiple uses reflect a practical code consideration that permits a mixed-use condition to exist without requiring compliance with the provisions for mixed occupancies (see Section 508).
+
+Example 1: An office building, classified as a Group B occupancy, has a conference room used for staff meetings with an occupant load of 40 [see Commentary Figure 303.1.2(1)]. The occupancy classification of a conference room is generally considered a Group A-3 occupancy. Since the occupant load of the conference room is less than 50 and its function is clearly accessory to the business area, the room is permitted to be classified the same as the main occupancy, Group B.
+
+Example 2: A 67.5 m² assembly area is located adjacent to a mercantile floor area of 450 m² [see Commentary Figure 303.1.2(2)]. Although the assembly use area occupies 15 percent of the 450 m² floor area, it does not exceed 67.5 m² and, as such, is permitted to be classified as part of the Group M occupancy.
+
+303.1.3 Associated with Group E occupancies. A room or space used for assembly purposes that is associated with a Group E occupancy is not considered a separate occupancy.
+
+A typical educational facility for students in the high school and below invariably contains many types of assembly spaces other than classrooms, including auditoriums, cafeterias, gymnasiums and libraries. These assembly spaces in a Group E building are not intended to be regulated as separate Group A occupancies, regardless of their floor area, but
+
+===== Page 0202 =====
+rather an extension of the Group E classification. It is worth mentioning, for these assembly functions to be considered part of the primary Group E occupancy, the assembly functions must be ancillary and supportive to the educational operation of the building. The assembly functions are to be used solely by the students and staff of the school. If the spaces are to be used for functions where more than the students and staff are in attendance, they would be classified into the appropriate Group A occupancy based on their specific function. These assembly spaces, where classified as a portion of the Group E occupancy, are still considered as assembly in nature and must comply with assembly space requirements specified for accessibility and means of egress. However, often these school facilities are used for other functions such as a meeting of a community service organization or a community crafts fair. These types of uses fall outside of the intent of this section, and therefore such assembly spaces would need to be classified as Group A.
+
+## 303.1.4 Reserved.
+
+303.1.5 Special amusement areas. Special amusement areas shall comply with Section 411.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 411 and the definitions for “Special amusement areas” and “Puzzle room.”
+
+303.2 Assembly Group A-1. Group A-1 occupancy includes assembly uses, usually with fixed seating, intended for the production and viewing of the performing arts or motion pictures including, but not limited to:
+
+• Motion picture theaters
+
+• Symphony and concert halls
+
+• Television and radio studios admitting an audience.
+
+## • Theaters
+
+Some of the characteristics of Group A-1 occupancies are large, concentrated occupant loads, low lighting levels, above-normal sound levels and a moderate fuel load.
+
+Group A-1 is characterized by two basic types of activities. The first type is one in which the facility is occupied for the production and viewing of theatrical or operatic performances. Facilities of this type ordinarily have fixed seating; a permanent raised stage; a proscenium wall and curtain; fixed or portable scenery drops; lighting devices; dressing rooms; mechanical appliances; or other theatrical accessories and equipment [see Commentary Figure 303.2(1)].
+The second type is one in which the structure is primarily occupied for the viewing of motion pictures. Facilities of this type ordinarily have fixed seating, no stage, a viewing screen, motion picture projection booths and equipment [see Commentary Figure 303.2(2)]. Group A-1 presents a significant potential life safety hazard because of the large occupant loads and the concentration of people within confined spaces. The means of egress is an important factor in the design of such facilities. Theaters for the performing arts that require stages are considered particularly hazardous because of the amount of combustibles such as curtains, drops, scenery, construction materials and other accessories normally associated with stage operation. As such, special protection requirements applicable to stages and platforms are provided in Section 410.
+
+303.3 Assembly Group A-2. Group A-2 occupancy includes assembly uses intended for food and/or drink consumption including, but not limited to:
+
+• Banquet halls
+
+• Gaming areas
+
+• Restaurants, cafeterias and similar dining facilities (including associated commercial kitchens)
+
+Group A-2 includes occupancies in which people congregate in high densities for social entertainment, including dancing (e.g., banquet halls) and food and drink consumption (e.g., restaurants). The uniqueness of these occupancies is characterized by some or all of the following:
+
+• Low lighting levels.
+
+• Entertainment by a live band or recorded music generating above-normal sound levels.
+
+• No theatrical stage accessories.
+
+• Later-than-average operating hours.
+
+• Tables and seating arranged or positioned so as to create ill-defined aisles.
+
+• A specific area designated for dancing.
+
+• Service facilities for beverages and food
+
+• High occupant load density.
+
+The fire records are very clear in identifying that the characteristics listed here often cause a delayed awareness of a fire situation and confuse occupants regarding the appropriate response, resulting in an increased egress time and sometimes panic. Together, these factors may result in extensive life and property losses. These characteristics are only advisory in
+
+===== Page 0203 =====
+determining whether Group A-2 is the appropriate classification. Often there are additional characteristics that are unique to a project, which also must be taken into consideration when a classification is made.
+
+Not all restaurants have all of these characteristics. Most fast-food restaurants will only have two or three of these, yet they are appropriately classified as Group A-2.
+
+Sometimes, however, it is not this easy to determine the appropriate classification. In such cases, the building official must seek additional information regarding the functions of the building and each area within the building.
+
+Two of the specific uses listed as Group A-2 occupancies are typically not considered as facilities primarily used for food and/or drink consumption; however, their classification as such has been deemed appropriate for varying reasons.
+
+Commercial kitchens, when associated with a Group A-2 dining establishment, are also classified as Group A-2. Although commercial kitchens do not pose the same conditions and concerns as the other uses classified as Group A-2, their classification as such recognizes the relationship that exists between the dining and cooking areas. Providing a physical fire-resistive separation between the kitchen and the dining area that it serves is often found to be impractical. Assigning a single occupancy classification for both the commercial kitchen and its associated dining area eliminates any potential for an unnecessary mixed-occupancy condition. This single occupancy classification approach can also be applied where the occupant load of the dining area is below 50, allowing for a Group B classification. Under such circumstances, the kitchen would be considered an extension of the Group B dining facility. See also commercial kitchens in Group F-1 (see Section 306.2).
+
+303.4 Assembly Group A-3. Group A-3 occupancy includes assembly uses intended for worship, recreation or amusement and other assembly uses not classified elsewhere in Group A including, but not limited to:
+
+• Amusement arcades
+
+• Art galleries
+
+• Bowling alleys
+
+• Community halls.
+
+• Courtrooms.
+
+• Dance halls (not including food or drink consumption).
+
+• Exhibition halls.
+
+• Greenhouses for the conservation and exhibition of plants that provide public access.
+
+• Gymnasiums (without spectator seating).
+
+• Indoor swimming pools (without spectator seating).
+
+• Indoor swimming pools (without spectator seating).
+
+• Lecture halls.
+
+• Libraries
+
+• Museums.
+
+• Mosques, Prayer halls.
+
+• Pool and billiard parlors.
+
+• Waiting areas in transportation terminals.
+
+Structures in which people assemble for the purpose of social activities (such as entertainment, recreation and amusement) that are not classified in Group A-1, A-2, A-4 or A-5 are to be classified in Group A-3. Some of the uses listed as examples in Group A-3 are more appropriately classified as Group A-4 or A-5 where there is spectator seating provided. An indoor tennis court where no spectator seating is provided is a Group A-3 occupancy. Add spectator seating and it becomes a Group A-4 occupancy. Take away the roof and now it is a Group A-5 occupancy. Exhibition halls, libraries, dance halls (not including food and drink), museums, gymnasiums, recreation centers, health clubs, fellowship halls, indoor shooting galleries, bowling centers and billiard halls are among the facilities often classified in Group A-3. Also, since they most nearly resemble this occupancy classification, public and private spaces used for assembly are often classified in Group A-3. These include large courtrooms, meeting rooms and conference centers.
+
+Schools (Group E) sometimes have assembly spaces ancillary to the place of education and used only for programs directly associated with the school and not for the general public. See the commentary to Sections 303.1.3 and 305 for additional information. For college buildings, similar to other office buildings, if there are spaces with occupant loads of greater than 50 (such as cafeterias or lecture halls), by the character of the space and the level of fire hazard they would be appropriately classified as Group A-2 or A-3, respectively (see Section 302.1).
+
+“Greenhouse” is often a term describing a type of structure used for the growing of plants. The concern in this section is how is a greenhouse used. Where the use is the display and conservation of plants for public access, as
+
+===== Page 0204 =====
+opposed to cultivation or retail sale, then the use is similar to a museum and therefore a Group A-3 occupancy.
+
+The fire hazard in terms of combustible contents (fuel load) in structures classified in Group A-3 is most often expected to be moderate to low. Since structures classified in Group A-3 vary widely as to the purposes for which they are used, the range of fuel load varies widely. For example, the fuel load in a library or an exhibition hall usually is considerably greater than that normally found in a gymnasium. While the code specifically addresses kitchens associated with Group A-2 restaurants and similar dining facilities, it is silent regarding accessory kitchens one might find associated with community centers. These kitchens should be considered carefully by the building official. Each facility and its use will be unique. The intensity and frequency of the use of the space for serving of food as well as the type of cooking equipment installed are important factors. The occasional use of the fellowship hall for a fundraising dinner where food is brought in and warmed is one end of the spectrum and may warrant keeping a Group A-3 classification. But when the same hall becomes a daily charity “soup” kitchen, then a Group A-2 classification is more appropriate.
+
+303.5 Assembly Group A-4. Group A-4 occupancy includes assembly uses intended for viewing of indoor sporting events and activities with spectator seating including, but not limited to:
+
+• Arenas
+
+• Skating rinks
+
+• Swimming pools
+
+• Tennis courts
+
+Structures provided with spectator seating in which people assemble to watch an indoor sporting event are to be classified as Group A-4. Arenas, skating rinks, swimming pools and tennis courts are among the facilities often classified as Group A-4. The list of four uses offers examples of Group A-4 occupancies and is not an exhaustive list. Every four years the Olympics are a reminder that other sports such as badminton, wrestling and gymnastics will occur in indoor sports venues. The distinguishing factor between Group A-4 and Group A-5 structures is whether the event is indoors or outdoors. Group A-4 facilities are limited to indoor structures only. The distinguishing factor between Group A-4 and Group A-3 facilities is the presence of a defined seating area. While Group A-3 facilities are indoors (e.g., tennis courts, swimming pools), they typically do not have a defined seating area in which to view the event. Only facilities that are both indoors and have a defined seating area are to be classified as Group A-4.
+
+• Amusement Park structures
+
+• Bleachers
+
+• Grandstands
+
+• Stadiums
+
+Structures classified in Group A-5 are outdoor facilities where people assemble to view or participate in social and recreational activities (e.g., stadiums, grandstands, bleachers, coliseums). In order to qualify as an outdoor facility, the structure must be one where the products of combustion are freely and rapidly vented to the atmosphere (i.e., a structure without enclosures that would prevent the free movement of smoke from the occupied area to the outside). Any recreation facility that has exterior walls that enclose the facility and a roof that fully covers the area would not be classified in Group A-5, but rather in Group A-3 or A-4 depending on whether a seating area has been provided. In the case of a structure with a retractable roof, the more stringent occupancy classification (i.e., Group A-4) would be required. The list of four uses offers examples of Group A-5 occupancies and is not an exhaustive list.
+
+Since occupancies classified in Group A-5 are primarily viewing and sports participation areas, the fuel load associated with them is very low (i.e., the structure itself and seats). Since the fuel load present is relatively low and the expectation is that smoke will be quickly evacuated from the structure, the relative fire hazard of occupancies classified in Group A-5 is expected to below. The life safety hazard from panic that might occur in an emergency, however, is a serious concern. Hence, the capability of large crowds to exit the structure quickly and orderly during emergencies is an important design consideration (see Section 1030).
+
+Both Group A-4 and A-5 occupancies will include a variety of uses that support the viewing of sports and similar activities. There will likely be luxury seating suites, locker rooms, toilet facilities and press boxes, which are clearly part of the overall uses of the facility. There will also be offices, food concession stands and merchandise stands, which by their use are different occupancies, but are probably within the accessory occupancy limits established in Section 508.2. Because of the multimetered design of most Group A-4 and A-5
+
+===== Page 0205 =====
+occupancies, the limit for accessory occupancies to account for less than 10 percent of the story will need to be creatively applied. There may be full-fledged restaurants that are in the same building and open to guests, not just limited to those attending an event. A Group A-2 occupancy designation is likely the most appropriate classification and the mixed-occupancy conditions would be addressed under the provisions of Section 508.
+
+## SECTION 304 BUSINESS GROUP B
+
+304.1 Business Group B. Business Group B occupancy includes, among others, the use of a building or structure, or a portion thereof, for office, professional or service-type transactions, including storage of records and accounts. Business occupancies shall include, but not be limited to, the following:
+
+• Airport traffic control towers
+
+• Ambulatory care facilities
+
+• Animal hospitals, kennels and pounds
+
+• Banks
+
+• Barber and beauty shops
+
+• Car wash
+
+• Civic administration
+
+• Clinic, outpatient
+
+• Dry cleaning and laundries: pick-up and delivery stations and self-service
+
+• Educational occupancies for students above the high school including higher education laboratories.
+
+• Electronic data processing
+
+• Food processing establishments and commercial kitchens not associated with restaurants, cafeterias and similar.
+
+• Dining facilities not more than 230 m \( ^{2} \)  in area.
+
+• Laboratories: testing and research
+
+• Motor vehicle showrooms
+
+• Post offices
+
+• Print shops
+
+• Professional services (architects, attorneys, dentists, physicians, engineers, etc.)
+
+• Radio and television stations
+
+• Telephone exchanges
+
+• Training and skill development not in a school or academic program (this shall include, but not be limited to, tutoring centers, martial arts studios, gymnastics and similar uses regardless of the ages served, and where not classified as a Group A occupancy).
+
+The risks to life safety in the business occupancy classification are relatively low. Exposure to the potential effects of fire is limited because business type facilities most often have low fuel loads, are normally occupied only during the daytime and, with some exceptions, are usually occupied for a set number of hours. The occupants, because of the nature of the use, are typically alert, ambulatory, conscious, aware of their surroundings and generally familiar with the building's features, particularly the means of egress. Historically, this occupancy has one of the better fire safety records for the protection of life and property.
+
+This section identifies the general characteristics and provides examples of occupancies that are classified in Group B. Note that the general description of the Group B occupancy recognizes the need for limited storage spaces that are incidental to Group B occupancies. In addition, Section 311.1.1 allows accessory storage spaces to be classified as part of the principal occupancy.
+
+Colleges (educational occupancies for students above the high school) may have spaces that have an occupant load of more than 50 in a room but are ancillary to the place of education and used only for programs directly associated with training and education (Section 303.4). For college buildings, similar to other office buildings, if there are spaces with occupant loads greater than 50, such as cafeterias or lecture halls, by the character of the space and the level of fire hazard they would be appropriately classified as Group A-2 or A-3, respectively (see Section 302.1). Where lecture facilities for large groups (i.e., occupant load of 50 or more) are located within the same building as classrooms with an occupant load less than 50, the building is a mixed occupancy (Groups A-3 and B) and is subject to the provisions of Section 508.
+
+College and university laboratories that comply with Section 428 and with Chapter 38 of SBC 801 will also be classified as Group B (Section 307.1.1).
+
+While civic administration covers a broad range of government buildings, many such buildings will have a variety of uses and need to be considered under mixed-occupancy provisions. Frequently, police stations will include jails or holding cells. Fire stations will be a mix of offices, parking and maintenance facilities for the fire engines, and living spaces for the fire fighters. Often a meeting room that is open to the public is also included. This type
+
+===== Page 0206 =====
+of facility is a mix of Group A, B, R and S occupancies.
+
+Ambulatory care facilities are those that provide medical or similar care on less than a 24-hour basis to patients who are rendered incapable of self-preservation (see Section 202). Frequently called "day surgery centers" or "ambulatory surgical centers," ambulatory care facilities are where procedures are performed that render care recipients (patients) temporarily incapable of self-preservation due to the use of nerve blocks, sedation or anesthesia. Because of the condition of the care recipients, the need for medical staff to stabilize the patients before evacuation and the use of medical gases such as oxygen and nitrous oxide, these types of facilities pose greater fire and life safety hazards than other business occupancies. Accordingly, additional fire protection and means of egress requirements specific to ambulatory care facilities are provided in Section 422.
+
+Facilities that provide medical services for inpatient care where the care recipients (patients) stay for more than 24 hours would be classified as Group I-2. Buildings used as sleep clinics would be classified as Group B since these spaces are not typical dwelling or sleeping units where people live, the occupants are assumed to be capable of self-preservation and the occupants are not living in a supervised environment. Although the patients in a sleep clinic may be sleeping, they can be easily awakened and alerted to an emergency as compared to the patients at an ambulatory care facility.
+
+Based on size, the code distinguishes between food processing operations that are not directly associated with a restaurant. Those 230 m² or smaller fall under the Group B classification. A small catering business would fall under this classification. Other food-related businesses that do not provide a space for their product to be eaten on-site, such as a take-out pizza store or a neighborhood bakery, would also be classified as a Group B occupancy. A commercial kitchen or food processing facility larger than 230 m² would be classified as a Group F-1 occupancy.
+
+Training and skill development is classified as a Group B occupancy due to the similarity in use of spaces between education above the high school and professional consultation. Often unions provide training facilities for their members so they can keep up with new materials and updates of regulations. Other facilities can provide one-on-one tutoring such as remedial reading or math skills for students. Those receiving training or skill development can include those whose ages are typically associated with grade 12 or earlier. The determination of the appropriate classification requires the building official to consider whether the training is given as part of a traditional educational program. Examples provided by the code allow a range of size in the numbers receiving the training from one-on-one tutoring to a large class of children learning martial arts or ballet. The presence of children does not automatically mean classification as a Group E occupancy. Where the occupant load of a training classroom or space is 50 or more, a Group A classification may be appropriate for the space, especially if the space is to be used for different activities at different times. If the training room is used for a martial arts competition with spectators on an evening or weekend, then a Group A designation should also be considered.
+
+304.2 Airport traffic control towers. Airport traffic control towers shall comply with Section 412.2.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 412.2.
+
+304.3 Ambulatory care facilities. Ambulatory care facilities shall comply with Section 422.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. Complete criteria for ambulatory care facilities are found in Section 422. See the commentary to the definition of “Ambulatory care facility” and Section 422.
+
+304.4 Higher education laboratories. Higher education laboratories shall comply with Section 428.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. For information on higher education laboratories, see the commentary to the definition of “Higher education laboratories,” Section 428 of SBC 201 and Chapter 38 of SBC 801.
+
+## SECTION 305 EDUCATIONAL GROUP E
+
+305.1 Educational Group E. Educational Group E occupancy includes, among others, the use of a building or structure, or a portion thereof, by six or more persons at any one time for educational purposes through the high school.
+
+The risks to life safety in this occupancy vary with the composition of the facilities and also with the ages of the occupants. In general, children require more safeguards than do older, more mature persons.
+
+This section identifies the criteria for classification of a building in Group E. The two fundamental characteristics of a Group E facility are as follows:
+
+===== Page 0207 =====
+The facility is occupied by more than five persons (excluding the instructor).
+
+2 The purpose of the facility is for educating persons at the 12th-grade level and below, but not including more than five occupants 2.5 years of age or less.
+
+It is common for a school to also have cafeterias (Group A-2), gymnasiums (Group A-3), auditoriums (Group A-1), libraries (Group A-3) and offices (Group B). Storage rooms might be classified as either a Group S-1 or Group E occupancy (see Section 311.1.1). When this occurs, the building is considered as a mixed occupancy condition and is subject to the provisions of Section 508. In accordance with Section 303.1.3, assembly spaces, such as the gymnasium, auditorium, library and cafeteria, do not have to be considered separate occupancies if used for school purposes (see commentary, Section 303.1.3). For such assembly functions to be considered part of the primary Group E occupancy, the assembly functions must be ancillary and supportive to the educational operation of the building and used solely by the students and staff of the school.
+
+Occupancies used for the education of persons above the high school level are not included in Group E but are classified as Group B. These facilities are occupied by adults who are not expected to require special supervision, direction or instruction in a fire or other emergency.
+
+305.2 Group E, day care facilities. This group includes buildings and structures or portions thereof occupied by more than five children older than 2.5 years of age who receive educational, supervision or personal care services for fewer than 24 hours per day.
+
+Group E Day care occupancies include facilities intended to be used for the care and supervision of more than five children older than 2.5 years of age where individual care is for a period of less than 24 hours per day. Day care centers are a special concern since they are generally occupied by preschool children who are less capable of responding to an emergency. The hazards found in a day care center are far greater than in normal educational facilities, not so much because of the occupant or fuel load, but because of the inability of the occupants to respond.
+
+Children 21/2 years of age or less usually are not able to recognize an emergency situation, may not respond appropriately or simply may not be able to express without assistance. Thus, facilities that have more than five children 21/2 years of age or less are classified as childcare facilities and considered to be Group I-4 occupancies (see Section 308.5) unless the provisions of Sections 308.5.1 through 308.5.4 allow for a different classification.
+
+Locations where day care may be provided that would not be considered Group E are addressed in Sections 305.2.1 through 305.2.3.
+
+## 305.2.1 Reserved for numbering.
+
+## 305.2.2 Five or fewer children.
+
+A facility having five or fewer children receiving such day care shall be classified as part of the primary occupancy.
+
+Where a day care facility has no more than five children receiving care at any one time, the classification of the main occupancy may extend to the day care use. The limited number of occupants requiring care services does not warrant classification as a separate and distinct occupancy from that of the major use.
+
+305.2.3 Five or fewer children in a dwelling unit. A facility such as the above within a dwelling unit and having five or fewer children receiving such day care shall be classified as a Group R-3 occupancy.
+
+Where day care services are performed within a single-family dwelling or within a dwelling unit of a two-family dwelling, residential provisions are applicable provided the number of children receiving care does not exceed five. The facility may be classified under the code as a Group R-3 occupancy. Where this use occurs within a dwelling unit of a Group R-2 multifamily building, it is expected that the day care facility be considered as an extension of the Group R-2 classification as addressed in Section 305.2.2.
+
+305.3 Storm shelters in Group E occupancies. Storm shelters shall be provided for Group E occupancies where required by Section 423.5.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. New schools that are located in what is commonly called the "tornado belt" are required to include storm shelters. See Section 423.5 and the definition for "Storm shelter." Such storm shelters shall comply with ICC 500, ICC/NSSA Standard for the Design and Construction of Storm Shelters.
+
+## SECTION 306 FACTORY GROUP F
+
+306.1 Factory Industrial Group F. Factory Industrial Group F occupancy includes, among others, the use of a building or structure, or a portion thereof, for assembling, disassembling, fabricating, finishing, manufacturing, packaging, repair or processing operations that are not classified as a Group H hazardous or Group S storage occupancy.
+
+The purpose of this section is to identify the characteristics of occupancies that are
+
+===== Page 0208 =====
+classified in factory and industrial occupancies and to differentiate Groups F-1 and F-2.
+
+Because of the vast number of diverse manufacturing and processing operations in the industrial community, it is more practical to classify such facilities by their level of hazard rather than their function. In industrial facilities, experience has shown that the loss of life or property is most directly related to fire hazards, particularly the fuel load contributed by the materials being fabricated, assembled or processed.
+
+Statistics show that property losses are comparatively high in factory and industrial occupancies, but the record of fatalities and injuries from fire has been remarkably low. This excellent life safety record can, in part, be attributed to the fire protection requirements of the code.
+
+This section requires that all structures used for fabricating, finishing, manufacturing, packaging, assembling or processing products or materials are to be classified in either Group F-1 (moderate hazard) or F-2 (low hazard). These classifications are based on the relative level of hazard for the types of materials that are fabricated, assembled or processed. Where the products and materials in a factory present an extreme fire, explosion or health hazard, such facilities are classified in Group H (see Section 307). It should be noted that the term "Group F" is not a specific occupancy but is a term that collectively applies to Groups F-1 and F-2.
+
+306.2 Moderate-hazard factory industrial, Group F-1. Factory industrial uses that are not classified as Factory Industrial F-2 Low Hazard shall be classified as F-1 Moderate Hazard and shall include, but not be limited to, the following:
+
+• Aircraft (manufacturing, not to include repair) Appliances.
+
+• Athletic equipment
+
+• Automobiles and other motor vehicles
+
+• Bakeries
+
+• Bicycles
+
+• Boats
+
+• Brooms or brushes
+
+• Business machines
+
+• Cameras and photo equipment
+
+• Canvas or similar fabric
+
+• Carpets and rugs (include cleaning)
+
+• Clothing
+
+• Construction and agricultural machinery
+
+• Disinfectants
+
+• Dry cleaning and dyeing
+
+• Electric generation plants
+
+• Electronics
+
+• Energy storage systems (ESS) in dedicated use buildings
+
+• Engines (including rebuilding)
+
+• Food processing establishments and commercial kitchens not associated with restaurants, cafeterias and similar dining facilities more than 230 m \( ^{2} \)  in area.
+
+• Furniture
+
+• Hemp products
+
+• Jute products
+
+• Laundries
+
+• Leather products
+
+• Machinery
+
+• Metals
+
+• Millwork (sash and door)
+
+• Motion pictures and television filming (without spectators)
+
+• Musical instruments
+
+• Optical goods
+
+• Paper mills or products
+
+• Photographic film
+
+• Plastic products
+
+• Printing or publishing
+
+• Recreational vehicles
+
+• Refuse incineration.
+
+• Shoes
+
+• Soaps and detergents
+
+• Textiles
+
+• Tobacco
+
+• Trailers
+
+• Upholstering
+
+• Water/Sewer Treatment Facilities
+
+• Wood; distillation
+
+• Woodworking (cabinet)
+
+Structures classified in Group F-1 (moderate hazard) are occupied for the purpose of fabrication, finishing, manufacturing, packaging, assembly or processing of materials that are combustible or that use combustible products in the production process. Due to the potential use of hazardous materials in water and sewer treatment facilities, these types of structures are more appropriately classified as Group F-1 rather than Group F-2. Food processing facilities and commercial kitchens that are 230 m² or smaller
+
+===== Page 0209 =====
+in area fall under the Group B occupancy category (see Section 304.1).
+
+306.2.1 Aircraft manufacturing facilities. Aircraft manufacturing facilities shall comply with Section 412.6.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 412.6 regarding criteria for aircraft manufacturing facilities.
+
+306.3 Low-hazard factory industrial, Group F-2. Factory industrial uses that involve the fabrication or manufacturing of noncombustible materials that during finishing, packing or processing do not involve a significant fire hazard shall be classified as F-2 occupancies and shall include, but not be limited to, the following:
+
+• Brick and masonry Ceramic products
+
+• Foundries
+
+• Glass products
+
+• Gypsum
+
+• Ice
+
+• Metal products (fabrication and assembly)
+
+Structures classified in Group F-2 (low hazard) are occupied for the purpose of fabrication, manufacturing or processing of noncombustible materials. It is acceptable for noncombustible products to be packaged in a combustible material, provided that the fuel load contributed by the packaging is negligible when compared to the amount of noncombustible product.
+
+The use of a significant amount of combustible material to package or finish a noncombustible product, however, will result in a Group F-1 (moderate-hazard) classification.
+
+To distinguish when the presence of combustible packaging constitutes a significant fuel load, possibly requiring the reclassification of the building or structure as Group F-1, a reasonable guideline to follow is the "single thickness" rule, which is when a noncombustible product is put in one layer of packaging material.
+
+Examples of acceptable conditions in Group F-2 include:
+
+• Vehicle engines placed on wood pallets for transportation after assembly.
+
+• Washing machines in corrugated cardboard boxes.
+
+• Soft-drink glass bottles packaged in pressed paper boxes.
+
+Occupancies involving noncombustible items packaged in more than one layer of combustible packaging material are most appropriately classified in Group F-1.
+
+Typical examples of packaging that would result in a Group F-1 classification include:
+
+• Chinaware wrapped in corrugated paper and placed in cardboard boxes.
+
+• Glassware set in expanded foam forms and placed in cardboard boxes.
+
+- Fuel filters individually packed in pressed paper boxes, placed by the gross in a cardboard box and stacked on a pallet for transportation.
+
+★ Factories and industrial facilities often have offices and areas where large quantities of materials are kept in the same building as manufacturing operations, fabrication processes and assembly processes. The stock areas are classified as either Group S-1 or S-2, depending on the combustibility of the materials stored. Areas used for offices are classified in Group B. Where these and other combinations of occupancies occur, the building is subject to the mixed occupancy provisions in Section 508.
+
+SECTION 307 HIGH-HAZARD GROUP H
+307.1 High-hazard Group H. High-hazard Group H occupancy includes, among others, the use of a building or structure, or a portion thereof, that involves the manufacturing, processing, generation or storage of materials that constitute a physical or health hazard in quantities in excess of those allowed in control areas complying with Section 414, based on the maximum allowable quantity limits for control areas set forth in Table 307.1(1) and Table 307.1(2). Hazardous occupancies are classified in Groups H-1, H-2, H-3, H-4 and H-5 and shall be in accordance with this section, the requirements of Section 415 and SBC 801. Hazardous materials stored, or used on top of roofs or canopies, shall be classified as outdoor storage or use and shall comply with SBC 801.
+
+This section identifies the various types of facilities contained in the high-hazard Group H occupancy. This occupancy classification relates to those facilities where operations or the storage of materials are deemed to be extremely hazardous to life and property, especially when they involve the use of significant amounts of highly combustible, flammable or explosive materials, regardless of their composition (i.e., solids, liquids, gases or dust). Although they are not explosive or highly flammable, other hazardous materials, such as corrosive liquids, highly toxic materials and poisonous gases, still present an extreme hazard to life. Many materials possess multiple hazards, whether physical or health related.
+
+===== Page 0210 =====
+There is a wide range of high-hazard operations in the industrial community; therefore, it is more practical to categorize such facilities in terms of the degree of hazard they present, rather than attempt to define a facility in terms of its function. This method is similar to that used to categorize factory (see Section 306) and storage (see Section 311) occupancies.
+
+Group H is handled as a separate classification because it represents an unusually high degree of hazard that is not found in the other occupancies. It is important to isolate those industrial or storage operations that pose the greatest dangers to life and property and to reduce such hazards by providing systems or elements of protection through the regulatory provisions of the building code.
+
+There are numerous provisions and exceptions throughout the code that cannot be used when one or more Group H occupancies are present. Operations that, because of the materials utilized or stored, cause a building or portion of a building to be classified as a high-hazard Group H occupancy are identified in this section. While buildings classified as Group H may not have a large occupant load, the unstable chemical properties of the materials contained on the premises constitute an above-average fuel load and serve as a potential danger to the surrounding area.
+
+The dangers created by the high-hazard materials require special consideration for the abatement of the danger. The classification of a material as high hazard is based on information derived from National Fire Protection Association (NFPA) standards.
+
+The wide range of materials utilized or stored in buildings creates an equally wide range of hazards to the occupants of the building, the building proper and the surrounding area. Since these hazards range from explosive corrosive conditions, the high-hazard Group H occupancy has been broken into four subclassifications: Groups H-1 through H-4. A fifth category, Group H-5, is used to represent structures that contain hazardous production material (HPM) facilities. Each of these subclassifications addresses materials that have similar characteristics, and the protection requirements attempt to address the hazard involved. These subclassifications are defined by the properties of the materials involved with only occasional reference to specific materials. This performance-based criterion may involve additional research to identify a hazard, but it is the only way to remain current in a rapidly changing field. Safety Data Sheets (SDS), formerly known as Material Safety Data Sheets, will be a major source for information.
+Additional information on hazardous materials can be found in Section 415 as well as the commentary to SBC 801.
+
+Section 307.1 acknowledges that a building is not classified as a high-hazard Group H occupancy unless the maximum allowable quantities per control area as prescribed in Tables 307.1(1) and 307.1(2) are exceeded, subject to the applicable control area provisions of Section 414.2. The maximum quantity limitations per control area prescribed in Tables 307.1(1) and 307.1(2) have been determined to be relatively safe when maintained in accordance with SBC 801. Therefore, a building containing less than the maximum allowable quantities specified in Tables 307.1(1) and 307.1(2) would not be classified as a Group H occupancy but rather as the occupancy group it most nearly resembles. The materials in these tables are defined in detail in Section 202.
+
+Section 414.2 establishes the control area concept for regulating hazardous materials. This concept would allow the maximum allowable quantities of hazardous materials per control area in Tables 307.1(1) and 307.1(2) to be exceeded within a given building without classifying the building as a high-hazard Group H occupancy by utilizing a multiple control area approach. The permitted number of control areas, maximum percentage of allowable quantities of hazardous materials per control area, and degree of fire separation between control areas are regulated by Section 414.2 (see commentary, Section 414.2).
+
+Section 307.1 also clarifies that hazardous materials outside of the building envelope should be classified as outdoor storage. As such, hazardous material quantities on roofs or canopies are not included in evaluating the occupancy classification of a building or structure. Canopies used to support gaseous hydrogen systems must comply with Section 406.7.2.1.
+
+The maximum allowable quantities (MAQ) of high-hazard materials allowed in each control area before having to classify a part of the (or the entire) building as a high-hazard Group H occupancy are given in the table. This table is referenced in Section 307.1. The materials listed in this table (see Chapter 2 for definitions of the materials) are classified according to their specific occupancy in Sections 307.3 through 307.5. This table only contains materials applicable to Groups H-1, H-2 and H-3. The maximum allowable quantities per control area for Group H-4 materials are listed in Table 307.1(2).
+
+The presence of any one of the materials listed in Table 307.1(1) in an amount greater than
+
+===== Page 0211 =====
+allowed requires that the building or area in which the material is contained be classified as a Group H, high-hazard occupancy.
+
+If a building or area contains only the materials listed in either Table 307.1(1) or Table 307.1(2) in the maximum allowable quantity per control area or less, then that building or area would not be classified as a Group H, high-hazard occupancy. The possible increase in overall danger that might exist should this occur because of the storage and use of incompatible materials is an issue that the code does not specifically address. In such situations, the building official can seek the advice of chemical engineers, fire protection engineers, fire service personnel or other experts in the use of hazardous materials. Based on their advice, the building official can deem the building a high-hazard occupancy.
+
+Table 307.1(1) is subdivided based on whether the material is in storage or in use in a closed or open system. Definitions of both closed and open systems are found in Section 202. Within these subdivisions, the appropriate maximum allowable quantity per control area is listed in accordance with the physical state (solid, liquid or gas) of the material. A column for gas in open systems is not indicated because hazardous gaseous materials should not be allowed in a system that is continuously open to the atmosphere. While hazardous materials within a closed or open system are considered to be in use, Note b clearly indicates that the aggregate quantity of hazardous materials in use and storage within a given control area should not exceed the quantity listed in Table 307.1(1) for storage.
+
+Notes d and e of Table 307.1(1) are significant in that, for certain materials, the maximum allowable amount may be increased due to the use of approved hazardous material storage cabinets, or where the building is fully protected by an automatic sprinkler system, or both. The notes are intended to be cumulative in that up to four times the base maximum quantity may be allowed per control area, if both sprinklered and in cabinets, without classifying the building as Group H. While the use of cabinets is not always a feasible or practical method of storage, they do provide additional protection to warrant an increase where provided. Construction requirements for hazardous material storage cabinets are contained in SBC 801. Note that the use of day boxes, gas cabinets, exhausted enclosures or listed safety cans would allow the same increase as for cabinets. Listed safety cans, which are primarily intended for flammable and combustible liquids, must be in compliance with UL 30 when used to increase the maximum allowable quantities permitted by Table 307.1(1).
+
+While classified as a hazardous material, the code recognizes the relative hazard of Class IIIB combustible liquids as compared to that of other flammable and combustible liquids by establishing a base maximum allowable quantity per control area of 50000 L. As indicated in Note f, the quantity of Class 1 oxidizers and Class IIIB combustible liquids would not be limited, provided the building is fully sprinkled in accordance with NFPA 13. Since any building that exceeds this maximum amount would be required to be classified as Group H and these buildings are required to be sprinkled, the maximum allowable amount would then be unlimited. As such, a Group H classification would not be warranted. The hazard presented by Class 1 oxidizers is that they slightly increase the burning rate of combustible materials that they may come into contact with during a fire. Class IIIB combustible liquids have flash points at or above  \( 90^{\circ} \) C. Motor oil is a typical example of a Class IIIB combustible liquid.
+
+Note g recognizes that the hazard presented by certain materials is such that they may be stored or used only inside buildings that are fully sprinkled.
+
+Note h clarifies that while there is a combination maximum allowable quantity for flammable liquids, no individual class of liquid (Class IA, IB or IC) may exceed its own individual maximum allowable quantity.
+
+Note i is a specific exception for inside storage tanks of combustible liquids that are connected to a fuel-oil piping system in accordance with Section 605.4.2 of SBC 801. This exception applies to most oil-fired stationary equipment, whether in industrial, commercial or residential occupations. NFPA 31 and NFPA 37 provide further guidance on the type of installations this exception is intended to permit. This exception would permit fuel-oil storage tanks containing a maximum of 2500 L of combustible liquids within a building without being classified as a Group H-3 occupancy. This quantity limitation could be further increased to 11350 L for combustible liquids stored in protected above-ground tanks in rooms protected by an automatic sprinkler system complying with NFPA 13.
+
+Note k permits a larger amount of Class 3 oxidizers in a building when used for maintenance and sanitation purposes. An example is the use of 51 percent hydrogen peroxide ( \( H_{2}O_{2} \) ) during industrial-scale food production operations. In a diluted form, 51 percent hydrogen peroxide is used for disinfecting piping systems and machinery.
+
+===== Page 0212 =====
+used for manufacturing and packaging dairy products, such as ice cream, cheese and milk, to effectively sterilize all surfaces that are in contact with these milk products. The method used to store the oxidizers is subject to the evaluation and approval of the building official. Note I clarifies that the 55 kg of storage permitted for consumer fireworks represents the net weight of the pyrotechnic composition of the fireworks in a nonsprinklered building. This amount represents approximately 12.5 shipping cases (less than one and one-half pallet loads) of fireworks in a nonsprinklered storage condition. In cases where the net weight of the pyrotechnic composition of the fireworks is unknown, 25 percent of the gross weight of the fireworks is to be used. The gross weight is to include the weight of the packaging.
+
+Note n provides an exception when the amount of hazardous material in storage and display in Group M and S occupancies meets the requirements of Section 414.2.5.
+
+Note o clarifies that densely packed baled cotton is not considered a hazardous material when meeting the size and weight requirements of ISO 8115 and, as such, is not subject to the maximum allowable quantity per control area specified for combustible fibers.
+
+Note p clarifies that vehicles with closed fuel systems should be treated no differently than machinery or equipment when considering the allowable quantities of materials within a building. This note also clarifies that the fuels contained within the fuel tanks of vehicles or motorized equipment are not to be considered when calculating the aggregate quantity of hazardous materials within a control area of a building. For example, when evaluating a parking garage with several hundred cars parked inside, the fuel tanks of vehicles are not counted. When motorized equipment, such as a floor buffer or forklift, is used, those fuels are not included as long as other code requirements are satisfied. This note also exempts alcohol-based hand rubs when contained in dispensers complying with SBC 801.
+
+Note q directs code users to Section 414.1.3 in an effort to determine the appropriateness of a Group H-2 classification for facilities where combustible dust is manufactured, generated or used. The presence of combustible dust may or may not result in a high-hazard condition. In order to determine if a potential dust hazard exists that would warrant a Group H-2 occupancy classification, the conditions must be evaluated and a report submitted to the building official that sets forth a determination of the degree of hazard and recommended safeguards, including the appropriate occupancy classification.
+
+See Table 307.1(2).
+Table 307.1(2), similar to Table 307.1(1), specifies the maximum quantities of hazardous materials, liquids or chemicals allowed per control area before having to classify a building, or a portion of a building, as a high-hazard Group H occupancy. Table 307.1(2), as referenced in Section 307.1, contains materials classified as Group H-4 in accordance with Section 307.6. While the materials listed in this table are considered health hazards, some materials may also possess physical hazard characteristics more indicative of materials classified as Group H-1, H-2 or H-3.
+
+The maximum allowable quantities per control area listed in Table 307.1(2) are indicative of industry practice and assume the materials are properly stored and handled in accordance with SBC 801. Group H-4 materials, while indeed hazardous, are primarily considered a handling problem and do not possess the same fire, explosion or reactivity hazard associated with other hazardous materials. The base maximum allowable quantity per control area of 23 m \( ^{3} \)  for gases that are either corrosive or toxic is based on a standard-size chlorine cylinder. The use of 70 kg as the baseline quantity for liquefied corrosive and toxic gases is intended to be consistent with the philosophical approach to the same maximum quantity permitted for liquefied oxidizing gases in Table 307.1(1). The 70 kg limitation allows a single cylinder of chlorine, which could be considered both a corrosive and oxidizing gas, to not result in either a Group H-3 or H-4 occupancy classification.
+
+Note b clearly indicates that the aggregate quantity of hazardous materials in use and storage, within a given control area, cannot exceed the quantity listed in the table for storage.
+
+Without Note c, many common household products, such as household bleach and window cleaners, containing a negligible amount of hazardous material could result in a Group M occupancy being classified as Group H. Note c recognizes the reduced hazard of the materials based on their water miscibility and limited container size.
+
+Notes d and e are identical to Notes d and e to Table 307.1(1) and allow up to four times the maximum allowed quantities. See the commentary for Notes d and e of Table 307.1(1).
+
+Note f provides an exception when the amount of hazardous material in storage and display in Group M and S occupancies meets the requirements of Section 414.2.5.
+
+===== Page 0213 =====
+Note g is significant in that, for certain materials, their hazard is so great that their maximum allowable quantity per control area may be stored in the building only when approved exhausted enclosures or gas cabinets are utilized.
+
+307.1.1 Uses other than Group H. An occupancy that stores, uses or handles hazardous materials as described in one or more of the following items shall not be classified as Group H, but shall be classified as the occupancy that it most nearly resembles.
+
+1 Buildings and structures occupied for the application of flammable finishes, provided that such buildings or areas conform to the requirements of Section 416 and SBC 801.
+
+2 Wholesale and retail sales and storage of flammable and combustible liquids in mercantile occupancies conforming to SBC 801.
+
+3 Closed piping system containing flammable or combustible liquids or gases utilized for the operation of machinery or equipment.
+
+4 Cleaning establishments that utilize combustible liquid solvents having a flash point of  \( 60^{\circ} \) C or higher in closed systems employing equipment listed by an approved testing agency, provided that this occupancy is separated from all other areas of the building by 1-hour fire barriers constructed in accordance with Section 707 or 1-hour horizontal assemblies constructed in accordance with Section 711, or both.
+
+5 Cleaning establishments that utilize a liquid solvent having a flash point at or above  \( 90^{\circ} \) C.
+
+6 Refrigeration systems.
+
+7 The storage or utilization of materials for agricultural purposes on the premises.
+
+8 Stationary storage battery systems installed in accordance with SBC 801.
+
+9 Corrosive personal or household products in their original packaging used in retail display.
+
+10 Commonly used corrosive building materials.
+
+11 Buildings and structures occupied for aerosol product storage, aerosol cooking spray products or plastic aerosol 3 products shall be classified as Group S-1, provided that such buildings conform to the requirements of SBC 801.
+
+12 Display and storage of nonflammable solid and nonflammable or noncombustible liquid hazardous materials in quantities not exceeding the maximum allowable quantity per control area in Group M or S occupancies complying with Section 414.2.5.
+
+13 The storage of black powder, smokeless propellant and small arms primers in Groups M and R-3 and special industrial explosive devices in Groups B, F, M and S, provided such storage conforms to the quantity limits and requirements prescribed in SBC 801.
+
+14 Stationary fuel cell power systems installed in accordance with SBC 801.
+
+15 Capacitor energy storage systems in accordance with SBC 801.
+
+16 Group B higher education laboratory occupancies complying with Section 428 and Chapter 38 of SBC 801.
+
+Section 307.1.1 provides 16 cases where facilities would not be classified as Group H because of the specific type of material, how it is expected to be used or stored, or both; the building's construction and use; the packaging of materials; the quantity of materials; or the precautions taken to prevent fire. Even if a high-hazard material meets one of these 14 cases, its storage and use must comply with the applicable provisions of Section 414 and SBC 801.
+
+Item 1 exempts spray painting and similar operations within buildings from being classified as a high-hazard Group H occupancy. This item requires that all such operations, as well as the handling of flammable finishes, are in accordance with the provisions of Section 416 and SBC 801. Therefore, an adequately protected typical paint spray booth in a factory (Group F-1) would not result in a high-hazard Group H occupancy classification for either the building or the paint spray area.
+
+Item 2 relies on the provisions of Section 5704.3.4.1 of SBC 801 to regulate the storage of flammable and combustible liquids for wholesale and retail sales and storage in mercantile occupancies. The overall permitted amount of flammable and combustible liquids is dependent on the class of liquid, storage arrangement, container size and level of sprinkler protection. For nonsprinklered buildings, the maximum allowable quantity per control area permitted by Table 5704.3.4.1 of SBC 801 is 6055 L of Class IB, IC, II and IIIA liquids with a maximum of 225 L of Class IA liquids. Depending on storage and ceiling heights, buildings equipped with a sprinkler system with a minimum design density for an Ordinary Hazard Group 2 occupancy may have an aggregate total of 28 390 L of Class IB, IC, II, and IIIA liquids with a maximum of 225 L of Class IA liquids. The quantities of Class IB, IC, II and IIIA liquids could be further increased.
+
+===== Page 0214 =====
+depending on the potential storage conditions and enhanced degree of sprinkler protection (see Section 5704.3.4.1 of SBC 801 for additional design information). Again, it should be noted that, despite the increased quantities far exceeding the base quantity limitations of Table 307.1(1), compliance with this item would result in the building not being classified as a Group H occupancy.
+
+Item 3 exempts from Group H classification closed systems that are used exclusively for the operation of machinery or equipment. The closed piping systems, which are essentially not open to the atmosphere, keep flammable or combustible liquids from direct exposure to external sources of ignition and prevent the users from coming in direct contact with liquids or harmful vapors. This item would include systems such as oil-burning equipment, piping for diesel fuel generators and LP-gas cylinders for use in forklift trucks.
+
+Item 4 allows cleaning establishments that utilize a closed system for all combustible liquid solvents with a flash point at or above  \( 60^{\circ} \) C to be classified as something other than Group H. The reference to using equipment listed by an approved testing laboratory does not mean that the entire system needs to be approved, but rather the individual pieces of equipment. As with any mechanical equipment or appliance, it should bear the label of an approved agency and be installed in accordance with the manufacturer's installation instructions [see SBC 501].
+
+Item 5 exempts cleaning establishments that use solvents that have very high flash points [at least  \( 93^{\circ} \) C] and that are exceedingly difficult to ignite. Such liquids can be used openly, but with due care.
+
+Item 6 exempts refrigeration systems that utilize refrigerants that may be flammable or toxic. Refrigeration systems do not alter the occupancy classification of the building, provided they are installed in accordance with SBC 501. SBC 501 has specific limitations on the quantity and type of refrigerants that can be used, depending on the occupancy classification of the building.
+
+Item 7 exempts materials that are used for agricultural purposes, such as fertilizers, pesticides and fungicides, when used on the premises. Agricultural materials stored for direct or immediate use are not usually of a quantity large enough to constitute a large fuel load or an exceptionally hazardous condition. A Group H classification is not appropriate for these situations.
+
+Item 8 exempts storage battery systems from the Group H classification provided they are installed in accordance with SBC 801. The installation provisions are found in Section 1207 of SBC 801.
+Without Item 9, certain products that technically are corrosive could cause grocery stores and other mercantile occupancies to be inappropriately classified as Group H-4. This item allows the maximum allowable quantity per control area in Table 307.1(2) for corrosives to be exceeded in the retail display area. This would include such things as bleaches, detergents and other household cleaning supplies in normal-size containers.
+
+Item 10 exempts the storage or manufacture of commonly used corrosive building materials, such as Portland cement, from being inappropriately classified as Group H.
+
+The aerosol storage requirements in SBC 801, referred to in Item 11, are based on the provisions of NFPA 30B. Compliance with this item exempts buildings and structures used for storage from the Group H classification, provided the storage of aerosol products complies with applicable separation, storage limitations and sprinkler design requirements specified in SBC 801 and NFPA 30B.
+
+Item 12 permits certain products found in mercantile and storage occupancies, which may be composed of hazardous materials, to exceed the maximum allowable quantity per control area of Tables 307.1(1) and 307.1(2). The products, however, must be composed of solids or liquids that are nonflammable or noncombustible. Materials could include swimming pool chemicals, which are typically Class 2 or 3 oxidizers, or industrial corrosive cleaning agents (see commentary, Section 414.2.5).
+
+Item 13 permits the base maximum allowable quantity per control area of black powder, smokeless propellant and small arms primers in Groups M and R-3 occupancies to be exceeded, provided the material is stored in accordance with Chapter 56 of SBC 801. The requirements are based on the provisions in NFPA 495. Similarly, special industrial explosive devices are found in a number of occupancies other than Group H (Groups B, F, M and S). Storage of these devices in accordance with SBC 801 is not required to have a high-hazard Group H occupancy classification. Power drivers are commonly used in the construction industry, and there are stocks of these materials maintained for sale and use by the trade. The automotive airbag industry has evolved with the use of these devices, and they are located in automotive dealerships and personal use vehicles throughout society. SBC 801 currently exempts up to 23 kg of these materials from regulation under Chapter 56 (explosives).
+
+===== Page 0215 =====
+Item 14 exempts fuel cell power systems, which generate energy through the conversion of the chemical energy of a fuel and oxidant via an electrochemical process. Where the system complies with Section 1206 of SBC 801, it need not be classified as Group H.
+
+Item 15 exempts capacitor energy storage systems. Installation provisions are found in Section 1207.3 of SBC 801. Where installed and operated in accordance with SBC 801 provisions, such systems are not Group H. Item 16 exempts laboratories used for both education and research purposes in universities and colleges. Chapter 38 of SBC 801 and Section 428 of this code establish construction and operational requirements that allow such laboratories to be Group B rather than Group H.
+
+307.2 Hazardous materials. Hazardous materials in any quantity shall conform to the requirements of this code, including Section 414, and SBC 801.
+
+The use of high-hazard materials must be regulated in accordance with Sections 414 and 415 as well as the applicable requirements of SBC 801. While the building may be exempt from a high-hazard occupancy classification (i.e., Group H-1, H-2, H-3, H-4 or H-5), any potential hazard with regard to the use or storage of any hazardous material, regardless of quantity, must be abated. Occupancies that are classified as a Group H occupancy must also meet the requirements of Section 415.
+
+307.3 High-hazard Group H-1. Buildings and structures containing materials that pose a detonation hazard shall be classified as Group H-1. Such materials shall include, but not be limited to, the following:
+
+• Detonable pyrophoric materials
+
+• Explosives:
+
+Division 1.1
+
+Division 1.2
+
+Division 1.3
+
+Division 1.4
+
+Division 1.5
+
+Division 1.6
+
+• Organic peroxides, unclassified detonable
+
+• Oxidizers, Class 4
+
+• Unstable (reactive) materials, Class 3 detonable and Class 4
+
+The contents of occupancies in Group H-1 present a detonation hazard. Examples of materials that create this hazard are listed in the section. The definitions for Group H-1 materials are provided in Chapter 2. Because of the explosion hazard potential associated with Group H-1 materials, occupancies in Group H-1, which exceed the maximum allowable quantity per control area indicated in Table 307.1(1), are required to be located in detached one-story buildings without basements (see commentary, Sections 415.6.5, 415.7 and 508.1). Group H-1 occupancies cannot be located in a mixed-occupancy building.
+
+307.3.1 Occupancies containing explosives not classified as H-1. The following occupancies containing explosive materials shall be classified as follows:
+
+1 Division 1.3 explosive materials that are used and maintained in a form where either confinement or configuration will not elevate the hazard from a mass fire to mass explosion hazard shall be allowed in H-2 occupancies.
+
+2 Articles, including articles packaged for shipment, that are not regulated as a Division 1.4 explosive under the relevant Authority, or unpackaged articles used in process operations that do not propagate a detonation or deflagration between articles shall be allowed in H-3 occupancies.
+
+There are certain explosive materials that pose a hazard level less than that anticipated for a Group H-1 occupancy. A Group H-2 classification is permitted for Division 1.3 explosive materials used or maintained under conditions where the hazard level will not rise from that of a mass fire hazard to a mass explosion hazard. A Group H-3 classification is permitted for packaged and unpackaged articles not regulated as Division 1.4 by authority, Firearms and Explosives, as well as unpackaged articles used in process operations, provided there is no concern regarding the propagation of a detonation or deflagration between the articles during process operations.
+
+307.4 High-hazard Group H-2. Buildings and structures containing materials that pose a deflagration hazard or a hazard from accelerated burning shall be classified as Group H-2. Such materials shall include, but not be limited to, the following:
+
+- Class I, II or IIIA flammable or combustible liquids that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than 103.5 kPa.
+
+- Combustible dusts where manufactured, generated or used in such a manner that the concentration and conditions create a fire or explosion hazard based on information
+
+===== Page 0216 =====
+prepared in accordance with Section 414.1.3.
+
+• Cryogenic fluids, flammable.
+
+• Flammable gases.
+
+• Organic peroxides, Class I.
+
+Oxidizers, Class 3, that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than gauge (103.5 kPa)
+
+• Pyrophoric liquids, solids and gases, non-detonable.
+
+• Unstable (reactive) materials, Class 3, non-detonable.
+
+• Water-reactive materials, Class 3.
+
+The contents of occupancies in Group H-2 present a deflagration or accelerated burning hazard. Examples of materials that create this hazard are listed. The definitions for Group H-2 materials are contained in Section 202. Because of the severe fire or reactivity hazard associated with these types of materials, proper classification is essential in determining the applicable requirements with regard to the mitigation of these hazards.
+
+307.5 High-hazard Group H-3. Buildings and structures containing materials that readily support combustion or that pose a physical hazard shall be classified as Group H-3. Such materials shall include, but not be limited to, the following:
+
+• Class I, II or IIIA flammable or combustible liquids that are used or stored in normally closed containers or systems pressurized at 103.5 kPa or less.
+
+• Combustible fibers, other than densely packed baled cotton, where manufactured, generated or used in such a manner that the concentration and conditions create a fire or explosion hazard based on information prepared in accordance with Section 414.1.3.
+
+• Consumer fireworks, 1.4G (Class C, Common)
+
+• Cryogenic fluids, oxidizing.
+
+• Flammable solids
+
+• Organic peroxides, Class II and III
+
+• Oxidizers, Class 2
+
+• Oxidizers, Class 3, that are used or stored in normally closed containers or systems pressurized at 103.5 kPa or less Oxidizing gases.
+
+• Unstable (reactive) materials, Class 2
+
+• Water-reactive materials, Class 2
+The contents of occupancies in Group H-3 present a hazard in as much as they contain materials that readily support combustion or that present a physical hazard. Examples of materials that create this hazard are listed. The definitions for Group H-3 materials are contained in Section 202. While Group H-3 materials are generally less of a fire or reactivity hazard than Group H-2 materials, they still present a greater physical hazard than materials not currently regulated as high hazard.
+
+307.6 High-hazard Group H-4. Buildings and structures containing materials that are health hazards shall be classified as Group H-4. Such materials shall include, but not be limited to, the following:
+
+• Corrosives
+
+• Highly toxic materials
+
+• Toxic materials
+
+The contents of occupancies in Group H-4 present a hazard inasmuch as they contain materials that are health hazards. Examples of materials that create these hazards are listed in this section. The definitions for Group H-4 materials are contained in Section 202. While reference is made to chemicals that cause these hazards, the safety data sheets for these chemicals, which are furnished by the applicant, will need considerable subjective evaluation. Some materials falling into the category of health hazard may also present a physical hazard and would, therefore, require the structure to be designed for multiple hazards in accordance with Section 307.8.
+
+307.7 High-hazard Group H-5. Semiconductor fabrication facilities and comparable research and development areas in which hazardous production materials (HPM) are used and the aggregate quantity of materials is in excess of those specified in Table 307.1(1) and Table 307.1(2) shall be classified as Group H-5. Such facilities and areas shall be designed and constructed in accordance with Section 415.11.
+
+HPM includes flammable liquids and gases, corrosives, oxidizers and, in many instances, highly toxic materials (see the definition for "Hazardous production material" in Section 202). In determining the applicable requirements of other sections of the code, HPM facilities are considered to be Group H-5 occupancies. It is intended that the quantities of materials permitted in Table 415.11.1.1.1 will take precedence over Table 307.1(1) and Table 307.1(2).
+
+307.8 Multiple hazards. Buildings and structures containing a material or materials
+
+===== Page 0217 =====
+representing hazards that are classified in one or more of Groups H-1, H-2, H-3 and H-4 shall conform to the code requirements for each of the occupancies so classified.
+
+If materials are present that possess characteristics of more than one Group H, high-hazard occupancy, then the structure must be designed to protect against the hazards of each relevant high-hazard occupancy classification. For example, a material could be classified as both a Class 2 oxidizer (Group H-3) and a corrosive (Group H-4). If the given quantity exceeded the maximum allowable quantity per control area individually for both a Class 2 oxidizer and a corrosive, the structure is required to conform to the applicable requirements of both Groups H-3 and H-4.
+
+## SECTION 308 INSTITUTIONAL GROUP I
+
+308.1 Institutional Group I. Institutional Group I occupancy includes, among others, the use of a building or structure, or a portion thereof, in which care or supervision is provided to persons who are or are incapable of self-preservation without physical assistance or in which persons are detained for penal or correctional purposes or in which the liberty of the occupants is restricted. Institutional occupancies shall be classified as Group I-1, I-2, I-3 or I-4.
+
+Institutional occupancies are composed of two basic types. The first includes Groups I-1, I-2 and I-4 and relates to facilities where personal care, custodial care or medical care is provided for people who due to age, physical limitations, diseases, mental disabilities or other infirmities need a supervised environment (see the commentary for the definitions of "Personal care," "Custodial care" and "Medical care"). This includes persons who are ambulatory and are capable of self-preservation as well as those who are restricted in their mobility or are totally immobile to the extent that they are incapable of self-preservation and therefore may need assistance to evacuate during an emergency situation, such as a fire. SBC 801 also addresses the idea of a defend-in-place protection option for hospitals and nursing homes (see the commentary for the definition of "Incapable of self-preservation" and SBC 801 Chapter 4 Commentary). The second type, Group I-3, relates primarily to detention and correctional facilities. Since security is the major operational consideration in these kinds of facilities, the occupants (inmates) are under some form of supervision and restraint and may be rendered incapable of self-preservation without direct intervention from staff in emergency situations due to locked cells and exits.
+The degree of hazards in each type of institutional facility identified in this section varies respectively to each kind of occupancy. The code addresses each occupancy separately and the regulatory provisions throughout the code provide the proper means of protection so as to produce an acceptable level of safety to life and property.
+
+Groups I-1, I-2 and I-3 are further divided into "conditions" relative to unique aspects of the respective occupancies. Groups I-1 and R-4 are closely related and are primarily distinguished by the number of persons residing in the facility (see Section 308.2).
+
+Another of the distinguishing characteristics between the different Group I occupancies and other occupancies is when care is provided for a length of time exceeding 24 hours. The intent is that these criteria are not specific to the hours of operation of the facility, but the length of time that care is provided for care recipients, residents or those in day care. For example, an outpatient clinic that is open 24 hours a day is a Group B occupancy, provided care recipients are treated as outpatients and there are no inpatients who would stay at the facility 24 hours or longer. In the Group I-2 setting, care recipients are in for several days for a surgery or acute medical reason in a hospital (Group I-2, Condition 2), or a much more extended stay requiring care for a chronic condition in a nursing home (Group I-2, Condition 1). Another example would be a "day care" facility that is open 24 hours to serve workers who work any shift and need to have children in "day care" while they work. Provided that individual children receive care for less than 24 hours, the occupancy would be classified as Group I-4 or possibly Group E.
+
+Each individual facility will have unique characteristics or a combination of characteristics that should be considered when classifying it as one occupancy and condition or another. For example, some of the newer care facilities are offering a combination of care levels to allow for persons to age in place within the same complex. A facility could easily have a mix of occupancies such as one wing providing full-time nursing care (Group I-2, Condition 1); a second wing with assisted living care for residents with dementia who may need some direct physical contact from staff to react to an emergency (Group I-1, Condition 2); and yet a third wing with custodial care where residents are capable of responding to an emergency on their own (Group I-1, Condition 1). Health care and custodial care facilities are subject to Law. Such regulations may factor in which SBC 201 occupancy classification is appropriate. Commentary Figure 308.1
+
+===== Page 0218 =====
+provides a summary of care facility classifications.
+
+308.2 Institutional Group I-1. Institutional Group I-1 occupancy shall include buildings, structures or portions thereof for more than 16 persons, excluding staff, who reside on a 24-hour basis in a supervised environment and receive custodial care. Buildings of Group I-1 shall be classified as one of the occupancy conditions specified in Section 308.2.1 or 308.2.2 and shall comply with Section 420. This group shall include, but not be limited to, the following:
+
+• Assisted living facilities.
+
+• Congregate care facilities
+
+• Group homes
+
+• Halfway houses
+
+• Residential board and care facilities
+
+• Social rehabilitation facilities
+
+Groups I-1 and R-4 are similar facilities that differ only by the number of residents receiving care. Group I-1 has more than 16 residents while Group R-4 has six to 16 residents. Group I-1 and R-4 occupancies are based on three characterizations described in the occupancy classification: custodial care is provided, there is 24-hour-a-day supervision, and they are either Condition 1 or Condition 2 in terms of occupant evacuation capabilities.
+
+Group I-1 and R-4 occupancies are limited facilities where custodial care is provided and not where medical care is provided. See the definitions for “Custodial care” and “Medical care.” Group I-1 and R-4 occupancies list the same seven generic uses as examples. Of these seven, only “Group home” is defined (see commentary in Chapter 2). Some of these terms may be used in regulations of care facilities.
+
+Group I-1 and R-4 include “conditions” to cover the variety of acuity and ability levels of custodial care recipients. The intent of the conditions was to address concerns that some residents may need limited physical assistance or verbal direction to evacuate. Condition 1 care recipients may be slower during evacuation, but all are capable of emergency evacuation without any assistance from others. Condition 2 care recipients are also slower to evacuate and include any care recipients who may require limited physical or verbal assistance during evacuation. Residents with dementia fall into this category if they are able to evacuate with limited assistance. Group I-1/R-4, Condition 2 integrates additional protection features, such as smoke barriers to subdivide the building as well as increased automatic sprinkler requirements.
+In Group I-1/R-4, Condition 2 facilities, assistance with evacuation can occur because of care recipients' physical or mental limitations, or both. Condition 2 assistance with evacuation includes help getting out of bed and into a wheelchair or to a walker, or help initiating ambulation. It also includes continued physical assistance getting out of the building by various methods, including supporting someone as they climb or descend stairs or pushing a wheelchair to speed evacuation for a resident who can normally self-propel. Assistance with evacuation includes assisting persons who may have resistance or confusion in response to an alarm, or require help with instructions. It can also include help for persons with short periods of impaired consciousness due to medications or illness. Group I-1/R-4, Condition 2 evacuation assistance does not include moving occupants in beds or stretchers during emergencies, as is allowed in Group I-2 medical care.
+
+How individual state licensing agencies name, classify and regulate many of the uses listed in Groups I-1 and R-4 vary significantly from state to state and may not correlate with SBC 201 classifications. It is for this reason that the Groups I-1 and R-4 list of uses is included under the general occupancy classifications and not under each "condition." The building permit applicant should confirm how the specific state licensing regulations correlate to the code's care type, occupancy, condition, evacuation capability and number of persons receiving care. The permit application drawings should identify the five criteria, while specifically noting that the state licensing regulations limit occupants to only include Condition 1 criteria, or allow Condition 2 criteria. Some assisted living facilities and residential board and care facilities will be classified as Group I-1, Condition 1 or Group R-4, Condition 1. Generally, many assisted living and residential care facilities and almost all specially designated Alzheimer's/memory care/dementia facilities providing custodial care will be classified as Group I-1, Condition 2 or Group R-4, Condition 2. Also, it is important to keep in mind that facilities that may be classified initially as Group I-1/R-4, Condition 1 (capable of self-preservation) may need to be reclassified as Group I-1/R-4, Condition 2 if the abilities of the persons receiving care change over time. Generally, state regulations require moving residents to another facility once they need medical care.
+
+The occupant load for occupancy classification purposes refers to the number of care recipients only. The number of guests or staff is not included. Note, however, that the number
+
+===== Page 0219 =====
+of guests and staff is included for means of egress purposes.
+
+For clarification purposes, a dormitory or apartment complex that houses only elderly people and has a nonmedically trained live-in manager is not classified as an institutional occupancy but rather as a residential occupancy (see Section 310). A critical phrase in the code to consider when evaluating this type of facility is "live in a supervised residential environment." Such dormitories or apartment complexes may contain features such as special emergency call switches that are located in each dwelling unit and monitored by health center staff. These emergency call switches are a convenience and do not necessarily indicate infirmity of the care recipients.
+
+See the commentary to Section 420 and the definition for “Custodial care.”
+
+308.2.1 Condition 1. This occupancy condition shall include buildings in which all persons receiving custodial care who, without any assistance, are capable of responding to an emergency situation to complete building evacuation.
+
+See the commentary to Section 308.2.
+
+308.2.2 Condition 2. This occupancy condition shall include buildings in which there are any persons receiving custodial care who require limited verbal or physical assistance while responding to an emergency situation to complete building evacuation.
+
+See the commentary to Section 308.2.
+
+308.2.3 Six to 16 persons receiving custodial care. A facility housing not fewer than six and not more than 16 persons receiving custodial care shall be classified as Group R-4.
+
+Any building that has the characteristics of a Group I-1 occupancy but has more than five and not more than 16 persons receiving custodial care is classified as Group R-4 (see Section 310.5). Ninety-eight percent of households in the U.S. have less than 16 occupants, thus the limit of 16 is considered appropriate for a residential occupancy. Similar to Group I-1, Group R-4 is also divided into Conditions 1 and 2.
+
+308.2.4 Five or fewer persons receiving custodial care. A facility with five or fewer persons receiving custodial care shall be classified as Group R-3 or shall comply with SBC 1101/1102 provided an automatic sprinkler system is installed in accordance with Section 903.3.1.3 or Section 2904 of SBC 1101/1102.
+
+Any building that has the characteristics of a Group I-1 occupancy (Condition 1 or 2, or both) but has five or fewer persons receiving custodial care is classified as Group R-3 (see Section 310.4) or may be constructed in accordance with SBC 1101/1102 (see Section 310.4.1). When the code allows compliance in accordance with SBC 1101/1102, the only requirements that would apply would be those of SBC 1101/1102, including the installation of an automatic sprinkler system. The intent is to allow persons to be cared for in a residential, or home, environment, often by family members. Please note similar provisions for Group E occupancies as well as Groups I-2 and I-4.
+
+308.3 Institutional Group I-2. Institutional Group I-2 occupancy shall include buildings and structures used for medical care on a 24-hour basis for more than five persons who are incapable of self-preservation. This group shall include, but not be limited to, the following:
+
+• Foster care facilities
+
+• Detoxification facilities
+
+• Hospitals
+
+• Nursing homes
+
+• Psychiatric hospitals
+
+An occupancy classified in Group I-2 is characterized by three conditions: it is a health care facility where the level of care offered is medical care; there is 24-hour-a-day medical supervision for the individuals receiving care; and care recipients/residents require physical assistance by staff or others to reach safety in an emergency situation (see the definitions for "Custodial care," "Medical care," and "24-hour basis" as well as the five facility examples listed). Where a facility offers medical care instead of custodial care, it is assumed that residents may not be capable of self-preservation.
+
+Due to the diversification of how medical care is provided in the five characteristic occupancies currently specified in SBC 201 for Group I-2 occupancies, the Group I-2 occupancy has been split into two basic conditions: Condition 1, nursing homes and foster care; and Condition 2, short-term acute care (hospitals and detoxification facilities). Although both subsets are based on medical treatment and are occupancies in which the occupants are protected with a defend-in-place method of safety, changes in the delivery of care in the two conditions have changed in the past 10 to 20 years. Some examples of these changes include:
+
+• Within hospitals, there has been a general increase in the floor area per patient due to the increase in diagnostic equipment and the
+
+===== Page 0220 =====
+movement toward single-occupant patient rooms.
+
+Within nursing homes, there has been a trend to provide more residential-type accommodations, such as group/suite living, gathering areas and cooking facilities in residential areas.
+
+The most common examples of facilities classified in Group I-2 are hospitals (Condition 2) and nursing homes (Condition 1) [see Commentary Figures 308.3(1) and 308.3(2)]. Other facilities included are detoxification facilities, foster care facilities and psychiatric hospitals. It is for this reason that the Group I-2 list of uses is included under the general occupancy classification and not under each "condition."
+
+The benefit to the “condition” concept is that a majority of code requirements will still apply to all Group I-2 occupancies as well as allow the provision of specific code requirements that apply to different levels of care and acuity that are found in different facility types, thus allowing the establishment of specific code requirements that are based on the operation of the facility. See Commentary Figure 308.1. It is not uncommon to find dining rooms (Group A-2), staff offices (Group B), gift shops (Group M), laundries (Group F) and other nonmedically related areas in buildings otherwise classified as Group I-2. Where such other occupancies occur, the building is considered as a mixed occupancy and subject to the provisions of Section 508. In addition to the general requirements contained in this section, Section 407 contains specific requirements for Group I-2.
+
+308.3.1 Occupancy conditions. Buildings of Group I-2 shall be classified as one of the occupancy conditions specified in Section 308.3.1.1 or 308.3.1.2 and shall comply with Section 407.
+
+Sections 308.3.1.1 and 308.3.1.2 provide the distinction between Condition 1 and Condition 2 for the Group I-2 occupancy. Section 407 provides many requirements that apply to both conditions under the Group I-2 occupancy. This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Sections 407, 425 and 427 and the definitions for "24-hour basis," "Care suite," "Clinic, outpatient," "Detoxification facilities," "Hospital and psychiatric hospitals," "Incapable of self-preservation," "Medical care" and "Nursing homes."
+
+308.3.1.1 Condition 1. This occupancy condition shall include facilities that provide nursing and medical care but do not provide emergency care, surgery, obstetrics or in-patient stabilization units for psychiatric or detoxification, foster care facilities.
+
+The principal use in this category is nursing homes, which are typically facilities providing long-term medical care but not the types of acute care typically found in hospitals. Foster care facilities, by the Chapter 2 definition, are where children up to the age of 21/2 receive care. Foster care for more than five infants and toddlers would also be classified as Group I-2. Condition 1. Foster care facilities that provide care for five or more children older than age 21/2 would typically be Group I-1/R-4. Condition 1 based on supervised living and capability of the residents.
+
+308.3.1.2 Condition 2. This occupancy condition shall include facilities that provide nursing and medical care and could provide emergency care, surgery, obstetrics or in-patient stabilization units for psychiatric or detoxification, including but not limited to hospitals.
+
+Hospitals and psychiatric hospitals are both included in the Condition 2 category of the Group I-2 occupancy. Treatment is usually for periods longer than 24 hours and provides a higher level of medical care not typically available in long-term nursing care facilities. Hospitals typically contain departments for emergency services, surgery, imaging (X-ray, CT, MRI, etc.), intensive care for especially acute conditions and medical/surgical bed units for treatment and recovery under the care of doctors and nurses. Specialties such as obstetrics, psychiatric care, cardiac care and other medical disciplines are present based on the community need and expertise.
+
+This occupancy has individuals “rendered incapable of self-preservation,” which is to say that during a procedure or treatment, anesthesia is used to temporarily place someone in a condition to perform the procedure or treatment. Therefore, from an exiting standpoint, evacuating the building is very rare. Instead, compartmentalization into smoke zones or fire compartments is a strategy to keep the majority of the building occupants safe in case of a fire or emergency event.
+
+Key components to building safety in Group I-2 occupancies include fully sprinklerin per NFPA 13 requirements and limiting opportunities for fire by adherence to longstanding code.
+
+Hospital (Group I-2, Condition 2) facilities typically have more than five care recipients, especially those that have been rendered incapable of self-preservation. The number of five comes from having two care recipients in a pre-operative mode, at least one care recipient
+
+===== Page 0221 =====
+actively undergoing a procedure, and two care recipients recovering from the procedure. This process demonstrates the continuum of procedural care; around which other functions of the hospital circulate. This logic can also be applied to inpatients receiving care, either in medical/surgical or inpatient psychiatric care, which usually involves some level of medication rather than procedural intervention.
+
+308.3.2 Five or fewer persons receiving medical care. A facility with five or fewer persons receiving medical care shall be classified as Group R-3 or shall comply with SBC 1101/1102 provided an automatic sprinkler system is installed in accordance with Section 903.3.1.3 or Section 2904 of SBC 1101/1102.
+
+Any facility that has the characteristics of a Group I-2 occupancy but does not have more than five persons receiving care at any one time is to be classified as a Group R-3 occupancy (see Section 310.4). As an option, the facility may be designed and constructed under the provisions of SBC 1101/1102, provided the building has a sprinkler system (see Section 310.4.1). The intent is to allow persons to be cared for in a residential, or home, environment, often under the care of family members. The persons receiving the care do not need to be capable of self-preservation. The sprinkler system is to comply with the requirements for an NFPA 13D system or those of Section 2904 of SBC 1101/1102. Please note similar provisions for Group E occupancies as well as Groups I-1 (see Section 308.2.4) and I-4 (See Section 308.5.4). See Commentary Figure 308.1.
+
+308.4 Institutional Group I-3. Institutional Group I-3 occupancy shall include buildings and structures that are inhabited by more than five persons who are under restraint or security. A Group I-3 facility is occupied by persons who are generally incapable of self-preservation due to security measures not under the occupants' control. This group shall include, but not be limited to, the following:
+
+• Correctional centers
+
+• Detention centers
+
+• Jails
+
+• Prerelease centers
+
+• Prisons
+
+• Reformatories
+
+Buildings of Group I-3 shall be classified as one of the occupancy conditions specified in Sections 308.4.1 through 308.4.5 and shall comply with Section 408.
+An occupancy classified in Group I-3 is characterized by three conditions: it is a location where persons are under restraint or where security is closely supervised; there are more than five such persons; and they are not capable of self-preservation because the conditions of confinement are not under their control (i.e., they require assistance by the facilities' staff to reach safety in an emergency situation). For occupancy classification purposes, the provision refers to the number of persons being secured or restrained only. The number of guests and staff is not included. Please note, however, that the number of guests and staff is included for means of egress purposes.
+
+Buildings that have the characteristics of a Group I-3 occupancy but contain five or fewer persons under restraint are not included in the Group I-3 occupancy. In such cases, the building official will need to use the guidance provided by Section 302.1 and classify the occupancy as something it most resembles. For example, a small holding cell associated with a courtroom would most appropriately be classified with the courtroom. Regardless of the occupancy classification, the means of egress provisions for places of restraint will still be applicable (see Chapter 10).
+
+It is recognized that not all Group I-3 occupancies have the same level of restraint. Thus, to distinguish these different levels, the code defines five different conditions of occupancy based on the degree of access to the exit discharge.
+
+The five occupancy conditions are summarized in Commentary Figure 308.4. See the commentary to Section 408 and the definitions for “Cell,” “Cell tier” and “Housing unit.” In addition to the general requirements contained in this section, Section 408 contains specific requirements for Group I-3.
+
+308.4.1 Condition 1. This occupancy condition shall include buildings in which free movement is allowed from sleeping areas, and other spaces where access or occupancy is permitted, to the exterior via means of egress without restraint. A Condition 1 facility is permitted to be constructed as Group R.
+
+Condition 1 areas are those where the secured persons have unrestrained access to the exterior of the building. As such, a key or remote-control release device is not needed for any occupant to reach the exterior of the building (exit discharge) at any time. These types of buildings are referred to as low-security facilities. A work-release center is a typical Condition 1 facility (see Commentary Figure 308.4.1).
+
+===== Page 0222 =====
+Because of the lack of restraint associated with a Condition 1 building, it resembles a residential use more than a detention facility and, therefore, is permitted to be classified in Group R (see Section 310).
+
+308.4.2 Condition 2. This occupancy condition shall include buildings in which free movement is allowed from sleeping areas and any other occupied smoke compartment to one or more other smoke compartments. Egress to the exterior is impeded by locked exits.
+
+Condition 2 areas are those in which the movement of the persons under restraint is not controlled within the exterior walls of the building (i.e., the occupants have unrestrained access within the building). As such, there is free movement by such persons between smoke compartments (as created by smoke barriers); however, the restrained persons must rely on someone else to allow them to exit the building to the area of discharge. This is illustrated in Commentary Figure 308.4.2.
+
+308.4.3 Condition 3. This occupancy condition shall include buildings in which free movement is allowed within individual smoke compartments, such as within a residential unit composed of individual sleeping units and group activity spaces, where egress is impeded by remote-controlled release of means of egress from such a smoke compartment to another smoke compartment.
+
+Condition 3 areas are those in which free movement by the persons under restraint is permitted within an individual smoke compartment. However, movement of such persons from one smoke compartment (as created by smoke barriers) to another smoke compartment and from within the building to the exterior (exit discharge) is controlled by remote release locking devices. As such, the restrained persons in the facility are dependent on the staff for their release from each smoke compartment or to the exterior (exit discharge). This condition is illustrated in Commentary Figure 308.4.3.
+
+308.4.4 Condition 4. This occupancy condition shall include buildings in which free movement is restricted from an occupied space. Remote-controlled release is provided to permit movement from sleeping units, activity spaces and other occupied areas within the smoke compartment to other smoke compartments.
+
+Condition 4 areas are those in which the movement of restrained persons from any room or space within a smoke compartment (as created by smoke barriers) to another smoke compartment or to the exterior (exit discharge) is controlled by remote-release locking devices. Any movement within the facility requires activation of a remote-control lock system to release the designated area (see Commentary Figure 308.4.4). The persons being restrained or secured within a Condition 4 area must rely on an activation system in the event of an emergency in order to evacuate the area.
+
+Condition 4 facilities most often are penal facilities where the restrained persons are considered relatively safe to handle in large groups. As such, many persons can be released simultaneously from their individual sleeping areas when they need to travel to dining areas or move to another area.
+
+308.4.5 Condition 5. This occupancy condition shall include buildings in which free movement is restricted from an occupied space. Staff-controlled manual release is provided to permit movement from sleeping units, activity spaces and other occupied areas within the smoke compartment to other smoke compartments.
+
+Condition 5 areas are those in which the persons being secured or restrained are not allowed free movement from a room or space within a smoke compartment (as created by smoke barriers) to another smoke compartment or to the exterior (exit discharge) unless the locking device controlling their area of confinement is manually released by a staff member. Once an occupant is released from an individual space, a staff member is responsible for unlocking all doors from that location to the next smoke compartment. This is the most restrictive occupancy condition, as each secured person must be released on an individual basis and escorted to other areas.
+
+Condition 5 facilities are most often used for maximum security or solitary confinement areas where the persons are considered to be dangerous to others, including staff members, and cannot safely be handled in large groups (see Commentary Figure 308.4.5).
+
+308.5 Institutional Group I-4, day care facilities. Institutional Group I-4 occupancy shall include buildings and structures occupied by more than five persons of any age who receive custodial care for fewer than 24 hours per day by persons other than parents or guardians, relatives by blood, marriage or adoption, and in a place other than the home of the person cared for. This group shall include, but not be limited to, the following:
+
+• Adult day care
+
+• Child day care
+
+Facilities that contain provisions for the custodial care of more than five persons of any age are classified as Group I-4 (see definitions of “Personal care” and “Custodial care”). Group I-4 facilities are less restrictive in some
+
+===== Page 0223 =====
+requirements (e.g., height and area) than the other Group I occupancies. Group I-4 facilities are intended to be used to provide care for less than 24 hours. Day care facilities are not intended to be a full-time residence for the people receiving care (see Sections 308.2 and 308.3). Staff members are assumed not to be related to individuals in day care facilities. The premise of the provisions is that the numbers receiving care are exclusive of staff. The care recipients in a Group I-4 occupancy are not expected to respond to an emergency without physical assistance from others. Group I-4 occupancies include both adult day care and child day care.
+
+Adult care facilities are assumed to be for people other than children who require some type of custodial (i.e., nonmedical) care. A facility where adults gather for social activities, such as a community center or a YMCA, is not an adult care facility (Group I) and would be regulated under other provisions of the code (Group A-3 or B). The classification of Group I-4 for an adult day care facility does not apply to facilities that provide personal care services for adults who are capable of responding to an emergency unassisted. In that case, the facility is simply classified into the occupancy group it most resembles. A facility providing a similar degree of custodial care for infants and toddlers on less than a 24-hour-per-day basis would be considered as a Group I-4-day care facility (see Sections 308.5.1).
+
+308.5.1 Classification as Group E. A child day care facility that provides care for more than five but not more than 100 children 2.5 years or less of age, where the rooms in which the children are cared for are located on a level of exit discharge serving such rooms and each of these childcare rooms has an exit door directly to the exterior, shall be classified as Group E.
+
+Children 2.5 years of age or less (i.e., infants and toddlers) are not typically capable of independently responding to an emergency and must be led or carried to safety. Under such circumstances, the infants and toddlers are considered non-ambulatory. Therefore, a Group I-4 classification is given to those facilities where six or more infants and toddlers receive custodial care for less than 24 hours per day. A similar condition is found in foster care facilities (Group I-2, Condition 1), where infants and toddlers stay for extended periods of time. The distinguishing factor between the two occupancies is the amount of time the facility provides care for each individual. Group I-2 facilities provide care on a 24-hour basis while in Group I-4 facilities, individual care must be less than 24 hours. It is also assumed that medical care is not present in Group I-4 facilities.
+
+A child day care facility in which the number of infants and toddlers is greater than five but not more than 100 is permitted to be classified as Group E, provided the infants and toddlers are all located in rooms on the level of exit discharge that serves such rooms and all of the rooms have exit doors directly to the exterior. This exception is only applicable to rooms and spaces used for child day care and is not intended to apply to accessory spaces such as restrooms, offices and kitchens. Many child day care facilities primarily catering to those under primary school age tend to divide the children into three general categories based on state laws and regulations. These include infant, toddler and preschool.
+
+Some variations do occur in that larger child day care facilities will have transition rooms for mobile infants or pre-K-oriented rooms for those entering kindergarten, but basically there is a mixture of children 21/2 years of age or less and older children. The older children can automatically be in a facility classified as a Group E occupancy (assuming no custodial care is provided), but for the younger children, this section would need to be applied to classify the entire occupancy as Group E. The total number of children can exceed 100 and the Group E classification can be retained, provided that the number of children 21/2 years of age or less is limited to 100. The infant and toddler rooms would need to have exits directly to the outside on the level of exit discharge. If this section is not applied, the entire facility would need to be classified as a mixed-occupancy facility of Groups E and I-4.
+
+By permitting the facility to be classified as Group E, the building would not be required to be sprinkled unless the fire area was greater than 115 m². A Group I-4 facility would be required to be sprinkled regardless of the area. But as a Group E occupancy, panic hardware would be required in rooms and spaces exceeding 50 occupants.
+
+See Commentary Figure 308.1.
+308.5.2 Location of Classrooms and Facilities. All classrooms and facilities designated for nursery and kindergarten stages (children under 6 years old) shall be located on the ground floor. Location on the first floor is permitted only under the conditions specified in Section 308.5.2.1
+
+308.5.2.1 First Floor Accessibility Requirements. In the event that nursery or kindergarten classrooms and facilities are located on the first floor, the following (a) and (b) requirements for ramp access shall be met:
+
+a) Ramp Slope: The ramp connecting the ground
+
+===== Page 0224 =====
+floor to the first floor shall have a maximum slope of 1:12 (one unit of vertical rise for every 12 units of horizontal run).
+
+b) Ramp Width and Railings: The ramp shall maintain a minimum clear width of 1.5 meters and shall be equipped with two handrails on both sides, designed and positioned to be suitable for children's use.
+
+308.5.3 Five or fewer persons receiving care. A facility having five or fewer persons receiving custodial care shall be classified as part of the primary occupancy.
+
+Where five or fewer persons receive custodial care in a facility other than a dwelling unit, the classification of the care area is to be consistent with that of the primary occupancy. The limited number of care recipients reduces the hazard level to the point that classification as a Group I-4 occupancy is not warranted.
+
+308.5.4 Five or fewer persons receiving care in a dwelling unit. A facility such as the above within a dwelling unit and having five or fewer persons receiving custodial care shall be classified as a Group R-3 occupancy or shall comply with SBC 1101/1102.
+
+Buildings that have five or fewer persons receiving custodial care within a dwelling unit are to be classified as Group R-3 or shall be constructed in accordance with SBC 1101/1102. The assumption is that this type of activity is possible in a residential environment where one or more family members are provided with the high level of care regulated by Section 308.5. Please note similar provisions for Group E occupancies as well as Groups I-1 and I-2.
+
+## SECTION 309 MERCANTILE GROUP M
+
+309.1 Mercantile Group M. Mercantile Group M occupancy includes, among others, the use of a building or structure or a portion thereof for the display and sale of merchandise, and involves stocks of goods, wares or merchandise incidental to such purposes and where the public has access. Mercantile occupancies shall include, but not be limited to, the following:
+
+• Department stores
+
+• Medical stores
+
+• Markets
+
+• Greenhouses for display and sale of plants that provide public access.
+
+• Motor fuel-dispensing facilities
+
+• Retail or wholesale stores
+
+• Sales rooms
+
+The characteristics of occupancies classified in Group M are contained in this section. Because mercantile occupancies normally involve the display and sale of large quantities of combustible merchandise, the fuel load in such facilities can be relatively high, potentially exposing the occupants (customers and sales personnel) to a high degree of fire hazard. Mercantile operations often attract large crowds (particularly in large department stores and covered and open malls and especially during weekends and holidays). There are two factors that alleviate the risks to life safety: the occupant load normally has a low to moderate density, and the occupants are alert, mobile and able to respond in an emergency situation. The degree of openness and the organization of the retail display found in most mercantile occupancies are generally orderly and do not present an unusual difficulty for occupant evacuation.
+
+Provided here are general descriptions of the kinds of occupancies that are classified in Group M. Mercantile buildings most often have both a moderate occupant load and a high fuel load, which is in the form of furnishings and the goods being displayed, stored and sold [see Commentary Figure 309.1(1)].
+
+The key characteristics that differentiate occupancies classified in Group M from those classified in Group B (see Section 304) are the larger quantity of goods or merchandise available for sale and the lack of familiarity of the occupants with the building, particularly its means of egress. To be classified in Group M, the goods that are on display must be accessible to the public. If a patron sees an item for sale, then that item is generally available for purchase at that time (i.e., there is a large stock of goods). If a store allows people to see the merchandise but it is not available on the premises, such as an automobile showroom, then the occupancy classification of business (Group B) should be considered. A mercantile building is open to the public, many of whom may not be regular visitors. A business building, however, is primarily occupied by regular employees who are familiar with the building arrangement and, most importantly, the exits. This awareness of the building and the exits can be an important factor in a fire emergency.
+
+Section 309.1 does not specifically include storage as part of the mercantile occupancy. Mercantile occupancies will usually operate either with most of their merchandise (stock) in open display, readily available for the public to see and access; or an operation could follow a model of display of a representative sample with quantities of the merchandise in back stockrooms open only to staff. Section 311.1.1 allows accessory storage to be classified as
+
+===== Page 0225 =====
+part of the principal occupancy. This would allow most typical retail stores to be of one classification—Group M and therefore not classifying the storage of merchandise as a Group S occupancy. The mixed-use occupancy approach is still an option and may offer benefits in determining allowed building height and area or other requirements such as sprinkler protection. It should be noted that Table 508.4 does not require a fire-resistance rating at the separation between Groups M and S-1.
+
+Automotive, fleet-vehicle, marine and self-service fuel-dispensing facilities, as defined in SBC 801, are classified in the mercantile occupancy, as are the convenience stores often associated with such occupancies [see Commentary Figure 309.1(2)]. Quick lube, tune-up, muffler and tire shops are not included in this classification. Those facilities that typically conduct automotive service and repair work are treated as a repair garage (Group S-1, also defined in SBC 801).
+
+Simply because a building containing a mercantile-type occupancy has a dense occupant load does not necessitate the need to classify the building as an assembly occupancy, unless the activity includes an assembly-type area where purchasing of goods is a group activity versus individual shoppers independently considering and purchasing merchandise. For example, a building in which auction sales occur may have a highly concentrated occupant load where the sales occur, but Section 309.1 describes mercantile occupancies as "the use of a building or structure or portion thereof for the display and sale of merchandise and involves stocks of goods, wares or merchandise incidental to such purposes and accessible to the public." In an auction, however, the activity is dominated by an assembly use of the space as people gather to conduct and participate in the auction. As such, auction spaces need to be assigned a Group A-3 occupancy (IBC Interpretation No. 38-03). The presence of highly concentrated occupant loads does not in itself mandate an assembly use classification unless the activity is assembly in nature versus large numbers of people pursuing individual activities of acquisition.
+
+309.2 Quantity of hazardous materials. The aggregate quantity of nonflammable solid and nonflammable or noncombustible liquid hazardous materials stored or displayed in a single control area of a Group M occupancy shall not exceed the quantities in Table 414.2.5(1).
+
+This section addresses an exception for control areas of mercantile occupancies containing certain nonflammable or noncombustible materials and health hazard gases that are stored in accordance with Table 414.2.5(1). This section allows Group H-4 materials, which pose a health hazard rather than a physical hazard, as well as limited Group H-2 and H-3 materials to be stored in both the retail display and stock areas of mercantile occupancies in excess of the maximum allowable quantity per control area of Table 307.1(1) and Table 307.1(2) without classifying the building as Group H. To correctly classify a building where products that have hazardous properties are stored and sold, the code user must also be aware of the provisions contained in Section 307.1, Notes c and n of Table 307.1(1) and Notes c and f of Table 307.1(2). These provisions give the quantity limitations for specific high-hazard products in mercantile display areas, including medicines, foodstuffs, cosmetics.
+
+Without this option, many mercantile occupancies could technically be classified as Group H. The increased quantities of certain hazardous materials are based on the recognition that, while there is limited risk in mercantile occupancies, the packaging and storage arrangements can be controlled. For further information on the storage limitations required for these types of materials in mercantile occupancies, see Section 5003.11 of SBC 801.
+
+309.3 Motor fuel-dispensing facilities. Motor fuel-dispensing facilities shall comply with Section 406.7.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 406.7
+
+## SECTION 310 RESIDENTIAL GROUP R
+
+310.1 Residential Group R. Residential Group R includes, among others, the use of a building or structure, or a portion thereof, for sleeping purposes when not classified as an Institutional Group I or when not regulated by SBC 1101/1102. Group R occupancies not constructed in accordance with SBC 1101/1102 as permitted by Sections 310.4.1 and 310.4.2 shall comply with Section 420.
+
+✓ Residential occupancies represent some of the highest fire safety risks of any of the occupancies detailed in Chapter 3. There are several reasons for this condition.
+
+Structures in the residential occupancy house the widest range of occupant types, i.e., infants to the aged, for the longest periods of time. As such, residential occupancies are more susceptible to the careless acts of the occupants; therefore, the consequences of exposure to the effects of fire are the most serious.
+
+===== Page 0226 =====
+Most residential occupants are asleep approximately one-third of every 24-hour period. When sleeping, they are not likely to become immediately aware of a developing fire. Also, if awakened from sleep by the presence of fire, the residents often may not immediately react in a rational manner and delay their evacuation.
+
+The fuel load in residential occupancies is often quite high, both in quantity and variety. Also, in the construction of residential buildings, it is common to use extensive amounts of combustible materials. Another portion of the fire problem in residential occupancies relates to the occupants' lack of vigilance in the prevention of fire hazards. In their own domicile or residence, people tend to relax and are often prone to allow fire hazards to go unabated; thus, in residential occupancies, fire hazards tend to accrue over an extended period of time and go unnoticed or are ignored.
+
+Most of the nation's fire problems occur in Group R buildings. In particular, one- and two-family dwellings account for more than 80 percent of all deaths from fire in residential occupancies and about two-thirds of all fire fatalities in all occupancies. One- and two-family dwellings also account for more than 80 percent of residential property losses from fire and more than one-half of all property losses from fire.
+
+Because of the relatively high fire risk and potential for loss of life in buildings classified in Groups R-1 (hotels and motels) and R-2 (apartments and dormitories), the code has stringent provisions for the protection of life in these occupancies. Group R-3 occupancies, however, are not generally considered to be in the same domain and, thus, are not subject to the same level of regulatory control as is provided in other occupancies.
+
+Because of the growing trend to care for people in a residential environment, small assisted living facilities are also classified as Group R. Specifically, these facilities are classified as Group R-4.
+
+A building or part of a building is considered to be a residential occupancy if it is intended to be used for sleeping accommodations (including assisted living facilities) and is not an institutional occupancy. Institutional occupancies are similar to residential occupancies in many ways. However, they differ from each other in that institutional occupants are in a supervised environment, and, in the case of Group I-2 and I-3 occupancies, are under some form of restraint or physical limitation that makes them incapable of complete self-preservation. The number of these occupants who are under supervision or are incapable of self-preservation is one distinguishing factor for being classified as an institutional or residential occupancy.
+
+The term Group R refers collectively to the four individual residential occupancy classifications: Groups R-1, R-2, R-3 and R-4. These classifications are differentiated in the code based on the following criteria:
+
+1. Whether the occupants are transient or non-transient in nature.
+
+2. The type and number of dwelling units or sleeping units contained in a single building.
+
+3. The number of occupants in the facility.
+
+SBC 1101/1102 and SBC 201 can be used to design detached single-family dwellings, duplexes and townhouses. Dwellings in SBC are limited to three stories in height. If a Group R facility is not scoped to SBC, the dwelling units must also comply with the additional criteria in Section 420 for items such as separation, sprinklers, alarms and cooking.
+
+310.2 Residential Group R-1. Residential Group R-1 occupancies containing sleeping units where the occupants are primarily transient in nature, including:
+
+• Boarding houses (transient) with more than 10 occupants Congregate living facilities (transient) with more than 10 occupants.
+
+• Hotels (transient)
+
+• Motels (transient)
+
+The key characteristic of Group R-1 occupancies that differentiates it from other Group R occupancies is that the occupants are considered transient in nature (i.e., those whose length of stay is not more than 30 days). There is an expectation that the occupants are not as familiar with the building as those residents in nontransient facilities such as apartment buildings (Group R-2) and single-family dwellings (Group R-3). If occupants are unfamiliar with their surroundings, they may not recognize potential hazards or be able to use the means of egress effectively.
+
+The most common building types classified in Group R-1 are hotels and motels. Facilities classified as Group R-1 occupancies may include dwelling units, sleeping units or a combination of both. A standard guestroom, with its associated bathroom, is considered a sleeping unit. Some hotels offer a style of rooms that can include spaces similar to a living room and kitchenette. When a unit is not equipped with a kitchen with full cooking facilities (i.e., range), it does not meet the definition of a "dwelling unit" in Section 202. Where this occurs, such units are treated as
+
+===== Page 0227 =====
+sleeping units for the application of code provisions (see Commentary Figure 310.2). A recent trend in development is the construction of “extended-stay hotels”. While these units may have all of the characteristics of a typical dwelling unit (i.e., cooking, living, sleeping, eating, sanitation), the length of stay is still typically not more than 30 days. As such, these buildings would still be classified as Group R-1. If the length of stay is more than 30 days, these buildings would be classified as Group R-2. If a hotel offers rooms for short-term housing (i.e., more than 30 days), the facility must comply with the provisions for both Groups R-1 and R-2 (see Section 302.1).
+
+Other occupancies are often found in buildings classified in Group R-1. These occupancies include restaurants (Group A-2), gift shops (Group M), business offices (Group B), health clubs (Group A-3) and storage facilities (Group S-1). When this occurs, the building is a mixed occupancy and is subject to the provisions of Section 508.
+
+Transient congregate living facilities and boarding houses with 10 or fewer occupants can be constructed to the standards of Group R-3 occupancies rather than the general category of Group R-1. The primary intent of this provision is to permit bed-and-breakfast-type facilities to be established in existing single-family (one-family) structures. In comparison to the provision under Group R-2, which permits congregate living facilities with fewer than 16 nontransient occupants to be built as a Group R-3, the Group R-3 "transient" facility is limited to 10 or fewer occupants in reflection of the nonfamiliarity of guests with the building and its evacuation routes.
+
+See Section 310.4.2 for lodging houses with five or fewer rooms to rent. While these are transient in nature, these facilities are specifically listed under Group R-3.
+
+310.3 Residential Group R-2. Residential Group R-2 occupancies containing sleeping units or more than two dwelling units where the occupants are primarily permanent in nature, including:
+
+• Apartment houses
+
+• Congregate living facilities (non-transient) with more than 16 occupants
+
+• Boarding houses (non-transient)
+
+• Dormitories
+
+• Hotels (non-transient)
+
+• Live/work units
+
+• Motels (non-transient)
+
+• Vacation timeshare properties
+
+The length of the occupants' stay plus the arrangement of the facilities provided are the basic factors that differentiate occupancies classified in Group R-2 from other occupancies in Group R. The occupants of facilities or areas classified in Group R-2 are primarily non-transient, capable of self-preservation and share their means of egress in whole or in part with other occupants outside of their sleeping unit or dwelling unit. Building types ordinarily classified in Group R-2 include apartments, nontransient hotels and motels, and different types of nontransient congregate living facilities, such as boarding houses where there are more than 16 occupants [see Commentary Figures 310.3(1) and 310.3(2)].
+
+Individual dwelling units in Group R-2 are either rented by tenants or owned by the occupants. The code does not make a distinction between either type of tenancy. Residential condominiums are treated in the code the same as Group R-2 apartments. Such condominiums are based on shared ownership of a building and related facilities. While an individual owner will have exclusive rights to a certain unit, the building, the lot the building sits on, parking, common recreational facilities and similar features are owned in common by all the owners of individual dwelling units. In most cases, condominiums do not establish separate lots and the walls between units are not sitting on lot lines. Another type of shared ownership is referred to as a "co-op," short for co-operative.
+
+Occasionally a condominium will establish actual lots and lot lines distinguishing individual ownership. When the dwelling unit is located on a separate parcel of land, lot lines defining the parcel exist and the requirements for fire separation must be met.
+
+A dwelling unit is defined in Section 202, and includes independent facilities for living, cooking, sleeping, eating and sanitation. Examples of sleeping units in a Group R-2 occupancy could be a bedroom in a congregate living facility, boarding house. The bedrooms provide independent provision for sleeping, but the living, sanitation and possibly kitchen facilities are shared. The new style of dormitory in colleges consists of two, three or four bedrooms with one or two single occupant bathrooms and a shared living space. These facilities are considered a sleeping unit. Only where there are full cooking and eating facilities (i.e., kitchen with a range) within the unit, is the unit considered a dwelling unit. The two-, three- or four-bedroom units operate similar to an apartment. Considering this group of rooms as a sleeping unit clarifies the separation requirements of Section 420. It allows for rated separations to be provided between adjoining groups of rooms but does
+
+===== Page 0228 =====
+not require individual bedrooms to be separated from the associated living room or bathrooms. This also clarifies that only the main corridors have fire alarms, and smoke detectors can be within the unit. Due to how universities administer dormitory assignments, the accessibility provisions in Section 1107 specify that bedrooms within sleeping units are counted separately for the purpose of determining the number of Accessible bedrooms required.
+
+When college classes are not in session, the sleeping units in dormitories are sometimes rented out for periods of less than 30 days to convention attendees and other visitors. When dormitories undergo this type of transient use, they more closely resemble Group R-1 and must comply with both Group R-1 and R-2 requirements.
+
+Buildings containing dormitories often contain other occupancies, such as cafeterias or dining rooms (Group A-2), recreation rooms (Group A-3), offices (Group B), and study and meeting rooms (Group A-3). When this occurs, the building is considered a mixed occupancy and is subject to the provisions of Section 508 [see Commentary Figure 310.3(2)].
+
+Included in the listing of Group R-2 are live/work units. A live/work unit is a dwelling unit or sleeping unit in which a significant portion of the space includes a nonresidential use operated by the tenant. Reflecting a growing trend in urban neighborhoods and the reuse of existing buildings, live/work units must comply with the provisions of Section 419. The intent of the congregate living facility reference is to better define when a congregate living facility is operating as a single-family home. The 16-occupant limit is also consistent with the limits of an NFPA 13D sprinkler system.
+
+310.4 Residential Group R-3. Residential Group R-3 occupancies where the occupants are primarily permanent in nature and not classified as Group R-1, R-2, R-4 or I, including:
+
+• Buildings that do not contain more than two dwelling units.
+
+- Care facilities that provide accommodations for five or fewer persons receiving care
+
+• Congregate living facilities (nontransient) with 16 or fewer occupants
+
+• Boarding houses (nontransient)
+
+• Dormitories
+
+• Congregate living facilities (transient) with 10 or fewer occupants
+
+• Boarding houses (transient)
+• Lodging houses (transient) with five or fewer guest rooms and 10 or fewer occupants
+
+Group R-3 facilities include all detached one-and two-family dwellings and multiple (three or more) single-family dwellings (townhouses) more than three stories in height. Those buildings three or less stories in height are not classified as Group R-3 and are regulated by SBC 1101/1102. Each pair of dwelling units in multiple single-family dwellings greater than three stories in height must be separated by fire walls (see Section 706) or by two exterior walls (see Table 705.5) in order to be classified as Group R-3. (Duplexes, buildings with two dwelling units, must be detached from other structures in order to be regulated by SBC 1101/1102.) A duplex attached to another duplex would be required to comply with the code and be classified as Group R-2 or R-3, depending on the presence of fire walls.
+
+Buildings that are classified as Group R-3, while limited in height, are not limited in the allowable area as indicated in Table 506.2.
+
+Buildings that are one- and two-family dwellings and multiple single-family dwellings less than three stories in height and that contain another occupancy (e.g., Groups B, M, I-4) must be regulated as a mixed occupancy in accordance with this code and are not permitted to be regulated by the provisions of the SBC 1101/1102 [see Commentary Figures 310.4(1) and 310.4(2)]. However, some mixed-use dwelling units may qualify as live/work units under Section 419 and be classified as a Group R-2 occupancy.
+
+In addition, congregate living facilities with no more than 16 nontransient occupants or no more than 10 transient occupants are to be classified as Group R-3.
+
+Group R-3 occupancies include small care facilities where care is provided to five or fewer persons. The intent is to allow persons to be cared for in a residential, or home, environment, often by family members, in a manner that is typical within a single-family-type home. Allowances for the Group R-3 classification of smaller care facilities are established in Sections 305.2.3 (Group E), 308.2.4 (Group I-1), 308.3.2 (Group I-2) and 308.5.4 (Group I-4). Because the intent is to accommodate persons who might otherwise be in other group occupancies including Group I-2, the Group R-3 care facility is not limited to just persons who are capable of self-preservation. The only limit is the number receiving care, not the total number of occupants in the dwelling unit. If two people are receiving care, and the rest of the family is four people, the total of six occupants of the
+
+===== Page 0229 =====
+dwelling does not move this out of being a Group R-3 occupancy. See also Section 310.4.1.
+
+A lodging house with five or fewer guest rooms and 10 or fewer total occupants can be classified as a Group R-3 occupancy or, under Section 310.4.2, can be constructed under the provisions of SBC 1101/1102 provided that a sprinkler system is installed in accordance with NFPA 13D or Section 2904 of SBC 1101/1102. The definition of lodging house allows the rental of guest rooms to transients, provided that there are one or more occupants who are permanent in nature. While Section 310.4.2 requires owner occupancy of the dwelling unit in order for it to be built in compliance with SBC 1101/1102, there is no owner occupancy requirement for lodging houses that are established in compliance with the Group R-3 requirements. The broad intent of the lodging house provisions is to allow bed-and-breakfast and similar facilities under the Group R-3 category even though transient housing generally falls under the Group R-1 classification. There is a double limit of both the number of guest rooms and the number of occupants. Under Section 310.4.2, which requires the owner to be in occupancy, the owner and the owner's family in residence will count toward the total number of occupants. Under the Group R-3 occupancy, owner occupancy is not required, but by definition at least one occupant must be permanent in nature. Again, any permanent residents will count toward the total allowed occupant limit.
+
+310.4.1 Care facilities within a dwelling. Care facilities for five or fewer persons receiving care that are within a single-family dwelling are permitted to comply with SBC 1101/1102 provided an automatic sprinkler system is installed in accordance with Section 903.3.1.3 or Section 2904 of SBC 1101/1102.
+
+Section 310.4 already states that care facilities that accommodate five or fewer persons receiving care can be classified as a Group R-3 occupancy. Sections 305.2.3 (Group E), 308.2.4 (Group I-1), 308.3.2 (Group I-2) and 308.5.4 (Group I-4) each state the option of providing the care of five or fewer persons within a structure regulated under SBC 1101/1102. The intent is to allow persons to be cared for in a residential, or home, environment, often by family members, in a manner that is typical within a single-family type home. As stated for those care facilities allowed within the Group R-3 occupancy, the persons receiving care in a building designed according to SBC 1101/1102 are not limited to those who are capable of self-preservation.
+Similar to Sections 308.2.4 and 308.3.2, this section specifies that any such SBC 1101/1102-regulated facility be provided with a sprinkler system.
+
+310.4.2 Lodging houses. Owner-occupied lodging houses with five or fewer guest rooms shall be permitted to be constructed in accordance with SBC 1101/1102 provided an automatic sprinkler system is installed in accordance with Section 903.3.1.3 or Section 2904 of SBC 1101/1102.
+
+This section allows sprinklerbed bed-and-breakfast type hotels that are owner occupied and have five or fewer rooms to rent to be constructed under SBC 1101/1102, provided that a sprinkler system is installed in accordance with NFPA 13D or Section 2904 of SBC 1101/1102. In addition, there is also a maximum of 10 occupants permitted. See commentary for Section 310.4.
+
+310.5 Residential Group R-4. Residential Group R-4 occupancy shall include buildings, structures or portions thereof for more than five but not more than 16 persons, excluding staff, who reside on a 24-hour basis in a supervised residential environment and receive custodial care. Buildings of Group R-4 shall be classified as one of the occupancy conditions specified in Section 310.5.1 or 310.5.2. This group shall include, but not be limited to, the following:
+
+• Assisted living facilities.
+
+• Congregate care facilities
+
+• Group homes
+
+• Halfway houses
+
+• Residential board and care facilities
+
+• Social rehabilitation facilities
+
+• Group R-4 occupancies shall meet the requirements for construction as defined for Group R-3, except as otherwise provided for in this code.
+
+Where five to 16 residents live in a supervised environment and receive custodial care, such a facility is classified as Group R-4. Ninety-eight percent of households in the U.S. that identified themselves as a single-family household have less than 16 occupants. The 16-occupant limit is also consistent with the limits of an NFPA 13D sprinkler system. Thus the limit of 16 residents was established as an appropriate limit considering that this facility will operate similarly to a single-family home. If a Group R-4 occupancy is expanded or allowed to have more than 16 care recipients, the facility needs to be reclassified as a Group I-1 occupancy. The number of persons used in
+
+===== Page 0230 =====
+the determination includes those who receive care but does not include staff.
+
+Similar to Group I-1, a Group R-4 occupancy is also categorized under one of two "conditions." In a Condition 1 facility, care recipients may be slower during evacuation but are capable of self-preservation. In a Condition 2 facility, care recipients may require limited assistance with evacuation during emergency situations. See the commentary in Section 308.2 for Group I-1 for a further detailed explanation of both Group I-1 and R-4 custodial care occupancies. Also see Section 202 for the definition of "Custodial care."
+
+Group R-4 facilities must satisfy the construction requirements of Group R-3. Facilities with five or fewer persons receiving care will be either a Group R-3 occupancy (see Section 310.4), or can be built under SBC 1101/1102 (see Section 310.4.1). See Commentary Figure 308.1.
+
+310.5.1 Condition 1. This occupancy condition shall include buildings in which all persons receiving custodial care, without any assistance, are capable of responding to an emergency situation to complete building evacuation.
+
+See the commentary to Section 310.5.
+
+310.5.2 Condition 2. This occupancy condition shall include buildings in which there are any persons receiving custodial care who require limited verbal or physical assistance while responding to an emergency situation to complete building evacuation.
+
+See the commentary to Section 310.5.
+
+## SECTION 311 STORAGE GROUP S
+
+311.1 Storage Group S. Storage Group S occupancy includes, among others, the use of a building or structure, or a portion thereof, for storage that is not classified as a hazardous occupancy.
+
+This section requires that all structures (or parts thereof) designed or occupied for the storage of moderate- and low-hazard materials are to be classified in either Group S-1 (moderate hazard) or S-2 (low hazard), respectively. The distinction between Groups S-1 and S-2 is similar to that between Groups F-1 and F-2, as outlined in Section 306.
+
+Life safety problems in structures used for storage of moderate- and low-hazard materials are minimal because the number of people involved in a storage operation is usually small and normal work patterns require occupants to be dispersed throughout the facility.
+
+Problems of fire safety, particularly as they relate to the protection of stored contents, are directly associated with the amount and combustibility of the materials (including packaging) that are housed on the premises. Storage facilities typically contain significant amounts of combustible or noncombustible materials that are kept in a common area. Because of the combustion, flammability or explosive characteristics of certain materials (see Section 307), a structure or portion thereof that is used to store high-hazard materials exceeding the maximum allowable quantities (MAQ) per control area, or that does not meet one of the identified uses in Section 307.1.1, cannot be classified as Group S. Such a structure is to be classified as Group H and is to comply with Section 307.
+
+Hazardous materials may be located in Group S occupancy buildings, provided the amount of materials in each control area does not exceed the MAQ specified in Table 307.1(1) and Table 307.1(2). Control areas must comply with Section 414.
+
+Chapter 32 of SBC 801 regulates high-piled combustible storage [storage over 3.6 m in height or 1.8 m if the material is considered a high-hazard commodity]. In addition to the type of materials stored, Chapter 32 of SBC 801 also focuses on the height and configuration of such storage. It is important to note that not all Group S occupancies will contain high-piled storage and that high-piled storage is not limited to Group S occupancies. High-piled storage can be found in occupancies such as Groups H and F.
+
+311.1.1 Accessory storage spaces. A room or space used for storage purposes that is accessory to another occupancy shall be classified as part of that occupancy.
+
+This provision allows accessory storage areas to be classified in the same occupancy group as the primary occupancy of a space. There are no limits on the size of such spaces, nor how much of the floor area such accessory storage can occupy. These storage spaces could occur in any occupancy, such as a Group B office building, a Group E classroom or a Group M retail store. If the storage isn't accessory to a primary use, then the storage would be classified in one of the Group S categories and Section 508 would be applicable as a mixed occupancy. The Table 509.1 separation requirement for incidental uses would apply to storage rooms over 9.3 m² in Group I-2 or ambulatory care facilities.
+
+311.1.2 Combustible storage. High-piled stock or rack storage, or attic, under-floor and concealed spaces used for storage of combustible materials, shall be in accordance with Section 413.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be
+
+===== Page 0231 =====
+missed. See the commentary to Section 413 and the definition for 'Tires, bulk storage of.'
+
+311.2 Moderate-hazard storage, Group S-1. Storage Group S-1 occupancies are buildings occupied for storage uses that are not classified as Group S-2, including, but not limited to, storage of the following:
+
+• Aerosol products, Levels 2 and 3
+
+• Aircraft hangar (storage and repair)
+
+• Bags: cloth, burlap and paper
+
+• Bamboos and rattan
+
+• Baskets
+
+• Belting: canvas and leather
+
+• Books and paper in rolls or packs
+
+• Boots and shoes
+
+• Buttons, including cloth covered, pearl or bone.
+
+• Cardboard and cardboard boxes
+
+• Clothing, woolen wearing apparel.
+
+• Cordage
+
+• Dry boat storage (indoor)
+
+• Furniture
+
+• Furs
+
+• Glues, mucilage, pastes and size
+
+• Grains
+
+• Horns and combs, other than celluloid
+
+• Leather
+
+• Linoleum
+
+• Lumber
+
+• Motor vehicle repair garages complying with the maximum allowable quantities of hazardous materials specified in Table 307.1(1) (see Section 406.8)
+
+• Photo engravings
+
+• Resilient flooring
+
+• Self-service storage facility (mini storage)
+
+• Silks
+
+• Soaps
+
+• Sugar
+
+• Tires
+
+• Bulk storage of Tobacco, cigars and cigarettes
+
+• Upholstery and mattresses
+
+• Wax candles
+
+Buildings in which combustible materials are stored and that burn with ease are classified in Group S-1, moderate-hazard storage occupancies. Examples of the kinds of materials that, when stored, are representative of occupancies classified in Group S-1 are also listed in this section.
+
+As defined in Section 202, a repair garage is any structure used for servicing or repairing motor vehicles. Therefore, regardless of the extent of work done (e.g., quick lube, tune-up, muffler and tire shops, painting, body work, engine overhaul), repair garages are classified as Group S-1 (see Commentary Figure 311.2) and must be in compliance with Section 406.8. In addition, to avoid a Group H classification, the amounts of hazardous materials in the garage must be less than the maximum allowable quantity per control area permitted in Tables 307.1(1) and 307.1(2).
+
+Aircraft hangars for storage, repair or both would be classified as Group S-1. This classification correlates with the actual use of such hangars, which very frequently would include some level of repair work, and also works with the requirements of NFPA 409. Aircraft hangars accessory to one- and two-family structures are classified as Group U occupancies. Detailed provisions applicable to aircraft hangars can be found in Section 412.3 and for residential hangars, in Section 412.4.
+
+311.2.1 Aircraft hangers. Aircraft hangars used for storage or repair shall comply with Section 412.3.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 412.3 and the definitions for “Residential aircraft hangar” and “Transient aircraft.”
+
+311.2.2 Motor vehicle repair garages Motor vehicle repair garages shall comply with Section 406.8.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 406.8 and the definition for “Repair garage.”
+
+311.3 Low-hazard storage, Group S-2. Storage Group S-2 occupancies include, among others, buildings used for the storage of noncombustible materials such as products on wood pallets or in paper cartons with or without single thickness divisions, or in paper wrappings. Such products are permitted to have a negligible amount of plastic trim, such as knobs, handles or film wrapping. Group S-2 storage uses shall include, but not be limited to, storage of the following:
+
+• Cement in bags
+
+• Chalk and crayons
+
+- Dairy products in non-waxed coated paper containers
+
+• Dry cell batteries
+
+===== Page 0232 =====
+• Electrical coils
+
+• Electrical motors
+
+• Empty cans
+
+• Food products
+
+• Foods in noncombustible containers
+
+• Fresh fruits and vegetables in non-plastic trays or containers
+
+• Frozen foods
+
+• Glass
+
+• Glass bottles, empty or filled with noncombustible liquids.
+
+• Gypsum board
+
+• Inert pigments
+
+• Ivory
+
+• Meats
+
+• Metal cabinets
+
+• Metal desks with plastic tops and trim
+
+• Metal parts
+
+• Metals
+
+• Mirrors
+
+• Oil-filled and other types of distribution transformers
+
+• Public parking garages, open or enclosed.
+
+• Porcelain and pottery
+
+• Stoves
+
+• Talc and soap stones
+
+• Washers and dryers
+
+Buildings in which noncombustible materials are stored are classified as Group S-2, low-hazard storage occupancies (see Commentary Figure 311.3). It is acceptable for stored noncombustible products to be packaged in combustible materials as long as the quantity of packaging is kept to an insignificant level. As seen in Group F-1 and F-2 classifications, it is important to be able to distinguish when the presence of combustible packaging constitutes a significant fuel load. As such, a significant fuel load might require the building to be classified in Group S-1, moderate-hazard storage. A simple guideline to follow is the "single thickness" rule, which is when a noncombustible product is put in one layer of packaging material.
+
+Examples of materials qualified for storage in Group S-2 facilities are as follows:
+
+• Vehicle engines placed on wood pallets for transportation after assembly.
+
+• Washing machines in corrugated cardboard boxes.
+• Soft-drink glass bottles packaged in pressed paper boxes.
+
+Structures used to store noncombustible materials packaged in more than one layer of combustible material are to be classified in Group S-1.
+
+Examples of materials that, because of packaging, do not qualify for classification in Group S-2 are:
+
+• Chinaware wrapped in corrugated paper and placed in cardboard boxes.
+
+• Glassware set in expanded foam forms and placed in a cardboard box.
+
+• Fuel filters individually packed in pressed paper boxes, placed by the gross in a cardboard box and then stacked on a wood pallet for transportation.
+
+Open and enclosed public parking garages are classified as Group S-2 occupancies as long as no repair activities, as discussed in the commentary to Section 311.2, occur in such buildings. Detailed provisions for parking garages can be found in Section 406. A garage in a fire station, for example, that undertakes maintenance and repairs limited to cleaning, hose change, water fill, fire equipment upgrades or wheel removal for repair off premises would not constitute the same hazard associated with repair garages and would be appropriately classified as a Group S-2 occupancy.
+
+311.3.1 Public parking garages. Public parking garages shall comply with Section 406.4 and the additional requirements of Section 406.5 for open parking garages or Section 406.6 for enclosed parking garages.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 406 for the provisions for motor-vehicle-related occupancies.
+
+## SECTION 312 UTILITY AND MISCELLANEOUS GROUP U
+
+312.1 General. Buildings and structures of an accessory character and miscellaneous structures not classified in any specific occupancy shall be constructed, equipped and maintained to conform to the requirements of this code commensurate with the fire and life hazard incidental to their occupancy. Group U shall include, but not be limited to, the following:
+
+• Agricultural buildings Aircraft hangars, accessory to a one- or two-family residence (see Section 412.4)
+
+• Barns
+
+===== Page 0233 =====
+Carports
+
+• Communication equipment structures with a gross floor area of less than 140 m²
+
+Fences more than 2.1 m in height
+
+• Grain silos, accessory to a residential occupancy
+
+Livestock shelters
+
+• Private garages
+
+• Retaining walls
+
+• Sheds
+
+• Stables
+
+• Tanks
+
+• Towers
+
+This section identifies the characteristics of occupancies classified in Group U. Structures that are classified in Group U are typically accessory to another building or structure and are not more appropriately classified in another occupancy. Miscellaneous storage buildings accessory to detached one- and two family dwellings and multiple single-family dwellings (townhouses) not more than three stories in height, however, are intended to be designed and built in accordance with SBC 1101/1102 (see Section 101.2).
+
+Structures classified as Group U, such as fences, equipment, foundations and retaining walls, are somewhat outside the primary scope of the code (i.e., means of egress, fire resistance). They are not usually considered to be habitable or occupiable. Nevertheless, many code provisions do apply and need to be enforced (e.g., structural design and material performance).
+
+Structures housing accessory equipment that is part of a utility or communications system are often classified as Group U occupancies when there is no intent that these structures be occupied except for servicing and maintaining the equipment within the structure. A pump house for a water or sewage system or an equipment building at the base of a telecommunications tower are examples of such buildings.
+
+Group U occupancies are subject to the same structural loadings as other occupancies. Section 312.1 establishes that occupancies classified as utility and miscellaneous structures shall be constructed, equipped and maintained to conform to the code requirements that are commensurate with the fire and life hazards incidental to their occupancy. The structural design requirements for roofs are the minimum deemed necessary to withstand such elements.
+The code also provides Appendix C - Agricultural Buildings which, if adopted, provides alternative standards for Group U structures including egress, height and area limits, exits and mixed occupancy requirements. The building height and area limits in Chapter 5 that apply to Group U greenhouses are more restrictive than Groups S-1 and S-2, which have higher safety and hazard risks than the agricultural building specified in Appendix C. The height and area limits in Appendix C may more realistically reflect the relative hazards and occupancy level for Group U greenhouses. Even where Appendix C is not adopted, it may serve as a useful guide where larger greenhouse structures are proposed.
+
+312.1.1 Greenhouses. Greenhouses not classified as another occupancy shall be classified as Use Group U.
+
+Greenhouses are uses in the Group U classification but only where a different classification doesn't make sense. A greenhouse is defined as a structure or thermally isolated part of a building in which a sunlit environment is maintained for cultivation, protection or maintenance of plants. Greenhouses are also listed in Group A-3, which might be a public arboretum building and Group M for the display and sale of plants. A greenhouse could be part of a school or university and used for educational purposes, or simply a growing facility.
+
+312.2 Private garages and carports. Private garages and carports shall comply with Section 406.3.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 406.3 and the definition for “Private garage.”
+
+312.3 Residential aircraft hangars. Aircraft hangars accessory to a one- or two-family residence shall comply with Section 412.4.
+
+This is one of a series of pointers to Chapter 4 due to a concern that these items may be missed. See the commentary to Section 412.4 and the definition for “Residential aircraft hangar.”
+
+===== Page 0234 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 DOL 29 CFR: Part 1910-09, Occupational Safety and Health Standards. Washington, DC: United States Department of Labor, 2007.
+
+2 ISO 8115-86, Cotton Bales—Dimensions and Density. Geneva 20, Switzerland: International Organization for Standardization, 1986.
+
+3 NFPA 13-13, Installation of Sprinkler Systems. Quincy, MA: National Fire Protection Association, 2013.
+
+4 NFPA 30B-15, Manufacture and Storage of Aerosol Products. Quincy, MA: National Fire Protection Association, 2015.
+
+5 NFPA 31-11, Installation of Oil-burning Equipment. Quincy, MA: National Fire Protection Association, 2011.
+
+6 NFPA 37-06, Installation and Use of Stationary Combustion Engines and Gas Turbines. Quincy, MA: National Fire Protection Association, 2006.
+
+7 NFPA 495-13, Explosive Materials Code. Quincy, MA: National Fire Protection Association, 2013.
+
+8 UL 30-95, Metal Safety Cans—with Revisions through December 2004. Northbrook, IL: Underwriters Laboratories, Inc., 1995.
+
+===== Page 0235 =====
+## TABLES AND FIGURES OF CHAPTER 3
+
+TABLE 307.1(1)
+
+MAXIMUM ALLOWABLE QUANTITY PER CONTROL AREA OF HAZARDOUS MATERIALS
+POSING A PHYSICAL HAZARD a,j,m,n,p
+
+<table><td rowspan="2">MATERIAL<td rowspan="2">CLASS<td rowspan="2">GROUP WHEN THE MAXIMUM ALLOWABLE QUANTITY IS EXCEEDED<td colspan="3">STORAGEb<td colspan="3">USE-CLOSED SYSTEMSb<td colspan="3">USE-OPEN SYSTEMSbSolid kg (m3)Liquid liters (kg)Gas cubic meters at NTPSolid kg (m3)Liquid liters (kg)Gas m3 at NTPSolid kg (m3)Liquid liters (kg)Combustible dustNAH-2See Note qNANASee Note qNANASee Note qNACombustible fiberaLoose BaledbH-3(2.8) (28)NANA(2.8) (28)NANA(0.55) (5.5)NACombustible liquidd, iII IIIA IIIBH-2 or H-3 H-2 or H-3455e, 1250de, 50000e, fNANA455e, 1250de, 50000e, fNANA115d, 300d, 11400fConsumer fireworks1.4GH-355e, 1NANANANANANANACryogenic FlammableNAH-2NA170dNANA170dNANA3.75dCryogenic inertNANANANANLNANANLNANANACryogenic OxidizingNAH-3NA170dNANA170dNANA3.75d<td rowspan="6">ExplosivesDivision 1.1H-10.45e, g(0.45)e, g0.115e(0.115)e0.115e(0.115)e0.115e(0.115)eDivision 1.2H-10.45e, g(0.45)e, g0.115e(0.115)e0.115e(0.115)e0.115e(0.115)eDivision 1.3H-1 or H-22.25e, g(2.25)e, g0.45e(0.45)e0.45e(0.45)e0.45e(0.45)eDivision 1.4H-322.5e, g(22.5)e, g22.5e(22.5)e22.5e(22.5)eNANADivision 1.4GH-355e, g, 1NANANANANANANADivision 1.5H-10.45e, g(0.45)e, g0.115e(0.115)e0.115e(0.115)e0.114e(0.115)eDivision 1.6H-10.45d, e, gNANANANANANANAFlammable gasGaseous LiquefiedH-2NANA28d, eNA28d, eNANANAFlammable liquiddIA IB and ICH-2 or H-3NA115d, eNANA115dNANA38dFlammable liquid, (IA, IB, IC)NAH2 or H-3NA455d, e, hNANA455d, hNANA115d, hFlammable solidNAH-355d, eNANA55dNANA11.4dNA</table>
+
+===== Page 0236 =====
+TABLE 307.1(1)
+
+MAXIMUM ALLOWABLE QUANTITY PER CONTROL AREA OF HAZARDOUS MATERIALS
+POSING A PHYSICAL HAZARD a, j m, n, p (CONTINUED)
+
+<table><td rowspan="2">MATERIAL<td rowspan="2">CLASS<td rowspan="2">GROUP WHEN THE MAXIMUM ALLOWABLE QUANTITY IS EXCEEDED<td colspan="4">STORAGE \( ^{b} \)<td colspan="4">USE-CLOSED SYSTEMS \( ^{b} \)<td colspan="2">USE-OPEN SYSTEMS \( ^{b} \)Solid kg (m \( ^{3} \) )Liquid liters (kg)Gas cubic meters (at NTP)Solid kg (m \( ^{3} \) )Liquid liters (kg)Gas m \( ^{3} \)  at NTPSolid kg (m \( ^{3} \) )Liquid liters (kg)Inert GasGaseous LiquefiedNA NANA NANA NANA NANA NANA NANA NANA NANA NANA NA<td rowspan="6">Organic peroxideUDH-10.45 \( ^{e} \) , g (0.45) \( ^{e} \) , g0.45 \( ^{e} \) , g (0.45) \( ^{e} \) , g0.115 \( ^{e} \)(0.115) \( ^{e} \)0.115 \( ^{e} \)(0.115) \( ^{e} \)(0.115) \( ^{e} \)(0.115) \( ^{e} \)(0.115) \( ^{e} \)IH-22.25 \( ^{d} \) , e (2.25) \( ^{d} \) , e2.25 \( ^{d} \) , e (2.25) \( ^{d} \) , e0.45 \( ^{d} \)(0.45) \( ^{d} \)0.45 \( ^{d} \)(0.45) \( ^{d} \)(0.45) \( ^{d} \)(0.45) \( ^{d} \)(0.45) \( ^{d} \)IIH-355 \( ^{d} \) , e (55) \( ^{d} \) , e55 \( ^{d} \) , e (55) \( ^{d} \) , e22.5 \( ^{d} \)(22.5) \( ^{d} \)4.5 \( ^{d} \)(4.5) \( ^{d} \)(4.5) \( ^{d} \)(4.5) \( ^{d} \)(4.5) \( ^{d} \)IIIH-3NotNotNANotNANotNotNotNotIVNAlimitedlimitedlimitedlimitedlimitedlimitedlimitedlimitedlimitedVNANotNotNotNotNotNotNotNotNot<td rowspan="4">Oxidizer4H-10.45 \( ^{g} \)(0.45) \( ^{e} \) , g0.115 \( ^{g} \)(0.114) \( ^{g} \)0.115 \( ^{g} \)(0.115) \( ^{g} \)(0.115) \( ^{g} \)(0.115) \( ^{g} \)(0.115) \( ^{g} \)3 \( ^{k} \)H-2 or H-34.5 \( ^{d} \) , e (4.5) \( ^{d} \) , e4.5 \( ^{d} \) , e (4.5) \( ^{d} \) , e0.90 \( ^{d} \)(0.9) \( ^{d} \)0.9 \( ^{d} \)(0.9) \( ^{d} \)(0.9) \( ^{d} \)(0.9) \( ^{d} \)(0.9) \( ^{d} \)2H-3115 \( ^{d} \) , e (115) \( ^{d} \) , e115 \( ^{d} \) , e (115) \( ^{d} \) , e115 \( ^{d} \)(113.5) \( ^{d} \)NA22.7 \( ^{d} \)(22.5) \( ^{d} \)(22.5) \( ^{d} \)(22.5) \( ^{d} \)1NA1800 \( ^{e} \) , f (1,800) \( ^{e} \) , f1,800 \( ^{f} \)1,800 \( ^{f} \)(1,816) \( ^{f} \)455 \( ^{f} \)(455) \( ^{f} \)(455) \( ^{f} \)(455) \( ^{f} \)(455) \( ^{f} \)Oxidizing gasGaseous LiquefiedH-3NANA42 \( ^{d} \) , e (70) \( ^{d} \) , eNA42 \( ^{d} \) , e (70) \( ^{d} \) , eNA42 \( ^{d} \) , e (70) \( ^{d} \) , eNANAPyrophoricNAH-21.8 \( ^{e} \) , g(1.8) \( ^{e} \) , g1.4 \( ^{e} \) , g0.45 \( ^{g} \)(0.45) \( ^{g} \)0.28 \( ^{g} \) , g000<td rowspan="2">Unstable (reactive)4H-10.45 \( ^{e} \) , g(0.45) \( ^{e} \) , g0.28 \( ^{e} \) , g0.115 \( ^{e} \)(0.115) \( ^{e} \)0.055 \( ^{e} \) , g0.115 \( ^{e} \)(0.115) \( ^{e} \)(0.115) \( ^{e} \)3H-1 or H-22.25 \( ^{d} \) , e2.25 \( ^{d} \) , e1.4 \( ^{d} \) , e0.45 \( ^{d} \)(0.45) \( ^{d} \)0.28 \( ^{d} \) , e0.45 \( ^{d} \)(0.45) \( ^{d} \)(0.45) \( ^{d} \)<td rowspan="2">Water reactive2H-322.5 \( ^{d} \) , e22.5 \( ^{d} \) , e22.5 \( ^{d} \)(22.5) \( ^{d} \)21 \( ^{d} \) , e4.5 \( ^{d} \)(4.5) \( ^{d} \)(4.5) \( ^{d} \)(4.5) \( ^{d} \)1NANLNotNotNotNotNotNotNotNot<td colspan="13">NL = Not Limited; NA = Not Applicable; UD = Unclassified Detonable.<td colspan="13">a. For use of control areas, see Section 414.2.<td colspan="13">b. The aggregate quantity is an issue or storage shall not exceed the quantity listed for storage.<td colspan="13">c. In retail and wholesale sales occupancies, the quantities of medicines, foodstuffs or consumer products, and cosmetics containing not more than 50 percent by volume of water-miscible liquids with the remainder of the solutions not being flammable, shall not be limited, provided that such materials are packaged in individual containers not exceeding 5 liters.<td colspan="13">d. Maximum allowable quantities shall be increased 100 percent in buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1. Where Note e also applies, the increase for both notes shall be applied cumulatively.<td colspan="13">e. Maximum allowable quantities shall be increased 100 percent when stored in approved storage cabinets, day boxes, gas cabinets, gas rooms or exhausted enclosures or in listed safety cans in accordance with Section 5003.9.10 of SBC 801. Where Note d also applies, the increase for both notes shall be applied cumulatively.<td colspan="13">f. Quantities shall not be limited in a building equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.<td colspan="13">g. Allowed only in buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.<td colspan="13">h. Containing not more than the maximum allowable quantity per control area of Class IA, IB or IC flammable liquids.<td colspan="13">i. The maximum allowable quantity shall not apply to fuel oil storage complying with Section 603.3.2 of SBC 801.<td colspan="13">j. Quantities in parenthesis indicate quantity units in parentheses at the head of each column.<td colspan="13">k. A maximum quantity of 90 kg of solid or 75 liters of liquid Class 3 oxidizers is allowed when such materials are necessary for maintenance purposes, operation or sanitation of equipment when the storage containers and the manner of storage are approved.</table>
+
+===== Page 0237 =====
+1. Net weight of the pyrotechnic composition of the fireworks. Where the net weight of the pyrotechnic composition of the fireworks is not known, 25 percent of the gross weight of the fireworks, including packaging, shall be used.
+m. For liquids conversions from mass to volume refer to Section 5003.1.2 of SBC 801.
+
+n. For storage and display quantities in Group M and storage quantities in Group S occupancies complying with Section 414.2.5, see Table 414.2.5(1) and Table 414.2.5(2).
+
+o. Densely packed baled cotton that complies with the packing requirements of ISO 8115 shall not be included in this material class.
+
+p. The following shall not be included in determining the maximum allowable quantities:
+
+1. Liquid or gaseous fuel in fuel tanks on vehicles.
+2. Liquid or gaseous fuel in fuel tanks on motorized equipment operated in accordance with SBC 801.
+
+3. Gaseous fuels in piping systems and fixed appliances regulated by SBC 1201.
+4. Liquid fuels in piping systems and fixed appliances regulated by SBC 501.
+
+5. Alcohol-based hand rubs classified as Class I or II liquids in dispensers that are installed in accordance with Sections 5705.5 and 5705.5.1 of SBC 801. The location of the alcohol-based hand rub (ABHR) dispensers shall be provided in the construction documents.
+
+q. Where manufactured, generated or used in such a manner that the concentration and conditions create a fire or explosion hazard based on information prepared in accordance with Section 414.1.3.
+
+===== Page 0238 =====
+TABLE 307.1(2)
+
+MAXIMUM ALLOWABLE QUANTITY PER CONTROL AREA OF HAZARDOUS MATERIAL POSING A HEALTH HAZARDA, c, f, h, i
+
+<table><td rowspan="2">MATERIAL<td colspan="3">STORAGEb<td colspan="3">USE-CLOSED SYSTEMSb<td colspan="3">USE-OPEN SYSTEMSbSolid, kgd eLiquid liters (kg)d eGas meters NTP (kg)dcubic at kgdSolid, kgdLiquid liters (kg)dGas m3 at NTP (kg)dSolid, kgdLiquid liters (kg)dCorrosive2,2501,900Gaseous 22.5e Liquefied (70)2,2501,900Gaseous 22.5e Liquefied (70)450375Highly toxic4.54.5Gaseous 0.55g Liquefied (1.8)g4.5(4.5)Gaseous 0.55g Liquefied (1.8)g1.4(1.4)Toxic225(225)Gaseous 22.5e Liquefied (70)e225(225)Gaseous 22.5e Liquefied (70)e55(55)</table>
+
+a. For use of control areas, see Section 414.2.
+
+b. The aggregate quantity in use and storage shall not exceed the quantity listed for storage.
+
+c. In retail and wholesale sales occupancies, the quantities of medicines, foodstuffs or consumer products, and cosmetics containing not more than 50 percent by volume of water-miscible liquids and with the remainder of the solutions not being flammable, shall not be limited, provided that such materials are packaged in individual containers not exceeding 5 liters.
+
+d. Maximum allowable quantities shall be increased 100 percent in buildings equipped throughout with an approved automatic sprinkler system in accordance with Section 903.3.1.1. Where Note e also applies, the increase for both notes shall be applied accumulatively.
+
+e. Maximum allowable quantities shall be increased 100 percent where stored in approved storage cabinets, gas cabinets or exhausted enclosures as specified in SBC 801. Where Note d also applies, the increase for both notes shall be applied accumulatively.
+
+f. For storage and display quantities in Group M and storage quantities in Group S occupancies complying with Section 414.2.5, see Table 414.2.5(1) and Table 414.2.5(2).
+
+g. Allowed only where stored in approved exhausted gas cabinets or exhausted enclosures as specified in SBC 801.
+
+h. Quantities in parenthesis indicate quantity units in parenthesis at the head of each column.
+
+i. For liquids conversions from mass to volume refer to Section 5003.1.2 of SBC 801.
+
+===== Page 0239 =====
+FIGURE 302.1
+GROUP CLASSIFICATION
+
+FIGURE 303.1.2(1)
+ACCESSORY ASSEMBLY USE
+LIMITED BY OCCUPANT LOAD
+
+===== Page 0240 =====
+FIGURE 303.1.2(2)
+
+ACCESSORY ASSEMBLY USE GREATER THAN 10% OF FLOOR AREA BUT LESS THAN 67.5 m².
+
+===== Page 0241 =====
+
+
+===== Page 0242 =====
+<table><td colspan="8">24-HOUR CAREType of careCapability of patients receiving careTypes of facilities1-5 Occupants6-16 OccupantsMore than 16 occupantsCustodialCapable of responding to emergency situation and complete building evacuation without assistanceAssisted living; congregate care; group home; halfway house; residential board and care; social rehabilitationR-3a Sec. 308.3.4R-4, Condition 1 Sec. 308.3.3 &amp; 310.5.1I-1 Condition 1 Sec. 308.3.3CustodialAny residents who require limited verbal or physical assistance while responding to emergency situationA assisted living; congregate care; group home; halfway house; residential board and care; social rehabilitationR-3a Sec. 308.3.4R-4, Condition 2 Sec. 308.3.3 &amp; 310.5.2I-1 Condition 2 Sec. 308.3.3CustodialNursing homes; foster care facilities; facilities providing nursing and medical care but without emergency, surgery or obstetric services or inpatient stabilization for psychiatric or detoxification.R-3a Sec. 308.4.2I-2 Condition 1 Sec. 308.4.1.1I-2 Condition 1 Sec. 308.4.1.1I-2 Condition 1 Sec. 308.4.1.1MedicalIncapable of self-preservationHospitals; facilities providing nursing and medical care including emergency, surgery or obstetric services or inpatient stabilization for psychiatric or detoxification.R-3a Sec. 308.4.2I-2 Condition 2 Sec. 308.4.1.2I-2 Condition 2 Sec. 308.4.1.2<td colspan="8">LESS THAN 24-HOUR CAREType of Care or ServiceAge and Capability of occupantsTypes of Facilities1-5 In dwelling unita 1-5 occupants6 or more occupantsMedicalAny age—Capable of self-preservationOutpatient clinic; doctor&#x27;s officeNAB Sec. 304.1B Sec. 304.1Medical, surgical, psychiatric, nursingAny age—Rendered incapable of self-preservationAmbulatory care facilityNAB Sec. 304.1B Sec. 304.1Educational, supervisory or personal care servicesOlder than 21/2 years and high school or youngerDay care, ChildcareR-3 Sec. 305.2.3Same of primary occupancy of Building Sec. 305.2.1 &amp; 305.2.2Sec. 305.2.1 &amp; 305.2.2Custodial care21/2 years or less and older where incapable of self-preservationDay care, adult careR-3 Sec. 308.6.4Same of primary occupancy of Building Sec. 308.6.2 &amp; 308.6.3Sec. 308.6.2 &amp; 308.6.3</table>
+
+a. This is the option of complying with SBC 1101/1102 providing an NFPA 13D automatic sprinkler system installed in accordance with SBC 201 Section 903.3.1.3.
+
+b. Not applicable.
+
+c. Floors in day care facilities where more than five but no more than 100 infants and toddlers (i.e., children  \( 2\frac{1}{2} \)  years or younger in age) can be classified as Group E provided rooms used as such are on the level of exit discharge and have exit door directly to exterior.
+
+FIGURE 308.1
+
+OCCUPANCY CLASSIFICATION OF CARE FACILITIES
+
+===== Page 0243 =====
+FIGURE 308.3(1)
+GROUP I-2—HOSPITAL
+
+FIGURE 308.3(2)
+GROUP I-2—NURSING HOME
+
+===== Page 0244 =====
+FIGURE 308.4
+GROUP I-3—OCCUPANCY CONDITIONS
+
+FIGURE 308.4.1
+CONDITION 1
+
+===== Page 0245 =====
+• KEY OPERATION NOT NECESSARY WITHIN OR BETWEEN SMOKE COMPARTMENTS.
+
+FIGURE 308.4.2
+CONDITION 2
+
+• KEY OPERATION IS NECESSARY FOR EXTERIOR DOORS AND BETWEEN SMOKE COMPARTMENTS.
+KEY OPERATION FOR MEANS OF EGRESS DOORS WITHIN SMOKE COMPARTMENTS IS NOT REQUIRED.
+
+FIGURE 308.4.3
+CONDITION 3
+
+===== Page 0246 =====
+FIGURE 308.4.4
+CONDITION 4
+
+FIGURE 308.4.5
+CONDITION 5
+
+===== Page 0247 =====
+FIGURE 309.1(1)
+GROUP M—DEPARTMENT STORE
+
+===== Page 0248 =====
+FIGURE 310.2
+GROUP R-1—HOTEL
+(OCCUPANTS PRIMARILY TRANSIENT)
+
+FIGURE 310.3(1)
+GROUP R-2—APARTMENTS
+(OCCUPANTS PRIMARILY NON-TRANSIENT)
+
+===== Page 0249 =====
+FIGURE 310.3(2)
+GROUP R-2—DORMITORY
+(OCCUPANTS PRIMARILY NON-TRANSIENT)
+
+GROUP R-3—MIXED OCCUPANCY BUILDING
+
+===== Page 0250 =====
+FIGURE 310.4(2)
+GROUP R-3—MIXED OCCUPANCY BUILDING
+
+FIGURE 311.2
+GROUP S-1—REPAIR GARAGES
+
+===== Page 0251 =====
+FIGURE 311.3
+GROUP S-2—ENCLOSED PARKING GARAGE
+
+===== Page 0252 =====
+This page left intentionally blank
+

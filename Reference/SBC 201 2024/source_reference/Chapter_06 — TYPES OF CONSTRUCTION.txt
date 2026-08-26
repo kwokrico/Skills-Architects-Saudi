@@ -1,0 +1,519 @@
+===== Page 0506 =====
+# CHAPTER 6—TYPES OF CONSTRUCTION
+
+## General Comments
+
+Chapter 6 contains the requirements to classify buildings into one of five types of construction. Table 601 provides the minimum hourly fire-resistance ratings for the structural elements based on the type of construction of the building. Section 602 describes each construction type in detail. Section 603 describes the permitted use of combustible materials in buildings of noncombustible construction.
+
+Correct classification of a building by its type of construction is essential. Many code requirements applicable to a building, such as allowable height, number of stories and area (see Chapter 5), are dependent on its type of construction. If a building is placed in an incorrect construction classification (for example, one that is a higher category than required), its owner may be penalized by increased construction costs. On the other hand, when a building is incorrectly classified into a lower type of construction, it will not be constructed in a manner that takes into account the relative risks associated with its size or function. The provisions of this chapter, coupled with Chapters 3 and 5 and Tables 601 and 705.5, establish the basis for the "equivalent risk theory" on which the entire code is based.
+
+## Purpose
+
+The purpose of classifying buildings or structures by their type of construction is to account for the response or participation that a building's structure will have in a fire condition originating within the building as a result of its occupancy or fuel load.
+
+The code requires every building to be classified as one of five possible types of construction: Type I, II, III, IV or V. Each type of construction denotes the kinds of materials that are permitted to be used [i.e., noncombustible (steel, concrete, masonry), combustible (wood, plastic), mass timber or heavy timber], and the minimum fire-resistance ratings that are associated with the structural elements in a building having that classification (i.e., 0, 1, 11/2, 2 or 3 hours). Types I and II construction consist of building elements that are noncombustible. Buildings of Type III construction have noncombustible exterior walls and combustible or noncombustible interior elements. Type IV construction identifies those structures with mass timber or noncombustible exterior walls and mass timber, heavy timber or noncombustible interior elements. Type V buildings are permitted to have building elements that are either combustible or noncombustible, or a combination of both. Construction types are further subdivided into subcategories that identify differences in the degree of fire resistance required (see commentary, Table 601).
+
+## SECTION 601 GENERAL
+
+601.1 Scope. The provisions of this chapter shall control the classification of buildings as to type of construction.
+
+This Section requires that all buildings be assigned a type of construction classification as indicated in the General Comments above. Table 601 has three components: the top rows list the five general types of construction and their subclassifications; the left column lists the various building elements that are regulated by the table; and each cell in the Table contains the minimum required fire-resistance rating, in hours, for the various elements based on the required type of construction of the building. "Building element" is defined in Section 202 as "a fundamental component of building construction, specified in Table 601, which may or may not be of fire-resistance-rated construction and is constructed of materials based on the building type of construction." Notes a through g apply as specifically referenced in the table.
+
+Types I, II, III and V construction are further subdivided into two categories (A and B) and Type IV construction is further subdivided into four subcategories (A, B, C and HT). Types A, B, C and HT construction are not defined in the code. The designations simply refer to the hourly fire-resistance rating required for the structural elements. Types IV-A, IV-B and IV-C construction also differentiate based on percentage of required noncombustible protection. Type IV-A requires 100-percent noncombustible protection on mass timber structural elements whereas Types IV-B and IV-C permit a certain percentage of unprotected mass timber. Type A designations will typically have a higher fire-resistance rating for the structural element than Type B designations. In other than Type I and Type IV construction, Types A and B are often referred to as protected and unprotected construction.
+
+===== Page 0507 =====
+respectively. Please note this terminology does not refer to whether the building is protected by an installed automatic sprinkler system.
+
+Where HT is used in the table, a fire-resistance rating is not required, but the user should refer to Sections 602.4.4 and 2304.11 for minimum sizes of building elements.
+
+The following describes the items in the left column of the table, titled "Building Element." Row 1: Primary structural frame. This category includes the structural (load bearing) components of the building frame. Definitions of "Primary structural frame" and "Secondary structural members" are found in Section 202. Any structural item that provides direct connections to columns and bracing members that are designed to carry a gravity load are considered part of the structural frame. To delay vertical (i.e., gravity) load-carrying collapse of a building due to fire exposure for a theoretical amount of time, the components that make up the primary structural frame are required to maintain a minimum degree of fire resistance. The components defined as part of the primary structural frame, with the exception of Type IV-HT construction, must also comply with Section 704 [see the commentary to Sections 602.4.4 and 2304.11 for more information about Type IV-HT (Heavy Timber) construction]. Secondary structural members (e.g., floor or roof panels without a connection to the column, bracing not part of the primary structural frame) are not considered part of the primary structural frame (see Rows 5 and 6 of the table.
+
+Row 2: Bearing walls—exterior and interior. Exterior bearing walls are the outermost walls that enclose the structure and support any structural load other than their own weight. Their required fire-resistance rating is established by the higher of two fire-resistance ratings. The first component of determining the fire-resistance rating is based on the type of construction of the building (Table 601). The second component of determining the fire-resistance rating is based on the exterior wall's fire separation distance (Table 705.5). Whichever of the two tables requires the higher fire-resistance rating will dictate the minimum required fire-resistance rating of the exterior wall.
+
+In addition to Table 601, Table 705.5 specifies fire-rating requirements based on construction types and their fire separation distance but applies to both bearing and nonbearing exterior walls. Other Sections of code also include provisions for fire-resistance-rating on exterior walls regardless of construction type. Exterior walls must comply with specific provisions in Section 705 and Chapter 14. Section 706.5.1 also has fire-resistance-rating requirements for exterior walls on each side of the intersection of a fire wall.
+
+There are also several requirements related to exterior walls mentioned in Chapter 10. Section 1009.7.2 has fire-resistance-rating requirements for exterior walls adjacent to exterior areas for assisted rescue. Section 1023.7 has specific fire-resistance-rating requirements for exterior walls adjacent to interior exit stairways or ramps. Section 1027.6 has fire-resistance-rating requirements for exterior walls adjacent to exterior stairways or ramps. Section 1029.3 has fire-resistance-rating requirements for exterior walls adjacent to an egress court.
+
+Row 2 in Table 601 also includes the structural (load bearing) interior walls of a building. To delay vertical load-carrying collapse of a building due to fire exposure for a predetermined amount of time, the structural partitions are required to maintain a minimum degree of fire resistance. Primary structural frame elements supporting such walls must comply with Table 601, as well as have at least the same degree of fire resistance as the supported wall. See the commentary to Section 602.1 regarding opening and penetration protection of bearing walls.
+
+Row 3: Nonbearing walls and partitions—exterior. This category includes all exterior walls that only support their own weight. The minimum required fire-resistance rating, unlike for load-bearing walls, is based solely on the exterior wall's fire separation distance (Table 705.5). Where nonbearing exterior walls occur in buildings of Type I or II construction, the walls can be constructed of fire-retardant-treated wood (FRTW) if no rating is required (see Section 603.1). Similar to commentary for exterior bearing walls, other Sections of code may require fire-resistance rating apart from this table.
+
+Row 4: Nonbearing walls and partitions interior. This category includes all interior nonload-bearing walls and partitions (for example, the common wall separating two offices in the same suite). These walls need only comply with the material requirements associated with their type of construction classification and are not required to have a fire-resistance rating. Where the walls occur in buildings of Type I or II construction and are to be constructed of wood, the wood must be fire-retardant-treated as indicated in Section 603.1. Nonload-bearing interior walls may be required to be fire-resistance-rated where they also serve another purpose. Examples include interior walls also serving to separate mixed occupancies, dwelling units, sleeping units and
+
+===== Page 0508 =====
+incidental uses, as well as corridor walls required to have a fire-resistance rating.
+
+Row 5: Floor construction and associated secondary structural members. Floor construction provides a natural fire compartment in a building by means of a horizontal barrier that retards the vertical passage of fire from floor to floor. In order to accomplish this, floor assemblies, including the beams and secondary structural members supporting the floor, must comply with Table 601 and Section 711. Ceilings are included if they are part of the tested assembly. A definition of "Secondary structural member" is provided in Section 202. Secondary structural members are not considered part of the primary structural frame.
+
+Row 6: Roof construction and associated secondary structural members. Proper roof construction is necessary to prevent collapse from fire as well as potential impingement on adjacent buildings. Roof construction must comply with Table 601 and Section 711 (see the definition of "Secondary structural member" in Section 202). Additionally, when a portion of the roof construction is less than 6 m above the floor immediately below, the entire structural member must be protected to meet the minimum fire-resistance-rating requirements. In Commentary Figure 601, the roof construction is assumed to be one structural member. While a majority of the roof construction is greater than 6 m above the floor below, a portion of the roof construction is only 4.5 m above the mezzanine. As such, the entire length of the structural member, or in this case, the entire roof, must be rated for not less than 1 hour. The fire-resistance rating is not permitted to terminate at the portion where the roof is 6 m above the floor below unless the structural member ends at that point. The fire-resistance rating of a column must also be continuous for the full height of the column and not reduced or eliminated at a height of 6 m and above (see Note b). It should be noted that those members of the roof construction that are considered as primary structural frame members are not regulated by Row 5, but rather by Row 1.
+
+Note a permits the fire-resistance ratings of the primary structural frame and interior load-bearing walls in buildings of Type IA or IB construction to be reduced by 1 hour if the members are supporting only the roof. In addition, the primary structural frame in buildings of Type IV-A, IV-B or IV-C construction can be reduced by 1 hour if the members are only supporting the roof.
+
+Note b applies to the construction of the roof and related secondary structural members in buildings of Types IA, IB, IIA, IIIA and VA construction. It allows these elements to be of unprotected construction when all parts of the roof construction are more than 6 m above any floor below. This allowance applies to both the primary and secondary members of the roof structure. This alternative is applicable for all occupancy classifications except Groups F-1, H, M and S-1.
+
+Commentary Figure 601 shows an example where a mezzanine reduces the clearance to the roof to less than 6 m for a portion of the total roof. Designs similar to Commentary Figure 601 do not comply with Note b, and elimination of fire-resistance is not allowed for any portion of the roof.
+
+In buildings of Type I or II construction, fire-retardant-treated wood (FRTW) may be utilized for unprotected roof members. Please note that FRTW is not required in the roof of buildings of Type IIIA or VA construction since combustible materials are already permitted by Sections 602.3 and 602.5, respectively.
+
+Note c permits heavy timber to be utilized in the roof construction as an alternative to having a fire-resistance rating of 1 hour or less in buildings of Type IB, IIA, IIB, IIIA or VA construction. Note that heavy timber cannot be used in Type IA construction since the roof is required to have a rating greater than 1 hour. This allowance applies to both the primary and secondary members of the roof structure. The note is intended to allow the substitution of heavy timber for 1-hour roof construction; it is not intended to say that heavy timber is 1-hour-rated construction.
+
+Note d is applicable only to interior nonbearing walls. While nonbearing interior walls are not required to have a rating in accordance with Table 601, other Sections of the code may require a rating (e.g., corridor walls, dwelling unit separation, sleeping unit separation). If other Sections of the code require a rating, this would override the requirement of Table 601 stating no rating is required. In addition, interior nonbearing walls in buildings of Type IV-HT construction shall be of solid wood construction formed by not less than two layers of 25 mm matched boards or laminated construction 100 mm thick, or of 1-hour-rated construction (see Section 2304.11.2.2).
+
+Note e is a reminder that exterior bearing walls must also comply with the fire-resistance rating listed in Table 705.5 based on the fire separation distance. Exterior bearing walls must satisfy the higher of the fire-resistance ratings required by Tables 601 and 705.5.
+
+Note f is a reminder of the provisions of Section 704.10 that load-bearing structural members located within the exterior walls or on the
+
+===== Page 0509 =====
+“outside” of the structure need to comply with the highest of three fire-resistance ratings: the requirement for the primary structural frame, the requirement for exterior bearing walls, or the requirement from Table 705.5 based on the fire separation distance of the exterior wall. In Types III and IV-HT construction, the rating for an exterior bearing wall is higher than that required for a primary structural frame alone. Note g applies the one-hour fire-resistance rating requirement only to interior bearing walls that support at least three floors, or more than a floor and a roof. In such cases, unprotected heavy timber shall be verified to have a 1-hour rating or shall be protected with a 1-hour rating. Interior bearing walls supporting only a floor and a roof, or two floors or less, only need to meet heavy timber requirements.
+
+## SECTION 602 CONSTRUCTION CLASSIFICATION
+
+602.1 General. Buildings and structures erected or to be erected, altered or extended in height or area shall be classified in one of the five construction types defined in Sections 602.2 through 602.5. The building elements shall have a fire-resistance rating not less than that specified in Table 601 and exterior walls shall have a fire-resistance rating not less than that specified in Table 705.5. Where required to have a fire-resistance rating by Table 601, building elements shall comply with the applicable provisions of Section 703.2. The protection of openings, ducts and air transfer openings in building elements shall not be required unless required by other provisions of this code.
+
+This Section requires that each building or structure be put into one of five possible construction classifications: Type I, II, III, IV or V. Structural members are required to have a fire-resistance rating in accordance with Table 601. Additionally, the exterior walls of the structure must satisfy the requirements in Table 705.5, which bases the fire-resistance rating on the fire separation distance.
+
+The use of multiple construction classifications in a single building is very limited and can only be done when specifically called out in the code. An example of combining types of construction is an apartment building of Type VA construction located above an open parking structure of Type IA construction, as described in Section 510.2. Several other special provisions found in Section 510 also permit a building of multiple construction classifications. A more common example is where a single structure is divided into two parts by using a fire wall, resulting in two separate buildings or structures each of which may be of a different type of construction. Where a structure contains more than one building (for example, separation by a fire wall), each building is to be individually assigned a type of construction.
+
+Also, a building may have elements that comply with the requirements of more than one type of construction, in which case the building as a whole must be assigned the less restrictive type of construction. The designer may have intended, however, to comply with a higher type of construction, in which case those elements not in compliance with the intended type of construction are to be brought into compliance. The selection of a construction type is the prerogative of the permit applicant. The applicant should have the designer indicate on the submitted construction documents which construction type has been selected. This will expedite the compliance review by the plans examiner.
+
+Section 602.1 applies to both new construction and additions. The provisions in Section 503 on general height and area limitations, Chapter 7 on fire and smoke protection features and construction, and other applicable portions of the code depend on the requirements of this section.
+
+Where Table 601 requires a building element to have a fire-resistance rating, that rating is determined based on the criteria in Section 703. Although a building element is required to have a fire-resistance rating by Table 601, this does not mean that the required openings in these building elements or duct penetrations through these elements have to be protected. Opening protectives or dampers are only required for building elements listed in Table 601 that are also a specific type of wall or horizontal assembly that is required by other criteria in the code to have protected openings. For example, an interior bearing wall inside a Type IIA building is required to have a fire-resistance rating of not less than 1 hour. However, the openings in that wall need not be protected unless that bearing wall is also serving another purpose. This wall could also be part of the walls establishing a control area on the second story. In accordance with Section 414.2.2, such a wall would also have to be a 1-hour-rated fire barrier, and in accordance with Table 716.1(2), openings in this 1-hour-rated fire barrier would need to have 45-minute-rated opening protection. It is essential to check the provisions of Chapter 7 to determine where building elements are required, or not required, to have protected openings, transfer openings, ducts, joints and other penetrations.
+
+602.1.1 Minimum requirements. A building or portion thereof shall not be required to conform to the details of a type of construction higher than that
+
+===== Page 0510 =====
+type which meets the minimum requirements based on occupancy even though certain features of such a building actually conform to a higher type of construction.
+
+These requirements permit design flexibility by allowing various building materials and components to be used. A building must, as a minimum, meet all the requirements of a given type of construction to be classified as such, even though portions of that building meet the criteria of a higher construction type (e.g., greater fire-resistance ratings). This is consistent with the concept that the code is a minimum requirement. For example, a building classified as Type III construction is not prohibited from having construction that is superior (e.g., Type I), but it could not be reclassified into a higher type of construction unless it met all the requirements for that construction type. In a normal situation, the design professional has identified the construction classification on the drawings. When this assignment has not been made, the building official is placed in a position of verifying the designer's intent and selecting the least-restrictive type that will meet the code requirements.
+
+602.2 Types I and II. Types I and II construction are those types of construction in which the building elements specified in Table 601 are of noncombustible materials, except as permitted in Section 603 and elsewhere in this code.
+
+Buildings of Types I and II construction are required to be constructed of noncombustible materials (see Section 703.3) and, therefore, are frequently referred to as “noncombustible construction.” All Type I and II structural members have a fire-resistance rating as required by Tables 601 and 705.5. A typical example of a building of Type IA, IB or IIA construction would be a high-rise structure or a very large low-rise structure. These buildings are permitted to be relatively large in height and area due to the fire-resistance afforded the structure’s components. The structural members of a building of Type IIB construction do not have the same fire-resistance as structural members in a building of Type IA, IB or IIA construction. As such, the height and area requirements are not as large for Type IIB construction (see Commentary Figure 602.2 for examples of Types I and II construction).
+
+Types I and II construction are divided into four subclassifications: Types IA, IB, IIA and IIB. The only difference among the four subclassifications is the degree of fire-resistance rating required for similar elements and assemblies. For example, the required rating for primary structural frame members in Type IA construction is 3 hours, for Type IB it is 2 hours, for Type IIA it is 1 hour, and for Type IIB no rating is required (0 hours). Often, the fire-resistance ratings required by Tables 601 and 705.5 for structural elements are achieved by “fireproofing” structural members. Fireproofing is typically the process of creating a fire-resistance-rated assembly that incorporates the structural member by encapsulating it, either by boxing it in or by spraying on a coating to achieve the required fire-resistance rating. It should be noted that when a protective covering is used to provide the fire-resistance rating, it must be of noncombustible material, except as indicated in Section 603.1, Item 21.
+
+Fire-retardant-treated wood (FRTV), although combustible, is permitted in limited uses in buildings of Types I and II construction (see Section 603 and Table 601, Note b). While FRTV is permitted in certain applications in buildings of Types I and II construction, it is not assumed to be fire-resistance rated, and generally does not afford any higher fire-resistance rating than untreated wood material. Other combustible items (as specified in Section 603.1) are also permitted in buildings of Types I and II construction.
+
+602.3 Type III. Type III construction is that type of construction in which the exterior walls are of noncombustible materials and the interior building elements are of any material permitted by this code. Fire-retardant-treated wood framing and sheathing complying with Section 2303.2 shall be permitted within exterior wall assemblies of a 2-hour rating or less.
+
+Buildings of Type III construction are typically constructed with both combustible and noncombustible materials. The exterior walls are required to be noncombustible with load-bearing exterior walls required to have a minimum 2-hour fire-resistance rating (see Table 601). Exterior nonload-bearing walls are not required by Table 601 to have a fire-resistance rating but must comply with the provisions of Table 705.5. The elements within the perimeter established by the exterior walls (i.e., floors, roofs and walls) are permitted to be of combustible materials. An example of a typical building of Type III construction is a structure having its exterior walls constructed of concrete, masonry or other approved noncombustible materials, but with wood-framed floor, interior wall and roof construction (see Commentary Figure 602.3). The structural members of a building of Type IIIB construction are not required to have a fire-resistance rating, with the exception of the exterior load-bearing walls.
+
+===== Page 0511 =====
+Although fire-retardant-treated wood (FRTW) does not meet the specifications of the code as a noncombustible material, it is permitted as a substitute for noncombustible materials for framing and sheathing within exterior wall assemblies of Type III construction. While the exterior walls are permitted to be either nonload bearing or load bearing, to apply the allowance for FRTW, the required fire-resistance rating of the exterior wall must be not greater than 2 hours. FRTW is required to comply with the provisions in Section 2303.2.
+
+602.4 Type IV. Type IV construction is that type of construction in which the building elements are mass timber or noncombustible materials and have fire-resistance ratings in accordance with Table 601. Mass timber elements shall meet the fire-resistance-rating requirements of this Section based on either the fire-resistance rating of the noncombustible protection, the mass timber, or a combination of both and shall be determined in accordance with Section 703.2. The minimum dimensions and permitted materials for building elements shall comply with the provisions of this Section and Section 2304.11. Mass timber elements of Types IV-A, IV-B and IV-C construction shall be protected with noncombustible protection applied directly to the mass timber in accordance with Sections 602.4.1 through 602.4.3. The time assigned to the noncombustible protection shall be determined in accordance with Section 703.6 and comply with Section 722.7.
+
+Cross-laminated timber shall be labeled as conforming to ANSI/APA PRG 320 as referenced in Section 2303.1.4.
+
+Exterior load-bearing walls and nonload-bearing walls shall be mass timber construction or shall be of noncombustible construction.
+
+Exception: Exterior load-bearing walls and nonload-bearing walls of Type IV-HT Construction in accordance with Section 602.4.4.
+
+The interior building elements, including nonload-bearing walls and partitions, shall be of mass timber construction or of noncombustible construction.
+
+Exception: Interior building elements and nonload-bearing walls and partitions of Type IV-HT construction in accordance with Section 602.4.4.
+
+Combustible concealed spaces are not permitted except as otherwise indicated in Sections 602.4.1 through 602.4.4. Combustible stud spaces within light frame walls of Type IV-HT construction shall not be considered concealed spaces but shall comply with Section 718.
+In buildings of Type IV-A, IV-B, and IV-C construction with an occupied floor located more than 23 m above the lowest level of fire department access, up to and including 12 stories or 54 m above grade plane, mass timber interior exit and elevator hoistway enclosures shall be protected in accordance with Section 602.4.1.2. In buildings greater than 12 stories or 54 m above grade plane, interior exit and elevator hoistway enclosures shall be constructed of noncombustible materials.
+
+This Section provides the general regulations for Type IV construction. Due to a growing interest in tall mass timber buildings, three new construction types, IV-A, IV-B and IV-C, were added in the 2021 SBC 201 to the existing Type IV-HT construction. Only mass timber and noncombustible materials are permitted in Type IV construction. Combustible light-frame materials are specifically and completely excluded from these new types of construction. Light frame wood stud or joist assemblies are prohibited, including using light frame wood to fur out concealed spaces. There is an exception for Type IV-HT to accommodate 1-hour fire-resistance-rated (FRR) wood frame assemblies and fire-retardant-treated wood frame assemblies permitted in HT construction. Types IV-A, IV-B and IV-C construction also introduce fire-resistant protection requirements and other provisions in Sections 602.4.1, 602.4.2 and 602.4.3, respectively. Because of the close relationship to traditional heavy timber (HT), the established variants were Type IV-A for buildings with structural elements completely protected, Type IV-B for buildings with structural elements mostly protected and Type IV-C for buildings with most structural elements left unprotected. Even in Type IV-C, noncombustible protection is required for concealed spaces, shaft walls and the exterior surface of outside walls. Section 2304.11 and Table 2304.11 provide specific requirements for the minimum dimensions for mass timber elements. Section 2304.10.1 addresses connection protection for Types IV-A, IV-B and IV-C construction.
+
+Traditional heavy timber buildings have a good fire record where sprinkler protection is provided. This is, in part, due to the general direction of current and legacy codes that combustible concealed spaces are not permitted. However, it was recognized that concealed spaces would be needed to accommodate mechanicals in the new construction types. This resulted in the development of provisions for protected concealed spaces allowing concealed spaces but requiring them to be protected with noncombustible materials or sprinkler
+
+===== Page 0512 =====
+coverage. Specific subsections for each new construction type address the details of the required protection. A similar allowance for protected concealed spaces in Type IV-HT construction was also developed. Wood stud partitions are permitted in Type IV-HT construction if the partitions are rated for 1 hour. For the purposes of this section, the stud spaces in 1-hour partitions are not considered concealed spaces and the studs do not require protection in the space formed by the studs and the interior face of gypsum.
+
+Lastly, this Section permits interior exit enclosures and elevator hoistway enclosures in high-rise buildings up to and including 12 stories or 54 m to be constructed of mass timber having noncombustible protection. For buildings above 12 stories or 54 m, interior exit and elevator hoistway enclosures must be constructed of noncombustible materials for the entire building height. Other shafts in buildings above 12 stories or 54 m, like those used for mechanical equipment, are permitted to be constructed of mass timber having noncombustible protection.
+
+602.4.1 Type IV-A. Building elements in Type IV-A construction shall be protected in accordance with Sections 602.4.1.1 through 602.4.1.6. The required fire-resistance rating of noncombustible elements and protected mass timber elements shall be determined in accordance with Section 703.2.
+
+Type IV-A construction was proposed with the intention of approximating the fire-resistance rating requirements of Type IA construction per Table 601. All mass timber elements of Type IV-A construction are required to be fully covered by noncombustible protection as specified in Sections 602.4.1.1 through 602.4.1.6.
+
+602.4.1.1 Exterior protection. The outside face of exterior walls of mass timber construction shall be protected with noncombustible protection with a minimum assigned time of 40 minutes, as specified in Table 722.7.1(1). Components of the exterior wall covering shall be of noncombustible material except water-resistive barriers having a peak heat release rate of less than 150 kW/m², a total heat release of less than 20 MJ/m² and an effective heat of combustion of less than 18MJ/kg as determined in accordance with ASTM E1354 and having a flame spread index of 25 or less and a smoke-developed index of 450 or less as determined in accordance with ASTM E84 or UL 723. The ASTM E1354 test shall be conducted on specimens at the thickness intended for use, in the horizontal orientation and at an incident radiant heat flux of 50 kW/m².
+The coverings on the outer side of exterior walls of Type IV-A construction are limited to noncombustible materials except for water-resistant barriers as described. The exterior elements must be protected with noncombustible materials affording a minimum of 40 minutes of protection as determined utilizing the method described in Section 703.6. Conformance may also be achieved by following the prescriptive requirements in Section 722.7. As noted, the 40 minutes of noncombustible protection, such as gypsum, required on the exterior side is a minimum, and if the wall has a fire separation distance of 3 m or less, more may be called for on the exterior side in the design since it must be rated for exposure from the outside too, not just the inside. But this does not necessarily always mean more gypsum will be called for in the design. There is no requirement that two-thirds of the rating be accomplished by the noncombustible protection on the exterior side, as there is on the interior side.
+
+Section 1402.5 requires these walls to be tested according to NFPA 285. Nothing in this Section is intended to preclude that test being applicable to these new types of construction. Even for wall assemblies passing the NFPA 285 test, all construction materials exterior to a mass timber wall, except the water-resistive barrier, must be noncombustible.
+
+602.4.1.2 Interior protection. Interior faces of all mass timber elements, including the inside faces of exterior mass timber walls and mass timber roofs, shall be protected with materials complying with Section 703.3.
+
+Requiring protection of the interior side of all mass timber is a part of the intent to reach a comparison to Type IA construction and allow taller and larger buildings. The minimum protection time required is based on Section 602.4.1.2. Note that for certain building elements in Type IV-B construction (Section 602.4.2), this Section is referenced to provide complete protection but adds limited exceptions under Section 602.4.2.2. The specified fire-resistance rating for Type IV-A construction is conservatively established to passively endure fires of fuel loads associated with various occupancies, without the benefit of automatic sprinkler protection, while protecting structural members against involvement in the fire, similar to the strategy employed for Type I construction.
+
+602.4.1.2.1 Protection time. Noncombustible protection shall contribute a time equal to or greater than times assigned in Table 722.7.1(1), but not less than 80 minutes. The use of materials and their respective protection contributions specified in
+
+===== Page 0513 =====
+Table 722.7.1(2) shall be permitted to be used for compliance with Section 722.7.1.
+
+Protection rating of mass timber elements with noncombustible materials shall be per Table 722.7.1(1). Therefore, building elements required by Table 601 to have a 3-hour fire-resistance rating will require 120-minute noncombustible protection for mass timber elements. However, although some elements require less than a 2-hour rating, in no case shall the protection of mass timber elements be less than 80 minutes. Material ratings from Table 722.7.1(2) may be used in calculating the protection rating when installed as required. These requirements result in noncombustible protection providing at least two-thirds of the required fire resistance for all required fire-resistance-rated elements. Simply put, for each 1 hour of required fire-resistance rating, at least 40 minutes must be provided by noncombustible protection.
+
+602.4.1.3 Floors. The floor assembly shall contain a noncombustible material not less than 25 mm in thickness above the mass timber. Floor finishes in accordance with Section 804 shall be permitted on top of the noncombustible material. The underside of floor assemblies shall be protected in accordance with Section 602.4.1.2.
+
+Mass timber elements in a floor assembly require a noncombustible material at least 25 mm thick protecting the top surface of the mass timber element and the standard required protection on the other sides. Note that interior floor finish and floor-covering materials installed over the noncombustible material must comply with SBC 201 Section 804.
+
+602.4.1.4 Roofs. The interior surfaces of roof assemblies shall be protected in accordance with Section 602.4.1.2. Roof coverings in accordance with Chapter 15 shall be permitted on the outside surface of the roof assembly.
+
+See the commentary to Section 602.4.1.2 for interior protection of roofs. Apply Chapter 15 for roof coverings.
+
+602.4.1.5 Concealed spaces. Concealed spaces shall not contain combustibles other than electrical, mechanical, fire protection, or plumbing materials and equipment permitted in plenums in accordance with Section 602 of SBC 501 and shall comply with all applicable provisions of Section 718. Combustible construction forming concealed spaces shall be protected in accordance with Section 602.4.1.2.
+
+While combustible framing other than mass timber is not allowed in Type IV-A construction, concealed spaces are allowed combustible materials as specified herein. Therefore, all mass timber surfaces inside concealed spaces require protection, as identified in Section 602.4.1.2, of at least 80 minutes.
+
+602.4.1.6 Shafts. Shafts shall be permitted in accordance with Sections 713 and 718. Both the shaft side and room side of mass timber elements shall be protected in accordance with Section 602.4.1.2.
+
+Shafts are allowed in Type IV-A construction, as provided by Sections 713 and 718. All mass timber elements that are part of a shaft require protection on the inside and outside of the shaft. In buildings of Type IV-A construction with an occupied floor located more than 23 m above the lowest level of fire department access, up to and including 12 stories or 54 m above grade plane, interior exit stairway enclosures are permitted to be constructed of mass timber elements.
+
+602.4.2 Type IV-B. Building elements in Type IV-B construction shall be protected in accordance with Sections 602.4.2.1 through 602.4.2.6. The required fire-resistance rating of noncombustible elements or mass timber elements shall be determined in accordance with Section 703.2.
+
+Type IV-B construction approximates the fire-resistance-rating requirements of Type IB construction per Table 601. Being less restrictive than Type IV-A construction, some of the mass timber elements of Type IV-B construction can be unprotected as provided for in Sections 602.4.2.2.2 through 602.4.2.2.4. However, a significant amount of the mass timber elements is still required to be fully covered by noncombustible protection as specified in Sections 602.4.2.1 through 602.4.2.6. Mass timber structural elements permitted without protection in Type IV-B construction must still be evaluated for compliance with any required fire-resistance rating.
+
+Exterior protection. The outside face of exterior walls of mass timber construction shall be protected with noncombustible protection with a minimum assigned time of 40 minutes, as specified in Table 722.7.1(1). Components of the exterior wall covering shall be of noncombustible material except water-resistive barriers having a peak heat release rate of less than 150 kW/m \( ^{2} \) , a total heat release of less than 20 MJ/m \( ^{2} \)  and an effective heat of combustion of less than 18 MJ/kg as determined in accordance with ASTM E1354, and having a flame spread index of 25 or less and a smoke-developed index of 450 or less as determined in accordance with ASTM E84 or UL 723. The ASTM E1354 test shall be conducted on specimens at the thickness intended for use, in the
+
+===== Page 0514 =====
+horizontal orientation and at an incident radiant heat flux of 50 kW/m².
+
+See the commentary to Section 602.4.1.1.
+
+602.4.2.2 Interior protection. Interior faces of all mass timber elements, including the inside face of exterior mass timber walls and mass timber roofs, shall be protected, as required by this section, with materials complying with Section 707.3.
+
+Similar to Type IV-A construction, Type IV-B requires protecting the interior faces of all mass timber elements to allow for the permitted taller building heights and areas. Additional requirements and allowances to this Section are provided in Sections 602.4.2.2.1 through 602.4.2.2.4.
+
+602.4.2.2.1 Protection time. Noncombustible protection shall contribute a time equal to or greater than times assigned in Table 722.7.1(1), but not less than 80 minutes. The use of materials and their respective protection contributions specified in Table 722.7.1(2) shall be permitted to be used for compliance with Section 722.7.1.
+
+Protection rating of mass timber elements with noncombustible materials shall be per Table 722.7.1(1). Although some building elements in Type IV-B construction require less than a 2-hour rating, in no case shall the required protection of mass timber elements be less than 80 minutes. Material ratings from Table 722.7.1(2) may be used in calculating the protection rating when installed as required.
+
+602.4.2.2.2 Protected area. Interior faces of mass timber elements, including the inside face of exterior mass timber walls and mass timber roofs, shall be protected in accordance with Section 602.4.2.2.1.
+
+Exceptions: Unprotected portions of mass timber ceilings and walls complying with Section 602.4.2.2.4 and the following:
+
+1. Unprotected portions of mass timber ceilings and walls complying with one of the following:
+
+1.1. Unprotected portions of mass timber ceilings, including attached beams, shall be permitted and shall be limited to an area equal to 20 percent of the floor area in any dwelling unit or fire area.
+
+1.2. Unprotected portions of mass timber walls, including attached columns, shall be permitted and shall be limited to an area equal to 40 percent of the floor area in any dwelling unit or fire area.
+1.3. Unprotected portions of both walls and ceilings of mass timber, including attached columns and beams, in any dwelling unit or fire area shall be permitted in accordance with Section 602.4.2.2.3.
+
+2. Mass timber columns and beams that are not an integral portion of walls or ceilings, respectively, shall be permitted to be unprotected without restriction of either aggregate area or separation from one another.
+
+Although requiring mass timber elements to be fully protected, this Section provides an exception that allows a limited percentage of exposed mass timber surface area. This allowance provides for an intermediate protection requirement between Types IV-A and IV-C construction.
+
+In Exception 1.1, unprotected mass timber surfaces on ceilings may be allowed up to 20 percent of the floor area. For the 9 m by 9 m dwelling unit in Commentary Figure 602.4.2.2.1, the permitted allowable exposed area of the ceiling is 83.75 square meter x 0.20 = 16.75 square meter. The ceiling exposed mass timber area is 1.8 m by 9 m, or 16.75 square meter, which complies with the allowable exposed area.
+
+Where the exposure occurs only on walls, Exception 1.2 permits a total surface area up to 40 percent of the floor area to be unprotected. In Commentary Figure 602.4.2.2.2, the permitted allowable exposed wall area of the 84 m² dwelling unit would be 84 m² x 0.40, or 33.6 m². The left and back wall each have 16.75 square meter for a total of 33.6 m², which meets the allowed limit for walls.
+
+If mass timbers are unprotected on both ceilings and walls, Exception 1.3 states the sum of the ratios for the walls and ceiling of actual unprotected area to allowable unprotected area must be equal to or less than one as specified in Section 602.4.2.2.3.
+
+Exception 2 states that columns and beams that are not an integral part of a wall or ceiling, such as columns located in the middle of a space or room, are not required to be included in the area calculations for Exception 1 and are permitted to be unprotected without restriction as to area or separation from one another. "Freestanding" beams and columns are deemed acceptable since they are unlikely to be directly impinged by a fuel load. Conversely, columns integral to a wall are likely to have fuel loads immediately adjacent, and so columns and beams attached to a wall or ceiling are regulated like a portion of the wall or ceiling to which they are attached, per Exception 1.3. It
+
+===== Page 0515 =====
+follows that an exposed column that is attached to a wall connecting to any portion of an exposed ceiling is not permitted since exposed walls and ceilings can never come into contact. All structural columns and beams must be fire-resistant rated in accordance with Table 601, regardless of whether they have noncombustible protection or not.
+
+602.4.2.2.3 Mixed unprotected areas. In each dwelling unit or fire area, where both portions of ceilings and portions of walls are unprotected, the total allowable unprotected area shall be determined in accordance with Equation 6-1.
+
+ \[ \frac{(U_{tc})}{(U_{ac})}+\frac{(U_{tw})}{(U_{aw})}\leq1 \quad (Equation 6-1) \]
+
+where
+ \( U_{tc} \)  = Total unprotected mass timber ceiling areas.
+
+ \( U_{ac} \)  = Allowable unprotected mass timber ceiling area conforming to Exception 1.1 of Section 602.4.2.2.2.
+
+ \( U_{tw} \)  = Total unprotected mass timber wall areas.
+
+ \( U_{aw} \)  = Allowable unprotected mass timber wall area conforming to Exception 1.2 of Section 602.4.2.2.2
+
+According to Section 602.4.2.2.2, Exception 1.3, where a combination of unprotected mass timber elements occurs on both walls and ceilings of Type IV-B construction, this Section and Equation 6-1 limit the total allowable area of exposed mass timber. This calculation is applicable per dwelling unit or per fire area.
+
+Commentary Figure 602.4.2.2.3 is an example of a dwelling unit with exposed timber on both the walls and ceiling. The following is the application of Equation 6-1.
+
+ \( U_{tc} \)  = Total unprotected ceiling area = 2.7 m × 2.7 m = 7.3 m²
+
+ \( U_{ac} \)  = Allowable unprotected ceiling area = 84 m \( ^{2} \)  × 0.20 = 16.80 m \( ^{2} \)
+
+ \( U_{tw} \)  = Total unprotected wall area = 5.4 m × 3 m = 16.2 m²
+
+ \( U_{cm} \)  = Allowable unprotected wall area = 84 m \( ^{2} \)  × 0.40 = 33.6 m \( ^{2} \)
+
+Applying these values to Equation 6-1:
+
+ \( (7.3/16.8) + (16.2/33.6) = 0.43 + 0.48 = 0.91 \leq 1 \) , means the mixed exposed mass timber area is compliant.
+
+602.4.2.2.4 Separation distance between unprotected mass timber elements. In each dwelling unit or fire area, unprotected portions of mass timber walls and ceilings shall be not less than 4.5 m from unprotected portions of other walls and ceilings, measured horizontally along the ceiling and from other unprotected portions of walls measured horizontally along the floor.
+
+This Section requires minimum spacing between unprotected mass timber elements to avoid re-radiation of heat between adjacent exposed mass timber. Re-radiation could extend the duration or severity of an uncontrolled fire. An example of this is shown in Commentary Figure 602.4.2.2.3 between the exposed timber on the wall and ceiling.
+
+602.4.2.3 Floors. The floor assembly shall contain a noncombustible material not less than 25 mm in thickness above the mass timber. Floor finishes in accordance with Section 804 shall be permitted on top of the noncombustible material. The underside of floor assemblies shall be protected in accordance with Section 602.4.1.2.
+
+See the commentary to Section 602.4.1.3.
+
+602.4.2.4 Roofs. The interior surfaces of roof assemblies shall be protected in accordance with Section 602.4.2.2 except, in nonoccupiable spaces, they shall be treated as a concealed space with no portion left unprotected. Roof coverings in accordance with Chapter 15 shall be permitted on the outside surface of the roof assembly.
+
+See the commentary to Section 602.4.2.2 regarding protection requirements for interior sides of mass timber elements, which includes the roof structure. Despite the exception to Section 602.4.2.2.2 permitting unprotected area, this Section maintains required protection of all mass timber elements in all nonoccupiable spaces in roof assemblies, as is required for concealed spaces. The exterior side of mass timber elements in the roof structure may be covered in compliance with Chapter 15.
+
+602.4.2.5 Concealed spaces. Concealed spaces shall not contain combustibles other than electrical, mechanical, fire protection, or plumbing materials and equipment permitted in plenums in accordance with Section 602 of SBC 501 and shall comply with all applicable provisions of Section 718. Combustible construction forming concealed spaces shall be protected in accordance with Section 602.4.1.2.
+
+See the commentary to Section 602.4.1.5.
+
+602.4.2.6 Shafts. Shafts shall be permitted in accordance with Sections 713 and 718. Both the shaft side and room side of mass timber elements shall be protected in accordance with Section 602.4.1.2.
+
+Shafts are allowed in Type IV-B construction, as provided by Sections 713 and 718. All mass timber elements that are part of a shaft require protection on the inside and outside of the shaft with ratings applicable to Type IV-B.
+
+===== Page 0516 =====
+construction. In buildings of Type IV-B construction with an occupied floor located more than 23 m above the lowest level of fire department access, up to and including 12 stories or 54 m above grade plane, interior exit stairway enclosures are permitted to be constructed of mass timber elements.
+
+602.4.3 Type IV-C. Building elements in Type IV-C construction shall be protected in accordance with Sections 602.4.3.1 through 602.4.3.6. The required fire-resistance rating of building elements shall be determined in accordance with Section 703.2.
+
+While Type IV-C building elements require the same fire-resistance rating as Type IV-B building elements in Table 601, Type IV-C construction requires less noncombustible protection allowing for more exposed mass timber elements than in Type IV-B construction. In other words, the mass timber exposure in Type IV-C construction is similar to Type IV-HT construction, but the required rating of elements is similar to Type IV-B construction.
+
+602.4.3.1 Exterior protection. The exterior side of walls of combustible construction shall be protected with noncombustible protection with a minimum assigned time of 40 minutes, as determined in Table 722.7.1(1). Components of the exterior wall covering shall be of noncombustible material except water-resistive barriers having a peak heat release rate of less than 150 kW/m², a total heat release of less than 20 MJ/m² and an effective heat of combustion of less than 18 MJ/kg as determined in accordance with ASTM E1354 and having a flame spread index of 25 or less and a smoke-developed index of 450 or less as determined in accordance with ASTM E84 or UL 723. The ASTM E1354 test shall be conducted on specimens at the thickness intended for use, in the horizontal orientation and at an incident radiant heat flux of 50 kW/m².
+
+See the commentary to Section 602.4.1.1.
+
+602.4.3.2 Interior protection. Mass timber elements are permitted to be unprotected.
+
+Surfaces of mass timber elements on the interior of Type IV-C buildings are not required to have noncombustible protection. Although they may be exposed based on construction type, other Sections may require protection, such as a thermal barrier as required for occupancy separation in Section 508.4.4.1 or in incidental use spaces in Section 509.4.1.1. Achieving the required fire-resistance ratings with noncombustible protection, or a combination of the calculated fire resistance of exposed timber and noncombustible protection, is permitted for Type IV-C. However, if a Type IV-C building element is intended or designed to be exposed, all its fire resistance must be achieved by the performance of the mass timber alone (the same is true for exposed mass timber in Type IV-B).
+
+602.4.3.3 Floors. Floor finishes in accordance with Section 804 shall be permitted on top of the floor construction.
+
+Because interior protection is not a base requirement for mass timber in Type IV-C construction, the top surface of mass timber floor assemblies may be covered with normal floor finishes compliant with Section 804 and the underside of the floor assemblies does not require protection by this section.
+
+602.4.3.4 Roof coverings. Roof coverings in accordance with Chapter 15 shall be permitted on the outside surface of the roof assembly.
+
+The exterior side of mass timber elements in roof construction only requires roof coverings to be compliant with Chapter 15. There is no underside protection of mass timber roof members required by this section.
+
+602.4.3.5 Concealed spaces. Concealed spaces shall not contain combustibles other than electrical, mechanical, fire protection, or plumbing materials and equipment permitted in plenums in accordance with Section 602 of SBC 501 and shall comply with all applicable provisions of Section 718. Combustible construction forming concealed spaces shall be protected with noncombustible protection with a minimum assigned time of 40 minutes, as specified in Table 722.7.1(1).
+
+As in Types IV-A and IV-B construction, this Section allows Type IV-C construction to have combustible materials for specific uses in concealed spaces complying with Section 718. The difference with Type IV-C construction is the minimum noncombustible protection required on all mass timber in concealed spaces is only 40 minutes.
+
+602.4.3.6 Shafts. Shafts shall be permitted in accordance with Sections 713 and 718. Shafts and elevator hoistway and interior exit stairway enclosures shall be protected with noncombustible protection with a minimum assigned time of 40 minutes, as specified in Table 722.7.1(1), on both the inside of the shaft and the outside of the shaft.
+
+Shafts in Type IV-C construction are provided as allowed by Sections 713 and 718. All mass timber elements that are part of a shaft require full protection, but unlike Types IV-A and IV-B construction, a 40-minute minimum rated protection is allowed on the inside and outside of the shaft. This means mass timber alone cannot be used to calculate the enclosure's fire-resistance rating. To meet a 2-hour fire-
+
+===== Page 0517 =====
+resistance rating, the mass timber element must provide 80 minutes of the fire-resistance rating.
+
+602.4.4 Type IV-HT. Type IV-HT (Heavy Timber) construction is that type of construction in which the exterior walls are of noncombustible materials and the interior building elements are of solid wood, laminated heavy timber or structural composite lumber (SCL), without concealed spaces or with concealed spaces complying with Section 602.4.4.3. The minimum dimensions for permitted materials including solid timber, glued-laminated timber, SCL and cross-laminated timber (CLT) and the details of Type IV construction shall comply with the provisions of this Section and Section 2304.11. Exterior walls complying with Section 602.4.4.1 or 602.4.4.2 shall be permitted. Interior walls and partitions not less than 1-hour fire-resistance rated or heavy timber conforming with Section 2304.11.2.2 shall be permitted.
+
+Type IV-HT construction must comply with the provisions of Sections 602.4.4.1 through 602.4.4.4 and those of Section 2304.11. The combustible structural elements are permitted to be unprotected because of the massive element sizes. Because these wood elements are unprotected, they do not have a fire-resistance rating except as specified in Table 601. Heavy timber relies on the cross-sectional size required by this Section and Section 2304.11 for wood members to provide an intrinsic level of passive fire resistance through charring at the surface of wood members, which protects the remaining structurally sound wood. Historically, heavy timber was simply large pieces of sawn lumber from the large trees of North American forests. Over time, as such trees became less available, the industry has created three types of engineered wood products that can be used as "heavy timber": glued-laminated timber, structural composite lumber (SCL) and cross-laminated timber (CLT).
+
+602.4.4.1 Fire-retardant-treated wood in exterior walls. Fire-retardant-treated wood framing and sheathing complying with Section 2303.2 shall be permitted within exterior wall assemblies with a 2-hour rating or less.
+
+As with Type III construction, fire-retardant-treated wood (FRTW) is permitted as a substitute for noncombustible materials for framing and sheathing within exterior wall assemblies of Type IV-HT construction. While the exterior walls are permitted to be either nonload bearing or load bearing, to apply the allowance for FRTW the required fire-resistance rating of the exterior wall must be
+not greater than 2 hours. FRTW is required to comply with the provisions of Section 2303.2.
+602.4.4.2 Cross-laminated timber in exterior walls. Cross-laminated timber (CLT) not less than 100 mm in thickness complying with Section 2303.1.4 shall be permitted within exterior wall assemblies with a 2-hour rating or less. Heavy timber structural members appurtenant to the CLT exterior wall shall meet the requirements of Table 2304.11 and be fire-resistance rated as required for the exterior wall. The exterior surface of the cross-laminated timber and heavy timber elements shall be protected by one of the following:
+
+1 Fire-retardant-treated wood sheathing complying with Section 2303.2 and not less than 12.5 mm thick.
+
+2 Gypsum board not less than 12.5 mm thick.
+
+3 A non-combustible material.
+
+Cross-laminated timber (CLT) can be used within the exterior walls of a Type IV-HT building, provided that the CLT is at least 100 mm thick and protected by one of the three methods listed. Heavy timber members as part of the CLT exterior wall shall meet the minimum size requirements and the rating for the exterior wall. In other words, CLT and heavy timber can be part of the exterior wall provided that it is not exposed. As with walls incorporating FRTW, walls with CLT must have a required rating of 2 hours or less.
+
+602.4.4.3 Concealed spaces. Concealed spaces shall not contain combustible materials other than building elements and electrical, mechanical, fire protection, or plumbing materials and equipment permitted in plenums in accordance with Section 602 of SBC 501. Concealed spaces shall comply with applicable provisions of Section 718. Concealed spaces shall be protected in accordance with one or more of the following:
+
+1 The building shall be sprinkled throughout in accordance with Section 903.3.1.1 and automatic sprinklers shall also be provided in the concealed space.
+
+2 The concealed space shall be completely filled with non-combustible insulation.
+
+3 Surfaces within the concealed space shall be fully sheathed with not less than 16 mm Type X gypsum board.
+
+Exception: Concealed spaces within interior walls and partitions with a 1-hour or greater fire-resistance rating complying with Section 2304.11.2.2 shall not require additional protection.
+
+Similar to Types IV-A, IV-B and IV-C construction, no combustible materials are allowed in concealed spaces of Type IV-HT
+
+===== Page 0518 =====
+construction except as outlined in this section. Concealed spaces created by heavy timber elements must be protected by at least one of the three methods listed. In the third method, the protected surfaces refer to heavy timber elements. The exception to concealed space protection is limited to spaces inside cavities of rated walls of at least 1-hour fire-resistance rating.
+
+602.4.4.4 Exterior structural members. Where a horizontal separation of 6 m or more is provided, wood columns and arches conforming to heavy timber sizes complying with Section 2304.11 shall be permitted to be used externally.
+
+Columns and arches that conform to the minimum dimensional requirements found in Section 2304.11 and Table 2304.11 may be used on the exterior of a building if a fire separation distance of at least 6 m is maintained. The balance of the exterior wall must be of noncombustible construction or in compliance with Section 602.4.4.1 or 602.4.4.2. If a fire separation distance of at least 6 m is maintained, the risk of exposure of the wood members to fire from an adjacent building is reduced, and the heavy timber columns and arches are permitted to be exposed to the exterior.
+
+If a building of Type IV-HT construction has a fire separation distance of less than 6 m, the wood columns and arches are to be located on the interior side of the exterior wall. The noncombustible construction of the exterior wall will provide some degree of protection to the interior heavy timber members. Therefore, placing the wood structural members inside an exterior wall is preferable to placing them within 6 m of a lot line or adjacent building with no exposure protection.
+
+602.5 Type V. Type V construction is that type of construction in which the structural elements, exterior walls and interior walls are of any materials permitted by this code.
+
+Type V construction allows the use of all types of materials, both noncombustible and combustible. Type V buildings are most commonly constructed of dimensional lumber (see Commentary Figure 602.5 for an example of Type V construction). It is divided into two subclassifications: Types VA and VB. An example of a typical building of Type VA construction is a wood frame building in which the interior and exterior load-bearing walls, floors, roofs and all structural members are protected to provide a minimum 1-hour fire-resistance rating. Type V construction is required to comply with Table 601 and Chapter 23.
+
+## SECTION 603 COMBUSTIBLE
+
+## MATERIAL IN TYPES I AND II
+CONSTRUCTION
+
+603.1 Allowable materials. Combustible materials shall be permitted in buildings of Type I or II construction in the following applications and in accordance with Sections 603.1.1 through 603.1.3:
+
+1 Fire-retardant-treated wood shall be permitted in:
+
+1.1 Nonbearing partitions where the required fire-resistance rating is 2 hours or less except in shaft enclosures within Group I-2 occupancies and ambulatory care facilities.
+
+1.2 Non-bearing exterior walls where fire-resistance-rated construction is not required.
+
+1.3 Roof construction, including girders, trusses, framing and decking.
+
+## Exceptions:
+
+1. In buildings of Type IA construction exceeding two stories above grade plane, fire-retardant-treated wood is not permitted in roof construction where the vertical distance from the upper floor to the roof is less than 6 m.
+
+2. Group I-2, roof construction containing fire-retardant-treated wood shall be covered by not less than a Class A roof covering or roof assembly, and the roof assembly shall have a fire-resistance rating where required by the construction type.
+
+1.4 Balconies, porches, decks and exterior stairways not used as required exits on buildings three stories or less above grade plane.
+
+2 Thermal and acoustical insulation, other than foam plastics, having a flame spread index of not more than 25.
+
+## Exceptions:
+
+1. Insulation placed between two layers of non-combustible materials without an intervening airspace shall be allowed to have a flame spread index of not more than 100.
+
+2. Insulation installed between a finished floor and solid decking without intervening airspace shall be allowed to have a flame spread index of not more than 200.
+
+===== Page 0519 =====
+3 Foam plastics in accordance with Chapter 26.
+
+4 Roof coverings that have an A, B or C classification.
+
+5 Interior floor finish and floor covering materials installed in accordance with Section 804.
+
+6 Millwork such as doors, door frames, window sashes and frames.
+
+7 Interior wall and ceiling finishes installed in accordance with Sections 801 and 803.
+
+8 Trim installed in accordance with Section 806.
+
+9 Where not installed greater than 4500 mm above grade, show windows, nailing or furring strips and wooden bulkheads below show windows, including their frames, aprons and show cases.
+
+10 Finish flooring installed in accordance with Section 805.
+
+11 Partitions dividing portions of stores, offices or similar places occupied by one tenant only and that do not establish a corridor serving an occupant load of 30 or more shall be permitted to be constructed of fire retardant-treated wood, 1-hour fire-resistance-rated construction or of wood panels or similar light construction up to 1.8 m in height.
+
+12 Stages and platforms constructed in accordance with Sections 410.2 and 410.3, respectively.
+
+13 Combustible exterior wall coverings, balconies and similar projections and bay or oriel windows in accordance with Chapter 14 and Section 705.2.3.1.
+
+14 Blocking such as for handrails, millwork, cabinets and window and door frames.
+
+15 Light-transmitting plastics as permitted by Chapter 26.
+
+16 Mastics and caulking materials applied to provide flexible seals between components of exterior wall construction.
+
+17 Exterior plastic veneer installed in accordance with Section 2605.2.
+
+18 Nailing or furring strips as permitted by Section 803.15.
+
+19 Heavy timber as permitted by Note c to Table 601 and Sections 602.4.4.4 and 705.2.3.1.
+
+20 Aggregates, component materials and admixtures as permitted by Section 703.2.1.2
+
+21 Sprayed fire-resistant materials and intumescent and mastic fire-resistant coatings, determined on the basis of fire resistance tests in accordance with Section 703.2 and installed in accordance with Sections 1705.15 and 1705.16, respectively.
+22 Materials used to protect penetrations in fire-resistance-rated assemblies in accordance with Section 714.
+
+23 Materials used to protect joints in fire-resistance-rated assemblies in accordance with Section 715.
+
+24 Materials allowed in the concealed spaces of buildings of Types I and II construction in accordance with Section 718.5.
+
+25 Materials exposed within plenums complying with Section 602 of SBC 501.
+
+26 Wall construction of freezers and coolers of less than  \( 100 \, m^{2} \) , in size, lined on both sides with non-combustible materials and the building is protected throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.
+
+27 Wood nailers for parapet flashing and roof cans.
+
+Section 603.1 provides a listing of circumstances where combustible materials can be used in buildings of Type I and II construction, which are otherwise required to be constructed of noncombustible materials. The list of 27 items frequently references the code user to other sections of the code where specific allowances are found. Most of these listed items, while of combustible materials, are either of minor quantities in the overall building or are of materials with fire-resistive properties. Treated wood: Fire-retardant-treated wood (FRTW) does not meet the criteria in the code for a noncombustible material. It is, however, permitted as an alternative to noncombustible materials in specific locations in Types I and II construction (see Items 1, 11 and 13). For example, the use of FRTW in walls of Types I and II construction has been limited to nonload-bearing partitions with a fire-resistance rating of not greater than 2 hours, with the exception of shaft enclosures in Group I-2 occupancies and ambulatory care facilities, and nonload-bearing exterior walls without a fire-resistance rating. Additionally, roofs in buildings of Types I and II construction are permitted to be constructed of FRTW. Exception 1 to Item 1.3 does not permit FRTW in the roofs of Type IA buildings over two stories in height if the distance from the uppermost floor to the roof is less than 6000 mm. If the distance is 6000 mm or greater, then FRTW is acceptable in the roof. FRTW is permitted in the roof of any Type IA building two stories or less in height, regardless of the distance from the floor to the roof. Similarly, FRTW is permitted in the roof of any Type IB or Type II building (no height restrictions) regardless of the distance from the floor to the roof. Where FRTW is included in a
+
+===== Page 0520 =====
+roof assembly of Type I and II construction as allowed by Item 1.3. Exception 2 requires a minimum Class A roof covering for buildings containing a Group I-2 occupancy. The roof assembly would still be required to comply with applicable fire-resistance-rated protection based on construction type per Table 601.
+
+Finally, Item 1.4 allows FRTW to be used on buildings three stories or less in height for specific exterior features (balconies, decks, porches and stairways). This is consistent with the first exception to Section 705.2.3.1. Its application is limited to three-story or shorter buildings; it is not applicable to the first three stories of taller buildings.
+
+Untreated wood: Numerous items in the list of Section 603.1 permit the use of untreated wood in Types I and II construction. Blocking or nailers used to support fixtures, railings, cabinets or interior and exterior finishes are permitted within walls and partitions required to be of noncombustible construction in accordance with Item 14. Item 18 permits combustible nailers and blocking as stipulated in accordance with Section 803.15. Section 803.15.1 indicates that "furring strips not exceeding 44 mm" are permitted to be used in noncombustible construction for securing trim and finishes. Item 27 also permits specific nailers used with parapet construction to be of combustible material. Although locating these combustible elements within noncombustible frame partitions is not specifically identified in this section, the presence of combustible nailers within noncombustible construction types, other than concrete and masonry, represents an equivalent circumstance. Therefore, it is the code is intended to permit the use of combustible nailers and blocking within Types I and II construction.
+
+According to Item 11, partitions within a small store or office can include untreated wood in their construction (or FRTW or 1-hour rated walls), provided that the partitions do not exceed 1.8 m in height. The limitations to 30 occupants and to not forming a corridor restrict this item from introducing extensive amounts of combustible materials. Item 9 permits the use of untreated wood for show windows and related construction up to a height of 4.5 m above grade. This permits a broader range of materials for storefronts without jeopardizing the overall integrity of these buildings.
+
+Item 19 references three different code Sections where heavy timber construction can occur within and on the outside of noncombustible buildings.
+
+Item 26 would allow wood construction in freezers and coolers, provided that the walls are lined with noncombustible materials and the building is fully sprinkled in accordance with NFPA 13. This would allow untreated wood as framing elements as well as trim and frames of these installations.
+
+Plastics: Items 2, 3, 15 and 17 specifically address allowed plastics within or on the surfaces of buildings of Type I and II construction. These items include allowances for thermal and acoustical insulation having a flame spread index of not greater than 25 when tested in accordance with ASTM E84 or UL 723, foam and light-transmitting plastics complying with Chapter 26, and exterior plastic veneers complying with Section 2605.2. Plastic materials are often included in installations allowed for interior finishes in accordance with Item 7. Item 26 allows freezers and coolers that will often have foam plastic insulation within the walls.
+
+Roof construction and roof coverings: While combustible roofs must be of FRTW if used in a building of Type I or II construction, roof coverings, blocking, nailers and furring strips are also permitted to be combustible without the use of FRTW (see Items 4, 14, 18, and 27).
+
+“Roof covering” is defined as the membrane covering the roof that provides weather resistance, fire classification or appearance. As long as a noncombustible roof deck (or FRTW) is provided as the structural element, foam plastic insulation, wood structural panels, nailing/furring strips and roof coverings may be applied.
+
+Exterior wall coverings and projections: Item 13 provides a reference to Chapter 14 and Section 705.2.3.1 where provisions address combustible exterior wall coverings and use of combustible materials in projections such as balconies and eaves. Combustible wall coverings need to be applied on top of a noncombustible wall meeting the required rating of Table 601. The coverings cannot be a substitute for the exterior face of a tested assembly. Plastic veneers (Item 17) are allowed in accordance with Section 2605.2.
+
+Concealed spaces and construction: Many combustible materials are used, and allowed to be used, within the elements of a building. Often these are used to help protect a fire-resistance-rated assembly where it is penetrated by pipes, ducts or conduit. Many of these materials are tested for specific purposes and installations, such as protection of joints, or are used to actually resist, or react to, fire (see Items 16, 20, 21, 22, 23, 24 and 25).
+
+Finish and interior materials: Finish materials for floors, walls and ceilings must comply with various provisions of Chapter 8. Allowed materials include combustible
+
+===== Page 0521 =====
+materials, but typically they are limited in flame spread index and smoke generation. Items 5, 7 and 8 address interior finishes. Stages and platforms can be combustible when in compliance with Section 410 (see Item 12). Finally, per Item 6, doors and windows are not among the elements required to be noncombustible.
+
+603.1.1 Ducts. The use of nonmetallic ducts shall be permitted where installed in accordance with the limitations of SBC 501.
+
+Ducts are not addressed by construction-type requirements and their use is not controlled by construction-type provisions. SBC 501 provides requirements for nonmetallic ducts and addresses issues including flammability and flame spread. This Section clarifies that this chapter is not intended to override those requirements.
+
+603.1.2 Piping. The use of combustible piping materials shall be permitted where installed in accordance with the limitations of SBC 501 and SBC 701.
+
+Piping is not addressed by construction-type requirements, and the use of piping is not controlled by construction-type provisions. SBC 701 provides requirements for combustible piping materials, such as plastic, that address the issues of flammability and flame spread. This Section clarifies that this chapter is not intended to override those requirements.
+
+603.1.3 Electrical. The use of electrical wiring methods with combustible insulation, tubing, raceways and related components shall be permitted where installed in accordance with the limitations of this code.
+
+Electrical wiring and equipment are not addressed by construction-type requirements and their use is not controlled by construction-type provisions. NFPA 70, National Electrical Code (or its equivalent in SBC 401), provides requirements for combustible wiring materials that address the issue of flammability and flame spread. This Section clarifies that this chapter is not intended to override those requirements.
+
+===== Page 0522 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 ASTM E84-13, Test Methods for Surface Burning Characteristics of Building Materials. West Conshohocken, PA: ASTM International, 2013.
+
+2 DOC PS 20-05, American Softwood Lumber Standard. Washington, DC: United States Department of Commerce, 2005.
+
+3 Fire Protection through Modern Building Codes. Washington, DC: American Iron and Steel Institute, 1981.
+
+4 NFPA 13-13, Standard for the Installation of Sprinkler Systems. Quincy, MA: National Fire Protection Association, 2013.
+
+5 SBC 401-24, Saudi Electrical Code, 2024.
+
+6 Technical Report No. 1, Comparative Fire Test on Wood and Steel Joists. Washington, DC: National Forest Products Association, 1961.
+
+7 Timber Construction Manual, 2nd edition. American Institute of Timber Construction. New York: John Wiley and Sons Inc., 1974.
+
+8 Wood Construction Data No. 5, Heavy Timber Construction. Washington, DC: American Forest and Paper Association, 2004.
+
+===== Page 0523 =====
+## TABLES AND FIGURES OF CHAPTER 6
+
+TABLE 601
+
+FIRE-RESISTANCE RATING REQUIREMENTS FOR BUILDING ELEMENTS (HOURS)
+
+<table><td rowspan="2">BUILDING ELEMENT<td colspan="3">TYPE I<td colspan="3">TYPE II<td colspan="3">TYPE III<td colspan="3">TYPE IV<td colspan="3">TYPE VABABABABABCHTABPrimary Structural frame \( ^{f} \)  (see Section 202)3a,b2a,b,c1b,c0c1b,c03a2a2a2aHT1b,c0Bearing walls
+
+===== Page 0524 =====
+EXAMPLE APPLIES TO BUILDING OF TYPE IB, IIA, IIIA OR VA CONSTRUCTION
+
+FIGURE 601
+PROTECTION OF ROOF CONSTRUCTION
+
+FIGURE 602.2
+EXAMPLES OF TYPE I AND II CONSTRUCTION
+
+===== Page 0525 =====
+EXAMPLE OF TYPE III CONSTRUCTION
+
+FIGURE 602.4.2.2.2(1)
+
+EXAMPLE OF TYPE IV-B EXPOSED CEILING MASS TIMBER
+
+===== Page 0526 =====
+FIGURE 602.4.2.2.2(2)
+EXAMPLE OF TYPE IV-B EXPOSED WALL MASS TIMBER
+
+FIGURE 602.4.2.2.3
+
+EXAMPLE OF TYPE IV-B EXPOSED MIXED CEILING/WALL MASS TIMBER
+
+===== Page 0527 =====
+FIGURE 602.5
+EXAMPLE OF TYPE V CONSTRUCTION
+
+===== Page 0528 =====
+This page left intentionally blank
+

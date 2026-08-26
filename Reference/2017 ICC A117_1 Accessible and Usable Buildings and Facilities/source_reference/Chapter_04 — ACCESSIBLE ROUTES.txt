@@ -1,0 +1,1372 @@
+## SECTION 401
+
+GENERAL
+
+401.1 Scope.
+
+Accessible routes required by the scoping provisions adopted by the administrative authority shall comply with the applicable provisions of Chapter 4.
+
+## SECTION 402
+
+ACCESSIBLE ROUTES
+
+402.1 General.
+
+Accessible routes shall comply with Section 402.
+
+## 402.2 Components. INSIGHTS
+
+Accessible routes shall consist of one or more of the following components: walking surfaces with a running slope not steeper than 1:20, doors and doorways, gates, ramps, curb ramps excluding the flared sides, blended transitions, elevators and platform lifts. All components of an accessible route shall comply with the applicable portions of this standard.
+
+
+## 402.3 Revolving doors, revolving gates and turnstiles.
+
+Revolving doors, revolving gates and turnstiles shall not be part of an accessible route.
+
+## SECTION 403
+
+## WALKING SURFACES
+
+403.1 General.
+
+Walking surfaces that are a part of an accessible route shall comply with Section 403.
+
+## 403.2 Floor surface.
+
+Floor surfaces shall comply with Section 302.
+
+## 403.3 Slope. INSIGHTS
+
+The running slope of walking surfaces shall not be steeper than 1:20. The cross slope of a walking surface shall not be steeper than 1:48.
+
+
+## 403.4 Changes in level. INSIGHTS
+
+Changes in level shall comply with Section 303.
+
+
+## 403.5 Clear width. INSIGHTS
+
+The clear width of an accessible route shall comply with Section 403.5.1, 403.5.2, 403.5.3 or 403.5.4 as applicable.
+
+
+## 403.5.1 General.
+
+The clear width of an interior accessible route shall be 36 inches (915 mm) minimum. The clear width of an exterior accessible route shall be 48 inches (1220 mm) minimum.
+
+## Exceptions:
+
+1. In new buildings and facilities, the clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided the reduced-width segments are separated by segments that are 52 inches (1320 mm) minimum in length and 36 inches (915 mm) minimum in width.
+
+2. In existing buildings and facilities, the clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided the reduced width segments are separated by segments that are 48 inches (1220 mm) minimum in length and 36 inches (915 mm) minimum in width.
+
+3. The clear width of an exterior accessible route located within seating areas shall be 36 inches (915 mm) minimum.
+
+4. The clear width of an exterior ramp shall comply with Section 405.5.
+
+FIGURE 403.5.1(A) CLEAR WIDTH OF AN ACCESSIBLE ROUTE - NEW BUILDINGS - INTERIOR
+
+FIGURE 403.5.1(B) CLEAR WIDTH OF AN ACCESSIBLE ROUTE - NEW BUILDINGS - EXTERIOR
+
+FIGURE 403.5.1(C) CLEAR WIDTH OF AN ACCESSIBLE ROUTE - EXISTING BUILDINGS - INTERIOR
+
+FIGURE 403.5.1(D) CLEAR WIDTH OF AN ACCESSIBLE ROUTE - EXISTING BUILDINGS - EXTERIOR
+
+403.5.2 Clear width at 180-degree turn. INSIGHTS
+
+
+## 403.5.2.1 New buildings and facilities.
+
+In new building and facilities, where an accessible route makes a 180-degree turn around an object that is equal to or greater than 52 inches (1320 mm) in width, the clear widths in the turn shall comply with Section 403.5.3.1. Where an accessible route makes a 180-degree turn around an object that is less than 52 inches (1320 mm) in width, the clear widths approaching the turn, during the turn and leaving the turn, shall be one of the following sets of dimensions:
+
+1. Approaching width is 36 inches (915 mm) minimum, during width is 60 inches (1525 mm) minimum, and leaving width is 36 inches (915 mm) minimum.
+
+2. Approaching width is 42 (1065 mm) inches minimum, during width is 48 inches (1220 mm) minimum, and leaving width is 42 (1065 mm) inches minimum.
+
+3. Approaching width is 43 inches (1090 mm) minimum, during width is 43 inches (1090 mm) minimum, and leaving width is 43 inches (1090 mm) minimum.
+
+FIGURE 403.5.2.1(A) CLEAR WIDTH AT 180-DEGREE TURN NEW BUILDINGS - OPTION 1
+
+FIGURE 403.5.2.1(B) CLEAR WIDTH AT 180-DEGREE TURN NEW BUILDINGS - OPTION 2
+
+FIGURE 403.5.2.1(C) CLEAR WIDTH AT 180-DEGREE TURN NEW BUILDINGS - OPTION 3
+
+403.5.2.2 Existing buildings and facilities. INSIGHTS
+
+In existing buildings and facilities, where an accessible route makes a 180 degree turn around an object that is less than 48 inches (1220 mm) in width, clear widths shall be 42 inches (1065 mm) minimum approaching the turn, 48 inches (1220 mm) minimum during the turn, and 42 inches (1065 mm) minimum leaving the turn.
+
+Exception: This section shall not apply where the clear width during the turn is 60 inches (1525 mm) minimum.
+
+
+FIGURE 403.5.2.2(A) CLEAR WIDTH AT 180-DEGREE TURN EXISTING BUILDINGS
+
+FIGURE 403.5.2.2(B) CLEAR WIDTH AT 180-DEGREE TURN EXISTING BUILDINGS - EXCEPTION
+
+403.5.3 Clear width at 90-degree turn. INSIGHTS
+
+
+## 403.5.3.1 New buildings and facilities.
+
+In new buildings and facilities, where an accessible route makes a 90-degree turn the clear widths approaching the turn and leaving the turn shall be one of the following sets of dimensions:
+
+1. Both legs of the turn shall be 40 inches (1015 mm) minimum in width. The width of each leg of the turn shall be maintained for 28 inches (710 mm) minimum from the inner corner.
+
+2. Where the interior corners of the turn are chamfered for 8 inches minimum (205 mm) along both walls, both legs of the turn shall be 36 inches (915 mm) minimum in width.
+
+3. Where one leg of the turn is 42 inches (1065 mm) minimum in width, the other shall be permitted to be 38 inches (965 mm) minimum in width.
+
+4. Where one leg of the turn is 44 inches (1120 mm) minimum in width, the other shall be permitted to be 36 inches (915 mm) minimum in width.
+
+## Exceptions:
+
+1. Where an accessible route makes a 90-degree turn at doors, doorways and gates complying with Section 404.2.3, the route shall not be required to comply with this section.
+
+2. Where an accessible route makes a 90-degree turn at an elevator or platform lift complying with Sections 407 through 410, the accessible route shall not be required to comply with this section.
+
+FIGURE 403.5.3.1(A) CLEAR WIDTH AT 90-DEGREE TURN NEW BUILDINGS - OPTION 1
+
+FIGURE 403.5.3.1(B) CLEAR WIDTH AT 90-DEGREE TURN NEW BUILDINGS - OPTION 2
+
+FIGURE 403.5.3.1(C) CLEAR WIDTH AT 90-DEGREE TURN NEW BUILDINGS - OPTION 3
+
+FIGURE 403.5.3.1(D) CLEAR WIDTH AT 90-DEGREE TURN NEW BUILDINGS - OPTION 4
+
+## 403.5.3.2 Existing buildings and facilities.
+
+In existing buildings and facilities, where an accessible route makes a 90-degree turn the clear widths approaching the turn and leaving the turn shall be 36 inches (915 mm) minimum.
+
+FIGURE 403.5.3.2 CLEAR WIDTH AT 90-DEGREE TURN EXISTING BUILDINGS
+
+## 403.5.4 Passing space. INSIGHTS
+
+
+## 403.5.4.1 New buildings and facilities.
+
+In new buildings and facilities, an accessible route with a clear width less than 60 inches (1525 mm) shall provide passing spaces at intervals of 200 feet (61 m) maximum. Passing spaces shall be either a 60-inch (1525 mm) minimum by 60-inch (1525 mm) minimum space, or an intersection of two walking surfaces that provide a T-shaped turning space complying with Section 304.3.2.1, provided the base and arms of the T-shaped space extend 52 inches (1320 mm) minimum beyond the intersection.
+
+FIGURE 403.5.4.1(A) PASSING SPACE - NEW BUILDINGS - 60 X 60 OPTION
+
+FIGURE 403.5.4.1(B) PASSING SPACE - NEW BUILDINGS - T-TURN OPTION
+
+## 403.5.4.2 Existing buildings and facilities.
+
+In existing buildings and facilities, an accessible route with a clear width less than 60 inches (1525 mm) shall provide passing spaces at intervals of 200 feet (61 m) maximum. Passing spaces shall be either a 60-inch (1525 mm) minimum by 60-inch (1525 mm) minimum space, or an intersection of two walking surfaces that provide a T-shaped turning space complying with Section 304.3.2, provided the base and arms of the T-shaped space extend 48 inches (1220 mm) minimum beyond the intersection.
+
+FIGURE 403.5.4.2(A) PASSING SPACE - EXISTING BUILDINGS - 60 X 60 OPTION
+
+FIGURE 403.5.4.2(B) PASSING SPACE - EXISTING BUILDINGS - T-TURN OPTION
+
+## 403.6 Handrails.
+
+Where handrails are required at the side of a corridor they shall comply with Sections 505.4 through 505.9.
+
+## SECTION 404
+
+## DOORS, DOORWAYS AND GATES INSIGHTS
+
+
+## 404.1 General.
+
+Doors, doorways and gates that are part of an accessible route shall comply with Section 404.
+
+Exception: Doors, doorways and gates designed to be operated only by security personnel shall not be required to comply with Sections 404.2.3, 404.2.6, 404.2.7, 404.2.8, 404.3.1, 404.3.2, 404.3.4, 404.3.7 and 404.3.8.
+
+## 404.2 Manual doors, doorways and manual gates.
+
+Manual doors, doorways and manual gates intended for user passage shall comply with Section 404.2.
+
+## 404.2.1 Double-leaf doors and gates.
+
+At least one of the active leaves of doorways with two leaves shall comply with Sections 404.2.2 and 404.2.3.
+
+## 404.2.2 Clear width. INSIGHTS
+
+Doorways shall have a clear opening width of 32 inches (815 mm) minimum. Clear opening width of doorways with swinging doors shall be measured between the face of door and stop, with the door open 90 degrees. Openings more than 24 inches (610 mm) in depth at doors and doorways without doors shall provide a clear opening width of 36 inches (915 mm) minimum. There shall be no projections into the clear opening width lower than 34 inches (865 mm) above the floor. Projections into the clear opening width between 34 inches (865 mm) and 80 inches (2030 mm) above the floor shall not exceed 4 inches (100 mm).
+
+## Exceptions:
+
+1. Door closers and door stops shall be permitted to be 78 inches (1980 mm) minimum above the floor.
+
+2. In alterations, a projection of  \( \frac{5}{8} \)  inch (16 mm) maximum into the required clear opening width shall be permitted for the latch side stop.
+
+
+FIGURE 404.2.2(A) CLEAR WIDTH OF DOORWAYS - HINGED DOOR
+
+FIGURE 404.2.2(B) CLEAR WIDTH OF DOORWAYS - SLIDING DOOR
+
+FIGURE 404.2.2(C) CLEAR WIDTH OF DOORWAYS - FOLDING DOOR
+
+FIGURE 404.2.2(D) CLEAR WIDTH OF DOORWAYS - DOORWAYS WITHIN DOORS
+
+## 404.2.3 Maneuvering clearances. INSIGHTS
+
+Minimum maneuvering clearances at doors and gates shall comply with Section 404.2.3. Maneuvering clearances shall include the full clear opening width of the doorway and the required latch-side or hinge-side clearance.
+
+
+## 404.2.3.1 Floor surface.
+
+The floor surface within the maneuvering clearances shall have a slope not steeper than 1:48 and shall comply with Section 302.
+
+## 404.2.3.2 Swinging doors and gates. INSIGHTS
+
+Swinging doors and gates shall have maneuvering clearances complying with Table 404.2.3.2.
+
+
+FIGURE 404.2.3.2(A) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS FRONT APPROACH - PULL SIDE
+
+FIGURE 404.2.3.2(B) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS FRONT APPROACH - PUSH SIDE - NEW BUILDINGS
+
+FIGURE 404.2.3.2(C) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS FRONT APPROACH - PUSH SIDE - EXISTING BUILDINGS FOOTNOTE 5
+
+FIGURE 404.2.3.2(D) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS HINGE APPROACH - PULL SIDE
+
+FIGURE 404.2.3.2(E) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS HINGE APPROACH - PULL SIDE
+
+FIGURE 404.2.3.2(F) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS HINGE APPROACH - PUSH SIDE
+
+FIGURE 404.2.3.2(G) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS LATCH APPROACH - PULL SIDE
+
+FIGURE 404.2.3.2(H) MANEUVERING CLEARANCE AT MANUAL SWINGING DOORS LATCH APPROACH - PUSH SIDE
+
+TABLE 404.2.3.2—MANEUVERING CLEARANCES AT MANUAL SWINGING DOORS AND GATES
+
+<table><td colspan="3">TYPE OF USE<td colspan="2">MINIMUM MANEUVERING CLEARANCESApproach DirectionDoor or Gate SidePerpendicular to DoorwayParallel to Doorway (beyond latch unless noted)From frontPull60 inches (1525 mm)18 inches (455 mm)From frontPush52 inches (1320 mm) \( ^{5} \)0 inches (0 mm) \( ^{3} \)From hinge sidePull60 inches (1525 mm)36 inches (915 mm)From hinge sidePull54 inches (1370 mm)42 inches (1065 mm)From hinge sidePush42 inches (1065 mm) \( ^{1} \)22 inches (560 mm) \( ^{4} \)From latch sidePull48 inches (1220 mm) \( ^{2} \)24 inches (610 mm)From latch sidePush42 inches (1065 mm) \( ^{2} \)24 inches (610 mm)</table>
+
+ \( ^{1} \) Add 6 inches (150 mm) if closer and latch provided.
+
+ \( ^{2} \) Add 6 inches (150 mm) if closer provided.
+
+ \( ^{3} \) Add 12 inches (305 mm) beyond latch if closer and latch provided.
+
+ \( ^{4} \) Beyond hinge side.
+
+ \( ^{5} \) In existing buildings and facilities, the dimension perpendicular to the door or gate for the front direction on the push side shall be 48 inches (1220 mm) minimum.
+
+## 404.2.3.3 Sliding and folding doors. INSIGHTS
+
+Sliding doors and folding doors shall have maneuvering clearances complying with Table 404.2.3.3.
+
+
+TABLE 404.2.3.3—MANEUVERING CLEARANCES AT SLIDING AND FOLDING DOORS
+
+<table><td rowspan="2">Approach Direction<td colspan="2">MINIMUM MANEUVERING CLEARANCESPerpendicular to DoorwayParallel to Doorway (beyond stop or latch side unless noted)From front52 inches (1320 mm) \( ^{2} \)0 inches (0 mm)From nonlatch side42 inches (1065 mm)22 inches (560 mm) \( ^{1} \)From latch side42 inches (1065 mm)24 inches (610 mm)</table>
+
+ \( ^{1} \) Beyond pocket or hinge side.
+
+FIGURE 404.2.3.3(A) MANEUVERING CLEARANCES AT SLIDING AND FOLDING DOORS - FRONT APPROACH - NEW BUILDINGS
+
+FIGURE 404.2.3.3(B) MANEUVERING CLEARANCES AT SLIDING AND FOLDING DOORS - FRONT APPROACH - EXISTING BUILDINGS FOOTNOTE 2
+
+FIGURE 404.2.3.3(C) MANEUVERING CLEARANCES AT SLIDING AND FOLDING DOORS - POCKET OR HINGE APPROACH
+
+FIGURE 404.2.3.3(D) MANEUVERING CLEARANCES AT SLIDING AND FOLDING DOORS - STOP OR LATCH APPROACH
+
+## 404.2.3.4 Doorways without doors or gates. INSIGHTS
+
+Doorways without doors or gates that are less than 36 inches (915 mm) in width shall have maneuvering clearances complying with Table 404.2.3.4
+
+
+TABLE 404.2.3.4—MANEUVERING CLEARANCES FOR DOORWAYS WITHOUT DOORS OR GATES
+
+<table>Approach DirectionMINIMUM MANEUVERING CLEARANCES Perpendicular to DoorwayFrom front52 inches (1320 mm) \( ^{1} \)From side42 inches (1065 mm)</table>
+
+ \( ^{1} \) In existing buildings and facilities the dimension perpendicular to the doorway for the front direction shall be 48 inches (1220 mm) minimum.
+
+FIGURE 404.2.3.4(A) MANEUVERING CLEARANCES FOR DOORWAYS WITHOUT DOORS OR GATES - FRONT APPROACH - NEW BUILDINGS
+
+FIGURE 404.2.3.4(B) MANEUVERING CLEARANCES FOR DOORWAYS WITHOUT DOORS OR GATES - FRONT APPROACH - EXISTING BUILDINGS - FOOTNOTE 1
+
+FIGURE 404.2.3.4(C) MANEUVERING CLEARANCES FOR DOORWAYS WITHOUT DOORS OR GATES - SIDE APPROACH
+
+## 404.2.3.5 Recessed doors and gates. INSIGHTS
+
+Where any obstruction within 18 inches (455 mm) of the latch side of a doorway projects more than 8 inches (205 mm) beyond the face of the door or gate, measured perpendicular to the face of the door or gate, maneuvering clearances for a forward approach shall be provided.
+
+
+FIGURE 404.2.3.5(A) RECESSED DOORS AND GATES - NEW BUILDINGS PULL SIDE
+
+FIGURE 404.2.3.5(B) RECESSED DOORS AND GATES - NEW BUILDINGS PUSH SIDE
+
+FIGURE 404.2.3.5(C) RECESSED DOORS AND GATES - NEW BUILDINGS PUSH SIDE - DOOR PROVIDED WITH BOTH CLOSER AND LATCH
+
+FIGURE 404.2.3.5(D) RECESSED DOORS AND GATES - EXISTING BUILDINGS PULL SIDE
+
+FIGURE 404.2.3.5(E) RECESSED DOORS AND GATES - EXISTING BUILDINGS PUSH SIDE
+
+FIGURE 404.2.3.5(F) RECESSED DOORS AND GATES - EXISTING BUILDINGS PUSH SIDE - DOOR PROVIDED WITH BOTH CLOSER AND LATCH
+
+404.2.4 Thresholds. INSIGHTS
+
+If provided, thresholds at doorways shall be  \( \frac{1}{2} \)  inch (13 mm) maximum in height. Raised thresholds and changes in level at doorways shall comply with Sections 302 and 303.
+
+Exception: An existing or altered threshold shall be permitted to be  \( \frac{3}{4} \)  inch (19 mm) maximum in height provided that the threshold has a beveled edge on each side with a maximum slope of 1:2 for the height exceeding  \( \frac{1}{4} \)  inch (6.4 mm).
+
+
+## 404.2.5 Two doors or gates in series. INSIGHTS
+
+Distance between two hinged or pivoted doors or gates in series shall be 48 inches (1220 mm) minimum plus the width of any door or gate swinging into the space. The space between the doors and gates shall provide a turning space.
+
+
+FIGURE 404.2.5(A) TWO DOORS OR GATES IN A SERIES - NEW BUILDINGS
+
+FIGURE 404.2.5(B) TWO DOORS OR GATES IN A SERIES - NEW BUILDINGS
+
+FIGURE 404.2.5(C) TWO DOORS OR GATES IN A SERIES - NEW BUILDINGS
+
+FIGURE 404.2.5(D) TWO DOORS OR GATES IN A SERIES - EXISTING BUILDINGS
+
+FIGURE 404.2.5(E) TWO DOORS OR GATES IN A SERIES - EXISTING BUILDINGS
+
+FIGURE 404.2.5(F) TWO DOORS OR GATES IN A SERIES - EXISTING BUILDINGS
+
+## 404.2.6 Door and gate hardware. INSIGHTS
+
+Handles, pulls, latches, locks and other operable parts on doors and gates shall have a shape that is easy to grasp with one hand and does not require tight grasping, pinching or twisting of the wrist to operate. The operational force to retract latches or disengage devices that hold the door or gate in a closed position shall be as follows:
+
+1. Hardware operation by a forward, pushing or pulling motion: 15 pounds (66.7 N) maximum.
+
+2. Hardware operation by a rotational motion: 28 inch-pounds (315 N·cm) maximum.
+
+
+## 404.2.6.1 Hardware height.
+
+Operable parts of such hardware shall be 34 inches (865 mm) minimum and 48 inches (1220 mm) maximum above the floor. Where sliding doors are in the fully open position, operating hardware shall be exposed and usable from both sides.
+
+## 404.2.7 Closing speed. INSIGHTS
+
+Door and gate closing speed shall comply with 404.2.7.
+
+
+## 404.2.7.1 Door and gate closers.
+
+Door and gate closers shall be adjusted so that from an open position of 90 degrees, the time required to move the door or gate to an open position of 12 degrees shall be 5 seconds minimum.
+
+## 404.2.7.2 Spring hinges.
+
+Door and gate spring hinges shall be adjusted so that from an open position of 70 degrees, the door or gate shall move to the closed position in 1.5 seconds minimum.
+
+## 404.2.8 Door and gate opening force. INSIGHTS
+
+Fire doors and doors or gates required to be equipped with panic hardware, break away features or other factors requiring higher opening force for safety reasons shall have the minimum opening force allowable in scoping provisions adopted by the appropriate administrative authority. For other doors or gates, the force for pushing or pulling open doors or gates shall be as follows:
+
+1. Interior hinged door: 5.0 pounds (22.2 N) maximum.
+
+2. Sliding or folding door: 5.0 pounds (22.2 N) maximum.
+
+Exception: The force required to retract latch bolts or disengage other devices that hold the door or gate in a closed position shall not apply to panic hardware, delayed egress devices or fire-rated hardware.
+
+
+## 404.2.9 Door and gate surface. INSIGHTS
+
+Door and gate surfaces within 10 inches (255 mm) of the floor, measured vertically, shall be smooth surfaces on the push side extending the full width of the door or gate. Door and gate hardware or any other obstruction or protrusion shall not be mounted in nor extend into the area within 10 inches (255 mm) of the floor. Parts creating horizontal or vertical joints in such surfaces shall be within  \( \frac{1}{16} \)  inch (1.6 mm) of the same plane as the other. Cavities created by added kick plates shall be capped.
+
+## Exceptions:
+
+1. Sliding doors shall not be required to comply with this section.
+
+2. Tempered glass doors without stiles and having a bottom rail or shoe with the top leading edge tapered at no less than 60 degrees from the horizontal shall not be required to comply with the 10-inch (255 mm) bottom rail height requirement.
+
+3. Doors and gates that do not extend to within 10 inches (255 mm) of the floor shall not be required to comply with this section.
+
+4. The installation of kick plates on existing doors and gates without a smooth surface within 10 inches (255mm) of the floor shall be permitted. The kick plates shall extend to 10 inches (255 mm) above the floor and no more than 1 inch (25 mm) from the sides and bottom of the door. Cavities created by such kickplates shall be capped.
+
+
+## 404.2.10 Vision lites. INSIGHTS
+
+doors, gates and sidelites adjacent to doors or gates containing one or more glazing panels that permit viewing through the panels shall have the bottom of at least one panel on either the door, gate or an adjacent sidelite 43 inches (1090 mm) maximum above the floor.
+
+Exception: Vision lites with the lowest part more than 66 inches (1675 mm) above the floor shall not be required to comply with this section.
+
+
+## 404.3 Automatic and power-assisted doors and gates. INSIGHTS
+
+Automatic doors and gates shall comply with Section 404.3. Full powered automatic doors and gates shall comply with ANSI/BHMA A156.10 listed in Section 106.2.7. Power-assist doors and gates and low-energy automatic doors and gates shall comply with ANSI/BHMA A156.19 listed in Section 106.2.6.
+
+
+## 404.3.1 Public entrances.
+
+Where an automatic door or gate is required at a building or facility public entrance, it shall be a full powered automatic or a low-energy automatic door or gate.
+
+## 404.3.2 Vestibules.
+
+Where an entrance includes a vestibule, at least one exterior door or gate and one interior door or gate in the vestibule shall have the same type of automatic door or gate opener.
+
+## 404.3.3 Clear width.
+
+Doorways shall have a clear opening width of 32 inches (815 mm) in power-on and power-off mode. The minimum clear opening width for automatic door systems shall be based on the clear opening width provided with all leafs in the open position.
+
+## 404.3.4 Maneuvering clearances.
+
+Maneuvering clearances at power-assisted doors and gates shall comply with Section 404.2.3. Maneuvering clearances complying with Section 404.2.3 shall be provided on the egress side of low-energy automatic and full power automatic doors and gates that serve as part of an accessible means of egress.
+
+## Exceptions:
+
+1. Low-energy automatic and full power automatic doors and gates that have standby power or battery back-up shall not be required to comply with this section.
+
+2. Low-energy automatic and full power automatic doors and gates that remain open in the poweroff condition shall not be required to comply with this section.
+
+3. Full power automatic sliding doors and gates that include a break-away feature shall not be required to comply with this section.
+
+## 404.3.5 Thresholds.
+
+Thresholds and changes in level at doorways shall comply with Section 404.2.4.
+
+## 404.3.6 Two doors or gates in series.
+
+Doors or gates in series shall comply with Section 404.2.5.
+
+Exception: Where both doors or gates in a series are low-energy automatic or full power automatic doors or gates, the two doors or gates in a series shall not be required to provide a turning space between the doors or gates.
+
+## 404.3.7 Controls.
+
+Manually operated controls shall comply with Section 309. The clear floor space adjacent to the controls shall be located beyond the arc of the door or gate swings.
+
+## 404.3.8 Door and gate hardware.
+
+Handles, pulls, latches, locks and other operable parts shall comply with Section 404.2.6.
+
+## 404.3.9 Break out opening.
+
+Where full power automatic sliding doors and gates are equipped with a break out feature, the clear break out opening shall be 32 inches (815 mm) minimum when operated in emergency mode.
+
+## SECTION 405
+
+## RAMPS INSIGHTS
+
+
+## 405.1 General.
+
+Ramps along accessible routes shall comply with Section 405.
+
+Exception: In assembly areas, aisle ramps adjacent to seating and not serving elements required to be on an accessible route shall not be required to comply with this section.
+
+## 405.2 Slope. INSIGHTS
+
+Ramp runs shall have a running slope greater than 1:20 and not steeper than 1:12.
+
+Exception: In existing buildings or facilities, ramps shall be permitted to have slopes steeper than 1:12 complying with Table 405.2 where such slopes are necessary due to space limitations.
+
+
+TABLE 405.2—ALLOWABLE RAMP DIMENSIONS FOR CONSTRUCTION IN EXISTING SITES, BUILDINGS AND FACILITIES
+
+<table>Slope \( ^{1} \)Maximum RiseSteeper than 1:10 but not steeper than 1:83 inches (75 mm)Steeper than 1:12 but not steeper than 1:106 inches (150 mm)</table>
+
+ \( ^{1} \)  A slope steeper than 1:8 shall not be permitted.
+
+## 405.3 Cross slope. INSIGHTS
+
+Cross slope of ramp runs shall not be steeper than 1:48.
+
+
+## 405.4 Floor surfaces.
+
+Floor surfaces of ramp runs shall comply with Section 302.
+
+## 405.5 Clear width. INSIGHTS
+
+The clear width of a ramp run shall be 36 inches (915 mm) minimum. Handrails and handrail supports that are provided on the ramp run shall not project into the required clear width of the ramp run.
+
+Exception: Within employee work areas, the required clear width of ramps that are a part of common use circulation paths shall be permitted to be decreased by work area equipment provided that the decrease is essential to the function of the work being performed.
+
+
+## 405.6 Rise. INSIGHTS
+
+The rise for any ramp run shall be 30 inches (760 mm) maximum.
+
+
+## 405.7 Landings. INSIGHTS
+
+Ramps shall have landings at the bottom and top of each ramp run. Landings shall comply with Section 405.7.
+
+
+Landings shall have a slope not steeper than 1:48 and shall comply with Section 302.
+
+## 405.7.2 Width.
+
+Clear width of landings shall be at least as wide as the widest ramp run leading to the landing.
+
+## 405.7.3 Length.
+
+Landings shall have a clear length of 60 inches (1525 mm) minimum.
+
+## 405.7.4 Change in direction.
+
+Ramps that change direction between runs at landings shall have a clear landing 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.
+
+## 405.7.5 Doorways.
+
+Where a door or gate is adjacent to a ramp landing, maneuvering clearances required by Sections 404.2.3 and 404.3.4 shall be permitted to overlap the landing area. Where a door or gate that is subject to locking is located adjacent to a ramp landing, the landing shall be sized to provide a turning space complying with Section 304.3.
+
+## 405.8 Handrails. INSIGHTS
+
+Ramp runs with a rise greater than 6 inches (150 mm) shall have handrails complying with Section 505.
+
+Exception: Within employee work areas, handrails shall not be required where ramps that are part of common use circulation paths, and which are used for the movement of equipment, are designed to permit the installation of handrails complying with Section 505. Ramps not subject to the exception to Section 405.5 shall be designed to maintain a 36-inch (915 mm) minimum clear width where handrails are installed.
+
+
+## 405.9 Edge protection. INSIGHTS
+
+Edge protection complying with Section 405.9.1 or 405.9.2 shall be provided on each side of ramp runs and at each side of ramp landings.
+
+Exceptions:
+
+1. Edge protection shall not be required on ramps not required to have handrails and that have flared sides complying with Section 406.3.
+
+2. Edge protection shall not be required on the sides of ramp landings serving an adjoining ramp run or stairway.
+
+3. Edge protection shall not be required on the sides of ramp landings having a vertical drop-off of  \( \frac{1}{2} \)  inch (13 mm) maximum within 10 inches (255 mm) horizontally of the minimum landing area specified in Section 405.7.
+
+4. Edge protection shall not be required on the sides of ramped aisles where the ramps provide access to the adjacent seats and aisle access ways.
+
+
+FIGURE 405.9 EDGE PROTECTION - LIMITED DROP OFF - EXCEPTION 3
+
+## 405.9.1 Extended floor surface.
+
+The floor surface of ramp runs and ramp landings shall extend 12 inches (305 mm) minimum beyond the inside face of a railing complying with Section 505.
+
+## FIGURE 405.9.1 EXTENDED FLOOR SURFACE
+
+## 405.9.2 Curb or barrier.
+
+A curb complying with Section 405.9.2.1 or a barrier complying with Section 405.9.2.2 shall be provided.
+
+## 405.9.2.1 Curb.
+
+A curb shall be a minimum of 4 inches (100 mm) in height.
+
+FIGURE 405.9.2.1 CURB
+
+## 405.9.2.2 Barrier.
+
+Barriers shall be constructed so that the barrier prevents the passage of a 4-inch (100 mm) diameter sphere where any portion of the sphere is within 4 inches (100 mm) of the floor.
+
+## FIGURE 405.9.2.2 BARRIER
+
+## 405.10 Wet conditions.
+
+Landings subject to wet conditions shall be designed to prevent the accumulation of water.
+
+## SECTION 406
+
+CURB RAMPS AND BLENDED TRANSITIONS INSIGHTS
+
+
+## 406.1 General.
+
+Curb ramps and blended transitions on accessible routes shall comply with Section 406.
+
+## 406.2 Perpendicular curb ramps. INSIGHTS
+
+Perpendicular curb ramps shall comply with Sections 406.2 and 406.5.
+
+
+FIGURE 406.2(A) PERPENDICULAR CURB RAMP
+
+FIGURE 406.2(B) PERPENDICULAR CURB RAMP
+
+## 406.2.1 Landings. INSIGHTS
+
+A landing 48 inches (1220 mm) minimum by 48 inches (1220 mm) minimum shall be provided at the top of a curb ramp. The landing shall be permitted to overlap pedestrian routes and clear spaces. Where the landing is constrained at the back-of-sidewalk, the landing shall be 48 inches (1220 mm) minimum by 60 inches (1525 mm) minimum. The 60-inch (1525 mm) dimension shall be provided in the direction of the curb ramp run. The slope of landings shall be 1:48 maximum in all directions.
+
+
+## 406.2.2 Running slope.
+
+The running slope of a curb ramp shall cut through or shall be built up to the curb at right angles or shall meet the gutter grade break at right angles where the curb is curved. The running slope of a curb ramp shall be 1:20 minimum and 1:12 maximum. The curb ramp run length shall not be required to exceed 15 feet (4570 mm).
+
+## 406.2.3 Flared sides. INSIGHTS
+
+Where a pedestrian circulation path crosses a curb ramp, flared sides shall be provided and shall be sloped 10 percent maximum.
+
+
+## 406.3 Parallel curb ramps. INSIGHTS
+
+Parallel curb ramps shall comply with Sections 406.3 and 406.5.
+
+
+FIGURE 406.3(A) PARALLEL CURB RAMP
+
+FIGURE 406.3(B) PARALLEL CURB RAMP
+
+## 406.3.1 Landing.
+
+A landing 48 inches (1220 mm) minimum by 48 inches (1220 mm) minimum shall be provided at the bottom of a curb ramp. The landing shall be permitted to overlap pedestrian routes and clear spaces. Where the landing is constrained on two or more sides, the landing shall be 48 inches (1220 mm) minimum by 60 inches (1525 mm) minimum. The 60 inches (1525 mm) dimension shall be provided in the direction of the pedestrian street crossing. The slope of landings shall be 1:48 maximum in all directions.
+
+## 406.3.2 Running slope.
+
+The running slope of a curb ramp shall be in line with the direction of sidewalk travel. The running slope of a curb ramp shall be 1:20 minimum and 1:12 maximum. The curb ramp run length shall not be required to exceed 15 feet (4570 mm).
+
+## 406.4 Blended transitions. INSIGHTS
+
+Blended transitions shall comply with Sections 406.4 and 406.5.
+
+
+## FIGURE 406.4 BLENDED TRANSITION
+
+## 406.4.1 Running slope.
+
+The running slope of blended transitions shall be 1:20 maximum.
+
+## 406.5 Common requirements.
+
+Curb ramps and blended transitions shall comply with Section 406.5.
+
+## 406.5.1 Width. INSIGHTS
+
+The clear width of curb ramp runs (excluding any flared sides) and blended transitions shall be 48 inches (1220 mm) minimum.
+
+
+## 406.5.2 Grade breaks. INSIGHTS
+
+Grade breaks at the top and bottom of curb ramp runs shall be perpendicular to the direction of the curb ramp. Grade breaks shall not be permitted on the surface of curb ramp runs and landings. Surface slopes that meet at grade breaks shall be flush.
+
+
+## FIGURE 406.5.2 GRADE BREAK
+
+## 406.5.3 Cross slope. INSIGHTS
+
+The cross slope of curb ramps and blended transitions shall be 1:48 maximum. At pedestrian street crossings without yield or stop control and at midblock pedestrian street crossings, the cross slope shall be permitted to equal the street or highway grade.
+
+
+## 406.5.4 Counter slope. INSIGHTS
+
+The counter slope of the gutter or street at the foot of curb ramp runs, blended transitions and landings shall be 1:20 maximum.
+
+
+## FIGURE 406.5.4 COUNTER SLOPE OF SURFACES ADJACENT TO CURB RAMPS
+
+## 406.5.5 Clear space. INSIGHTS
+
+Beyond the bottom grade break, a clear space 48 inches (1220 mm) minimum by 48 inches (1220 mm) minimum shall be provided within the width of the pedestrian street crossing and wholly outside the parallel vehicle travel lane.
+
+
+## FIGURE 406.5.5 CLEAR SPACE AT BOTTOM OF CURB RAMPS AND BLENDED TRANSITIONS
+
+## 406.5.6 Marking.
+
+If curbs adjacent to the ramp flares are painted, the painted surface shall extend along the flared portion of the curb.
+
+## 406.5.7 Location. INSIGHTS
+
+Curb ramps and the flared sides of curb ramps shall be located so they do not project into vehicular traffic lanes, parking spaces, or parking access aisles. Curb ramps at marked crossings shall be wholly contained within the markings, excluding any flared sides.
+
+
+## 406.5.8 Obstructions. INSIGHTS
+
+Curb ramps shall be located or protected to prevent their obstruction by parked vehicles.
+
+
+## 406.5.9 Handrails.
+
+Handrails shall not be required on curb ramps.
+
+## 406.6 Detectable warnings. INSIGHTS
+
+
+## 406.6.1 General.
+
+Where detectable warning surfaces are provided, they shall comply with Section 705.
+
+## 406.6.2 Locations for detectable warning surfaces. INSIGHTS
+
+Detectable warning surfaces shall be provided at the following locations on pedestrian access routes and at transit stops:
+
+1. Curb ramps and blended transitions at pedestrian street crossings,
+
+2. Pedestrian refuge islands.
+
+Exception: Detectable warning surfaces shall not be required at pedestrian refuge islands that are cut through at street level and are less than 6 feet (1830 mm) in length in the direction of pedestrian travel.
+
+3. Pedestrian at-grade rail crossings not located within a street or highway.
+
+4. Boarding platforms at transit stops for buses and rail vehicles where the edges of the boarding platform are not protected by screens or guards and
+
+5. Boarding and alighting areas at sidewalk or street-level transit stops for rail vehicles where the side of the boarding and alighting areas facing the rail vehicles is not protected by screens or guards.
+
+
+## SECTION 407
+
+## ELEVATORS
+
+## 407.1 General. INSIGHTS
+
+Elevators shall comply with Section 407 and ASME A17.1/CSA B44 listed in Section 106.2.8. Elevators shall be passenger elevators as classified by ASME A17.1/CSA B44. Elevator operation shall be automatic.
+
+
+## 407.2 Elevator landing requirements.
+
+Elevator landings shall comply with Section 407.2.
+
+## 407.2.1 Call controls. INSIGHTS
+
+Where elevator call buttons or keypads are provided, they shall comply with Sections 407.2.1 and 309.4. Call buttons shall be raised or flush. Objects beneath hall call buttons shall protrude 1 inch (25 mm) maximum.
+
+Exceptions:
+
+1. Existing elevators shall be permitted to have recessed call buttons.
+
+2. The restriction on objects beneath call buttons shall not apply to existing call buttons.
+
+
+## 407.2.1.1 Height.
+
+Call buttons and keypads shall be located within one of the reach ranges specified in Section 308, measured to the centerline of the highest operable part.
+
+Exception: Existing call buttons and existing keypads shall be permitted to be located 54 inches (1370 mm) maximum above the floor, measured to the centerline of the highest operable part.
+
+FIGURE 407.2.1.1 HEIGHT OF ELEVATOR CALL BUTTONS
+
+## 407.2.1.2 Size.
+
+Call buttons shall be  \( \frac{3}{4} \)  inch (19 mm) minimum in the smallest dimension.
+
+Exception: Existing elevator call buttons shall not be required to comply with this section.
+
+## 407.2.1.3 Clear floor space.
+
+A clear floor space shall be provided at call controls.
+
+## 407.2.1.4 Location.
+
+The call button that designates the up direction shall be located above the call button that designates the down direction.
+
+Exception: Destination-oriented elevators shall not be required to comply with this section.
+
+## 407.2.1.5 Signals.
+
+Call buttons shall have visible signals to indicate when each call is registered and when each call is answered. Call buttons shall provide an audible signal or mechanical motion of the button to indicate when each call is registered.
+
+Exceptions:
+
+1. Destination-oriented elevators shall not be required to comply with Section 407.2.1.5, provided a visible signal and audible tones and verbal announcements complying with this section are provided.
+
+2. Existing elevators shall not be required to comply with Section 407.2.1.5.
+
+## 407.2.1.6 Keypads.
+
+Where keypads are provided, keypads shall be in a standard telephone keypad arrangement and shall comply with Section 407.4.7.2.
+
+Destination-oriented elevators shall be provided with a visible signal and audible tones and verbal announcements to indicate which car is responding to a call. The audible tone and verbal announcement shall be activated by pressing a function button. The function button shall be identified by the International Symbol for Accessibility and a raised indication. The International Symbol for Accessibility, complying with Section 703.6.3.1, shall be  \( \frac{1}{2} \)  inch (16 mm) in height and be a visual character complying with Section 703.2. The indication shall be three raised dots, spaced  \( \frac{1}{4} \)  inch (6.4 mm) at base diameter, in the form of an equilateral triangle. The function button shall be located immediately below the keypad arrangement or floor buttons.
+
+FIGURE 407.2.1.7 DESTINATION-ORIENTED ELEVATOR INDICATION
+
+## 407.2.2 Hall signals. INSIGHTS
+
+Hall signals, including in-car signals, shall comply with Section 407.2.2.
+
+
+## 407.2.2.1 Visible and audible signals.
+
+A visible and audible signal shall be provided at each hoistway entrance to indicate which car is answering a call and the car's direction of travel. Where in-car signals are provided they shall be visible from the floor area adjacent to the hall call buttons.
+
+Exceptions:
+
+1. Destination-oriented elevators shall not be required to comply with this section, provided a visible signal and audible tones and verbal announcements complying with Section 407.2.1.7 are provided.
+
+2. In existing elevators, a signal indicating the direction of car travel shall not be required.
+
+## 407.2.2.2 Visible signals.
+
+Visible signal fixtures shall be centered at 72 inches (1830 mm) minimum above the floor. The visible signal elements shall be  \( 2^{1/2} \)  inches (64 mm) minimum between the uppermost and lowest edges of the illuminated shape measured vertically. Signals shall be visible from the floor area adjacent to the hall call button.
+
+Exceptions:
+
+1. Destination-oriented elevators shall be permitted to have signal visible from the floor area adjacent to the hoistway entrance.
+
+2. Existing elevators shall not be required to comply with this section.
+
+FIGURE 407.2.2.2(A) ELEVATOR VISIBLE SIGNALS HEIGHT OF SIGNALS
+
+FIGURE 407.2.2.2(B) ELEVATOR VISIBLE SIGNALS SIZE OF SIGNALS
+
+## 407.2.2.3 Audible signals.
+
+Audible signals shall sound once for the up direction and twice for the down direction, or shall have verbal annunciators that indicate the direction of elevator car travel. Audible signals shall have a frequency of 1500 Hz maximum. Verbal annunciators shall have a frequency of 300 Hz minimum and 3,000 Hz maximum. The audible signal or verbal annunciator shall be 10 dBA minimum above ambient, but shall not exceed 80 dBA, measured at the hall call button.
+
+Exceptions:
+
+1. Destination-oriented elevators shall not be required to comply with this section, provided the audible tone and verbal announcement is the same as those given at the call button or call button keypad.
+
+2. The requirement for the frequency and range of audible signals shall not apply in existing elevators.
+
+## 407.2.2.4 Differentiation.
+
+Each destination-oriented elevator in a bank of elevators shall have audible and visible means for differentiation.
+
+## 407.2.3 Hoistway signs. INSIGHTS
+
+Signs at elevator hoistways shall comply with Section 407.2.3.
+
+
+## 407.2.3.1 Floor designation.
+
+Floor designations shall be provided in raised characters and braille complying with Sections 703.3 and 703.4. Raised characters shall be 2 inches (51 mm) minimum in height. Floor designations shall be located on both jamb of elevator hoistway entrances. A raised star shall be provided on both jamb of the main entry level.
+
+FIGURE 407.2.3.1 FLOOR DESIGNATION
+
+## 407.2.3.2 Car identification.
+
+Destination-oriented elevators shall provide car identification in raised characters and braille complying with Sections 703.3 and 703.4. Raised characters shall be 2 inches (51 mm) minimum in height. Car identifications shall be located on both jamb of the hoistway immediately below the floor designation.
+
+FIGURE 407.2.3.2 DESTINATION-ORIENTED ELEVATOR CAR IDENTIFICATION
+
+Where signs indicate that elevators do not serve all landings, signs in raised characters and braille complying with Sections 703.3 and 703.4 shall be provided above the hall call button or keypad. Exception: Destination oriented elevator systems shall not be required to comply with this section.
+
+
+## 407.3 Elevator door requirements. INSIGHTS
+
+Hoistway and elevator car doors shall comply with Section 407.3.
+
+
+## 407.3.1 Type.
+
+Elevator doors shall be horizontal sliding type. Car gates shall be prohibited.
+
+## 407.3.2 Operation.
+
+Elevator hoistway and car doors shall open and close automatically.
+
+Exception: Existing manually operated hoistway swing doors shall be permitted, provided the following criteria are met:
+
+1. The hoistway doors comply with Sections 404.2.2 and 404.2.8;
+
+2. The car door closing is not initiated until the hoistway door is closed.
+
+## 407.3.3 Reopening device.
+
+Elevator doors shall be provided with a reopening device complying with Section 407.3.3 that shall stop and reopen a car door and hoistway door automatically if the door becomes obstructed by an object or person. Exception: In existing elevators, manually operated doors shall not be required to comply with this section.
+
+## 407.3.3.1 Height.
+
+The reopening device shall be activated by sensing an obstruction passing through the opening at 5 inches (125 mm) nominal and 29 inches (735 mm) nominal above the floor.
+
+## 407.3.3.2 Contact.
+
+The reopening device shall not require physical contact to be activated, although contact shall be permitted before the door reverses.
+
+## 407.3.3.3 Duration.
+
+The reopening device shall remain effective for 20 seconds minimum.
+
+## 407.3.4 Door and signal timing.
+
+The minimum acceptable time from notification that a car is answering a call until the doors of that car start to close shall be calculated from the following equation:
+
+T = D/(1.5 ft/s) or T = D/(455 mm/s) = 5 seconds minimum, where T equals the total time in seconds and D equals the distance (in feet or millimeters) from the point in the lobby or corridor 60 inches (1525 mm) directly in front of the farthest call button controlling that car to the centerline of its hoistway door.
+
+Exceptions:
+
+1. For cars with in-car lanterns, T shall be permitted to begin when the signal is visible from the point 60 inches (1525 mm) directly in front of the farthest hall call button and the audible signal is sounded.
+2. Destination-oriented elevators shall not be required to comply with this section.
+
+## 407.3.5 Door delay.
+
+Elevator doors shall remain fully open in response to a car call for 3 seconds minimum.
+
+## 407.3.6 Width.
+
+Elevator door clear opening width shall comply with Table 407.4.1.
+
+Exception: In existing elevators, a power-operated car door complying with Section 404.2.2 shall be permitted.
+
+## 407.4 Elevator car requirements.
+
+Elevator cars shall comply with Section 407.4.
+
+## 407.4.1 Inside dimensions. INSIGHTS
+
+Inside dimensions of elevator cars shall comply with Table 407.4.1.
+
+Exception: Existing elevator car configurations that provide a clear floor area of 16 square feet (1.5 m²) minimum, and provide a clear inside dimension of 36 inches (915 mm) minimum in width and 54 inches (1370 mm) minimum in depth, shall be permitted.
+
+
+FIGURE 407.4.1(A) INSIDE DIMENSIONS OF ELEVATOR CARS - CENTERED DOOR LOCATION
+
+FIGURE 407.4.1(B) INSIDE DIMENSIONS OF ELEVATOR CARS SIDE (OFF-CENTERED DOOR) LOCATION
+
+FIGURE 407.4.1(C) INSIDE DIMENSIONS OF ELEVATOR CARS ANY DOOR LOCATION
+
+FIGURE 407.4.1(D) INSIDE DIMENSIONS OF ELEVATOR CARS ANY DOOR LOCATION
+
+FIGURE 407.4.1(E) INSIDE DIMENSIONS OF ELEVATOR CARS EXISTING CAR CONFIGURATION
+
+TABLE 407.4.1—MINIMUM DIMENSIONS OF ELEVATOR CARS
+
+<table>Door LocationDoor Clear Opening WidthInside Car, Side to SideInside Car, Back Wall to Front ReturnInside Car, Back Wall to Inside FaceCentered42 inches (1065 mm)80 inches (2030 mm)51 inches (1295 mm)54 inches (1370 mm)Side (Off Center)36 inches (915 mm) \( ^{1} \)68 inches (1725 mm)51 inches (1295 mm)54 inches (1370 mm)Any36 inches (915 mm) \( ^{1} \)54 inches (1370 mm)80 inches (2030 mm)80 inches (2030 mm)Any36 inches (915 mm) \( ^{1} \)60 inches (1525 mm) \( ^{2} \)60 inches (1525 mm) \( ^{2} \)60 inches (1525 mm) \( ^{2} \)</table>
+
+ \( ^{1} \) A tolerance of minus  \( \frac{7}{8} \)  inch (16 mm) is permitted.
+
+ \( ^{2} \) Other car configurations that provide a 36-inch (915 mm) door clear opening width and a 60-inch (1525 mm) diameter space with the door closed are permitted.
+
+## 407.4.2 Floor surfaces. INSIGHTS
+
+Floor surfaces in elevator cars shall comply with Section 302.
+
+
+## 407.4.3 Platform to hoistway clearance. INSIGHTS
+
+The clearance between the car platform sill and the edge of any hoistway landing shall comply with ASME A17.1/CSA B44 listed in Section 106.2.8.
+
+
+## 407.4.4 Leveling. INSIGHTS
+
+Each car shall automatically stop and maintain position at floor landings within a tolerance of  \( \frac{1}{2} \)  inch (13 mm) under rated loading to zero loading conditions.
+
+
+## 407.4.5 Illumination. INSIGHTS
+
+The level of illumination at the car controls, platform, car threshold and car landing sill shall comply with ASME A17.1/CSA B44 listed in Section 106.2.8.
+
+
+## 407.4.6 Elevator car controls. INSIGHTS
+
+Where provided, elevator car controls shall comply with Sections 407.4.6 and 309.
+
+Exception: In existing elevators, where a new car operating panel complying with Section 407.4.6 is provided, existing car operating panels shall not be required to comply with Section 407.4.6.
+
+
+## 407.4.6.1 Location.
+
+Controls shall be located within one of the reach ranges specified in Section 308.
+
+Exceptions:
+
+1. Where the elevator panel complies with Section 407.4.8.
+
+2. In existing elevators, where a parallel approach is provided to the controls, car control buttons with floor designations shall be permitted to be located 54 inches (1370 mm) maximum above the floor. Where the panel is changed, it shall comply with Section 308.
+
+## 407.4.6.2 Buttons.
+
+Car control buttons with floor designations shall be raised or flush, and shall comply with Section 40/4.6.2.
+
+Exception: In existing elevators, buttons shall be permitted to be recessed.
+
+FIGURE 407.4.6.2 ELEVATOR CAR CONTROL BUTTONS
+
+## 407.4.6.2.1 Size.
+
+Buttons shall be  \( \frac{3}{4} \)  inch (19 mm) minimum in their smallest dimension.
+
+## 407.4.6.2.2 Arrangement. INSIGHTS
+
+Buttons shall be arranged with numbers in ascending order. When two or more columns of buttons are provided they shall read from left to right.
+
+
+## 407.4.6.3 Keypads.
+
+Where provided, car control keypads shall be in a standard telephone keypad arrangement and shall comply with Section 407.4.7.2.
+
+## 407.4.6.4 Emergency controls.
+
+Emergency controls shall comply with Section 407.4.6.4.
+
+## 407.4.6.4.1 Height.
+
+Emergency control buttons shall have their centerlines 35 inches (890 mm) minimum above the floor.
+
+## 407.4.6.4.2 Location.
+
+Emergency controls, including the emergency alarm, shall be grouped at the bottom of the panel.
+
+## 407.4.7 Designations and indicators of car controls.
+
+Designations and indicators of car controls shall comply with Section 407.4.7.
+
+## Exceptions:
+
+1. In existing elevators, where a new car operating panel complying with Section 407.4.7 is provided, existing car operating panels shall not be required to comply with Section 407.4.7.
+
+2. Where existing building floor designations differ from the arrangement required by Section 407.4.6.2.2, or are alphanumeric, a new operating panel shall be permitted to use such existing building floor designations.
+
+## 407.4.7.1 Buttons. INSIGHTS
+
+Car control buttons shall comply with Section 407.4.7.1.
+
+
+## 407.4.7.1.1 Type.
+
+Control buttons shall be identified by raised characters and braille complying with Sections 703.3 and 703.4.
+
+## 407.4.7.1.2 Designation. INSIGHTS
+
+Floors shall be designated . . -4, -3, -2, -1, 0, 1, 2, 3, 4, etcetera, with floors below the main entry floor designated with minus numbers. Numbers shall be permitted to be omitted, provided the remaining numbers are in sequence. Where a telephone keypad arrangement is used, the number key ("#") shall be utilized to enter the minus symbol ("-"). Ancillary letters shall be permitted to be used in conjunction with the numbers, provided the letters are located to the right of the numbers and not more than two letters are used for each floor designation.
+
+
+## 407.4.7.1.3 Location.
+
+Raised character and braille designations shall be placed immediately to the left of the control button to which the designations apply. Where a negative number is used to indicate a negative floor, the braille designation shall be a cell with the dots 3 and 6 followed by the ordinal number.
+
+Exception: Where space on an existing car operating panel precludes raised characters and braille to the left of the control button, markings shall be placed as near to the control button as possible.
+
+## 407.4.7.1.4 Symbols.
+
+The control button for the emergency stop, alarm, door open, door close, main entry floor, and phone, shall be identified with raised symbols and braille as shown in Table 407.4.7.1.4.
+
+## 407.4.7.1.5 Visible indicators.
+
+Buttons with floor designations shall be provided with visible indicators to show that a call has been registered. The visible indication shall extinguish when the car arrives at the designated floor.
+
+## 407.4.7.2 Keypads.
+
+Keypad keys shall be identified by visual characters complying with Section 703.2 centered on the corresponding keypad button. The number five key shall have a single raised dot. The dot shall have a base diameter of 0.118 inch (3 mm) minimum and 0.120 inch (3.05 mm) maximum, and a height of 0.025 inch (0.6 mm) minimum and 0.037 inch (0.9 mm) maximum.
+
+## 407.4.8 Elevator car call sequential step scanning.
+
+Elevator car call sequential step scanning shall be provided where car control buttons are provided more than 48 inches (1220 mm) above the floor. Floor selection shall be accomplished by applying momentary or constant pressure to the up or down scan button. The up scan button shall sequentially select floors above the current floor. The down scan button shall sequentially select floors below the current floor. When pressure is removed from the up or down scan button for more than 2 seconds, the last floor selected shall be registered as a car call. The up and down scan button shall be located adjacent to or immediately above the emergency control buttons.
+
+## 407.4.9 Car position indicators. INSIGHTS
+
+Audible and visible car position indicators shall be provided in elevator cars.
+
+
+## 407.4.9.1 Visible indicators.
+
+Visible indicators shall comply with Section 407.4.9.1.
+
+## 407.4.9.1.1 Size. INSIGHTS
+
+Characters shall be  \( \frac{5}{8} \)  inch (16 mm) minimum in height.
+
+
+## 407.4.9.1.2 Location.
+
+Indicators shall be located above the car control panel or above the door.
+
+## 407.4.9.1.3 Floor arrival.
+
+As the car passes a floor and when a car stops at a floor served by the elevator, the corresponding character shall illuminate.
+
+Exception: Destination-oriented elevators shall not be required to comply with this section, provided the visible indicators extinguish when the call has been answered.
+
+## 407.4.9.1.4 Destination indicator.
+
+In destination-oriented elevators, a display shall be provided in the car with visible indicators to show car destinations.
+
+## 407.4.9.2 Audible indicators.
+
+Audible indicators shall comply with Section 407.4.9.2.
+
+## 407.4.9.2.1 Signal type.
+
+The signal shall be an automatic verbal annunciator that announces the floor at which the car is about to stop. The verbal announcement indicating the floor shall be completed prior to the initiation of the door opening.
+
+Exception: For elevators other than destination-oriented elevators that have a rated speed of 200 feet per minute (1 m/s) maximum, a non-verbal audible signal with a frequency of 1500 Hz maximum that sounds as the car passes or is about to stop at a floor served by the elevator shall be permitted.
+
+## 407.4.9.2.2 Signal level.
+
+The verbal annunciator shall be 10 dBA minimum above ambient, but shall not exceed 80 dBA, measured at the annunciator.
+
+## 407.4.10 Emergency communications.
+
+Emergency towway communication systems between an elevator car and a point outside the hoistway shall comply with Section 407.4.10 and ASME A17.1/CSA B44 listed in Section 106.2.8.
+
+## 407.4.10.1 Height.
+
+The highest operable part of a towway communication system shall comply with Section 308.
+
+## 407.4.10.2 Identification.
+
+Raised characters and braille complying with Sections 703.3 and 703.4 and raised symbols complying with Section 407.4.7.1.4 shall be provided adjacent to the device.
+
+## 407.4.10.3 Instructions.
+
+Where instructions for use are provided, essential information shall be presented in visual form, raised characters and braille complying with Sections 703.2, 703.3 and 703.4.
+
+## SECTION 408
+
+## LIMITED-USE/LIMITED-APPLICATION ELEVATORS
+
+## 408.1 General. INSIGHTS
+
+Limited-use/limited-application elevators shall comply with Section 408 and ASME A17.1/CSA B44 listed in Section 106.2.8. Elevator operation shall be automatic.
+
+
+## 408.2 Elevator landing requirements.
+
+Landings serving limited-use/limited-application elevators shall comply with Section 408.2.
+
+## 408.2.1 Call controls.
+
+Elevator call buttons and keypads shall comply with Section 407.2.1.
+
+## 408.2.2 Hall signals.
+
+Hall signals shall comply with Section 407.2.2.
+
+## 408.2.3 Hoistway signs.
+
+Signs at elevator hoistways shall comply with Section 407.2.3.
+
+## 408.3 Elevator door requirements.
+
+Elevator hoistway doors shall comply with Section 408.3.
+
+## 408.3.1 Sliding doors.
+
+Sliding hoistway and car doors shall comply with Sections 407.3.1 through 407.3.3, and 408.3.3.
+
+## 408.3.2 Swinging doors.
+
+Swinging hoistway doors shall open and close automatically and shall comply with Sections 408.3.2, 404, and 407.3.2.
+
+## 408.3.2.1 Power operation.
+
+Swinging doors shall be power-operated and shall comply with ANSI/BHMA A156.19 listed in Section 106.2.6.
+
+## 408.3.2.2 Duration.
+
+Power-operated swinging doors shall remain open for 20 seconds minimum when activated.
+
+## 408.3.3 Door location and width. INSIGHTS
+
+Car doors shall comply with Section 408.3.3.
+
+
+"Door opening size from Section 408.3.3
+
+FIGURE 408.3.3(A) DOOR LOCATION FOR LIMITED USE/LIMITED APPLICATION (LULA) ELEVATORS - CAR WITH SINGLE DOOR
+
+FIGURE 408.3.3(B) DOOR LOCATION FOR LIMITED USE/LIMITED APPLICATION (LULA) ELEVATORS - CAR WITH DOORS ON OPPOSITE SIDES
+
+FIGURE 408.3.3(C) DOOR LOCATION FOR LIMITED USE/LIMITED APPLICATION (LULA) ELEVATORS - CAR WITH DOORS ON ADJACENT SIDES
+
+FIGURE 408.3.3(D) DOOR LOCATION FOR LIMITED USE/LIMITED APPLICATION (LULA) ELEVATORS - CAR WITH DOORS ON ADJACENT SIDES - EXCEPTION
+
+## 408.3.3.1 Cars with single door or doors on opposite ends.
+
+Car doors shall be positioned at the narrow end of cars with a single door and on cars with doors on opposite ends. Doors shall provide a clear opening width of 32 inches (815 mm) minimum.
+
+## 408.3.3.2 Cars with doors on adjacent sides.
+
+Car doors shall be permitted to be located on adjacent sides of cars that provide an 18 square foot (1.67 m²) platform. Doors located on the narrow end of cars shall provide a clear opening width of 36 inches (915 mm) minimum. Doors located on the long side shall provide a clear opening width of 42 inches (1065 mm) minimum and be located as far as practicable from the door on the narrow end.
+
+Exception: Car doors that provide a clear opening width of 36 inches (915 mm) minimum shall be permitted to be located on adjacent sides of cars that provide a clear floor area of 51 inches (1295 mm) in width and 51 inches (1295 mm) in depth.
+
+## 408.4 Elevator car requirements.
+
+Elevator cars shall comply with Section 408.4.
+
+## 408.4.1 Inside dimensions. INSIGHTS
+
+Elevator cars shall provide a clear floor width of 42 inches (1065 mm) minimum. The clear floor area shall not be less than 15.75 square feet (1.46 m²). The elevator car shall provide a clear floor space complying with Section 305.3.
+
+## Exceptions:
+
+1. For installations in existing buildings, elevator cars that provide a clear floor area of 15 square feet (1.4 m²) minimum, and provide a clear inside dimension of 36 inches (915 mm) minimum in width and 54 inches (1370 mm) minimum in depth, shall be permitted. This exception shall not apply to cars with doors on adjacent sides.
+
+2. For installations in existing buildings, elevator cars that provide a clear width of 51 inches (1295 mm) minimum, a clear depth of 51 inches (1295 mm) minimum and car doors providing a clear opening 36 inches (915 mm) wide minimum shall be permitted.
+
+
+FIGURE 408.4.1(A) INSIDE DIMENSIONS OF LIMITED USE/LIMITED APPLICATION (LULA) ELEVATOR CARS - NEW BUILDINGS
+
+FIGURE 408.4.1(B) INSIDE DIMENSIONS OF LIMITED USE/LIMITED APPLICATION (LULA) ELEVATOR CARS EXISTING BUILDINGS - EXCEPTION 1
+
+FIGURE 408.4.1(C) INSIDE DIMENSIONS OF LIMITED USE/LIMITED APPLICATION (LULA) ELEVATOR CARS EXISTING BUILDINGS - EXCEPTION 2
+
+## 408.4.2 Floor surfaces.
+
+Floor surfaces in elevator cars shall comply with Section 302.
+
+## 408.4.3 Platform to hoistway clearance.
+
+The clearance between the car platform sill and the edge of any hoistway landing shall comply with ASME A17.1/CSA B44 listed in Section 106.2.8.
+
+## 408.4.4 Leveling.
+
+Elevator car leveling shall comply with Section 407.4.4.
+
+## 408.4.5 Illumination.
+
+Elevator car illumination shall comply with Section 407.4.5.
+
+## 408.4.6 Elevator car controls.
+
+Elevator car controls shall comply with Section 407.4.6. Control panels shall be centered on a side wall.
+
+## 408.4.7 Designations and indicators of car controls.
+
+Designations and indicators of car controls shall comply with Section 407.4.7.
+
+## 408.4.8 Emergency communications.
+
+Car emergency signaling devices complying with Section 407.4.10 shall be provided.
+
+## SECTION 409
+
+## PRIVATE RESIDENCE ELEVATORS
+
+## 409.1 General. INSIGHTS
+
+Private residence elevators shall comply with Section 409 and ASME A17.1/CSA B44 listed in Section 106.2.8. Elevator operation shall be automatic.
+
+Exception: Elevators complying with Section 407 or 408 shall not be required to comply with Section 409.
+
+
+## 409.2 Call controls.
+
+Call buttons at elevator landings shall comply with Section 309. Call buttons shall be  \( \frac{3}{4} \)  inch (19 mm) minimum in their smallest dimension.
+
+## 409.3 Doors and gates.
+
+Elevator car and hoistway doors and gates shall comply with Sections 409.3 and 404.
+
+Exception: The maneuvering clearances required by Section 404.2.3 shall not apply for approaches to the push side of swinging doors.
+
+## 409.3.1 Power operation.
+
+Elevator car doors and gates shall be power operated and shall comply with ANSI/BHMA A156.19 listed in Section 106.2.6. Elevator cars with a single opening shall have low energy power operated hoistway doors and gates.
+
+Exception: Hoistway doors or gates shall be permitted to be of the self-closing, manual type, where that door or gate provides access to a narrow end of the car that serves only one landing.
+
+## 409.3.3 Door or gate location and width.
+
+Car gates or doors positioned at a narrow end of the clear floor area required by Section 409.4.1 shall provide a clear opening width of 32 inches (815 mm) minimum. Car gates or doors positioned on adjacent sides shall provide a clear opening width of 42 inches (1065 mm) minimum.
+
+## 409.4 Elevator car requirements. INSIGHTS
+
+Elevator cars shall comply with Section 409.4.
+
+
+## 409.4.1 Inside dimensions.
+
+FIGURE 409.4.1(A) PRIVATE RESIDENCE ELEVATORS NEW BUILDINGS - CAR SIZE
+
+FIGURE 409.4.1(B) PRIVATE RESIDENCE ELEVATORS EXISTING BUILDINGS - CAR SIZE
+
+## 409.4.1.1 New buildings.
+
+In new buildings, elevator cars shall provide a clear floor area 36 inches (915 mm) minimum in width and 52 inches (1320 mm) minimum in depth.
+
+## 409.4.1.2 Existing buildings.
+
+In existing buildings, elevator cars shall provide a clear floor area 36 inches (915 mm) minimum in width and 48 inches (1220 mm) minimum in depth.
+
+## 409.4.2 Floor surfaces.
+
+Floor surfaces in elevator cars shall comply with Section 302.
+
+## 409.4.3 Platform to hoistway clearance.
+
+The clearance between the car platform sill and the edge of any hoistway landing shall be 1 \( ^{1} \) / \( _{4} \)  inches (32 mm) maximum.
+
+## 409.4.4 Leveling.
+
+Each car shall automatically stop at a floor landing within a tolerance of  \( ^{1}/_{2} \)  inch (13 mm) under rated loading to zero loading conditions.
+
+## 409.4.5 Illumination.
+
+The level of illumination at the car controls, platform, and car threshold and landing sill shall be 5 foot-candles (54 lux) minimum.
+
+## 409.4.6 Elevator car controls.
+
+Elevator car controls shall comply with Sections 409.4.6 and 309.4.
+
+## 409.4.6.1 Buttons.
+
+Control buttons shall be  \( ^{3}/_{4} \)  inch (19 mm) minimum in their smallest dimension. Control buttons shall be raised or flush.
+
+## 409.4.6.2 Height.
+
+Buttons with floor designations shall comply with Section 309.3.
+
+## 409.4.6.3 Location.
+
+Controls shall be on a sidewalk, 12 inches (305 mm) minimum from any adjacent wall.
+
+FIGURE 409.4.6.3 LOCATION OF CONTROLS IN PRIVATE RESIDENCE ELEVATORS
+
+## 409.4.7 Emergency communications.
+
+Emergency communications systems shall comply with Section 409.4.7.
+
+## 409.4.7.1 Type.
+
+A telephone and emergency signal device shall be provided in the car.
+
+## 409.4.7.2 Operable parts.
+
+The telephone and emergency signaling device shall comply with Section 309.3 and 309.4.
+
+## 409.4.7.3 Compartment.
+
+If the device is in a closed compartment, the compartment door hardware shall comply with Section 309.
+
+## 409.4.7.4 Cord.
+
+The telephone cord shall be 29 inches (735 mm) minimum in length.
+
+## SECTION 410
+
+## PLATFORM LIFTS
+
+## 410.1 General. INSIGHTS
+
+Platform lifts shall comply with Section 410 and ASME A18.1 listed in Section 106.2.9. Platform lifts shall not be attendant operated and shall provide unassisted entry and exit from the lift.
+
+
+## 410.2 Lift Entry. INSIGHTS
+
+Lifts with doors shall comply with Section 410.2.1. Lifts with ramps shall comply with Section 410.2.2.
+
+
+## 410.2.1 Doors.
+
+Doors shall be low-energy power operated doors complying with Section 404.3. Doors shall remain open for 20 seconds minimum. On lifts with one door or with doors on opposite ends, the end door clear opening width shall be 32 inches (815 mm) minimum. On lifts with one door on a narrow end and one door on a long side, the end door clear opening width shall be 36 inches (915 mm) minimum. Side door clear opening width shall be 42 inches (1065 mm) minimum. Where a door is provided on a long side and on a narrow end of a lift, the side door shall be located with either the strike side or the hinge side in the corner furthest from the door on the narrow end.
+
+## Exceptions:
+
+1. Doors shall be permitted to be of the self-closing, manual type, where that door provides access to a narrow end of the platform that serves only one landing. This exception shall not apply to doors with ramps.
+
+2. Lifts serving two landings maximum and having doors on adjacent sides shall be permitted to have self-closing manual doors provided that the side door is located with the strike side furthest from the end door. This exception shall not apply to doors with ramps.
+
+FIGURE 410.2.1(A) PLATFORM LIFT DOORS AND GATES - PLATFORM LIFT WITH DOOR AT ONE END OR AT OPPOSITE ENDS
+
+FIGURE 410.2.1(B) PLATFORM LIFT DOORS AND GATES PLATFORM WITH DOORS ON ADJACENT SIDES
+
+## 410.2.2 Ramps.
+
+Ramp widths shall not be less than the platform opening they serve.
+
+## 410.3 Floor surfaces.
+
+Floor surfaces of platform lifts shall comply with Section 302.
+
+## 410.4 Platform to runway clearance.
+
+The clearance between the platform sill and the edge of any runway landing shall be  \( 1^{1}/_{4} \)  inch (32 mm) maximum.
+
+## 410.5 Clear floor space.
+
+Clear floor space of platform lifts shall comply with Section 410.5.
+
+## 410.5.1 Lifts with single door or doors on opposite ends. INSIGHTS
+
+
+## 410.5.1.1 New buildings.
+
+In new buildings, platform lifts with a single door or doors on opposite ends shall provide a clear floor width of 36 inches (915 mm) minimum and a clear floor depth of 52 inches (1320 mm) minimum.
+
+Exception: Incline platform lifts with passenger restraining arms, shall be permitted to provide a clear floor width of 36 inches (915 mm) minimum and a clear floor depth of 48 inches (1220 mm) minimum.
+
+## FIGURE 410.5.1.1 PLATFORM LIFTS - SIZE WITH SINGLE DOOR OR DOORS ON OPPOSITE ENDS - NEW BUILDINGS
+
+## 410.5.1.2 Existing buildings.
+
+In existing buildings, platform lifts with a single door or with doors on opposite ends shall provide a clear floor width of 36 inches (915 mm) minimum and a clear floor depth of 48 inches (1220 mm) minimum.
+
+## FIGURE 410.5.1.2 PLATFORM LIFTS - SIZE WITH SINGLE DOOR OR DOORS ON OPPOSITE ENDS - EXISTING BUILDINGS
+
+## 410.5.2 Platform lifts with doors on adjacent sides.
+
+## 410.5.2.1 New buildings.
+
+In new buildings, platform lifts with doors on adjacent sides shall provide a clear floor width of 42 inches (1065 mm) minimum and a clear floor depth of 60 inches (1525 mm) minimum.
+
+## FIGURE 410.5.2.1 PLATFORM LIFTS - SIZE WITH DOORS ON ADJACENT SIDES NEW BUILDINGS
+
+## 410.5.2.2 Existing buildings.
+
+In existing buildings, platform lifts with doors on adjacent sides shall be permitted to provide a clear floor width of 36 inches (915 mm) and a clear floor depth of 60 inches (1525 mm).
+
+## FIGURE 410.5.2.2 PLATFORM LIFTS - SIZE WITH DOORS ON ADJACENT SIDES EXISTING BUILDINGS
+

@@ -1,0 +1,186 @@
+===== Page 1862 =====
+# CHAPTER 27—ELECTRICAL
+
+## General Comments
+
+This chapter references SBC 401 for all requirements pertaining to electrical installations and contains specific provisions for emergency and standby power. SBC 401 regulates the design, construction, installation, operation, maintenance and use of electrical systems and equipment. Except for the scope section, this chapter is devoted to establishing where emergency and standby power systems are required.
+
+## Purpose
+
+Since electrical systems and components are an integral part of almost all structures, it is necessary for the code to address them to protect life, limb, health and property. In addition to general lighting and power needs, electricity—via primary or emergency or standby sources—is needed to operate many of the life safety systems required by the code, including fire alarm, smoke control, exhaust, fire suppression, communication and fire command systems. When building power is lost, emergency or standby power may also be required for elements of egress systems, including elevators (assisted rescue), exit signage, egress path illumination, power doors, stair pressurization and smokeproof enclosures.
+
+## SECTION 2701 GENERAL
+
+2701.1 Scope. The provisions of this chapter and SBC 401 shall govern the design, construction, erection and installation of the electrical components, appliances, equipment and systems used in buildings and structures covered by this code. SBC 801, the International Property Maintenance Code and SBC 401 shall govern the use and maintenance of electrical components, appliances, equipment and systems. SBC 901 and SBC 401 shall govern the alteration, repair, relocation, replacement and addition of electrical components, appliances, or equipment and systems.
+
+Chapter 27 regulates the electrical portions of buildings and structures that are included in the scope of the code. Regulation is accomplished by referencing SBC 401.
+
+## SECTION 2702 EMERGENCY AND STANDBY POWER SYSTEMS
+
+2702.1 Installation. Emergency power systems and standby power systems shall comply with Sections 2702.1.1 through 2702.1.8.
+This section states that all required emergency and standby power comply with various subsections. These subsections provide more detailed direction on how such systems are required to be installed. These provisions are consistent with the standards referenced by this code and provide the basic information to the building official.
+
+2702.1.1 Stationary generators. Stationary emergency and standby power generators required by this code shall be listed in accordance with UL 2200.
+
+UL 2200 was developed at the request of building officials to provide a standard to evaluate the safety and reliability of stationary engine generators. UL2200 establishes a basis for this evaluation.
+
+2702.1.2 Fuel-line piping protection. Fuel lines supplying a generator set inside a high-rise building shall be separated from areas of the building other than the room the generator is located in by one of the following methods:
+
+1 A fire-resistant pipe-protection system that has been tested in accordance with UL 1489. The system shall be installed as tested and in accordance with the manufacturer's installation instructions and shall have a rating of not less than 2 hours. Where the building is protected throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1, the required rating shall be reduced to 1 hour.
+
+2 An assembly that has a fire-resistance rating of not less than 2 hours. Where the building is protected throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1, the required fire-resistance rating shall be reduced to 1 hour.
+
+3 Other approved methods.
+
+The purpose of an emergency generator is to be available when some catastrophic event such as a fire would cause the main electrical system to be cut off. The emergency generator needs fuel to operate; therefore, the supply piping for that fuel needs to be protected to ensure that the emergency system will work when needed. This section offers several protection options, including the use of a UL 1489 fire-resistance piping system. The UL system provides fire resistance that is integral to the pipe rather than the building.
+
+===== Page 1863 =====
+construction. Generally, the intent of this section is to provide 2-hour protection in a building without automatic sprinkler protection complying with NFPA 13. Where an NFPA 13 system is provided the fire resistance can be reduced to 1 hour.
+
+2702.1.3 Installation. Emergency power systems and standby power systems required by this code or SBC 801 shall be installed in accordance with SBC 801, NFPA 70 (or its equivalent in SBC 401), NFPA 110 and NFPA 111.
+
+Emergency power systems are intended to provide electrical power for life safety systems, such as egress illumination, emergency communications and processes involving the handling and use of hazardous materials. In other words, emergency power is required where the loss of normal power would endanger occupants. Such systems are covered in Article 700 of NFPA 70 (or its equivalent in SBC 401) and one of their key features is the required response time of 10 seconds or less. The time between loss of normal power and the provision of emergency power must be kept very short to prevent putting occupants at risk. This is especially important during an emergency event such as a building fire, but is also important to prevent a situation that reduces the ability for occupants to properly navigate the building. Lack of proper illumination can affect the ability to safely relocate within or exit the building. Standby power systems are covered in Article 701 of NFPA 70 (or its equivalent in SBC 401) and are intended to provide electrical power for loads not as critical (in terms of transfer time) as those requiring emergency power. Standby power loads include smoke control systems; certain elevators; certain hazardous material operations; smoke-proof enclosure systems; illumination; heating, ventilating and air-conditioning (HVAC) systems; refrigeration; and sewage pumps. Standby power systems must provide power within 60 seconds of failure of primary power.
+
+Standby power loads include smoke control systems; certain elevators; certain hazardous material operations; smoke proof enclosure systems; illumination; heating, ventilating and air-conditioning (HVAC) systems; refrigeration; and sewage pumps. Standby power systems must provide power within 60 seconds of failure of primary power. Sources of power for emergency power systems (NFPA 70, Section 701-11 (or its equivalent in SBC 401)) include storage batteries, generators, uninterruptible power supplies and separate services.
+
+Sources of power for standby systems include those allowed for emergency systems plus a source that is taken from a point of connection ahead of the normal service disconnecting means.
+
+NFPA 110 addresses the performance criteria and "nuts and bolts" of emergency and standby power systems and separates them into types, classes and levels relative to maximum response time, minimum required operation time and life safety importance factor, respectively. NFPA 111 addresses stored emergency power supply systems and is similar in coverage to NFPA 110. Stored energy systems typically rely on batteries that store chemical energy.
+
+## 2702.1.4 Load transfer.
+
+Emergency power systems shall automatically provide secondary power within 10 seconds after primary power is lost, unless specified otherwise in this code. Standby power systems shall automatically provide secondary power within 60 seconds after primary power is lost, unless specified otherwise in this code.
+
+These provisions are consistent with NFPA 70 (or its equivalent in SBC 401) and provide clarity to the building official regarding one of the key differences between standby and emergency power. This was discussed in more detail in the commentary to Section 2702.1.3.
+
+## 2702.1.5 Load duration. Emergency
+
+power systems and standby power systems shall be designed to provide the required power for a minimum duration of 2 hours without being refueled or recharged, unless specified otherwise in this code.
+
+To design emergency and standby power systems properly, the minimum load duration must be known. This section provides a default minimum 2-hour duration for systems unless another load duration is specified. For instance, emergency responder radio coverage systems are required to provide standby power for 12 hours.
+
+2702.1.6 Uninterruptable power source. An uninterrupted source of power shall be provided for equipment when required by the manufacturer's instructions, the listing, this code or applicable referenced standards.
+
+In some cases, an uninterruptible power supply is required. Uninterruptible power supplies differ from emergency and standby in that there is no transfer time allowed. This is necessary for equipment with volatile memories or for equipment that is generally sensitive to any loss of power. Uninterruptible power sources must be provided if required by the manufacturer's instructions, the listing, the code, or applicable referenced standards, such as NFPA 72.
+
+===== Page 1864 =====
+2702.1.7 Interchangeability. Emergency power systems shall be an acceptable alternative for installations that require standby power systems.
+
+An emergency power system is more restrictive than a standby power system primarily due to the faster transfer time. This section simply provides the code language that would specifically permit such a substitution. It will simply result in a faster-reacting system, which will only improve performance.
+
+2702.1.8 Group I-2 occupancies. In Group I-2 occupancies located in flood hazard areas, where new essential electrical systems are installed, and where new essential electrical system generators are installed, the systems and generators shall be located and installed in accordance with ASCE 24. Where connections for hookup of temporary generators are provided, the connections shall be located at or above the elevation required in ASCE 24.
+
+Essential electrical systems and essential system generators installed in healthcare facilities in areas subject to flooding have operationally failed under flood conditions, even though buildings were designed to meet the structural loads associated with conditions of flooding. Emergency electrical systems and standby power generators are necessary for post-flood life safety and healthcare and for other occupancies and uses. ASCE 24 provides designers with minimum requirements and expected performance for the design and construction of buildings and structures in flood hazard areas, including the installation of attendant utilities, equipment and electrical systems. Group I-2 occupancies are assigned Flood Design Class 4 and required to be elevated or protected to the base flood elevation plus 600 mm, or the 500-year flood elevation, whichever is higher. See the commentary to Section 1612 for additional information.
+
+2702.2 Where required. Emergency and standby power systems shall be provided where required by Sections 2702.2.1 through 2702.2.19.
+
+Fires can cause the loss of utility power as a result of damage to equipment and wiring or fire-fighter action to shut off power to eliminate sources of ignition and danger to personnel. Sections 2702.2.1 through 2702.2.19 dictate where emergency and standby power systems are required based on the nature of the electrical loads. Note that emergency and standby power systems have different characteristics, and subsequent sections will require one or the other (see commentary, Section 2702.1).
+In some cases, these subsections define the requirements for standby power while in others they serve as pointers to the requirements.
+
+2702.2.1 Ambulatory care facilities
+Essential electrical systems for ambulatory care facilities shall comply with Section 422.6.
+
+This section is a pointer to Section 422.6 for requirements for essential electrical systems for ambulatory care facilities. See the Commentary for Section 422.6.
+
+2702.2.2 Elevators and platform lifts. Standby power shall be provided for elevators and platform lifts as required in Sections 1009.4.1, 1009.5, 3003.1, 3007.8 and 3008.8.
+
+Elevators can be a component of an accessible means of egress in accordance with Section 1009.4 and must, therefore, be dependable at all times. Without standby power, an elevator could be a dead end for someone with physical disabilities who is trying to evacuate a building (see commentary, Section 1009.4.1). Note that the intent of such standby power in this instance is focused on assisted rescue by the fire department and not self-evacuation.
+
+Platform lifts are allowed to be used as part of an accessible means of egress only when they are allowed as part of an accessible route, in accordance with Section 1110.9, Items 1 through 10. When this is the case, the platform lift could be a dead end for someone with physical disabilities if power to the platform lift has been lost; therefore, standby power is required, in accordance with Section 2702 or ASME A18.1.
+
+In addition to accessible means of egress, elevators are required to be provided with standby power for several other reasons. Section 403.4.8.3 related to high-rise buildings requires basic standby power in accordance with Section 3003.1 for elevators. Section 3003.1 requires that standby power is capable of being transferred to all elevators in each bank in the event of a power loss. Further, Section 403.4.8.3 references Sections 3007 and 3008 for additional standby power requirements. The standby power requirements for fire service access elevators and occupant evacuation elevators are more restrictive as those elevators need to be available for use by the fire department and for occupant evacuation (see commentary, Sections 3003.1, 3007 and 3008).
+
+2702.2.3 Emergency responder communication coverage systems. Standby power shall be provided for in-building 2-way emergency responder communication coverage systems required in Section 918 and SBC 801. The standby power supply shall be capable of operating the inbuilding 2-way emergency responder
+
+===== Page 1865 =====
+communication coverage system at 100-percent system operation capacity for a duration of not less than 12 hours.
+
+Loss of power during an emergency is likely. In many cases, the fire department and emergency responders will require the use of the in-building 2-way communication system for an extended amount of time. This section and Section 510.4.2.3 of SBC 801 require that the power be available for 12 hours. Power can be supplied by dedicated standby batteries or 2 hours of batteries and connection to the standby power generator.
+
+2702.2.4 Emergency voice/alarm communication systems. Standby power shall be provided for emergency voice/alarm communication systems in accordance with NFPA 72.
+
+Emergency voice/alarm communication systems are required to include an emergency power source in accordance with NFPA 72. Basically, NFPA 72 requires the system to remain powered for 24 hours and to be able to operate under alarm for 15 minutes. High-rise buildings, Group A occupancies and covered malls are examples of occupancies and building types that require emergency voice/alarm communication systems.
+
+2702.2.5 Exhaust systems. Standby power shall be provided for common exhaust systems for domestic kitchens located in multistory structures as required in Section 505.5 of SBC 501. Standby power shall be provided for common exhaust systems for clothes dryers located in multistory structures as required in Section 504.11 of SBC 501 and Section 614.11 of SBC 1201.
+
+Standby power for common exhaust systems are necessary to ensure that the exhaust from appliances cannot be the source of a fire or cause health problems for building occupants. See the commentaries for the sections referenced in SBC 501 and SBC 1201.
+
+2702.2.6 Exit signs. Emergency power shall be provided for exit signs as required in Section 1013.6.3. The system shall be capable of powering the required load for a duration of not less than 90 minutes.
+
+Emergency power is warranted for exit signage illumination since guiding occupants to the exits is a critical life safety function during any emergency where occupants are required to relocate within or exit the building. Note that this section's 90-minute power requirement supersedes the 2-hour requirement put forth in Section 2702.1.5 (see commentary, Section 1013.6.3).
+2702.2.7 Gas detection system. Emergency or standby power shall be provided for gas detection systems in accordance with SBC 801.
+
+Gas detection systems are required for many different applications in SBC 801. Depending on the system, standby power or emergency power is required to reduce the risk of fire from a gas leak during a time of loss of power to the building. Note that, as an alternative to such power supplies, Section 916.5 provides for the initiation of a trouble signal at an approved location upon the interruption of power—the intent being that this will cause the necessary intervention to address the lack of power.
+
+2702.2.8 Group I-2 occupancies. Essential electrical systems for Group I-2 occupancies shall be in accordance with Section 407.11.
+
+Emergency power systems are required to comply with NFPA 99. This requirement provides compliance with NFPA 99 and will ensure the required power systems are provided in Group I-2 occupancies.
+
+2702.2.9 Group I-3 occupancies. Emergency power shall be provided for power-operated doors and locks in Group I-3 occupancies as required in Section 408.4.2.
+
+In an emergency, occupants in detention and correctional facilities are at the mercy of door-locking mechanisms and those who control such locks; thus, emergency power is warranted to maintain the operation of these features. (see commentary, Section 408.4.2).
+
+2702.2.10 Hazardous materials. Emergency or standby power shall be provided in occupancies with hazardous materials where required by SBC 801.
+
+Where hazardous materials and processes are housed, occupant safety could be dependent on one or more ventilation, treatment, temperature control, alarm and detection system(s). Thus, emergency or standby power is required, depending on the load. These requirements are typically associated with situations where the maximum allowable quantities are exceeded. The focus is on where mechanical ventilation, treatment systems, temperature control, alarm, detection or other electrically operated systems are required. Note that failsafe engineered systems are recognized as an alternative to standby or emergency power (see commentary, Section 414.5.2).
+
+2702.2.11 High-rise buildings. Emergency and standby power shall be provided in high-rise buildings as required in Sections 403.4.8.
+
+Occupants of high-rise buildings are at a greater risk due to longer egress travel times, more difficulty in firefighter access and the
+
+===== Page 1866 =====
+dangers of vertical spread of fire and upward smoke migration. In accordance with this chapter and Section 403.4.8, some loads in a high-rise building will require standby power and some will require emergency power (see commentary, Section 403.4.8).
+
+2702.2.12 Hydrogen fuel gas rooms. Standby power shall be provided for hydrogen fuel gas rooms as required by SBC 801.
+
+Ventilation and gas detection are critical to the ongoing safe operation of a hydrogen fuel gas room. Therefore, both ventilation and gas detection systems are required by Section 421.7 to be provided with standby power so that such systems can continue operation even upon a loss of power. Hydrogen fuel gas rooms are also addressed in Section 5808 of SBC 801.
+
+2702.2.13 Laboratory suites. Standby or emergency power shall be provided in accordance with Section 5004.7 where laboratory suites are located above the sixth story above grade plane or located in a story below grand plant or located in a story below grade plane.
+
+This component of the safety features allows the use laboratory suites as opposed to traditional control areas. Standby or emergency power is triggered where responding to an emergency becomes more difficult due to height above or below grade. In this case, the trigger is six stories above grade plane or on any story below grade plane. See the commentary to Section 428.3.6.
+
+2702.2.14 Means of egress illumination. Emergency power shall be provided for means of egress illumination as required in Section 1008.3. The system shall be capable of powering the required load for a duration of not less than 90 minutes.
+
+The path of travel to all exits must be illuminated to guide occupants and allow for safe egress. Lack of proper illumination can significantly impair the ability to locate and navigate the means of egress. Therefore, emergency power for illumination is warranted (see commentary, Section 1008.3).
+
+2702.2.15 Membrane structures. Standby power shall be provided for auxiliary inflation systems in permanent membrane structures as required in Section 3102.8.2. Standby power shall be provided for a duration of not less than 4 hours. Auxiliary inflation systems in temporary air supported and air-inflated membrane structures shall be provided in accordance with Section 3103.10.4 of SBC 801.
+
+Air-supported and air-inflated structures could collapse on occupants if inflation systems fail. Section 3102.8.1.1 requires redundant inflation equipment in case the primary equipment fails. In addition, such structures require standby power for 4 hours. (see commentary, Section 3102.8.2).
+
+2702.2.16 Semiconductor fabrication facilities. Emergency power shall be provided for semiconductor fabrication facilities as required in Section 415.11.11.
+
+Where hazardous materials are utilized, such as in hazardous production materials (HPM) facilities, many safety systems are depended on to protect the occupants from exposure to hazardous materials, including exhaust/ventilation systems, gas cabinet exhaust systems, gas detection systems, alarm systems and suppression systems. Loss of power would endanger the occupants; thus, emergency power is essential for these occupancies (see commentary, Sections 415.11.11 and 415.11.11.1).
+
+2702.2.17 Smoke control systems. Standby power shall be provided for smoke control systems as required in Sections 404.7, 909.11, 909.20.7.2 and 909.21.5.
+
+Smoke control systems are intended to maintain a tenable environment in a building to allow the occupants ample time to evacuate or relocate to protected areas. As such, smoke control systems are life safety systems and must be dependable (see commentary, Section 909.11). During a power loss, smoke control systems are more likely to be needed than HVAC or other typical building systems. Note that Section 909.11 simply references Chapter 27 for standby power requirements, which would default to 2 hours.
+
+2702.2.18 Special purpose horizontal sliding, accordion or folding doors. Standby power shall be provided for special purpose horizontal sliding accordion or folding doors as required in Section 1010.3.3. The standby power supply shall have a capacity to operate not fewer than 50 closing cycles of the door.
+
+Power-operated doors could be an obstruction to egress if the primary power supply fails. Therefore, an integrated standby power system is required to maintain door operation (see commentary, Section 1010.3.3).
+
+2702.2.19 Underground buildings. Emergency and standby power shall be provided in underground buildings as required in Section 405.
+
+These structures are analogous to inverted high-rise buildings. Due to their configuration, underground buildings have concerns similar to a high-rise but made even more challenging by being underground. The need for certain life safety functions such as smokeproof enclosures and smoke control systems is
+
+===== Page 1867 =====
+critical. In addition, many fire safety systems such as fire alarms, emergency voice/alarm communication, fire pumps, egress illumination and elevator car lighting are critical. Even in a simple power outage without another emergency, wayfinding would be very difficult without proper means of egress illumination and exit signage. Section 405.8.1 requires standby power for specified loads and Section 405.8.2 requires emergency power for specified loads (see commentary, Sections 405.8.1 and 405.8.2).
+
+2702.3 Critical circuits. Required critical circuits shall be protected using one of the following methods:
+
+1 Cables, used for survivability of required critical circuits, that are listed in accordance with UL 2196 and have a fire-resistance rating of not less than 1 hour.
+
+2 Electrical circuit protective systems having a fire-resistance rating of not less than 1 hour. Electrical circuit protective systems are installed in accordance with their listing requirements.
+
+3 Construction having a fire-resistance rating of not less than 1 hour.
+
+Several sections call out the need for similar protection, including fire pumps (Section 913.2.2), fire service access elevators (Section 3007.8.1) and occupant evacuation elevators (Section 3008.8.2). The required rating varies from 1 to 2 hours based on the application. Smokeproof enclosures offer these concepts as alternatives to the requirement of placing such control wiring or powering wiring on the exterior, within the rated smokeproof enclosure or protected by rated building construction. Note smoke proof enclosures would require a 2-hour fire-resistance rating.
+
+The standard referenced, UL 2196, is the ANSI-approved standard for tests of fire-resistive cables. NFPA 20 (fire pumps) and NFPA 72 (fire alarms) include selective survivability requirements to ensure integrity of certain critical circuits. NFPA 70 (or its equivalent in SBC 401) does not specify the applicable standard within the mandatory provisions of the code but recognizes electrical circuit protective systems as an alternate to listed cables. An electrical circuit protective system is a field assembly of components that must be installed according to the listing requirements and manufacturer's instructions in order to maintain the listing for the system. There are more than two dozen electrical circuit protective systems listed in the UL Fire Resistance Directory.
+2702.4 Maintenance. Emergency and standby power systems shall be maintained and tested in accordance with SBC 801.
+
+Emergency and standby power systems must be maintained, serviced and tested to ensure dependability (see commentary, Sections 1203.4, 1203.5, 1203.6 of SBC 801).
+
+===== Page 1868 =====
+This page left intentionally blank
+

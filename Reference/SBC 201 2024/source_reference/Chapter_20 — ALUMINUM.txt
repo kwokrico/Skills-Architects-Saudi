@@ -1,0 +1,37 @@
+===== Page 1627 =====
+# CHAPTER 20—ALUMINUM
+
+## General Comments
+
+Chapter 20 contains standards for the use of aluminum in building construction. Only provisions for structural applications of these materials are included.
+
+This chapter does not seek to establish standards for aluminum specialty products, such as storefront framing, architectural hardware, etc. The use of aluminum in heating, ventilating and air-conditioning (HVAC) and plumbing systems is addressed in SBC 501 and SBC 701, respectively. This chapter applies to the structural requirements.
+
+## Purpose
+
+Aluminum has certain physical properties, structural characteristics and nonstructural characteristics that set it apart as a building material. By utilizing the standards set forth in this chapter, a proper application of this material can be obtained.
+
+## SECTION 2001 GENERAL
+
+2001.1 Scope. This chapter shall govern the quality, design, fabrication and erection of aluminum.
+
+The scope for Chapter 20 is provided in this section.
+
+## SECTION 2002 MATERIALS
+
+2002.1 General. Aluminum used for structural purposes in buildings and structures shall comply with AA ASM 35 and AA ADM 1. The nominal loads shall be the minimum design loads required by Chapter 16.
+
+The referenced standards to be applied in the utilization of aluminum in buildings and other structures are established. Parts 1-A and 1-B of the Aluminum Association's (AA) Aluminum Design Manual apply to the design of aluminum building-type structural load-carrying members and elements according to allowable stress design (ASD) and load and resistance factor design (LRFD) criteria, respectively. ASM 35 sets criteria for the use and installation of flashings, sheet roofing and similar applications.
+
+===== Page 1628 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 AA ADM1-15, Aluminum Design Manual; “Part 1-A: Specifications for Aluminum Structures, Allowable Stress Design” and “Part 1-B: Specifications for Aluminum Structures, Load and Resistance Factor Design of Buildings and Similar Type Structures.” Washington, DC: The Aluminum Association, 2015.
+
+2 AA ASM 35-00, Specification for Aluminum Sheet Metal Work in Building Construction. Washington, DC: The Aluminum Association, 2000.
+
+===== Page 1629 =====
+This page left intentionally blank
+

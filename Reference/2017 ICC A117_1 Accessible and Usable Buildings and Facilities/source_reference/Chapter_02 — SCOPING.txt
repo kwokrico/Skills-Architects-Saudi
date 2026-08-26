@@ -1,0 +1,20 @@
+## CHAPTER 2
+SCOPING
+
+## SECTION 201
+GENERAL INSIGHTS
+
+This standard provides technical criteria for making sites, facilities, buildings and elements accessible. The administrative authority shall provide scoping provisions to specify the extent to which these technical criteria apply. These scoping provisions shall address the application of this standard to each building and occupancy type; new construction, alterations, temporary facilities, and existing buildings; specific site and building elements; and to multiple elements or spaces provided within a site or building.
+
+
+## SECTION 202
+DWELLING AND SLEEPING UNITS INSIGHTS
+
+Chapter 11 of this standard contains dwelling unit and sleeping unit criteria for Accessible units, Type A units, Type B units, Type C (Visitable) dwelling units and units with communication features. The administrative authority shall specify, in separate scoping provisions, the extent to which these technical criteria apply. These scoping provisions shall address the types and numbers of units required to comply with each set of unit criteria.
+
+
+## SECTION 203
+ADMINISTRATION
+
+The administrative authority shall provide an appropriate review and approval process to ensure compliance with this standard.
+

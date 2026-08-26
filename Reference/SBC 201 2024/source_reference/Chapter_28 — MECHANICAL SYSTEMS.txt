@@ -1,0 +1,55 @@
+===== Page 1869 =====
+# CHAPTER 28—MECHANICAL SYSTEMS
+
+## General Comments
+
+Chapter 28 provides for the approval, installation, construction, inspection, operation, use, maintenance, alteration, repair, relocation, replacement and addition of all mechanical appliances, equipment and systems, including masonry chimneys, fireplaces and barbecues. This chapter directly references SBC 501, SBC 1201, SBC 801, the International Property Maintenance Code \( ^{®} \)  (IPMC \( ^{®} \) ) and SBC 901.
+
+## Purpose
+
+The purpose of Chapter 28 is to verify that mechanical equipment, appliances and mechanical systems are regulated with respect to design, construction, installation, use, maintenance, alteration, repair, relocation, replacement and addition. In addition to SBC 501 and SBC 1201, this chapter also references SBC 801, IPMC and SBC 901. This eliminates the need to duplicate the text of those codes and utilizes the performance and specification criteria of those codes as the basis for regulation of the construction, inspection and maintenance of all mechanical and fuel gas equipment, appliances and systems.
+
+While this chapter only consists of references to other chapters and codes, it is necessary since almost all newly constructed buildings and structures contain mechanical equipment, appliances and systems. Without this chapter, a necessary link between the code and SBC 501, SBC 1201, SBC 801, IPMC and SBC 901 would not exist for mechanical equipment, appliances and systems.
+
+## SECTION 2801 GENERAL
+
+2801.1 Scope. The provisions of this chapter, SBC 501 and SBC 1201 shall govern the design, construction, erection and installation of mechanical appliances, equipment and systems used in buildings and structures covered by this code. Masonry chimneys, fireplaces and barbecues shall comply with SBC 501 and Chapter 21 of this code. SBC 801, the International Property Maintenance Code, SBC 501 and SBC 1201 shall govern the use and maintenance of mechanical components, appliances, equipment and systems. SBC 901, SBC 501 and SBC 1201 shall govern the alteration, repair, relocation, replacement and addition of mechanical components, appliances, equipment and systems.
+The requirements for all mechanical systems are governed by this chapter. This chapter does not contain any requirements for mechanical equipment, appliances and systems; instead it references SBC 501 and SBC 1201.
+
+In the process of producing the code, it was considered unnecessary to include mechanical equipment, appliances and system provisions, since such provisions would duplicate and possibly conflict with those of SBC 501 or SBC 1201. Since most newly constructed buildings contain mechanical equipment, appliances and systems, this chapter is necessary to reference SBC 501 and SBC 1201 and tie them together with the code.
+
+SBC 501 and SBC 1201 work together to regulate all mechanical systems. Therefore, whether designing the mechanical system for a building or enforcing the provisions of the code that deal with mechanical systems, both SBC 501 and SBC 1201 will be required. SBC 501 and SBC 1201 are complete codes in themselves, and set forth necessary administrative and enforcement requirements, as well as the requirements for installation, construction, inspection and maintenance of mechanical equipment, appliances and systems. SBC 501 regulates all aspects of mechanical systems, including: air distribution systems and ductwork; boilers and hydronic systems; exhaust systems; fuel-oil piping systems; combustion air requirements; chimneys and vents; ventilation air requirements; refrigeration systems; solar-powered systems; and specific appliances and equipment. SBC 1201 regulates all aspects of fuel gas piping systems, fuel-gas utilization equipment and related accessories, including: combustion air requirements for gas appliances; chimneys and vents for gas appliances; fuel-gas piping; and specific gas appliances and gas equipment.
+
+A key component of SBC 501 and SBC 1201 is Chapter 3 of both codes, which requires all mechanical equipment and appliances to be listed and labeled to the standard or standards relevant to that equipment or appliance (see Commentary Figure 2801.1).
+
+Another important element of SBC 501 and SBC 1201 is a set of unique definitions found in Chapter 2 of both codes. These definitions supersede any others with respect to mechanical and gas systems. Especially
+
+===== Page 1870 =====
+noteworthy is the definition of “Noncombustible material” in SBC 501, which does not include composite materials as provided for in Section 703.5.2 of this code. In the context of SBC 501, such composite materials are considered to be combustible.
+
+With regard to masonry chimneys, fireplaces and barbecues, compliance with SBC 501 and Chapter 21 of SBC 201 is required.
+
+For alterations, repairs, relocation, replacement and additions to mechanical components, appliances, equipment and systems, in addition to compliance with SBC 501 and SBC 1201, compliance is also required with SBC 901.
+
+===== Page 1871 =====
+## FIGURES FOR Chapter 28
+
+MH12340
+
+190586
+
+UNDERWRITERS
+LABORATORIES
+LISTED
+INC. \( ^{®} \)
+
+GAS-FIRED HEATING APPLIANCE FOR MOBILE HOME OR RECREATIONAL VEHICLE
+
+No. L 531505
+
+FIGURE 2801.1
+EXAMPLE LABELS
+
+===== Page 1872 =====
+This page left intentionally blank
+

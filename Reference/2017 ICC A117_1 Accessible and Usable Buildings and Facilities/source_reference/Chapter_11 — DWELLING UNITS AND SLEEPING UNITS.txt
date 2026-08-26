@@ -1,0 +1,1181 @@
+# CHAPTER 11
+DWELLING UNITS AND SLEEPING UNITS
+
+User Note: Chapters 10 and 11 were interchanged in placement in the standard.
+
+## SECTION 1101
+
+## GENERAL
+
+## 1101.1 Scoping.
+
+Dwelling units and sleeping units required by the scoping provisions adopted by the administrative authority to be Accessible units, Type A units, Type B units, Type C (Visitable) units or units with accessible communication features shall comply with the applicable provisions of Chapter 11.
+
+## SECTION 1102
+
+## ACCESSIBLE UNITS
+
+## 1102.1 General. INSIGHTS
+
+Accessible units shall comply with Section 1102.
+
+
+## 1102.2 Primary entrance. INSIGHTS
+
+The primary entrance shall be on an accessible route from public and common areas. The primary entrance shall not be to a bedroom unless it is the only entrance.
+
+
+## 1102.3 Accessible route.
+
+Accessible routes within Accessible units shall comply with Section 1102.3.
+
+## 1102.3.1 Location.
+
+At least one accessible route shall connect all spaces and elements that are a part of the unit. Accessible routes shall coincide with or be located in the same area as a general circulation path.
+
+Exception: An accessible route is not required to unfinished attics and unfinished basements that are part of the unit.
+
+## 1102.3.2 Turning space. INSIGHTS
+
+All rooms served by an accessible route shall provide a turning space.
+
+## Exceptions:
+
+1. A turning space shall not be required in toilet rooms and bathrooms that are not required to comply with Section 1102.11.2.
+
+2. A turning space is not required within closets or pantries that are 48 inches (1220 mm) maximum in depth.
+
+
+## 1102.3.3 Components. INSIGHTS
+
+Accessible routes shall consist of one or more of the following elements: walking surfaces with a slope not steeper than 1:20, doors and doorways, ramps, elevators, and platform lifts.
+
+
+## 1102.4 Walking surfaces. INSIGHTS
+
+Walking surfaces that are part of an accessible route shall comply with Section 403.
+
+
+## 1102.5 Doors and doorways. INSIGHTS
+
+The primary entrance door to the unit, and all other doorways intended for user passage, shall comply with Section 404.
+
+## Exceptions:
+
+1. Existing doors to hospital patient sleeping rooms shall be exempt from the requirement for space at the latch side provided the door is 44 inches (1120 mm) minimum in width.
+
+2. In toilet rooms and bathrooms not required to comply with Section 1102.11.2, maneuvering clearances required by Section 404.2.3 shall not be required on the toilet room or bathroom side of the door.
+
+3. A turning space between doors in a series as required by Section 404.2.5 is not required.
+
+4. Storm and screen doors shall not be required to comply with Section 404.2.5.
+
+5. Communicating doors between individual sleeping units shall not be required to comply with Section 404.2.5.
+
+6. At other than the primary entrance door, where exterior space dimensions of balconies are less than the required maneuvering clearance, door maneuvering clearance is not required on the exterior side of the door.
+
+7. The maneuvering clearances required by Section 404 shall not be required within a closet or pantry complying with Exception 2 of Section 1102.3.2.
+
+
+## 1102.6 Ramps. INSIGHTS
+
+Ramps shall comply with Section 405.
+
+
+## 1102.7 Elevators. INSIGHTS
+
+Elevators within the unit shall comply with Section 407, 408, or 409.
+
+
+## 1102.8 Platform lifts. INSIGHTS
+
+Platform lifts within the unit shall comply with Section 410.
+
+
+## 1102.9 Operable parts. INSIGHTS
+
+Lighting controls, electrical panel-boards, electrical switches and receptacle outlets, environmental controls, appliance controls, plumbing fixture controls and user controls for security or intercom systems shall comply with Section 309.
+
+
+## 1102.10 Laundry equipment.
+
+Washing machines and clothes dryers shall comply with Section 611.
+
+## 1102.11 Toilet and bathing facilities. INSIGHTS
+
+At least one toilet and bathing facility shall comply with Section 1102.11.2. All other toilet and bathing facilities shall comply with Section 1102.11.1
+
+
+## 1102.11.1 Grab bars and shower seat reinforcement. INSIGHTS
+
+At fixtures in toilet and bathing facilities not required to comply with Section 1102.11.2, reinforcement in accordance with Section 1104.11.1 shall be provided.
+
+Exception: Reinforcement is not required where Type B units are not provided in the structure.
+
+
+## 1102.11.2 Toilet and bathing facility.
+
+At least one toilet and bathing facility shall comply with Section 603. At least one lavatory, one water closet and either a bathtub or shower within the unit shall comply with Sections 604 through 610. These toilet and bathing fixtures shall be in a single toilet/bathing area, such that travel between fixtures does not require travel through other parts of the unit.
+
+## 1102.11.2.1 Vanity countertop space.
+
+If vanity countertop space is provided in dwelling or sleeping units not required to be Accessible units within the same facility, equivalent vanity countertop space, in terms of size and proximity to the lavatory, shall also be provided in Accessible units.
+
+## 1102.11.2.2 Mirrors.
+
+Mirrors above lavatories required to comply with Section 606 shall have the bottom edge of the reflecting surface 40 inches (1015 mm) maximum above the floor.
+
+## 1102.12 Kitchens.
+
+Kitchens shall comply with Section 804.
+
+## 1102.13 Windows. INSIGHTS
+
+Operable windows shall comply with Section 506.1.
+
+## Exceptions:
+
+1. Windows in kitchens shall not be required to comply with Section 1102.13.
+
+2. Windows in bathrooms shall not be required to comply with Section 1102.13.
+
+
+## 1102.14 Storage facilities.
+
+Where storage facilities are provided, at least one of each type shall comply with Section 905.
+
+Exception: Kitchen cabinets shall not be required to comply with Section 1102.14.
+
+## 1102.15 Beds.
+
+In at least one sleeping area, a minimum of five percent, but not less than one bed shall comply with Section 1102.15.
+
+## 1102.15.1 Clear floor space.
+
+A clear floor space shall be provided on both sides of the bed. The clear floor space shall be positioned for parallel approach to the side of the bed.
+
+Exception: Where a single clear floor space positioned for parallel approach is provided between two beds, a clear floor space shall not be required on both sides of the bed.
+
+## 1102.15.2 Bed frames. INSIGHTS
+
+At least one bed shall be provided with an open bed frame.
+
+
+## 1102.15.3 Bed height.
+
+At least one bed shall measure 17 to 23 inches (430 to 585 mm) high from the floor to the top of the uncompressed mattress.
+
+## 1102.15.4 Wheelchair charging area. INSIGHTS
+
+The clear floor space required by Section 1102.15.1 shall also serve as a wheelchair charging area complying with Section 906.
+
+
+## SECTION 1103
+
+## TYPE A UNITS
+
+## 1103.1 General. INSIGHTS
+
+Type A units shall comply with Section 1103.
+
+
+## 1103.2 Primary entrance.
+
+The primary entrance shall be on an accessible route from public and common areas. The primary entrance shall not be to a bedroom unless it is the only entrance.
+
+## 1103.3 Accessible route.
+
+Accessible routes within Type A units shall comply with Section 1103.3.
+
+## 1103.3.1 Location.
+
+At least one accessible route shall connect all spaces and elements that are a part of the unit. Accessible routes shall coincide with or be located in the same area as a general circulation path.
+
+Exception: An accessible route is not required to unfinished attics and unfinished basements that are part of the unit.
+
+## 1103.3.2 Turning space.
+
+All rooms served by an accessible route shall provide a turning space.
+
+## Exceptions:
+
+1. A turning space is not required in toilet rooms and bathrooms that are not required to comply with Section 1103.11.2.
+
+2. A turning space is not required within closets or pantries that are 48 inches (1220 mm) maximum in depth.
+
+## 1103.3.3 Components.
+
+Accessible routes shall consist of one or more of the following elements: walking surfaces with a slope not steeper than 1:20, doors and doorways, ramps, elevators, and platform lifts.
+
+## 1103.4 Walking surfaces.
+
+Walking surfaces that are part of an accessible route shall comply with Section 403.
+
+## 1103.5 Doors and doorways. INSIGHTS
+
+The primary entrance door to the unit, and all other doorways intended for user passage, shall comply with Section 404.
+
+## Exceptions:
+
+1. Thresholds at exterior sliding doors shall be permitted to be  \( \frac{3}{4} \)  inch (19 mm) maximum in height, provided they are beveled with a slope not greater than 1:2.
+
+2. In toilet rooms and bathrooms not required to comply with Section 1103.11.2, maneuvering clearances required by Section 404.2.3 shall not be required on the toilet room or bathroom side of the door.
+
+3. A turning space between doors in a series as required by Section 404.2.5 is not required.
+
+4. Storm and screen doors shall not be required to comply with Section 404.2.5.
+
+5. Communicating doors between individual sleeping units shall not be required to comply with Section 404.2.5.
+
+6. At other than the primary entrance door, where exterior space dimensions of balconies are less than the required maneuvering clearance, door maneuvering clearance is not required on the exterior side of the door.
+
+7. The maneuvering clearances required by Section 404 shall not be required within a closet or pantry complying with Exception 2 of Section 1103.3.2.
+
+
+## 1103.6 Ramps.
+
+Ramps shall comply with Section 405.
+
+## 1103.7 Elevators.
+
+Elevators within the unit shall comply with Section 407, 408, or 409.
+
+## 1103.8 Platform lifts.
+
+Platform lifts within the unit shall comply with Section 410.
+
+## 1103.9 Operable parts. INSIGHTS
+
+Lighting controls, electrical panel-boards, electrical switches and receptacle outlets, environmental controls, appliance controls, plumbing fixture controls, and user controls for security or intercom systems shall comply with Section 309.
+
+
+## 1103.10 Laundry equipment.
+
+Washing machines and clothes dryers shall comply with Section 611.
+
+## 1103.11 Toilet and bathing facilities. INSIGHTS
+
+At least one toilet and bathing facility shall comply with Section 1103.11.2. All toilet and bathing facilities shall comply with Section 1103.11.1.
+
+
+## 1103.11.1 Grab bar and shower seat reinforcement. INSIGHTS
+
+Reinforcement shall be provided for the future installation of grab bars complying with Section 604.5 at water closets; grab bars complying with Section 607.4 at bathtubs; and for grab bars and shower seats complying with Sections 608.3, 608.2.1.3, 608.2.2.3 and 608.2.3.2 at shower compartments.
+
+## Exceptions:
+
+1. At fixtures not required to comply with Section 1103.11.2, reinforcement in accordance with Section 1104.11.1 shall be permitted.
+
+2. Reinforcement is not required in a room containing only a lavatory and a water closet, provided the room does not contain the only lavatory or water closet on the accessible level of the dwelling unit.
+
+3. Reinforcement for the water closet side wall vertical grab bar component required by Section 604.5 is not required.
+
+4. Where the lavatory overlaps the water closet clearance in accordance with the exception to Section 1103.11.2.4.4 reinforcement at the water closet rear wall for a 24-inch (610 mm) minimum length grab bar, centered on the water closet, shall be provided.
+
+
+## 1103.11.2 General.
+
+At least one toilet and bathing facility shall comply with Section 1103.11.2. At least one lavatory, one water closet and either a bathtub or shower within the unit shall comply with Section 1103.11.2. These toilet and bathing fixtures shall be in a single toilet/bathing area, such that travel between fixtures does not require travel through other parts of the unit.
+
+## 1103.11.2.1 Doors.
+
+Doors shall not swing into the clear floor space or clearance for any fixture.
+
+Exception: Where a clear floor space is provided within the room beyond the arc of the door swing.
+
+## 1103.11.2.2 Lavatory.
+
+Lavatories shall comply with Section 606.
+
+Exception: Cabinetry shall be permitted under the lavatory, provided the following criteria are met:
+
+1. The cabinetry can be removed without removal or replacement of the lavatory;
+
+2. The floor finish extends under the cabinetry; and
+
+3. The walls behind and surrounding the cabinetry are finished.
+
+## 1103.11.2.3 Mirrors.
+
+Mirrors above lavatories required to comply with Section 1103.11.2.2 shall have the bottom edge of the reflecting surface 40 inches (1015 mm) maximum above the floor.
+
+## 1103.11.2.4 Water closet.
+
+Water closets shall comply with Section 1103.11.2.4.
+
+FIGURE 1103.11.2.4(A) WATER CLOSETS IN TYPE A UNITS - WATER CLOSET LOCATION
+
+FIGURE 1103.11.2.4(B) WATER CLOSETS IN TYPE A UNITS - MINIMUM CLEARANCE
+
+FIGURE 1103.11.2.4(C) WATER CLOSETS IN TYPE A UNITS - CLEARANCE WITH LAVATORY (OVERLAP EXCEPTION)
+
+FIGURE 1103.11.2.4(D) WATER CLOSETS IN TYPE A UNITS - WATER CLOSET SEAT HEIGHT
+
+## 1103.11.2.4.1 Location. INSIGHTS
+
+The water closet shall be positioned with a wall to the rear and to one side. The centerline of the water closet shall be 16 inches (405 mm) minimum and 18 inches (455 mm) maximum from the sidewall.
+
+
+## 1103.11.2.4.2 Clearance width. INSIGHTS
+
+Clearance around the water closet shall be 60 inches (1525 mm) minimum in width, measured perpendicular from the side wall.
+
+
+## 1103.11.2.4.3 Clearance depth. INSIGHTS
+
+Clearance around the water closet shall be 56 inches (1420 mm) minimum in depth, measured perpendicular from the rear wall.
+
+
+## 1103.11.2.4.4 Clearance overlap. INSIGHTS
+
+The required clearance around the water closet shall be permitted to overlap the water closet, associated grab bars, paper dispensers, coat hooks, shelves, accessible routes, clear floor space required at other fixtures, and the wheelchair turning space. No other fixtures or obstructions shall be located within the required water closet clearance.
+
+Exception: A lavatory measuring 24 inches (610 mm) maximum in depth and complying with Section 1103.11.2.2 shall be permitted on the rear wall 18 inches (455 mm) minimum from the centerline of the water closet to the side edge of the lavatory where the clearance at the water closet is 66 inches (1675 mm) minimum measured perpendicular from the rear wall.
+
+
+## 1103.11.2.4.5 Height. INSIGHTS
+
+The top of the water closet seat shall be 15 inches (380 mm) minimum and 19 inches (485 mm) maximum above the floor, measured to the top of the seat.
+
+
+## 1103.11.2.4.6 Flush controls.
+
+Flush controls shall be hand-operated or automatic. Hand operated flush controls shall comply with Section 309. Hand-operated flush controls shall be located on the open side of the water closet.
+
+## 1103.11.2.5 Bathing fixtures.
+
+The bathing fixture shall be a bathtub complying with Section 1103.11.2.5.1 or a shower compartment complying with Section 1103.11.2.5.2.
+
+## 1103.11.2.5.1 Bathtub. INSIGHTS
+
+Bathtubs shall comply with Section 607.
+
+Exception: Countertops and cabinetry shall be permitted at one end of the clearance, provided the following criteria are met:
+
+1. The countertop and cabinetry can be removed;
+
+2. The floor finish extends under the countertop and cabinetry; and
+
+3. The walls behind and surrounding the countertop and cabinetry are finished.
+
+
+FIGURE 1103.11.2.5.1(A) CLEARANCE FOR BATHTUBS IN TYPE A UNITS WITH REMOVABLE SEAT
+
+FIGURE 1103.11.2.5.1(B) CLEARANCE FOR BATHTUBS IN TYPE A UNITS WITH PERMANENT SEAT
+
+## 1103.11.2.5.2 Shower. INSIGHTS
+
+Showers shall comply with Section 608.
+
+Exception: At standard roll-in shower compartments complying with Section 608.2.2, lavatories, countertops and cabinetry shall be permitted at one end of the clearance, provided the following criteria are met:
+
+1. The countertop and cabinetry can be removed;
+
+2. The floor finish extends under the countertop and cabinetry; and
+
+3. The walls behind and surrounding the countertop and cabinetry are finished.
+
+
+Note: Lavatory permitted per Section 608.2.2
+
+FIGURE 1103.11.2.5.2 STANDARD ROLL-IN-TYPE SHOWER COMPARTMENT IN TYPE A UNITS
+
+1103.12 Kitchens.
+
+Kitchens shall comply with Section 1103.12.
+
+1103.12.1 Clearance. INSIGHTS
+
+Clearance complying with Section 1103.12.1 shall be provided.
+
+
+1103.12.1.1 Minimum clearance.
+
+Clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 40 inches (1015 mm) minimum.
+
+FIGURE 1103.12.1.1 MINIMUM KITCHEN CLEARANCE IN TYPE A UNITS
+
+1103.12.1.2 U-shaped kitchens. INSIGHTS
+
+In kitchens with counters, appliances, or cabinets on three contiguous sides, clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 60 inches (1525 mm) minimum.
+
+Exception: U-shaped kitchens with an island complying with Section 1103.12.1.1.
+
+
+FIGURE 1103.12.1.2(A) U-SHAPED KITCHEN CLEARANCE IN TYPE A UNITS
+
+FIGURE 1103.12.1.2(B) U-SHAPED KITCHEN CLEARANCE IN TYPE A UNITS EXCEPTION
+
+## 1103.12.2 Clear floor space.
+
+Clear floor spaces required by Sections 1103.12.3 through 1103.12.5 shall comply with Section 305.
+
+## 1103.12.3 Work surface. INSIGHTS
+
+At least one section of counter shall provide an accessible work surface 30 inches (760 mm) minimum in length complying with Section 1103.12.3.
+
+Exception: Spaces that do not provide a cockpit or conventional range shall not be required to provide an accessible work surface.
+
+
+* 36 min. (915) if part of T-shaped turning space per Sections 304.3.2 and 1003.3.2
+
+FIGURE 1103.12.3 WORK SURFACE IN KITCHEN FOR TYPE A UNITS
+
+## 1103.12.3.1 Clear floor space.
+
+A clear floor space, positioned for a forward approach to the work surface, shall be provided. Knee and toe clearance complying with Section 306 shall be provided.
+
+Exception: Cabinetry shall be permitted under the work surface, provided the following criteria are met:
+
+1. The cabinetry can be removed without removal or replacement of the work surface,
+
+2. The floor finish extends under the cabinetry, and
+
+3. The walls behind and surrounding the cabinetry are finished.
+
+## 1103.12.3.2 Height.
+
+The work surface shall be 34 inches (865 mm) maximum above the floor.
+
+Exception: A counter that is adjustable to provide a work surface at variable heights 29 inches (735 mm) minimum and 36 inches (915 mm) maximum above the floor, or that can be relocated within that range without cutting the counter or damaging adjacent cabinets, walls, doors, and structural elements, shall be permitted.
+
+## 1103.12.3.3 Exposed surfaces.
+
+There shall be no sharp or abrasive surfaces under the exposed portions of work surface counters.
+
+## 1103.12.4 Sink. INSIGHTS
+
+Sinks shall comply with Section 1103.12.4.
+
+
+* 36 in. (915 mm) min. if part of T-shaped turning space in accordance with Sections 304.3.2 and 1003.3.2
+
+FIGURE 1103.12.4 KITCHEN SINK FOR TYPE A UNITS
+
+## 1103.12.4.1 Clear floor space.
+
+A clear floor space, positioned for a forward approach to the sink, shall be provided. Knee and toe clearance complying with Section 306 shall be provided.
+
+## Exceptions:
+
+1. The requirement for knee and toe clearance shall not apply to more than one bowl of a multi-bowl sink.
+
+2. Cabinetry shall be permitted to be added under the sink, provided the following criteria are met:
+
+2.1 The cabinetry can be removed without removal or replacement of the sink,
+
+2.2 The floor finish extends under the cabinetry, and
+
+2.3 The walls behind and surrounding the cabinetry are finished.
+
+3. A clear floor space providing a parallel approach and centered on the sink shall be permitted at a kitchen sink in a space where a cook top or conventional range is not provided.
+
+4. A clear floor space providing a parallel approach and centered on the sink shall be permitted at wet bars.
+
+## 1103.12.4.2 Height.
+
+The front of the sink shall be 34 inches (865 mm) maximum above the floor, measured to the higher of the rim or counter surface.
+
+Exception: A sink and counter that is adjustable to variable heights 29 inches (735 mm) minimum and 36 inches (915 mm) maximum above the floor, or that can be relocated within that range without cutting the counter or damaging adjacent cabinets, walls, doors and structural elements, provided rough-in plumbing permits connections of supply and drain pipes for sinks mounted at the height of 29 inches (735 mm), shall be permitted.
+
+## 1103.12.4.3 Faucets.
+
+Faucets shall comply with Section 309.
+
+## 1103.12.4.4 Exposed pipes and surfaces.
+
+Water supply and drain pipes under sinks shall be insulated or otherwise configured to protect against contact. There shall be no sharp or abrasive surfaces under sinks.
+
+## 1103.12.5 Appliances.
+
+Where provided, kitchen appliances shall comply with Section 1103.12.5.
+
+## 1103.12.5.1 Operable parts.
+
+All appliance controls shall comply with Section 1103.9.
+
+## Exceptions:
+
+1. Appliance doors and door latching devices shall not be required to comply with Section 309.4.
+
+2. Bottom-hinged appliance doors, when in the open position, shall not be required to comply with Section 309.3.
+
+## 1103.12.5.2 Clear floor space.
+
+A clear floor space, positioned for a parallel or forward approach, shall be provided at each kitchen appliance.
+
+## 1103.12.5.3 Dishwasher.
+
+A clear floor space, positioned adjacent to the dishwasher door, shall be provided. The dishwasher door in the open position shall not obstruct the clear floor space for the dishwasher or an adjacent sink.
+
+## 1103.12.5.4 Cooktop.
+
+Cooktops shall comply with Section 1103.12.5.4.
+
+## 1103.12.5.4.1 Approach.
+
+A clear floor space, positioned for a parallel or forward approach to the cooktop, shall be provided.
+
+## 1103.12.5.4.2 Forward approach.
+
+Where the clear floor space is positioned for a forward approach, knee and toe clearance complying with Section 306 shall be provided. The underside of the cooktop shall be insulated or otherwise configured to protect from burns, abrasions or electrical shock.
+
+## 1103.12.5.4.3 Parallel approach.
+
+Where the clear floor space is positioned for a parallel approach, the clear floor space shall be centered on the appliance.
+
+## 1103.12.5.4.4 Controls.
+
+The location of controls shall not require reaching across burners.
+
+## 1103.12.5.5 Oven.
+
+Ovens shall comply with Section 1103.12.5.5.
+
+## 1103.12.5.5.1 Clear floor space.
+
+A clear floor space shall be provided. The oven door in the open position shall not obstruct the clear floor space for the oven.
+
+## 1103.12.5.5.2 Side-hinged door ovens.
+
+Side-hinged door ovens shall have a countertop positioned adjacent to the latch side of the oven door.
+
+## 1103.12.5.5.3 Bottom-hinged door ovens.
+
+Bottom-hinged door ovens shall have a countertop positioned adjacent to one side of the door.
+
+## 1103.12.5.5.4 Controls.
+
+The location of controls shall not require reaching across burners.
+
+## 1103.12.5.6 Refrigerator/freezer.
+
+Combination refrigerators and freezers shall have at least 50 percent of the freezer compartment shelves, including the bottom of the freezer 54 inches (1370 mm) maximum above the floor when the shelves are installed at the maximum heights possible in the compartment. A clear floor space, positioned for a parallel approach to the refrigerator/freezer, shall be provided. The centerline of the clear floor space shall be offset 24 inches (610 mm) maximum from the centerline of the appliance.
+
+## 1103.13 Windows. INSIGHTS
+
+Operable windows shall comply with Section 1103.13.
+
+## Exceptions:
+
+1. Windows in kitchens shall not be required to comply with Section 1103.13.
+
+2. Windows in bathrooms shall not be required to comply with Section 1103.13.
+
+
+## 1103.13.1 Natural ventilation.
+
+Operable windows required to provide natural ventilation shall comply with Sections 309.2 and 309.3.
+
+## 1103.13.2 Emergency escape.
+
+Operable windows required to provide an emergency escape and rescue opening shall comply with Section 309.2.
+
+## 1103.14 Storage facilities.
+
+Where storage facilities are provided, at least one of each type shall comply with Section 905.
+
+Exception: Kitchen cabinets shall not be required to comply with Section 1103.14.
+
+## SECTION 1104
+
+## TYPE B UNITS INSIGHTS
+
+
+## 1104.1 General.
+
+Type B units shall comply with Section 1104.
+
+## 1104.1.1. Clear floor space. INSIGHTS
+
+For Type B units, clear floor spaces shall be 48 inches (1220 mm) minimum in length and 30 inches (760 mm) minimum in width.
+
+
+## FIGURE 1104.1.1 CLEAR FLOOR SPACE FOR TYPE B UNITS
+
+## 1104.1.2. Mailboxes. INSIGHTS
+
+Mailboxes serving Type B units shall be permitted an unobstructed side reach range at 54 inches (1370 mm) maximum above the floor.
+
+
+## 1104.2 Primary entrance. INSIGHTS
+
+The primary entrance shall be on an accessible route from public and common areas. The primary entrance shall not be to a bedroom unless it is the only entrance.
+
+
+## 1104.3 Accessible route. INSIGHTS
+
+Accessible routes within Type B units shall comply with Section 1104.3.
+
+
+## 1104.3.1 Location.
+
+At least one accessible route shall connect all spaces and elements that are a part of the unit. Accessible routes shall coincide with or be located in the same area as a general circulation path.
+
+## Exceptions:
+
+1. An accessible route is not required to unfinished attics and unfinished basements that are part of the unit.
+
+2. One of the following is not required to be on an accessible route:
+
+2.1 A raised floor area in a portion of a living, dining, or sleeping room; or
+
+2.2 A sunken floor area in a portion of a living, dining, or sleeping room; or
+
+2.3 A mezzanine that does not have plumbing fixtures or an enclosed habitable space.
+
+## 1104.3.2 Components.
+
+Accessible routes shall consist of one or more of the following elements: walking surfaces with a slope not steeper than 1:20, doors and doorways, ramps, elevators, and platform lifts.
+
+## 1104.4 Walking surfaces. INSIGHTS
+
+Walking surfaces that are part of an accessible route shall comply with Section 1104.4.
+
+
+## 1104.4.1 Clear width. INSIGHTS
+
+The clear width of an accessible route shall comply with Section 403.5.
+
+## Exceptions:
+
+1. The clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided the reduced width segments are separated by segments that are 48 inches (1220 mm) minimum in length and 36 inches (915 mm) minimum in width.
+
+2. Where an accessible route makes a 180-degree turn around an object that is less than 48 inches (1220 mm) in width, clear widths shall be 42 inches (1065 mm) minimum approaching the turn, 48 inches (1220 mm) minimum during the turn and 42 (1065 mm) inches minimum leaving the turn.
+
+3. Where an accessible route makes a 180-degree turn around an object that is less than 48 inches (1220 mm) in width, the clear width approaching the turn and leaving the turn shall be 36 inches (915 mm) minimum provided the clear width during the turn is 60 inches (1525 mm) minimum.
+
+4. Where an accessible route makes a 90-degree turn the clear widths approaching the turn and leaving the turn shall be 36 inches (915 mm) minimum.
+
+5. An accessible route with a clear width less than 60 inches (1525 mm) shall provide passing spaces at intervals of 200 feet (61 m) maximum. Passing spaces shall be either a 60-inch (1525 mm) minimum by 60-inch (1525 mm) minimum space, or an intersection of two walking surfaces that provide a T-shaped turning space complying with Section 304.3.2.2, provided the base and arms of the T-shaped space extend 48 inches (1220 mm) minimum beyond the intersection.
+
+
+## 1104.4.2 Changes in level. INSIGHTS
+
+Changes in level shall comply with Section 303.
+
+Exception: Where exterior deck, patio or balcony surface materials are impervious, the finished exterior impervious surface shall be 4 inches (100 mm) maximum below the floor level of the adjacent interior spaces of the unit.
+
+
+## 1104.5 Doors and doorways. INSIGHTS
+
+Doors and doorways shall comply with Section 1104.5.
+
+
+## 1104.5.1 Primary entrance door.
+
+The primary entrance door to the unit shall comply with Section 404.
+
+Exceptions:
+
+1. Storm and screen doors serving individual dwelling or sleeping units shall not be required to comply with Section 404.2.5.
+
+2. For the maneuvering clearance at swinging doors for the front approach direction on the push side, the dimension perpendicular to the door shall be 48 inches (1220 mm) minimum.
+
+3. For the maneuvering clearance at sliding and folding doors for the front approach direction, the dimension perpendicular to the door shall be 48 inches (1220 mm) minimum.
+
+4. For doorways without doors, the dimension perpendicular to the doorway for the front direction shall be 48 inches (1220 mm) minimum.
+
+## 1104.5.2 User passage doorways. INSIGHTS
+
+Doorways intended for user passage shall comply with Section 1104.5.2.
+
+Exception: Doors that are part of a shower door assembly shall not be required to comply with this section.
+
+
+## 1104.5.2.1 Clear width.
+
+Doorways shall have a clear opening of  \( 31^{3}/_{4} \)  inches (805 mm) minimum. Clear opening of swinging doors shall be measured between the face of the door and stop, with the door open 90 degrees.
+
+## 1104.5.2.1.1 Double leaf doorways.
+
+Where the operable parts on an inactive leaf of a double leaf doorway are located more than 48 inches (1220 mm) or less than 15 inches (380 mm) above the floor, the active leaf shall provide the clearance required by Section 1104.5.2.1.
+
+## 1104.5.2.2 Thresholds.
+
+Thresholds shall comply with Section 303.
+
+Exception: Thresholds at exterior sliding doors shall be permitted to be  \( \frac{3}{4} \)  inch (19 mm) maximum in height, provided they are beveled with a slope not steeper than 1:2.
+
+## 1104.5.2.3 Automatic doors.
+
+Automatic doors shall comply with Section 404.3.
+
+## 1104.6 Ramps.
+
+Ramps shall comply with Section 405.
+
+## 1104.7 Elevators.
+
+Elevators serving the unit shall comply with Sections 407, 408 or 409.
+
+Exception: In private residence elevators, the inside dimensions of elevator cars shall provide a clear floor length of 48 inches (1220 mm) minimum and a clear floor width of 36 inches (760 mm) minimum.
+
+## 1104.8 Platform lifts.
+
+Platform lifts within the unit shall comply with Section 410.
+
+Exception: Platform lifts with a single door or with doors on opposite ends shall provide a clear floor width of 36 inches (915 mm) minimum and a clear floor length of 48 inches (1220 mm) minimum.
+
+## 1104.9 Operable parts. INSIGHTS
+
+Lighting controls, electrical switches and receptacle outlets, environmental controls, electrical panelboards, and user controls for security or intercom systems shall comply with Sections 309.3 and 1104.1.1.
+
+## Exceptions:
+
+1. Receptacle outlets serving a dedicated use.
+
+2. In a kitchen where two or more receptacle outlets are provided above a length of countertop that is uninterrupted by a sink or appliance, only one receptacle outlet shall be required to comply with this section.
+
+3. In a kitchen where a clear floor space for a parallel approach cannot be located at a countertop in a corner between appliances, receptacle outlets over the countertop shall not be required to comply with this
+
+section provided that the countertop area does not exceed 9 square feet (0.835 m²) maximum.
+
+4. Floor receptacle outlets.
+
+5. HVAC diffusers.
+
+6. Controls mounted on ceiling fans.
+
+7. Controls or switches mounted on appliances.
+
+8. Plumbing fixture controls.
+
+8. Plumbing fixture controls.
+
+9. Reset buttons and shut-offs serving appliances, piping and plumbing fixtures.
+
+9. Reset buttons and shut-offs serving appliances, piping and plumbing fixtures.
+10. Where redundant controls other than light switches are provided for a single element, one control in each space shall not be required to comply with this section.
+11. Within kitchens and bathrooms, lighting controls, electrical switches and receptacle outlets are permitted to be located over cabinets with countertops 36 inches (915 mm) maximum in height and  \( 25^{1}/_{2} \)  inches (650 mm) maximum in depth.
+
+
+## FIGURE 1104.9 REACH OVER A KITCHEN OR BATHROOM CABINET
+
+## 1104.10 Laundry equipment.
+
+Washing machines and clothes dryers shall comply with Section 1104.10.
+
+## 1104.10.1 Clear floor space. INSIGHTS
+
+A clear floor space shall be provided for each washing machine and clothes dryer. A parallel approach shall be provided for a top loading machine. A forward or parallel approach shall be provided for a front loading machine.
+
+
+## 1104.11 Toilet and bathing facilities. INSIGHTS
+
+Toilet and bathing fixtures shall comply with Section 1104.11.
+
+Exception: Fixtures on levels not required to be accessible.
+
+
+## 1104.11.1 Grab bar and shower seat reinforcement. INSIGHTS
+
+Reinforcement shall be provided for the future installation of grab bars and shower seats at water closets, bathtubs, and shower compartments. Where walls are located to permit the installation of grab bars and seats complying with Section 604.5 at water closets; grab bars complying with Section 607.4 at bathtubs; and for grab bars and shower seats complying with Sections, 608.3, 608.2.1.3, 608.2.2.3 and 608.2.3.2 at shower compartments; reinforcement shall be provided for the future installation of grab bars and seats complying with those requirements.
+
+## Exceptions:
+
+1. In a room containing only a lavatory and a water closet, reinforcement is not required provided the room does not contain the only lavatory or water closet on the accessible level of the unit.
+
+2. At water closets reinforcement for the side wall vertical grab bar component required by Section 604.5 is not required.
+
+3. At water closets where wall space will not permit a grab bar complying with Section 604.5.2, reinforcement for a rear wall grab bar 24 inches (610 mm) minimum in length centered on the water closet shall be provided.
+
+4. At water closets where a side wall is not available for a 42-inch (1065 mm) grab bar complying with Section 604.5.1, reinforcement for a sidewall grab bar, 24 inches (610 mm) minimum in length, located 12 inches (305 mm) maximum from the rear wall, shall be provided.
+
+5. At water closets where a side wall is not available for a 42-inch (1065 mm) grab bar complying with Section 604.5.1 reinforcement for a swing-up grab bar complying with Section 1104.11.1.1 shall be permitted.
+
+6. At water closets where a side wall is not available for a 42-inch (1065 mm) grab bar complying with Section 604.5.1 reinforcement for two swing-up grab bars complying with Section 1104.11.1.1 shall be permitted to be installed in lieu of reinforcement for rear wall and side wall grab bars.
+
+7. In shower compartments larger than 36 inches (915 mm) in width and 36 inches (915 mm) in depth reinforcement for a shower seat is not required
+
+
+## 1104.11.1.1 Swing-up grab bars. INSIGHTS
+
+A clearance of 18 inches (455 mm) minimum from the centerline of the water closet to any side wall or obstruction shall be provided where reinforcement for swing-up grab bars is provided. When the approach to the water closet is from the side, the 18 inches (455 mm) minimum shall be on the side opposite the direction of approach. Reinforcement shall accommodate a swing-up grab bar centered  \( 15^{3}/_{4} \)  inches (400 mm) from the centerline of the water closet and 28 inches (710 mm) minimum in length, measured from the wall to the end of the horizontal portion of the grab bar. Reinforcement shall accommodate a swing-up grab bar with a height in the down position of 33 inches (840 mm) minimum and 36 inches (915 mm) maximum. Reinforcement shall be adequate to resist forces in accordance with Section 609.8.
+
+Exception: Where a water closet is positioned with a wall to the rear and to one side, the centerline of the water closet shall be 16 inches (405 mm) minimum and 18 inches (455 mm) maximum from the sidewall.
+
+
+1104.11.2 Clear floor space.
+
+Clear floor spaces required by Section 1104.11.3.1 (Option A) or 1104.11.3.2 (Option B) shall comply with Sections 1104.11.2 and 1104.1.1.
+
+
+## 1104.11.2.1 Doors.
+
+Doors shall not swing into the clear floor space or clearance for any fixture.
+
+Exception: Where a clear floor space, excluding knee and toe clearances under elements, is provided within the room beyond the arc of the door swing.
+
+## 1104.11.2.2 Knee and toe clearance.
+
+Clear floor space at fixtures shall be permitted to include knee and toe clearances complying with Section 306.
+
+## 1104.11.3 Toilet and bathing areas. INSIGHTS
+
+Either all toilet and bathing areas provided shall comply with Section 1104.11.3.1 (Option A), or one toilet and bathing area shall comply with Section 1104.11.3.2 (Option B).
+
+
+## 1104.11.3.1 Option A.
+
+Each fixture provided shall comply with Section 1104.11.3.1.
+
+Exceptions:
+
+1. Where multiple lavatories are provided in a single toilet and bathing area such that travel between fixtures does not require travel through other parts of the unit, not more than one lavatory is required to comply with Section 1104.11.3.1.
+
+2. A lavatory and a water closet in a room containing only a lavatory and water closet, provided the room does not contain the only lavatory or water closet on the accessible level of the unit.
+
+## 1104.11.3.1.1 Lavatory. INSIGHTS
+
+A clear floor space positioned for a parallel approach shall be provided at a lavatory. The clear floor space shall be centered on the lavatory.
+
+Exception: A lavatory complying with Sections 606.3, 606.4 and 1104.1.1 shall be permitted. Cabinetry shall be permitted under the lavatory provided the following criteria are met:
+
+1. The cabinetry can be removed without removal or replacement of the lavatory, and
+
+2. The floor finish extends under the cabinetry, and
+
+3. The walls behind and surrounding the cabinetry are finished.
+
+
+FIGURE 1104.11.3.1.1 LAVATORY IN TYPE B UNITS - OPTION A BATHROOMS
+
+## 1104.11.3.1.2 Water closet. INSIGHTS
+
+The water closet shall comply with Section 1104.11.3.1.2.
+
+
+FIGURE 1104.11.3.1.2(A) CLEARANCE AT WATER CLOSETS IN TYPE B UNITS WATER CLOSET LOCATION
+
+FIGURE 1104.11.3.1.2(B) CLEARANCE AT WATER CLOSETS IN TYPE B UNITS CLEARANCE WIDTH AND DEPTH
+
+FIGURE 1104.11.3.1.2(C) CLEARANCE AT WATER CLOSETS IN TYPE B UNITS INCREASED CLEARANCE DEPTH - FORWARD APPROACH
+
+FIGURE 1104.11.3.1.2(D) CLEARANCE AT WATER CLOSETS IN TYPE B UNITS CLEARANCE WITH LAVATORY OVERLAP
+
+## 1104.11.3.1.2.1 Location.
+
+The centerline of the water closet shall be 16 inches (405 mm) minimum and 18 inches (455 mm) maximum from one side of the required clearance.
+
+## 1104.11.3.1.2.2 Clearance.
+
+Clearance around the water closet shall comply with Sections 1104.11.3.1.2.2.1 through 1104.11.3.1.2.2.3.
+
+Exception: Clearance complying with Sections 1103.11.2.4.2 through 1103.11.2.4.4.
+
+## 1104.11.3.1.2.2.1 Clearance width.
+
+Clearance around the water closet shall be 48 inches (1220 mm) minimum in width, measured perpendicular from the side of the clearance that is 16 inches (405 mm) minimum and 18 inches (455 mm) maximum from the water closet centerline.
+
+## 1104.11.3.1.2.2.2 Clearance depth.
+
+Clearance around the water closet shall be 56 inches (1420 mm) minimum in depth, measured perpendicular from the rear wall.
+
+## 1104.11.3.1.2.2.3 Increased clearance depth at forward approach.
+
+Where a forward approach is provided, the clearance shall be 66 inches (1675 mm) minimum in depth, measured perpendicular from the rear wall.
+
+## 1104.11.3.1.2.2.4 Clearance overlap.
+
+A vanity or other obstruction 24 inches (610 mm) maximum in depth, measured perpendicular from the rear wall, shall be permitted to overlap the required clearance, provided the width of the remaining clearance at the water closet is 33 inches (840 mm) minimum.
+
+## 1104.11.3.1.3 Bathing fixtures.
+
+Where provided, a bathtub shall comply with Section 1104.11.3.1.3.1 or 1104.11.3.1.3.2 and a shower compartment shall comply with Section 1104.11.3.1.3.3.
+
+## 1104.11.3.1.3.1 Parallel approach bathtubs. INSIGHTS
+
+A clearance 60 inches (1525 mm) minimum in length and 30 inches (760 mm) minimum in width shall be provided in front of bathtubs with a parallel approach. Lavatories complying with Section 606 shall be permitted in the clearance. A lavatory complying with Section 1104.11.3.1 shall be permitted at one end of the bathtub if a clearance 48 inches (1220 mm) minimum in length and 30 inches (760 mm) minimum in width is provided in front of the bathtub.
+
+
+(A)
+
+FIGURE 1104.11.3.1.3.1 PARALLEL APPROACH BATHTUB IN TYPE B UNITS - OPTION A BATHROOM
+
+## 1104.11.3.1.3.2 Forward approach bathtubs. INSIGHTS
+
+A clearance 60 inches (1525 mm) minimum in length and 48 inches (1220 mm) minimum in width shall be provided in front of bathtubs with a forward approach. A water closet and a lavatory shall be permitted in the clearance at one end of the bathtub.
+
+
+FIGURE 1104.11.3.1.3.2 FORWARD APPROACH BATHTUB IN TYPE B UNITS OPTION A BATHROOM
+
+## 1104.11.3.1.3.3 Shower compartment. INSIGHTS
+
+If a shower compartment is the only bathing facility, the shower compartment shall have dimensions of 36 inches (915 mm) minimum in width and 36 inches (915 mm) minimum in depth. A clearance of 48 inches (1220 mm) minimum in length, measured perpendicular from the control wall, and 30 inches (760 mm) minimum in depth, measured from the face of the shower compartment, shall be provided.
+
+## Exceptions:
+
+1. A shower compartment with dimensions of 30 inches (760 mm) minimum in depth and 44 inches (1120 mm) minimum in width shall be permitted.
+
+2. A shower door assembly shall be permitted where the assembly can be removed without removal or replacement of the surrounding walls and floor to which it is affixed.
+
+
+FIGURE 1104.11.3.1.3.3(A) TRANSFER-TYPE SHOWER COMPARTMENT IN TYPE B UNITS
+
+FIGURE 1104.11.3.1.3.3(B) TRANSFER-TYPE SHOWER COMPARTMENT IN TYPE B UNITS EXCEPTION
+
+## 1104.11.3.2 Option B.
+
+One of each type of fixture provided shall comply with Section 1104.11.3.2. These fixtures shall be in a single toilet/bathing area, such that travel between fixtures does not require travel through other parts of the unit.
+
+## 1104.11.3.2.1 Lavatory. INSIGHTS
+
+Lavoraties shall comply with Sections 1104.11.3.1 and 1104.11.3.2.1.1.
+
+
+FIGURE 1104.11.3.2.1 LAVATORY IN TYPE B UNITS - OPTION B BATHROOM
+
+## 1104.11.3.2.1.1 Height.
+
+The front of the lavatory shall be 34 inches (865 mm) maximum above the floor, measured to the higher of the rim or counter surface.
+
+## 1104.11.3.2.2 Water closet. INSIGHTS
+
+The water closet shall comply with Section 1104.11.3.1.2.
+
+
+## 1104.11.3.2.3 Bathing fixtures.
+
+The bathing fixture shall be a bathtub complying with Section 1104.11.3.2.3.1 or a shower compartment complying with Section 1104.11.3.2.3.2.
+
+## 1104.11.3.2.3.1 Bathtub.
+
+A clearance 48 inches (1220 mm) minimum in length measured perpendicular from the control end of the bathtub, and 30 inches (760 mm) minimum in width shall be provided in front of bathtubs.
+
+FIGURE 1104.11.3.2.3.1 BATHROOM CLEARANCE IN TYPE B UNITS OPTION B BATHROOM
+
+## 1104.11.3.2.3.2 Shower compartment.
+
+A shower compartment shall comply with Section 1104.11.3.1.3.3.
+
+## 1104.12 Kitchens. INSIGHTS
+
+Kitchens shall comply with Section 1104.12.
+
+
+## 1104.12.1 Clearance.
+
+Clearance complying with Section 1104.12.1 shall be provided.
+
+## 1104.12.1.1 Minimum clearance.
+
+Clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 40 inches (1015 mm) minimum.
+
+FIGURE 1104.12.1.1 MINIMUM CLEARANCE IN TYPE B UNITS
+
+## 1104.12.1.2 U-shaped kitchens. INSIGHTS
+
+In kitchens with counters, appliances or cabinets on three contiguous sides, clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 60 inches (1525 mm) minimum.
+
+Exception: U-shaped kitchens with an island complying with Section 1104.12.1.1.
+
+
+FIGURE 1104.12.1.2(A) U-SHAPED KITCHEN CLEARANCE IN TYPE B UNITS
+
+FIGURE 1104.12.1.2(B) U-SHAPED KITCHEN CLEARANCE IN TYPE B UNITS - EXCEPTION
+
+## 1104.12.2 Clear floor space.
+
+Clear floor spaces at appliances shall comply with Sections 1104.12.2 and 1104.1.1.
+
+## 1104.12.2.1 Sink.
+
+A clear floor space, positioned for a parallel approach to the sink, shall be provided. The clear floor space shall be centered on the sink bowl.
+
+Exception: A sink with a forward approach complying with Section 1103.12.4.1.
+
+## 1104.12.2.2 Dishwasher.
+
+A clear floor space, positioned for a parallel or forward approach to the dishwasher, shall be provided. The dishwasher door in the open position shall not obstruct the clear floor space for the dishwasher.
+
+## 1104.12.2.3 Cooktop.
+
+Cooktops shall comply with Section 1104.12.2.3.
+
+## 1104.12.2.3.1 Approach.
+
+A clear floor space, positioned for a parallel or forward approach to the cooktop, shall be provided.
+
+## 1104.12.2.3.2 Forward approach.
+
+Where the clear floor space is positioned for a forward approach, knee and toe clearance complying with Section 306 shall be provided. The underside of the cooktop shall be insulated or otherwise configured to prevent burns, abrasions, or electrical shock.
+
+## 1104.12.2.3.3 Parallel approach.
+
+Where the clear floor space is positioned for a parallel approach, the clear floor space shall be centered on the appliance.
+
+## 1104.12.2.4 Oven.
+
+A clear floor space, positioned for a parallel or forward approach adjacent to the oven shall be provided. The oven door in the open position shall not obstruct the clear floor space for the oven.
+
+## 1104.12.2.5 Refrigerator/freezer. INSIGHTS
+
+The refrigerator/freezer shall comply with Section 1104.12.2.5.
+
+
+## 1104.12.2.5.1 Approach.
+
+A clear floor space positioned for a parallel or forward approach to the refrigerator/freezer shall be provided.
+
+## 1104.12.2.5.2 Forward approach.
+
+Where the clear floor space is positioned for a forward approach, the centerline of the clear floor space shall be offset 15 inches (380 mm) maximum from the centerline of the appliance.
+
+## 1104.12.2.5.3 Parallel approach.
+
+Where the clear floor space is positioned for a parallel approach, the centerline of the clear floor space shall be offset 24 inches (610 mm) maximum from the centerline of the appliance.
+
+## 1104.12.2.6 Trash compactor.
+
+A clear floor space, positioned for a parallel or forward approach to the trash compactor, shall be provided.
+
+## SECTION 1105
+TYPE C (VISITABLE) UNITS
+
+## 1105.1 General.
+
+Type C (Visitable) dwelling units shall comply with Section 1105.
+
+## 1105.2 Unit entrance.
+
+At least one unit entrance shall be on a circulation path complying with Section 1105.5 from a public street or sidewalk, a dwelling unit driveway, or a garage.
+
+## 1105.3 Connected spaces.
+
+A circulation path complying with Section 1105.5 shall connect the unit entrance complying with Section 1105.2 and with the spaces specified in Section 1105.4.
+
+## 1105.4 Interior spaces.
+
+The entrance level shall include a toilet room or bathroom complying with Section 1105.6 and one habitable space with an area 70 square feet (6.5 m²) minimum. Where a food preparation area is provided on the entrance level, it shall comply with Section 1105.7.
+
+Exception: A toilet room or bathroom shall not be required on an entrance level with less than 120 square feet (11.2 m²) of habitable space.
+
+## 1105.5 Circulation path.
+
+Circulation paths shall comply with Section 1105.5.
+
+## 1105.5.1 Components.
+
+The circulation path shall consist of one or more of the following elements: walking surfaces with a slope not steeper than 1:20, doors and doorways, ramps, elevators complying with Sections 407 through 409, and wheelchair (platform) lifts complying with Section 410.
+
+## 1105.5.2 Walking surfaces.
+
+Walking surfaces with slopes not steeper than 1:20 shall comply with Section 303.
+
+## 1105.5.2.1 Clear width.
+
+The clear width of the circulation path shall be 36 inches (915 mm) minimum.
+
+## 1105.5.3 Doors and doorways.
+
+Doors and doorways shall comply with Section 1105.5.3
+
+## 1105.5.3.1 Clear width.
+
+Doorways shall have a clear opening of  \( 31^{3}/_{4} \)  inches (805 mm) minimum. Clear opening of swinging doors shall be measured between the face of the door and stop, with the door open 90 degrees.
+
+## 1105.5.3.2 Thresholds.
+
+Thresholds shall comply with Section 303.
+
+Exception: Thresholds at exterior sliding doors shall be permitted to be  \( \frac{3}{4} \)  inch (19 mm) maximum in height, provided they are beveled with a slope not steeper than 1:2.
+
+## 1105.5.4 Ramps.
+
+Ramps shall comply with Section 405.
+
+Exception: Handrails, intermediate landings and edge protection shall not be required where the sides of ramp runs have a vertical drop off of  \( \frac{1}{2} \)  inch (13 mm) maximum within 10 inches (255 mm) horizontally of the ramp run.
+
+## 1105.5.4.1 Clear width.
+
+The clear width of the circulation path shall comply with Section 403.5.
+
+## 1105.6 Toilet room or bathroom.
+
+At a minimum, the toilet room or bathroom required by Section 1105.4 shall include a lavatory and a water closet. Reinforcement shall be provided for the future installation of grab bars at water closets. Clearances at the water closet shall comply with Section 1104.11.3.1.2.
+
+## 1105.7 Food preparation area.
+
+At a minimum, the food preparation area shall include a sink, a cooking appliance, and a refrigerator. Clearances between all opposing base cabinets, counter tops, appliances or walls within the food preparation area shall be 40 inches (1015 mm) minimum.
+
+Exception: Spaces that do not provide a cooktop or conventional range shall be permitted to provide a clearance of 36 inches (915 mm) minimum.
+
+## 1105.8 Lighting controls and receptacle outlets.
+
+Receptacle outlets and operable parts of lighting controls shall be located 15 inches (380 mm) minimum and 48 inches (1220 mm) maximum above the floor.
+
+Exception: The following shall not be required to comply with Section 1105.8.
+
+1. Receptacle outlets serving a dedicated use.
+
+2. Controls mounted on ceiling fans and ceiling lights.
+
+3. Floor receptacle outlets.
+
+4. Lighting controls and receptacle outlets over countertops.
+
+## SECTION 1106
+
+## UNITS WITH COMMUNICATION FEATURES
+
+## 1106.1 General.
+
+Units required to have communication features shall comply with Section 1106.
+
+## 1106.2 Unit smoke detection.
+
+Where provided, unit smoke detection shall include audible notification complying with NFPA 72 listed in Section 106.2.4.
+
+## 1106.3 Building fire alarm system.
+
+Where a building fire alarm system is provided, the system wiring shall be extended to a point within the unit in the vicinity of the unit smoke detection system.
+
+## 1106.4 Visible notification appliances.
+
+Visible notification appliances, where provided within the unit as part of the unit smoke detection system or the building fire alarm system, shall comply with Section 1106.4.
+
+## 1106.4.1 Appliances.
+
+Visible notification appliances shall comply with Section 702.
+
+## 1106.4.2 Activation.
+
+All visible notification appliances provided within the unit for smoke detection notification shall be activated upon smoke detection. All visible notification appliances provided within the unit for building fire alarm notification shall be activated upon activation of the building fire alarm in the portion of the building containing the unit.
+
+## 1106.4.3 Interconnection.
+
+The same visible notification appliances shall be permitted to provide notification of unit smoke detection and building fire alarm activation.
+
+## 1106.4.4 Prohibited use.
+
+Visible notification appliances used to indicate unit smoke detection or building fire alarm activation shall not be used for any other purpose within the unit.
+
+## 1106.5 Unit primary entrance.
+
+Communication features shall be provided at the unit primary entrance complying with Section 1106.5.
+
+## 1106.5.1 Notification. INSIGHTS
+
+A hard-wired electric doorbell shall be provided. A button or switch shall be provided on the public side of the unit primary entrance. Activation of the button or switch shall initiate an audible tone within the unit. Where visible doorbell signals are located in sleeping areas, controls shall be provided to deactivate the signal.
+
+## 1106.5.2 Identification.
+
+A means for visually identifying a visitor without opening the unit entry door shall be provided. Peepholes, where used, shall provide a minimum 180-degree range of view.
+
+## 1106.6 Site, building or floor entrance.
+
+Where a system permitting voice communication between a visitor and the occupant of the unit is provided at a location other than the unit entry door, the system shall comply with Section 1106.6.
+
+## 1106.6.1 Public or common-use interface.
+
+The public or common-use system interface shall include the capability of supporting voice and TTY communication with the unit interface.
+
+## 1106.6.2 Unit interface.
+
+The unit system interface shall include a telephone jack capable of supporting voice and TTY communication with the public or common-use system interface.
+
+## 1106.7 Closed-circuit communication systems.
+
+Where a closed-circuit communication system is provided, the public or common-use system interface shall comply with Section 1106.6.1, and the unit system interface in units required to have communication features shall comply with Section 1106.6.2.
+

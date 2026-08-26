@@ -1,0 +1,1334 @@
+===== Page 1463 =====
+# CHAPTER 15—ROOF ASSEMBLY
+
+## General Comments
+
+Chapter 15 regulates the materials, design, construction and quality of roofs and roof structures for all buildings and structures. Requirements for weather protection, fire classification, flashings and insulation are provided to govern the roof slab or deck and its supporting members, in addition to the covering that is applied to the roof for weather resistance, fire resistance or appearance. Specific installation requirements for certain steep-slope and low-slope roof coverings are provided.
+
+Section 1502 addresses roof drainage.
+
+Section 1503 provides requirements for roof coverings to protect against the effects of weather.
+
+Section 1504 provides performance requirements including referenced standards for evaluating the performance of new and innovative roof coverings.
+
+Section 1505 provides a classification system to determine a roof covering's effectiveness against certain fire test exposures. Specific classifications of roof coverings are required based on the type of construction classification of the structure.
+
+Section 1506 provides requirements for the application of roof covering materials.
+
+Section 1507 provides requirements for the installation of roof coverings.
+
+Section 1508 establishes requirements for the use of combustible roof insulation in all types of construction.
+
+Section 1509 provides the requirements for roof coatings.
+
+Section 1510 provides testing and installation requirements for radiant barriers that are installed over a roof deck.
+
+Section 1511 establishes minimum requirements for specific structures that can be constructed on and above the roof.
+
+Section 1512 provides requirements for roofing, including adequate structural supports, recovering of existing roofing materials and replacement.
+
+## Purpose
+
+The provisions in Chapter 15 for roof construction and coverings are intended to provide a weather-protective barrier at the roof and, in most circumstances, a fire-retardant barrier to prevent flaming combustible materials, such as flying brands from nearby fires, from penetrating the roof construction. The chapter is essentially prescriptive in nature and is based on decades of experience with various traditional roofing materials. These prescriptive rules are very important for satisfactory performance of the roof covering even though the reasoning behind requirements may be lost. The provisions are based on preventing a repeat of past unsatisfactory performances of the various roofing materials and components.
+
+## SECTION 1501 GENERAL
+
+1501.1 Scope. The provisions of this chapter shall govern the design, materials, construction and quality of roof assemblies, and rooftop structures.
+
+This section specifies the scope and applicability of the code for all roofs, roof assemblies and roof structures. Requirements are provided to regulate the materials, design and construction of roofs and roof-top structures such as penthouses, water tanks and other structures. See also the definition of "Roof assembly" in Section 202. Other roof assemblies addressed elsewhere in the code and not addressed in this chapter include membrane structures (see Section 3102) and light-transmitting plastics (see Section 2606).
+
+## SECTION 1502 ROOF DRAINAGE
+
+1502.1 General. Design and installation of roof drainage systems shall comply with this Section, Section 1611 of this code and Chapter 11 of SBC 701.
+
+The purpose of this Section is to call attention to the need for providing roof drainage as well as the requirements for sizing and locating secondary drains. Positive roof drainage is required to prevent excessive ponding of water and the consequent rapid deterioration or early failure of the roof-covering material or roof structure, or the need for increased strength of the roof system to support ponding. Section 1611.2 requires the structural design calculations to consider ponding in order to prevent a progressive deflection of the structural roof members.
+
+1502.2 Secondary (emergency overflow) drains or scuppers. Where roof drains are required, secondary (emergency overflow) roof drains or scuppers shall be provided where the roof perimeter construction extends above the roof in such a manner that water will be entrapped if the primary drains allow buildup for any reason. The installation and sizing of secondary emergency overflow
+
+===== Page 1464 =====
+drains, leaders and conductors shall comply with Section 1611 of this code and Chapter 11 of SBC 701.
+
+These requirements alert the roofer to the need for providing properly sized secondary drains or scuppers. A secondary drainage system is required where the building has parapet walls or other construction that could restrict drainage at the roof's perimeter. This section requires all buildings to have some method for preventing the accumulation of unplanned excessive rainwater.
+
+The intent here is to limit the amount of ponding water that can accumulate on the roof due to rainfall. If the roof is constructed so water cannot pond on the roof, such as with roofs sloped toward the edge of the building, secondary drainage is not required. This criteria should be applied to all portions of the roof, so that if any portion is designed so water can pond, secondary drains would be required. Bear in mind that a roof could be intentionally designed to allow ponding to some design depth such as for a rainwater harvesting system.
+
+1502.3 Scuppers. Where scuppers are used for secondary (emergency overflow) roof drainage, the quantity, size, location and inlet elevation of the scuppers shall be sized to prevent the depth of ponding water from exceeding that for which the roof was designed as determined by Section 1611.1. Scuppers shall not have an opening dimension of less than 100 mm. The flow through the primary system shall not be considered when locating and sizing scuppers.
+
+Scuppers allow water to drain at the perimeter of a roof. These devices are commonly larger than the roof drain. This section provides performance requirements for roofs using wall scuppers as a means of secondary roof drainage. This section also provides minimum prescriptive opening dimensions for scuppers regardless of the results of the performance design. The performance design typically takes into account the flow rate, the length of the scupper opening and the water pressure (head) on the scupper.
+
+1502.4 Gutters. Gutters and leaders placed on the outside of buildings, other than Group R-3, private garages and buildings of Type V construction, shall be of noncombustible material or a minimum of Schedule 40 plastic pipe.
+
+All roofs are required to be designed and built with positive drainage (see Section 1507.10.1 for the slope requirements of built-up roofs). "Positive roof drainage" is defined in Section 202. Ponding water has detrimental effects on a roof system, including roof surface and membrane deterioration due to debris accumulation; vegetation and fungal growth; deck deflections which can lead to structural damage; tensile splitting; and the possibility of water entering the building.
+
+## SECTION 1503 WEATHER PROTECTION
+
+1503.1 General. Roof decks shall be covered with approved roof coverings secured to the building or structure in accordance with the provisions of this chapter. Roof coverings shall be designed in accordance with this code and installed in accordance with this code and the manufacturer's approved instructions.
+
+The roof covering provides protection from water intrusion into a building. The roofing system has historically been one of the most problematic areas of a building. Without a properly constructed roof assembly, water may infiltrate the building causing damage to building materials and contents. A roof assembly, for the purposes of this chapter, is defined as including the roof deck and components above that make up the roof covering. For a roof covering to perform the way it must to protect the building, it must meet certain requirements. The code provides basic requirements for the construction of roof assemblies. The designer, in his or her roof specifications, will typically include compatibility of materials, deck type, weather conditions, roof slope, structural loads, roof drainage, roof penetrations and future rerofing.
+
+1503.2 Flashing. Flashing shall be installed in such a manner so as to prevent water from entering the wall and roof through joints in copings, through moisture-permeable materials and at intersections with parapet walls and other penetrations through the roof plane.
+
+Water that penetrates the building envelope can lead to the degradation of building materials that are sensitive to moisture. Flashing must be installed in a very specific manner so that moisture does not enter the building construction or get under the roof covering. As indicated, flashing is required anywhere the roof covering is interrupted or terminated.
+
+1503.2.1 Locations. Flashing shall be installed at wall and roof intersections, at gutters, wherever there is a change in roof slope or direction and around roof openings. Where flashing is of metal, the metal shall be corrosion resistant with a thickness of not less than 0.48 mm (No. 26 galvanized sheet).
+
+☑ Flashing consists of components that waterproof or seal the roof system at
+
+===== Page 1465 =====
+discontinuities, such as perimeters, penetrations, walls [see Commentary Figure 1404.4(1)], expansion joints, valleys, drains and other places, where the roof covering is interrupted or terminated. For example, membrane base flashing covers the edge of the field membrane, and cap flashings or counter flashings shield the upper edges of the base flashing.
+
+Metal flashing must be not less than the specified minimum thickness and be corrosion resistant. “Corrosion resistance” is defined as, “The ability of a material to withstand deterioration of its surface or its properties when exposed to its environment.” This definition includes metallic and nonmetallic materials.
+
+1503.3 Parapet walls. Parapet walls shall be coped or covered in accordance with Sections 1503.3.1 and 1503.3.2. The top surface of the parapet wall shall provide positive drainage.
+
+Parapet walls must be coped or covered such that the top surface provides positive drainage. The coping is exposed to weather and is usually made of metal, masonry or stone. It is typically sloped to shed water back onto the roof.
+
+1503.3.1 Fire-resistance-rated parapet walls. Parapet walls required by Section 705.11 shall be coped or covered with weatherproof materials of a width not less than the thickness of the parapet wall such that the fire-resistance rating of the wall is not decreased.
+
+See the commentary to Section 1503.3.
+
+1503.3.2 Other parapet walls. Parapet walls meeting one of the exceptions in Section 705.11 shall be coped or covered with weatherproof materials of a width not less than the thickness of the parapet wall.
+
+See the commentary to Section 1503.3.
+
+1503.4 Attic and rafter ventilation. Intake and exhaust vents shall be provided in accordance with Section 1202.2 and the vent product manufacturer's installation instructions.
+
+During cold weather, condensation is deposited on cold surfaces when, for example, warm, moist air rising from the interior of a building and through the attic comes in contact with the roof deck. Ventilation minimizes condensation on the cold surfaces and, therefore, will reduce or prevent dry rot on the bottom surface of shingles or wood roof decks.
+
+1503.5 Crickets and saddles. A cricket or saddle shall be installed on the ridge side of any chimney or penetration greater than 760 mm wide as measured perpendicular to the slope. Cricket or saddle coverings shall be sheet metal or of the same material as the roof covering.
+Exception: Unit skylights installed in accordance with Section 2405.5 and flashed in accordance with the manufacturer's instructions shall be permitted to be installed without a cricket or saddle.
+
+A cricket or saddle is a raised roof substrate or structure constructed to channel or direct surface water around a chimney or other similar roof penetration. The exception recognizes the use of engineered skylight systems that are designed to prevent water infiltration without the use of a cricket. It applies to unit skylights that are installed in accordance with Section 2405.5.
+
+## SECTION 1504 PERFORMANCE REQUIREMENTS
+
+1504.1 Wind resistance of roofs. Roof decks and roof coverings shall be designed for wind loads in accordance with Chapter 16 and Sections 1504.2, 1504.3, 1504.4 and 1504.5.
+
+It is important that roof coverings and roof decks remain intact and in place when subjected to high winds. Without an intact roof system, the building would be subjected either to water damage, which would reduce its structural stability, or to higher wind pressures for which the building is not designed. The following sections specify requirements for different roof coverings regarding wind loads. The roof decks are included in the requirements of Chapter 16.
+
+1504.2 Wind resistance of asphalt shingles. Asphalt shingles shall be tested in accordance with ASTM D7158. Asphalt shingles shall meet the classification requirements of Table 1504.2 for the appropriate maximum basic wind speed. Asphalt shingle packaging shall bear a label to indicate compliance with ASTM D7158 and the required classification in Table 1504.2.
+Exception: Asphalt shingles not included in the scope of ASTM D7158 shall be tested and labeled in accordance with ASTM D3161. Asphalt shingle packaging shall bear a label to indicate compliance with ASTM D3161 and the required classification in Table 1504.2.
+
+This Section recognizes two test methods for the wind resistance of asphalt shingles: ASTM D7158, which provides a method of testing that is appropriate for sealed asphalt shingles, and ASTM D3161, as cited in the exception, which provides a method of testing that is appropriate for unsealed asphalt shingles. Each of these standards results in a shingle “classification” based on the ability of the asphalt shingle installation to resist wind uplift. Table 1504.2
+
+===== Page 1466 =====
+contains minimum classification requirements based on either the mapped wind speed or the nominal design wind speed as determined from Section 1609.3.1.
+
+See Table 1504.2.
+
+See the commentary to Section 1504.2.
+
+1504.3 Wind resistance of clay and concrete tile. Wind loads on clay and concrete tile roof coverings shall be in accordance with Section 1609.5.
+
+To determine the minimum wind loads to use in the design and installation of clay and concrete roof tile, this section refers to Section 1609.5. When required by Table 1507.3.7, the tiles must be installed to resist the wind loads as calculated in accordance with Section 1609.5.
+
+1504.3.1 Testing. Testing of concrete and clay roof tiles shall be in accordance with Sections 1504.3.1.1, 1504.3.1.2 and 1504.3.1.3.
+
+This section prescribes the test standards and criteria to be used to determine the overturning resistance and wind characteristics of concrete and clay roof tiles.
+
+1504.3.1.1 Overturning resistance. Concrete and clay roof tiles shall be tested to determine their resistance to overturning due to wind in accordance with Chapter 15 and either SBCCI SSTD 11 or ASTM C 1568.
+
+This section requires concrete and clay tiles to be tested to determine their overturning resistance in accordance with SBCCI SSTD 11. SBCCI SSTD 11 prescribes methods for determining the allowable overturning moment for mechanically fastened adhesive-set and mortar-set tiles. A test procedure is also prescribed for determining the allowable uplift loads on hip/ridge tiles.
+
+1504.3.1.2 Wind tunnel testing. Where concrete and clay roof tiles do not satisfy the limitations in Chapter 16 for rigid tile, a wind tunnel test shall be used to determine the wind characteristics of the concrete or clay tile roof covering in accordance with Chapter 15 and either SBCCI SSTD 11 or ASTM C1569.
+
+The wind tunnel test procedures in SBCCI SSTD 11 must be used if the roof tiles do not meet the limitations of Chapter 16 for rigid tile.
+
+1504.3.1.3 1504.3.1.3 Air permeability testing. The lift coefficient for concrete and clay tile shall be 0.2 or shall be determined in accordance with SBCCI SSTD 11 or ASTM C1570.
+
+The prescribed test methods measure the ability of the roof system to relieve wind-induced uplift pressures as a result of the overall air permeability of the roof assembly as it relates to the resistance of the roof system to damage induced by the wind.
+
+1504.4 Wind resistance of non-ballasted roofs. Roof coverings installed on roofs in accordance with Section 1507 that are mechanically attached or adhered to the roof deck shall be designed to resist the design wind load pressures for components and cladding in accordance with Section 1609.5.2. The wind load on the roof covering shall be permitted to be determined using allowable stress design.
+
+This Section addresses wind resistance of steep-slope systems that are mechanically attached by fasteners or adhered to the roof slab or deck by adhesives. Steep-slope roof coverings are those described in Section 1507 with a roof slope of 2:12 or greater. The basic wind speed as obtained from Chapter 16 for the building's location must be modified for the building's overall height above grade and exposure category, wind gust effect and wind importance factor. A structural design is required to demonstrate that the proposed fastening schedule will resist the wind uplift loads. The Section specifies that the wind load is the allowable stress design wind load, Vasad rather than the basic wind load, V. Vasad is calculated based on the basic wind load, V, in accordance with Section 1609.3.1, Equation 16-16.
+
+1504.4.1 Other roof systems. Built-up, modified bitumen fully adhered or mechanically attached single-ply roof systems, metal panel roof systems applied to a solid or closely fitted deck and other types of membrane roof coverings shall be tested in accordance with FM 4474, UL 580 or UL 1897.
+
+Additional requirements addressing the wind resistance of built-up, modified bitumen, fully adhered or mechanically attached single-ply roof systems, metal panel systems that are applied to a solid or closely fitted deck as well as other types of membrane roof coverings are established in this section. Besides compliance with the requirements of Section 1504.4, these roof coverings are required to be physically tested for compliance with one of three standards: FM 4474, UL 580 or UL 1897.
+
+1504.4.2 Structural metal panel roof systems. Where the metal roof panel functions as the roof deck and roof covering and it provides both weather protection and support for loads, the structural metal panel roof system shall comply with this section. Structural standing-seam metal panel roof systems shall be tested in accordance with ASTM E1592 or FM 4474. Structural through-fastened metal panel roof systems shall be tested in accordance with FM 4474, UL 580 or ASTM E1592.
+
+Exceptions:
+
+1. Metal roofs constructed of cold-formed steel shall be permitted to be designed and
+
+===== Page 1467 =====
+tested in accordance with the applicable referenced structural design standard in Section 2210.1
+
+2. Metal roofs constructed of aluminium shall be permitted to be designed and tested in accordance with the applicable referenced structural design standard in Section 2002.1
+
+This section specifies the test that metal panel roof systems are required to pass before installation. Standards and test methods have been established for the proper installation of metal panel roof systems whether fastened or standing seamed.
+
+The exceptions recognize metal decks that provide both weather protection and support for structural loads, including wind and live loads. Many of these metal decks are structural elements where stresses can be calculated just like the design approach used for the roof-framing members that support the roof deck. For steel decks covered in Exception 1, the American Iron and Steel Institute (AISI) specification that is referenced in Section 2210.1 recognizes a wide variety of roofing profiles where calculations are applicable. For roofing profiles that cannot be directly calculated, the specification requires additional testing, including many of the tests currently referenced by the code for wind resistance. In addition, unlike many of the wind tests, the specification gives guidance on the selection of appropriate safety factors.
+
+1504.4.3 Metal roof shingles. Metal roof shingles applied to a solid or closely fitted deck shall be tested in accordance with ASTM D3161, FM 4474, UL 580 or UL 1897. Metal roof shingles tested in accordance with ASTM D3161 shall meet the classification requirements of Table 1504.2 for the appropriate maximum basic wind speed and the metal shingle packaging shall bear a label to indicate compliance with ASTM D3161 and the required classification in Table 1504.2.
+
+Metal roof shingles are not the same in all respects as either asphalt shingles (Section 1504.2) or the other roof systems (Section 1504.4.1).
+
+One of the major considerations for metal roof shingles is the wind uplift testing that is addressed by several industry standards, including FM, UL and ASTM.
+
+ASTM D3161 is a fan-induced wind test that was originally developed for asphalt shingles. The most recent version, ASTM D3161M-15, is no longer constrained to asphalt shingles, but expanded to evaluate wind resistance of discontinuous, air permeable, steep-slope roofing products that results from the product's rigidity, with or without contribution from sealant or other adhesive to help hold down the leading edge of the tabs, or mechanical interlocking, with or without contribution from sealant or other adhesive to hold down the leading edge of the tab, or any combination thereof. This clearly includes metal shingles, which are specifically identified in Scope Section 1.3.
+
+Inclusion of this standard as a compliance path for metal shingles alleviates many of the difficulties experienced by metal shingle manufacturers.
+
+1504.5 Ballasted low-slope single-ply roof systems. Ballasted low-slope (roof slope < 2:12) single-ply roof system coverings installed in accordance with Section 1507.12 shall be designed in accordance with ANSI/SPRI RP-4.
+
+Sections 1507.12 prescribe the installation for ballasted low-slope, single-ply roof system coverings. These coverings are to be designed in accordance with ANSI/SPRI RP-4, which is listed in Chapter 35.
+
+1504.6 Edge systems for low-slope roofs. Metal edge systems, except gutters and counterflashing, installed on built-up, modified bitumen and single-ply roof systems having a slope less than 2 units vertical in 12 units horizontal (2:12) shall be designed and installed for wind loads in accordance with Chapter 16 and tested for resistance in accordance with Test Methods RE-1, RE-2 and RE-3 of ANSI/SPRI ES-1, except basic design wind speed, V, shall be determined from Figure 1609.3(1) through Figure 1609.3(4) as applicable.
+
+Metal edge systems prevent water infiltration, and in many cases to also secure the roof membrane. Loss of the edge system or components of the edge system during a high-wind event could allow for water infiltration even if the roof membrane remains secure. This provision clarifies that edge metal systems must be properly tested to the appropriate standard.
+
+These requirements are specific to low-slope membrane roofs, namely built-up, modified bitumen and single-ply roofs. This Section references the appropriate standard for low-slope roofs, which is ANSI/SPRI ES-1. This standard is important in preventing failures of the edge attachment on low-slope roof systems. ANSI/SPRI ES-1 consists of two primary parts. In the portion of ANSI/SPRI ES-1 that is included in the scope of reference, the edge metal flashings' wind resistance is determined according to RE-1, RE-2 and RE-3 test methods. By specifically referencing those test methods in ANSI/SPRI ES-1, any confusion with the determination of wind loads should be avoided since other portions of the standard can be used to determine the wind
+
+===== Page 1468 =====
+loads at a roof edge. Also, by referring the code user to code Chapter 16 wind speed figures, the intent that wind speeds must be determined using Chapter 16 is reinforced.
+
+Furthermore, any component of the edge system that becomes disengaged during a high wind event will become a projectile that can damage the roof membrane and other building components (windows, doors, walls, etc.), and possibly injure people. Therefore, metal edge systems should be tested per ES-1 whether they secure the membrane or not.
+
+1504.6.1 Gutter securement for low-slope roofs. Gutters that are used to secure the perimeter edge of the roof membrane on low-slope (less than 2:12 slope) built-up, modified bitumen, and single-ply roofs, shall be designed, constructed and installed to resist wind loads in accordance with Section 1609 and shall be tested in accordance with Test Methods G-1 and G-2 of SPRI GT-1.
+
+The wind-resistance tests included in the SPRI GT-1 standard measure the resistance of the gutter system to wind forces acting outwardly (away from the building) and to wind forces acting upwardly, which tend to lift the gutter off the building. The standard also measures the resistance of the gutter system to static forces of water acting downward.
+
+1504.7 Physical properties. Roof coverings installed on low-slope roofs (roof slope < 2:12) in accordance with Section 1507 shall demonstrate physical integrity over the working life of the roof based on 2,000 hours of exposure to accelerated weathering tests conducted in accordance with ASTM G152, ASTM G154 or ASTM G155. Those roof coverings that are subject to cyclical flexural response due to wind loads shall not demonstrate any significant loss of tensile strength for unreinforced membranes or breaking strength for reinforced membranes when tested as herein required.
+
+This Section, which addresses the effects of weather on the performance of the roof covering, requires that weather testing be performed and includes performance criteria for those roof coverings that will have to perform while subjected to wind loads. The ASTM International (ASTM) test methods that are referenced cover exposure to carbon-arc-type or xenon-arc-type light (with or without water), fluorescent ultraviolet-condensation-type rays and concentrated natural sunlight. In conjunction with these tests, roofing materials must not show any significant signs of failure caused by cyclical wind conditions. The tensile strength in unreinforced membranes and the breaking strength in reinforced membranes must endure such conditions without any significant strength reduction.
+1504.8 Impact resistance. Roof coverings installed on low-slope roofs (roof slope < 2:12) in accordance with Section 1507 shall resist impact damage based on the results of tests conducted in accordance with ASTM D3746, ASTM D4272, or the "Resistance to Foot Traffic Test" of FM 4470.
+
+All roof-covering materials must withstand impact loads, such as hail and driving rainstorms. The referenced standards set criteria for the testing of certain roofing materials, such as plastic film and bituminous roofing systems, on low-slope roofs. Each test uses similar devices to test the material. The tests consist of dropping a dart or missile, which weighs from 1.1 to 2.3 kg, approximately 1200 to 1500 mm and then evaluating the material for failure.
+
+1504.9 Wind resistance of aggregate-surfaced roofs. Parapets shall be provided for aggregate surfaced roofs and shall comply with Table 1504.9.
+
+* Parapets for aggregate-surfaced roofs provide wind resistance and reduce the probability of aggregate blow-off. This Section requires such parapets and refers to Table 1504.9 for minimum parapet heights.
+See Table 1504.9.
+
+See Commentary to Section 1504.9.
+
+## SECTION 1505 FIRE CLASSIFICATION
+
+1505.1 General. Roof assemblies shall be divided into the classes defined in this Section. Class A, B and C roof assemblies and roof coverings required to be listed by this Section shall be tested in accordance with ASTM E108 or UL 790. In addition, fire-retardant-treated wood roof coverings shall be tested in accordance with ASTM D2898. The minimum roof coverings installed on buildings shall comply with Table 1505.1 based on the type of construction of the building.
+Exception: Skylights and sloped glazing that comply with Chapter 24 or Section 2610.
+
+The code designates the use of any particular classification of roof coverings based on the type of construction of the building.
+
+The exception clarifies that skylights and sloped glazing are not required to be tested for fire classification. Skylights and sloped glazing are considered to be individual assemblies that are required to meet specific requirements listed in other portions of the code. For example, the fire requirements for light-transmitting plastic skylights are covered in Section 2610, and the material and curbing requirements for glass skylights and sloped glazing are given in Chapter 24. See the commentary to Section 1505.1.
+
+===== Page 1469 =====
+1505.2 Class A roof assemblies. Class A roof assemblies are those that are effective against severe fire test exposure. Class A roof assemblies and roof coverings shall be listed and identified as Class A by an approved testing agency. Class A roof assemblies shall be permitted for use in buildings or structures of all types of construction.
+
+Exceptions:
+
+1. Class A roof assemblies include those with coverings of brick, masonry or an exposed concrete roof deck.
+
+2. Class A roof assemblies also include ferrous or copper shingles or sheets, metal sheets and shingles, clay or concrete roof tile or slate installed on non-combustible decks or ferrous, copper or metal sheets installed without a roof deck on non-combustible framing.
+
+3. Class A roof assemblies include minimum 4.9 kg/m \( ^{2} \)  copper sheets installed over combustible decks.
+
+4. Class A roof assemblies include slate installed over ASTM D226, Type II underlayment over combustible decks.
+
+Roof coverings that are effective against the severe fire-test exposure of ASTM E108 are classified as Class A. Exception 1 prescribes roof-covering materials that are identified as Class A without having to be tested in accordance with ASTM E108, based on the past performance of these materials. These include the following noncombustible coverings: brick, masonry or exposed concrete. Any assembly that is tested in accordance with ASTM E108 requirements for severe fire exposure, and that is listed and labeled by an approved testing agency as a Class A roof covering, is allowed as a roof covering on any type of construction designated in the code. Similarly, Exception 2 prescribes roof-covering materials that are identified as Class A as long as they are installed over a noncombustible deck or, in some cases, without a deck but over noncombustible framing. Exception 3 allows copper sheets over combustible decking to serve as a Class A roof covering. Exception 4 includes slate installed over a specific underlayment over a combustible deck as a Class A roof assembly based on fire tests that demonstrated the requirements of UL 790 Class A are satisfied. Lastly, note that the materials and specific installations in all four exceptions do not require listing or labeling by an approved agency.
+
+1505.3 Class B roof assemblies. Class B roof assemblies are those that are effective against moderate fire-test exposure. Class B roof assemblies and roof coverings shall be listed and identified as Class B by an approved testing agency.
+
+Roof coverings that are effective against the moderate fire test exposure of ASTM E108 are classified as Class B. Those roof coverings listed and identified as Class A by an approved testing agency are also allowed to be used where Class B is required. For buildings and structures of any type of construction designated in the code, Class A or B roof coverings are allowed.
+
+1505.4 Class C roof assemblies. Class C roof assemblies are those that are effective against light fire-test exposure. Class C roof assemblies and roof coverings shall be listed and identified as Class C by an approved testing agency.
+
+Roof coverings that are effective against the light fire test exposure of ASTM E108 are classified as Class C. There are no specific materials or products that automatically qualify as Class C roof coverings. However, note that those roof coverings listed and identified as Class A or B are allowed to be used where a Class C is required. Class C roof coverings that are listed and labeled by an approved testing agency may only be used on Types IIB, IIIB and VB construction.
+
+1505.5 Nonclassified roofing. Nonclassified roofing is approved material that is not listed as a Class A, B or C roof covering.
+
+Nonclassified roofing is a roofing material that is approved by the building official and is not otherwise classified (see the definition of "Approved" in Section 202).
+
+1505.6 Fire-retardant-treated wood shingles and shakes. Fire-retardant-treated wood shakes and shingles shall be treated by impregnation with chemicals by the full-cell vacuum-pressure process, in accordance with AWPA C1. Each bundle shall be marked to identify the manufactured unit and the manufacturer and shall be labeled to identify the classification of the material in accordance with the testing required in Section 1505.1, the treating company and the quality control agency.
+
+This section specifically identifies the particular pressure-impregnation method to be used to treat wood shakes and shingles. This method consists of placing bundles of the roofing materials inside a retort, which is a huge cylindrical pressure container. A vacuum is then created inside the retort, which in turn draws the air and moisture from the millions of cells per square mm in western red cedar. The fire-retardant chemical mixture is then injected at pressures reaching 1035 kPa. The chemical is forced into every cell of the shakes and shingles even the innermost layers. After the
+
+===== Page 1470 =====
+products are pressure treated, they are then placed in a special drying kiln where they undergo finishing with a thermal cure at temperatures of up to  \( 1100^{\circ} \) C. This section further identifies the test standard to be followed, the method of labeling and the information required per bundle of shingles in order for the building official to evaluate code compliance. This includes the testing requirements found in Section 1505.1.
+
+1505.7 Special purpose roofs. Special purpose wood shingle or wood shake roofing shall conform to the grading and application requirements of Section 1507.8 or 1507.9. In addition, an underlayment of 16 mm Type X water-resistant gypsum backing board or gypsum sheathing shall be placed under minimum nominal 12.5 mm wood structural panel solid sheathing or 25 mm nominal spaced sheathing.
+
+Informal tests of special purpose roofs have shown that they provide a significant increase in protection for combustible roof coverings, and again the protection offered is considered appropriate if applied in the manner stipulated. Buildings that are permitted to utilize this roof construction are identified in Note c to Table 1505.1.
+
+1505.8 Building-integrated photovoltaic (BIPV) products. BIPV products installed as the roof covering shall be tested, listed and labeled for fire classification in accordance with 1505.1.
+
+This section basically establishes that photovoltaic products integrated into the envelope as a roof covering are required to comply with the same fire classification requirements as conventional roofing materials. By referencing Section 1505.1, these products must be tested in accordance with UL 790 or ASTM E108 for fire classification.
+
+1505.9 Rooftop mounted photovoltaic (PV) panel systems. Rooftop mounted photovoltaic (PV) panel systems shall be tested, listed and identified with a fire classification in accordance with UL 2703. Listed systems shall be installed in accordance with the manufacturer's installation instructions and their listing. The fire classification shall comply with Table 1505.1 based on the type of construction of the building.
+
+This Section recognizes that rooftop mounted photovoltaic (PV) panels and modules are better tested in accordance with UL 2703, rather than UL 790 or ASTM E108, because these standards deal specifically with photovoltaic panels and their mounting systems. It also clarifies that the fire classification listed for the photovoltaic panels and modules must be consistent with the fire classification requirement for the roof covering. 1505.10 Landscaped roofs. Landscaped roofs shall comply with Sections 1505.1 and 1507.15 and shall be installed in accordance with ANSI/SPRI VF-1.
+
+This Section requires ANSI/SPRI VF-1 for the fire design for roof gardens and landscaped roofs since the approach contained within the standard is more appropriate than the traditional test methods used to determine fire classification of roof coverings. This standard provides a design method that provides an acceptable level of performance for roof gardens and landscaped roofs when exposed to exterior fire sources. The general approach used in this standard is to design in fire breaks for large roof areas, around rooftop equipment and penetrations, and next to adjacent walls.
+
+## SECTION 1506 MATERIALS
+
+1506.1 Scope. The requirements set forth in this Section shall apply to the application of roof-covering materials specified herein. Roof coverings shall be applied in accordance with this chapter and the roof covering listing as required by Section 1505. Installation of roof coverings shall comply with the applicable provisions of Section 1507.
+
+This Section establishes specifications and standards for materials and installation techniques in conjunction with recognized industry standards and acceptable roofing applications to ensure the proposed roof covering can be expected to perform as anticipated.
+
+1506.2 Material specifications and physical characteristics. Roof-covering materials shall conform to the applicable standards listed in this chapter.
+
+Whenever possible, this chapter references appropriate material standards for roof covering materials. Because there may be materials on the market for which the code does not currently reference a test standard, there are occasions where the building official will have to require testing by an approved lab to determine the character, quality and application limitations of the materials. This is something that should be considered as an alternative material and approached in accordance with Section 104.11.
+
+1506.3 Product identification. Roof-covering materials shall be delivered in packages bearing the manufacturer's identifying marks and approved testing agency labels required in accordance with Section 1505. Bulk shipments of materials shall be accompanied with the same information issued in the form of a certificate or on a bill of lading by the manufacturer.
+
+===== Page 1471 =====
+Identification of the roofing materials is mandatory in order to verify that they comply with quality standards. In addition to bearing the manufacturer's label or identifying mark, prepared roofing and built-up roofing materials are required by the code to carry a label of an approved agency that inspects the material and finished products during manufacture.
+
+## SECTION 1507 REQUIREMENTS FOR ROOF COVERINGS
+
+1507.1 Scope. Roof coverings shall be applied in accordance with the applicable provisions of this section and the manufacturer's installation instructions.
+
+Roof coverings serve as the membrane of the roof system, making it critical in providing weather protection. This section requires that the installation of roof coverings be in accordance with the code and the manufacturer's installation instructions. Often, other requirements must be met, such as UL or FM requirements. It is very possible that there will be times that these requirements conflict. Once adopted, the code is law. The other provisions are not law, and compliance with them does not necessarily mean that compliance with the code has been achieved. In cases where conflicts arise, the code requirements govern.
+
+1507.1.1 Underlayment. Underlayment for asphalt shingles, clay and concrete tile, metal roof shingles, mineral surfaced roll roofing, slate and slate-type shingles, wood shingles, wood shakes, metal roof panels and photovoltaic shingles shall conform to the applicable standards listed in this chapter. Underlayment materials required to comply with ASTM D226, D1970, D4869 and D6757 shall bear a label indicating compliance with the standard designation and, if applicable, type classification indicated in Table 1507.1.1(1). Underlayment shall be applied in accordance with Table 1507.1.1(2). Underlayment shall be attached in accordance with Table 1507.1.1(3).
+
+## Exceptions:
+
+1. As an alternative, a minimum 100 mm wide strip of self-adhering polymer modified bitumen membrane complying with ASTM D1970 and installed in accordance with the manufacturer's installation instructions for the deck material shall be applied over all joints in the roof decking. An approved underlayment for the applicable roof covering for design wind speeds less than 54 m/s shall be applied over the 100 mm wide membrane strips.
+
+2. As an alternative, two layers of underlayment complying with ASTM D226
+Type II or ASTM D4869 Type IV shall be permitted to be installed as follows: Apply a 475 mm strip of underlayment parallel with the eave. Starting at the eave, apply 900 mm wide strips of underlayment felt, overlapping successive sheets 475 mm. The underlayment shall be attached with corrosion resistant fasteners in a grid pattern of 300 mm between side laps with a 150 mm spacing at side and end laps. End laps shall be 100 mm and shall be offset by 1800 mm. Underlayment shall be attached using metal or plastic cap nails with a nominal cap diameter of not less than 25 mm. Metal caps shall have a thickness of not less than 32-gage sheet metal. Power-driven metal caps shall have a thickness of not less than 0.25. Thickness of the outside edge of plastic caps shall be not less than 0.9 mm. The cap nail shank shall be not less than 2.10 mm for ring shank cap nails and 2.31 mm for smooth shank cap nails. The cap nail shank shall have a length sufficient to penetrate through the roof sheathing or not less than 19 mm into the roof sheathing.
+
+3. Structural metal panels that do not require a substrate or underlayment.
+Underlayment for roof coverings is key to the success of the roof covering in preventing water from entering the building. The applicable standards for underlayment are given in Table 1507.1.1(1). The table delineates the type of underlayment based on the type of roof-covering material and the basic wind speed applicable to the location of the building. The methods of application and specifications for application are given in Table 1507.1.1(2) and the method of attachment is given in Table 1507.1.1(3). Again, the table delineates the requirements based on the type of roof covering and the wind speeds applicable to the location.
+
+1507.1.2 Ice barriers. Not applicable in the Kingdom
+
+1507.2 Asphalt shingles. The installation of asphalt shingles shall comply with the provisions of this section.
+
+This section establishes the criteria for asphalt shingle roofs. Two general types of asphalt shingles specifically apply to this section: strip shingles (e.g., three-tab shingles) and individual interlocking shingles (e.g., T-lock shingles). Asphalt strip shingles, which are the most common, are produced in a variety of finished appearances, including three-tab, random or multiple-tab, no-cutout and laminated architectural.
+
+===== Page 1472 =====
+Asphalt shingles are typically classified as one of two types: cellulose felt reinforced (e.g., organic shingles) and fiberglass mat reinforced (e.g., fiberglass shingles).
+
+Although it is not specifically addressed in this section, the roofing industry generally recommends the attic space below asphalt shingle roofs be properly ventilated (see Section 1503.4).
+
+Additional information regarding asphalt shingle roofs is provided in the NRCA Roofing Manual: Steep-slope Roof Systems published by the National Roofing Contractors Association (NRCA).
+
+1507.2.1 Deck requirements. Asphalt shingles shall be fastened to solidly sheathed decks.
+
+Solid sheathed roof decks typically include panels. It is recommended that solid sawn lumber, not more than 200 mm in width, be used. Wider pieces are more likely to warp and cup. The code is specific about the types of decking allowed depending on the material used. For example, wood roof decking is addressed in Chapter 23. Manufacturers may also require the application of their roof coverings to specific roof deck materials for warranty of their products.
+
+1507.2.2 Slope. Asphalt shingles shall only be used on roof slopes of 2 units vertical in 12 units horizontal (17-percent slope) or greater. For roof slopes from 2 units vertical in 12 units horizontal (17-percent slope) up to 4 units vertical in 12 units horizontal (33-percent slope), double underlayment application is required in accordance with Section 1507.1.1.
+
+Asphalt shingles are intended to be applied to a steep roof. A minimum slope is crucial in the performance of such shingles because it is a primary indicator of a roof's ability to shed water. Where the roof slope is less than four units vertical in 12 units horizontal (33-percent slope), water drainage from the roof is slower, which can cause it to back up under the roofing and cause leaks. Thus, this Section also specifies double coverage of the underlayment where the slope is between two units vertical in 12 units horizontal (17-percent slope) and four units vertical in 12 units horizontal (33-percent slope). One layer of underlayment must be provided under asphalt shingle roof coverings with a slope greater than four units vertical in 12 units horizontal (33-percent slope).
+
+1507.2.3 Underlayment. Underlayment shall comply with Section 1507.1.1.
+
+Table 1507.1.1(1) specifies the required underlayment for roofing materials. Asphalt shingle roofs are required to be installed with a felt underlayment. Underlayment serves as secondary protection against wind-driven rain and other moisture penetration where individual shingles become damaged or dislodged.
+
+Underlayment also serves as a separator sheet between the shingles and deck. As a separator, the underlayment provides some protection to the shingles from uneven roof deck edges and deck fasteners. Underlayment also helps eliminate a rectangular pattern of ridges in the membrane over insulation or deck joints.
+
+Underlayment offers protection from resins and other chemicals contained in wood board sheathing.
+
+Using the appropriate underlayments, decking materials and shingles will help in meeting the fire classification ratings.
+
+1507.2.4 Asphalt shingles. Asphalt shingles shall comply with ASTM D3462.
+
+ASTM D3462 is a specification for asphalt roofing in shingle form, composed of single or multiple thicknesses of glass felt impregnated and coated on both sides with asphalt, and surfaced on the weather side with mineral granules. The shingles may be either locked together during installation or have a factory-applied self-sealing adhesive. Additionally, asphalt shingles meeting this standard must pass the Class A fire exposure test requirements of ASTM E108 and the wind-resistance test requirements of ASTM D7158 (see also Section 1504.2).
+
+Some “20-year warranted” shingles and “25-year warranted” shingles currently on the market may not necessarily comply with ASTM D3462. Fiberglass shingles complying with ASTM D3462 will typically be identified as such on the shingle bundle packaging or the manufacturer will supply a written certification of compliance with the standard.
+
+1507.2.5 Fasteners. Fasteners for asphalt shingles shall be galvanized, stainless steel, aluminum or copper roofing nails, minimum 12-gage (2.7 mm) shank with a minimum 9.5 mm head of a length to penetrate through the roofing materials and a minimum of 19 mm into the roof sheathing. Where the roof sheathing is less than 19 mm thick, the nails shall penetrate through the sheathing. Fasteners shall comply with ASTM F1667.
+
+The fasteners allowed are either of metal that is corrosion resistant or galvanized to be corrosion resistant. It is important to use fasteners that are long enough to penetrate the roof covering, flashing, underlayment and into the deck a minimum of 19 mm. When the deck is less than 19 mm in thickness, the fastener must penetrate through the deck. It is
+
+===== Page 1473 =====
+recommended that the nail be at least 3 mm through the deck.
+
+1507.2.6 Attachment. Asphalt shingles shall have the minimum number of fasteners required by the manufacturer, but not less than four fasteners per strip shingle or two fasteners per individual shingle. Where the roof slope exceeds 21 units vertical in 12 units horizontal (21:12), shingles shall be installed as required by the manufacturer.
+
+This section clarifies that the manufacturer's instructions must be consulted when installing asphalt shingles, unless the manufacturer's instructions contain fastening requirements less than those prescribed in this section. As a minimum, there needs to be four fasteners for each strip-type shingle and two fasteners for individual shingles.
+
+For roof slopes greater than 21:12, the manufacturer should be consulted for installation requirements. Typically, such an installation will include a 127 mm exposure, with each tab cemented in place using asphalt roofing cement compatible with the shingle.
+
+1507.2.7 Ice barrier. Not applicable in the Kingdom
+
+1507.2.8 Flashings. Flashing for asphalt shingles shall comply with this section. Flashing shall be applied in accordance with this section and the asphalt shingle manufacturer's printed instructions.
+
+This section establishes the requirement for roof flashings for asphalt shingles to prevent leakage, and further establishes performance criteria.
+
+1507.2.8.1 Base and cap flashing. Base and cap flashing shall be installed in accordance with the manufacturer's instructions. Base flashing shall be of either corrosion-resistant metal of minimum nominal 0.50 mm thickness or mineral-surfaced roll roofing weighing not less than 3.75 kg/m \( ^{2} \) . Cap flashing shall be corrosion-resistant metal of minimum nominal 0.50 mm thickness.
+
+Roof system edges must be weatherproofed or sealed where they intersect with other vertical components, such as walls or chimneys. Flashing is composed of two parts: the base and cap. For a general discussion of roof flashings, see the commentary to Section 1503.2.
+
+1507.2.8.2 Valleys. Valley linings shall be installed in accordance with the manufacturer's instructions before applying shingles. Valley linings of the following types shall be permitted:
+
+1 For open valleys (valley lining exposed) lined with metal, the valley lining shall be not less than 600 mm wide and of any of the corrosion-resistant metals in Table 1507.2.8.2.
+
+2 For open valleys, valley lining of two plies of mineral-surfaced roll roofing complying with ASTM D3909 or ASTM D6380 shall be permitted. The bottom layer shall be 450 mm and the top layer not less than 900 mm wide.
+
+3 For closed valleys (valleys covered with shingles), valley lining of one ply of smooth roll roofing complying with ASTM D6380, and not less than 900 mm wide or types as described in Item 1 or 2 above shall be permitted. Self-adhering polymer modified bitumen underlayment bearing a label indicating compliance with ASTM D1970 shall be permitted in lieu of the lining material.
+
+Valleys are the internal angle formed by the intersection of two sloping roof planes. For asphalt shingle roofs, the valley protection is categorized as open or closed. An open valley is a method of construction in which the steep-slope roofing on both sides is trimmed along each side of the valley, exposing the valley flashing.
+
+Closed valleys are those that are covered with shingles, and include methods known as closed-cut valleys and woven valleys.
+
+Closed-cut valleys feature a method of valley construction in which shingles from one side of the valley extend across the valley, while shingles from the other side are trimmed back approximately 50 mm from the valley centerline.
+
+Woven valley construction is a method in which shingles from both sides of the valley extend across the valley and are woven together by overlapping alternate courses as they are applied.
+
+See Table 1507.2.8.2.
+
+These corrosion-resistant metals may be used in open-valley construction as valley lining where the lining is exposed.
+
+1507.2.8.3 Drip edge. A drip edge shall be provided at eaves and rake edges of shingle roofs. Adjacent segments of the drip edge shall be lapped not less than 50 mm. The vertical leg of drip edges shall be not less than 38 mm in width and shall extend not less than 6.5 mm below sheathing. The drip edge shall extend back on the roof not less than 50 mm. Underlayment shall be installed over drip edges along eaves. Drip edges shall be installed over underlayment along rake edges. Drip edges shall be mechanically fastened at intervals not greater than 300 mm on center.
+
+A drip edge is a metal flashing or other overhanging component applied at the roof
+
+===== Page 1474 =====
+edge that is intended to control the direction of dripping water and help protect the underlying building components. Drip edges have an outward projecting lower edge to direct the water away from the building. It is also used to break the continuity of contact between the roof perimeter and the wall components to help prevent capillary action.
+
+A metal drip edge is a formed metal flashing that extends back from, and bends down over, the roof edge. Along roof gables and rakes, the drip edge is applied over the underlayment. Along the eave, the underlayment is applied over the drip edge.
+
+1507.3 Clay and concrete tile. The installation of clay and concrete tile shall comply with the provisions of this section.
+
+Additional information regarding clay and concrete tile roofs is provided in the NRCA Roofing Manual: Steep-slope Roof Systems published by the NRCA.
+
+1507.3.1 Deck requirements. Concrete and clay tile shall be installed only over solid sheathing.
+
+Exception: Spaced lumber sheathing shall be permitted in Seismic Design Categories A, B and C.
+
+The choice of deck material is critical to the life of the roof system. Decks must be capable of withstanding loads such as the weight of the tile and associated roof components and accessories. The weight of tile can increase significantly due to water absorption, depending on its porosity. It is important for designers to note that some types of roof tiles may develop increased porosity with age. Except for seismic design categories A, B and C, the provision requires concrete and clay tiles to be installed only over solid sheathing as there were numerous observations of tile roofs pulling away from wood-framed buildings following the 1994 Northridge, California, earthquake.
+
+1507.3.2 Deck slope. Clay and concrete roof tile shall be installed on roof slopes of 2-1/2 units vertical in 12 units horizontal (21-percent slope) or greater. For roof slopes from 2-1/2 units vertical in 12 units horizontal (21-percent slope) to four units vertical in 12 units horizontal (33-percent slope), double underlayment application is required in accordance with Section 1507.1.1.
+
+Along with the manufacturer's installation specifications, this section gives specific limitations on the application of concrete and clay tile. Thus, tile is not allowed to be installed on slopes less than 2-1/2:12 regardless of the manufacturer's literature. Additionally, for low-sloped roofs, double underlayment is required.
+1507.3.3 Underlayment. Unless otherwise noted, required underlayment shall conform to: ASTM D226, Type II; ASTM D2626 or ASTM D6380, Class M mineral-surfaced roll-roofing.
+
+Underlayment options are listed in Table 1507.1.1(1). For clay and concrete tile, because of the long service life of many tile roofs, an underlayment that will provide protection for a comparable period of time should be chosen. ASTM D226 includes the physical requirements for Type II asphalt-saturated felt, which is commonly called No. 30 asphalt felt.
+
+ASTM D2626 covers the felt base sheet with fine mineral surfacing on the top side, with or without perforations. It is intended that nonperforated felt be used in this application. The NRCA Roofing Manual: Steep-slope Roof Systems has recommendations regarding the choice of underlayment for specific roof slopes and applications.
+
+ASTM D6380, Class M, designates mineral-surfaced roll-roofing products.
+
+1507.3.4 Clay tile. Clay roof tile shall comply with ASTM C1167.
+
+ASTM C1167 specifies material characteristics and physical properties for clay tiles that are intended for use as a roof covering where durability and appearance are required to provide a weather-resistant surface of specified design. These tiles are made of clay, shale or other earthy substances and are heat treated at an elevated temperature. The process develops a fired bond between the particulate constituents to provide the strength and durability requirements of ASTM C1167. The tiles are classified into three grades based on their resistance to weathering. Additionally, the standard covers performance characteristics, including durability; freezing and thawing; strength; efflorescence; permeability; and reactive particulates.
+
+1507.3.5 Concrete tile. Concrete roof tile shall comply with ASTM C1492.
+
+ASTM C1492 is the standard that covers the physical properties and material characteristics for concrete roof tiles. The water absorption requirement in ASTM C1492 for normal roof weight tiles is 121/2 percent, which is lower than the 15 percent previously listed in the code. In addition, ASTM C1492 adds clarity with regard to the water absorption requirements for medium- and lightweight roof tiles.
+
+1507.3.6 Fasteners. Tile fasteners shall be corrosion resistant and not less than 11-gage, 8.0 mm head, and of sufficient length to penetrate the deck not less than 19 mm or through the thickness of the deck, whichever is less. Attaching wire for
+
+===== Page 1475 =====
+clay or concrete tile shall not be smaller than 2.1 mm. Perimeter fastening areas include three tile courses but not less than 900 mm from either side of hips or ridges and edges of eaves and gable rakes.
+
+Fasteners are to be corrosion resistant.
+
+1507.3.7 Attachment. Clay and concrete roof tiles shall be fastened in accordance with Table 1507.3.7.
+
+Refer to the commentary to Section 1504.3 for other information in the code related to the wind resistance of clay and concrete roof tile.
+
+See Table 1507.3.7.
+
+The tabulated requirements for fastener installation are based on wind speed, mean roof height and roof slope. It also covers interlocking requirements for specific areas and criteria for roofs.
+
+1507.3.8 Application. Tile shall be applied according to the manufacturer's installation instructions, based on the following:
+
+1 Climatic conditions.
+
+2 Roof slope.
+
+3 Underlayment system.
+
+4 Type of tile being installed.
+
+Clay and concrete tiles come in two generic forms: roll tile and flat tile. Either one may be interlocking but must be applied according to the manufacturer's instructions.
+
+1507.3.9 Flashing. At the juncture of the roof vertical surfaces, flashing and counterflashing shall be provided in accordance with the manufacturer's installation instructions, and where of metal, shall not be less than 0.48 mm (No. 26 galvanized sheet gage) corrosion-resistant metal. The valley flashing shall extend at least 275 mm from the centerline each way and have a splash diverter rib not less than 25 mm high at the flow line formed as part of the flashing. Sections of flashing shall have an end lap of not less than 100 mm. For roof slopes of three units vertical in 12 units horizontal (25-percent slope) and over, the valley flashing shall have a 900 mm -wide underlayment of either one layer of Type I underlayment running the full length of the valley, or a self-adhering polymer-modified bitumen sheet bearing a label indicating compliance with ASTM D1970, in addition to other required underlayment.
+
+☑ Flashing are required to maintain the integrity of weather-resistant roofs (see commentary, Section 1503.2).
+
+1507.4 Metal roof panels. The installation of metal roof panels shall comply with the provisions of this section.
+
+There are two general categories of metal roofing systems: architectural metal roofing and structural metal roofing. Architectural metal roofs are generally water-shedding roof systems. Structural metal roofs have hydrostatic (water barrier) characteristics.
+Architectural metal roof systems are usually characterized by a flat pan with 20 to 40 mm ribs on each side. The absence of intermediate ribs and massive side ribs gives a clean appearance but does not provide the panels with the strength to be considered a structural panel. Architectural metal roofing systems are typically designed for steep slopes so that water will shed off the roof panels. This type of design does not require the seams to be watertight. Therefore, the slope for such nonwater-tight roof panels is required to be not less than 3:12. One exception is traditional flat-seamed, soldered or welded metal roofing, which is acceptable on slopes less than 3:12.
+
+“Metal roof panels” are defined in Section 202 as an interlocking metal sheet having a minimum installed weather exposure of 0.28 m \( ^{2} \)  per sheet. In contrast, metal roof shingles have less than 0.28 m \( ^{2} \)  of exposure.
+
+1507.4.1 Deck requirements. Metal roof panel roof coverings shall be applied to a solid or closely fitted deck, except where the roof covering is specifically designed to be applied to spaced supports.
+
+The deck for metal roofing is required to be solid or closely fitted, except where the panels are specifically designed to be applied to spaced supports. Structural standing seam metal roof systems possess strength characteristics that allow them to span between structural supports and are commonly used on pre-engineered metal buildings. The metal panel ribs are not seamed or interlocked like a true standing seam metal roof system.
+
+1507.4.2 Deck slope. Minimum slopes for metal roof panels shall comply with the following:
+
+1 The minimum slope for lapped, non-soldered seam metal roof panels without applied lap sealant shall be three units vertical in 12 units horizontal (25-percent slope).
+
+2 The minimum slope for lapped, non-soldered seam metal roof panels with applied lap sealant shall be one-half unit vertical in 12 units horizontal (4-percent slope). Lap sealants shall be applied in accordance with the approved manufacturer's installation instructions.
+
+3 The minimum slope for standing-seam metal roof panel systems shall be one-quarter unit vertical in 12 units horizontal (2-percent slope).
+
+===== Page 1476 =====
+Typically, structural metal roofing systems are designed to resist water at laps and seams with sealants applied in the seams. It is usually recommended that these types of roof systems have a slope of not less than 1/2:12, although some manufacturers allow slopes as low as 1/4:12. While the code requires a minimum slope of 3:12, a lower slope is permitted on standing-seam-type roof systems, which require only 1/4:12. The term “standing seam” is used to refer to almost any roof panel with a raised vertical rib. Strictly speaking, it only indicates those metal panels that interlock or are seamed together vertically above the panel’s pan.
+
+1507.4.3 Material standards. Metal-sheet roof covering systems that incorporate supporting structural members shall be designed in accordance with Chapter 22. Metal-sheet roof coverings installed over structural decking shall comply with Table 1507.4.3(1). The materials used for metal-sheet roof coverings shall be naturally corrosion resistant or provided with corrosion resistance in accordance with the standards and minimum thicknesses shown in Table 1507.4.3(2).
+
+The requirements for metal roof coverings that incorporate supporting structural members into their design are contained in Chapter 22 Other metal-sheet roof coverings are required to comply with Table 1507.4.3(1).
+
+Many of the materials listed in Table 1507.4.3(1) are inherently corrosion resistant, such as aluminum, copper and lead. For these corrosion-resistant materials a material standard is listed for the base material; however, for steel roofing products, coatings are added to the base material to provide the necessary corrosion resistance.
+
+See Table 1507.4.3(1).
+
+This table provides specific guidance and appropriate metal roof coverings. The requirements vary based upon the type of metal used, such as aluminum, steel, copper, lead and zinc. In some cases, standards are referenced; in other cases, basic criteria are provided.
+
+Steel coating standards are located in Table 1507.4.3(2). Having this table separate from Table 1507.4.3(1) helps to clarify that these standards only address the process necessary to provide corrosion resistance for the base steel. The coating descriptions in Table 1507.4.3(2) are consistent with the applicable coating standards.
+
+1507.4.4 Attachment. Metal roof panels shall be secured to the supports in accordance with the approved manufacturer's fasteners. In the absence of manufacturer recommendations, the following fasteners shall be used:
+1 Galvanized fasteners shall be used for steel roofs.
+
+2 Copper, brass, bronze, copper alloy or 300 series stainless-steel fasteners shall be used for copper roofs.
+
+3 Stainless-steel fasteners are acceptable for all types of metal roofs.
+
+4 Aluminum fasteners are acceptable for aluminum roofs attached to aluminum supports.
+
+Fasteners used to attach metal roofing to their supporting construction are to be in accordance with the roofing manufacturer's recommendations and approved for that purpose. If such approval is not available, then the code provides a default list of several fasteners that are permitted for the type of metal roof shown. The purpose of this provision is to provide compatibility with roof materials and prevent corrosion.
+
+1507.4.5 Underlayment and high wind. Underlayment shall comply with Section 1507.1.1.
+
+See commentary, Section 1507.1.1.
+
+1507.5 Metal roof shingles. The installation of metal roof shingles shall comply with the provisions of this section.
+
+See the commentary to Section 1507.4 for a general discussion about metal roof systems.
+
+1507.5.1 Deck requirements. Metal roof shingles shall be applied to a solid or closely fitted deck, except where the roof covering is specifically designed to be applied to spaced sheathing.
+
+The manufacturer’s instructions must be followed in addition to any restrictions required by the code.
+
+1507.5.2 Deck slope. Metal roof shingles shall not be installed on roof slopes below three units vertical in 12 units horizontal (25-percent slope).
+
+Metal shingles cannot be installed on roof slopes less than 3:12.
+
+1507.5.3 Underlayment. Underlayment shall comply with Section 1507.1.1.
+
+See the commentary to Section 1507.1.1.
+
+1507.5.4 Ice barrier Not applicable in the Kingdom
+
+1507.5.5 Material standards. Metal roof shingle roof coverings shall comply with Table 1507.4.3(1). The materials used for metal-roof shingle roof coverings shall be naturally corrosion resistant or provided with corrosion resistance in accordance with the standards and minimum thicknesses specified in the standards listed in Table 1507.4.3(2).
+
+ASTM A653 regulates steel sheet for roofing and siding that is zinc coated on continuous lines and by the cut-length method. Material of
+
+===== Page 1477 =====
+this quality is furnished flat, in coils and cut lengths, and is formed in cut lengths. Roofing and siding includes corrugated,  \( V_{crimp} \) , roll roofing and many special patterns. Corrugated roofing and siding sheet is produced in a number of corrugations, with variations of pitch and depth. ASTM A755 covers steel sheet that is metallic coated by the hot-dipped process and prepainted by the coil-coating process with organic films for exterior-exposed building products of various qualities. Sheet material of this designation is furnished in coils, cut lengths and formed cut lengths. ASTM B101 covers lead-coated copper sheets for architectural uses.
+
+Many of the materials listed in Table 1507.4.3(1) are inherently corrosion resistant, such as aluminum, copper and lead. For these corrosion-resistant materials, a material standard is listed for the base material. However, for steel roofing products, coatings are added to the base material to provide the necessary corrosion resistance.
+
+Steel coating standards are located in Table 1507.4.3(2). Having this table separate from Table 1507.4.3(1) helps to clarify that these standards only address the process necessary to provide corrosion resistance for the base steel. The coating descriptions in Table 1507.4.3(2) are consistent with the applicable coating standards.
+
+1507.5.6 Attachment. Metal roof shingles shall be secured to the roof in accordance with the approved manufacturer's installation instructions.
+
+Fasteners used to attach metal roofing to the roof are to have the manufacturer's approval for that purpose.
+
+1507.5.7 Flashing. Roof valley flashing shall be of corrosion-resistant metal of the same material as the roof covering or shall comply with the standards in Table 1507.4.3(1). The valley flashing shall extend at least 200 mm from the centerline each way and shall have a splash diverter rib not less than 19 mm high at the flow line formed as part of the flashing. Sections of flashing shall have an end lap of not less than 100 mm. The metal valley flashing underlayment shall be solidly cemented to the roofing underlayment for roof slopes under seven units vertical in 12 units horizontal (58-percent slope) or self-adhering polymer-modified bitumen sheet shall be installed.
+
+See the commentary, Section 1503.2.
+
+1507.6 Mineral-surfaced roll roofing. The installation of mineral-surfaced roll roofing shall comply with this section.
+
+Mineral-surfaced roll roofing is an asphalt roll roofing material in some cases having a selvage edge, which is a specially defined edge (lined for demarcation) designed for some special purpose, such as overlapping or seaming. It is typically 900 mm in width and is surfaced with coarse mineral granules. In mineral-surfaced roll roofing, the selvage is not surfaced with coarse mineral granules to allow better adhesion of the overlapping sheet.
+
+There are two general methods for applying roll roofing: the exposed nail method and the concealed nail method. Depending on the slope and nailing method used, roll roofing can be applied parallel (downslope roof edge) or perpendicular to the eave (parallel with the rake) (see Section 1507.6.1).
+
+1507.6.1 Deck requirements. Mineral-surfaced roll roofing shall be fastened to solidly sheathed roofs.
+
+* Prior to the application of the roll roofing on wood plank or plywood decks, the deck should be inspected for delamination of plywood, warped boards and proper nailing.
+
+For roll roofing applied parallel to the eave, a minimum roof slope of 2:12 is recommended for application by the concealed-nail method, and 6:12 is recommended for application by the exposed-nail method.
+
+For roll roofing applied parallel to the rake, a minimum roof slope of 3:12 is recommended for application by the concealed-nail method, and 4:12 is recommended for application by the exposed-nail method.
+
+1507.6.2 Deck slope. Mineral-surfaced roll roofing shall not be applied on roof slopes below one-unit vertical in 12 units horizontal (8-percent slope).
+
+It is not recommended that asphalt roll roofing be applied to deck slopes of less than 2:12, with one exception. Roll roofing with a 480-mm selvage edge (commonly referred to as double coverage or split-sheet) may be applied on a deck with a slope as low as 1:12; however, it should only be used on roofs that will drain by gravity. It is not recommended for decks that will allow puddling and require evaporation to dry the roof.
+
+1507.6.3 Underlayment. Underlayment shall comply with Section 1507.1.1.
+
+See commentary, Section 1507.1.1.
+
+1507.6.4 Ice Barriers. Not applicable in the Kingdom
+
+1507.6.5 Material standards. Mineral-surfaced roll roofing shall conform to ASTM D3909 or ASTM D6380.
+
+ASTM D6380 covers asphalt roll roofing (organic felt). ASTM D3909 covers asphalt-impregnated and coated glass felt roll roofing surfaced on the weather side with mineral granules for use as a cap sheet in the construction of built-up roofs.
+
+===== Page 1478 =====
+1507.7 Slate shingles. The installation of slate shingles shall comply with the provisions of this section.
+
+Slate is a dense, tough, durable natural rock or stone material that is practically non-absorbent. This natural rock has cleavage planes that allow the slate to be easily split into relatively thin layers. Slate also possesses a natural grain that usually runs perpendicular to the cleavage. Slate is usually split so the length of the shingle runs in the direction of the grain. Slate roofing has a long service life when consideration is given to all components of the roofing system. Some grades of slate combined with proper roof deck, underlayments, fastening and accessories have a service life in excess of 75 years.
+
+1507.7.1 Deck requirements. Slate shingles shall be fastened to solidly sheathed roofs.
+
+Due to the long service life expected of a slate roof system, careful consideration should be given to the deck material. Deck material that can be expected to last as long as the service life of the roof should be chosen. Additionally, consideration should be given to the weight of the slate when choosing the deck. Slate is available in many different thicknesses and, therefore, the weight will vary.
+
+1507.7.2 Deck slope. Slate shingles shall only be used on slopes of four units vertical in 12 units horizontal (4:12) or greater.
+
+This type of roof covering cannot be installed on roof slopes that are less than 4:12.
+
+1507.7.3 Underlayment. Underlayment shall comply with Section 1507.1.1.
+
+See commentary, Section 1507.1.1.
+
+1507.7.4 Ice Barriers Not applicable in the Kingdom
+
+1507.7.5 Material standards. Slate shingles shall comply with ASTM C 406
+
+ASTM C406 covers the material characteristics, physical requirements and sampling appropriate for the selection of slate as a roofing material.
+
+1507.7.6 Application. Minimum head-lap for slate shingles shall be in accordance with Table 1507.7.6. Slate shingles shall be secured to the roof with two fasteners per slate.
+
+Slate shingles are drilled or punched with holes for fasteners with consideration for proper head-lap. Fastener material should be chosen based on the expected service life. Copper slanting nails, stainless steel, aluminum-alloy, bronze or cut-brass roofing nails are often specified, depending on the particular project. Unprotected black-iron electroplated, and hot-dipped galvanized fasteners are usually not recommended.
+Head-lap is the distance of overlap measured from the uppermost ply or course to the point that it overlaps the undermost ply or course.
+
+1507.7.7 Flashing. Flashing and counterflashing shall be made with sheet metal. Valley flashing shall be a minimum of 375 mm wide. Valley and flashing metal shall be a minimum uncoated thickness 0.455 mm zinc coated G90. Chimneys, stucco or brick walls shall have a minimum of two plies of felt for a cap flashing consisting of a 100 mm-wide strip of felt set in plastic cement and extending 25 mm above the first felt and a top coating of plastic cement. The felt shall extend over the base flashing 50 mm.
+
+☑ Flashing is required at all intersections between exterior walls and roofs. These are areas where rainwater can easily penetrate the building envelope (see Section 1503.2).
+
+1507.8 Wood shingles. The installation of wood shingles shall comply with the provisions of this section and Table 1507.8.
+
+“Wood shingles” are defined by the roofing industry as sawn wood products featuring a uniform butt thickness per individual length. See Table 1507.8.
+
+Wood shingles cannot be installed on roof slopes below 3:12. Single-layer underlayment is required at eaves, ridges, hips, valleys and all other changes of roof slope or direction to protect the roof from leakage caused by water backup. Each shingle must be securely fastened to the roof deck with a maximum of two fasteners. Care should be taken so that the fasteners do not cause splitting of the wood shingle. Fasteners are to be specified in the manufacturer's installation instructions.
+
+1507.8.1 Deck requirements. Wood shingles shall be installed on solid or spaced sheathing. Where spaced sheathing is used, sheathing boards shall be not less than 25 mm by 100 mm nominal dimensions and shall be spaced on centers equal to the weather exposure to coincide with the placement of fasteners.
+
+Spaced sheathing is usually of 25 mm by 100 mm or 25 mm by 150 mm softwood boards. Note that solid sheathing is required for certain locations by Section 1507.8.1.1.
+
+1507.8.1.1 Solid sheathing required. Not applicable in the Kingdom
+
+1507.8.2 Deck slope. Wood shingles shall be installed on slopes of not less than three units vertical in 12 units horizontal (25-percent slope).
+
+Wood shingles cannot be installed on roof slopes below 3:12.
+
+1507.8.3 Underlayment. Underlayment shall comply with Section 1507.1.1.
+
+See commentary, Section 1507.1.1.
+
+===== Page 1479 =====
+1507.8.4 Ice Barriers. Not applicable in the Kingdom
+
+1507.8.5 Material standards. Wood shingles shall be of naturally durable wood and comply with the requirements of Table 1507.8.5.
+
+Information about the installation of wood shingles is available in the Design and Application Manual for New Roof Construction published by the Cedar Shake and Shingle Bureau (CSSB). Additional information regarding wood shingle roofs is provided in the wood roofing section of the NRCA Roofing Manual: Steep-slope Roof Systems published by the NRCA.
+
+The standards published by CSSB contain useful information on the grading rules for wood shingles. A third-party inspection agency's label is now required to document compliance of the shingle.
+
+1507.8.6 Attachment. Fasteners for wood shingles shall be corrosion resistant with a minimum penetration of 19 mm into the sheathing. For sheathing less than 12.5 mm in thickness, the fasteners shall extend through the sheathing. Each shingle shall be attached with a minimum of two fasteners.
+
+Each shingle must be securely fastened to the roof deck with a minimum of two fasteners. Care should be taken so that the fasteners do not cause splitting of the wood shingle. Fasteners are to be as specified in the manufacturer's installation instructions.
+
+1507.8.7 Application. Wood shingles shall be laid with a side lap not less than 40 mm between joints in adjacent courses, and not be in direct alignment in alternate courses. Spacing between shingles shall be 6 to 9 mm. Weather exposure for wood shingles shall not exceed that set in Table 1507.8.7.
+
+Wood shingle exposure is specified in Table 1507.8.7. Depending on the grade of the material, total shingle length and slope of the roof deck, the table specifies the maximum length of exposure for weathering purposes.
+
+The grade of the shingle will be listed on the label required for wood shingles. Each of the three different grades is available in three different lengths. For lower-sloped roofs (3:12 to 4:12), where wind uplift is more significant, the maximum weather exposure is always less than for steeper-sloped roofs (4:12 and greater).
+
+1507.8.8 Flashing. At the juncture of the roof and vertical surfaces, flashing and counterflashing shall be provided in accordance with the manufacturer's installation instructions, and where of metal, shall be not less than 0.48 mm (No. 26 galvanized sheet gage) corrosion-resistant metal. The valley flashing shall extend at least 275 mm from the centerline each way and have a splash diverter rib not less than 25 mm high at the flow line formed as part of the flashing. Sections of flashing shall have an end lap of not less than 100 mm. For roof slopes of three units vertical in 12 units horizontal (25-percent slope) and over, the valley flashing shall have a 900 mm underlayment of either one layer of Type I underlayment running the full length of the valley or a self-adhering polymer-modified bitumen sheet bearing a label indicating compliance with ASTM D1970, in addition to other required underlayment.
+
+* Improper installation of flashing is the greatest cause of failures of roof covering systems. Wherever one plane of a roof intersects another plane, flashing is required (see Section 1503.2).
+
+1507.8.9 Label required. Each bundle of shingles shall be identified by a label of an approved grading or inspection bureau or agency.
+
+Labels need to be on the bundles of shakes and shingles so that building inspectors, contractors, architects, and owners can determine if code-compliant products are being installed.
+
+1507.9 Wood shakes. The installation of wood shakes shall comply with the provisions of this section and Table 1507.8.
+
+This section establishes design and installation requirements for wood shakes, which are defined as roofing products split from logs and then shaped as required by the individual manufacturers. Wood shakes must be labeled by an approved third-party inspection agency. A quality control program is required to contain a set of grading rules.
+
+Information about the installation of wood shakes is available in the Design and Application Manual for New Roof Construction published by the CSSB. Additional information is provided in the wood roofing section of the NRCA Roofing Manual: Steep-slope Roof Systems published by the NRCA.
+
+1507.9.1 Deck requirements. Wood shakes shall only be used on solid or spaced sheathing. Where spaced sheathing is used, sheathing boards shall be not less than 25 mm by 100 mm nominal dimensions and shall be spaced on centers equal to the weather exposure to coincide with the placement of fasteners. Where 25 mm by 100 mm spaced sheathing is installed at 250 mm on center, additional 25 mm by 100 mm boards shall be installed between the sheathing boards.
+
+See the commentary to Section 1507.8.1.
+
+1507.9.1.1 Solid Sheathing required Not applicable in the Kingdom
+
+===== Page 1480 =====
+1507.9.2 Deck slope. Wood shakes shall only be used on slopes of not less than four units vertical in 12 units horizontal (33-percent slope).
+
+Wood shakes cannot be installed on roof slopes less than 4:12 to provide for adequate drainage of the roof.
+
+1507.9.3 Underlayment. Underlayment shall comply with Section 1507.1.1.
+
+See commentary, Section 1507.1.1.
+
+1507.9.4 Ice Barriers. Not applicable in the Kingdom
+
+1507.9.5 Interlayment. Interlayment shall comply with ASTM D226, Type I.
+
+A single layer of felt interlayment must be shingled between each course on all roof slopes.
+
+1507.9.6 Material standards. Wood shakes shall comply with the requirements of Table 1507.9.6.
+
+Information about the installation of wood shingles is available in the New Roof Construction Manual published by CSSB. Additional information is provided in the wood roofing Section of The NRCA Roofing Manual: Steep-slope Roof Systems published by the NRCA.
+
+Wood shakes must be labeled by an approved third-party inspection agency. A quality control program is required to contain a set of grading rules. Care must be taken to completely follow the manufacturer's installation instructions for each particular product. The building official must review and approve all installations, taking special note of any application limitations.
+
+1507.9.7 Attachment. Fasteners for wood shakes shall be corrosion resistant with a minimum penetration of 19 mm into the sheathing. For sheathing less than 12.5 mm in thickness, the fasteners shall extend through the sheathing. Each shake shall be attached with a minimum of two fasteners.
+
+Each shake must be secured with a minimum of two fasteners. Fasteners are to be as specified in the manufacturer's installation instructions.
+
+1507.9.8 Application. Wood shakes shall be laid with a side lap not less than 40 mm between joints in adjacent courses. Spacing between shakes in the same course shall be 9 to 16 mm for shakes and taper sawn shakes of naturally durable wood and shall be 6 to 9 mm for preservative taper sawn shakes. Weather exposure for wood shakes shall not exceed those set in Table 1507.9.8.
+
+Care must be taken to follow completely the manufacturer's installation instructions for each particular product. The building official must review and approve all installations with special
+
+see Table 1507.9.8
+
+The code provides specific weather exposure limitations for two different lengths of shakes. As with wood shingles, the longer the shake, the greater the exposure allowance, since wind uplift resistance is greater for the longer shakes. The reduced weather exposure enhances the wind uplift resistance that these wood shakes will be able to provide. The exposure limitations are applicable regardless of the roof slope since they are only permitted on steep slopes roofs (4:12 or greater).
+
+1507.9.9 Flashing. At the juncture of the roof and vertical surfaces, flashing and counterflashing shall be provided in accordance with the manufacturer's installation instructions, and where of metal, shall be not less than 0.48 mm (No. 26 galvanized sheet gage) corrosion-resistant metal. The valley flashing shall extend at least 275 mm from the centerline each way and have a splash diverter rib not less than 25 mm high at the flow line formed as part of the flashing. Sections of flashing shall have an end lap of not less than 100 mm. For roof slopes of three units vertical in 12 units horizontal (25-percent slope) and over, the valley flashing shall have a 900 mm-wide underlayment of either one layer of Type I underlayment running the full length of the valley or a self-adhering polymer-modified bitumen sheet bearing a label indicating compliance with ASTM D1970, in addition to other required underlayment.
+
+Improper installation of flashing is the greatest cause of failure of roof covering systems. Whenever one plane of a roof intersects another plane, flashing is required where the planes intersect [see commentary, Section 1503.2].
+
+1507.9.10 Label required. Each bundle of shingles shall be identified by a label of an approved grading or inspection bureau or agency.
+
+Labels need to be on the bundles of shakes and shingles so that building inspectors, contractors, architects, and owners can determine if the code compliant products are being installed.
+
+1507.10 Built-up roofs. The installation of built-up roofs shall comply with the provisions of this section.
+
+A built-up roof membrane is a continuous, semi-flexible multiple-ply roof membrane, consisting of plies or layers of saturated felts, coated felts, fabrics or mats between which alternate layers of bitumen are applied. Generally, built-up roof membranes are
+
+===== Page 1481 =====
+surfaced with mineral aggregate and bitumen, a liquid-applied coating or granule-surfaced cap sheet.
+
+1507.10.1 Slope. Built-up roofs shall have a design slope of not less than one-fourth unit vertical in 12 units horizontal (2-percent slope) for drainage, except for coal-tar built-up roofs that shall have a design slope of not less than one-eighth unit vertical in 12 units horizontal (1-percent slope).
+
+Because of their low melting points and self-healing characteristics, coal tar membranes are permitted on lower slopes of one-eighth mm per meter (1 percent).
+
+1507.10.2 Material standards. Built-up roof covering materials shall comply with the standards in Table 1507.10.2 or UL 55A.
+
+Asphalt and coal tar are the principal bitumens used for roofing purposes. As an alternative to the ASTM material standards that are referenced, the code also permits materials that are evaluated for compliance in accordance with UL 55A.
+
+The various types of materials permitted in typical built-up roofing must comply with applicable standards as noted in the table. The following discusses some of those standards and what they address. Note that the titles and specific editions of all the standards are located in Chapter 35 of the code.
+
+ASTM D1863 covers the quality and grading of crushed stone, crushed slag and water-worn gravel suitable for use as aggregate surfacing on built-up roofs.
+
+ASTM D4601 covers asphalt-impregnated and coated glass fiber base sheet, with or without perforations, for use as the first ply of the built-up roofing. When not perforated, this sheet may be used as a vapor retarder under or between roof insulation with a solid top coating of asphaltic material.
+
+ASTM D2178 covers glass felt impregnated to varying degrees with asphalt, which may be used both with asphalts conforming to the requirements of ASTM D312 in the construction of built-up roofs, and asphalts conforming to the requirements of ASTM D449 in the membrane system of waterproofing. ASTM D2626 covers the base sheet with fine mineral surfacing on the top side, with or without perforations, for use as the first ply of a built-up roof. When not perforated, this sheet may be used as a vapor retarder under roof insulation.
+
+ASTM D226 covers asphalt-saturated organic felts, with perforations, that may be used with asphalts conforming to the requirements of ASTM D312 in the construction of built-up roofs, and with asphalts conforming to the requirements of ASTM D449 in the membrane system of waterproofing. ASTM D312 covers four types of asphalt intended for use in built-up roof construction. The specification is intended for general classification purposes only and does not imply restrictions on the slope at which an asphalt must be used. There are four classification types. Type I includes asphalts that are relatively susceptible to flow at roof temperatures with good adhesive and self-sealing properties. Type II includes asphalts that are moderately susceptible to flow at roof temperatures. Type III includes asphalts that are relatively nonsusceptible to flow at roof temperatures for use in built-up roof construction on slope inclines from 8.3 to 25 percent. Type IV includes asphalts that are generally nonsusceptible to flow at roof temperatures for use in built-up roof construction on slope inclines from approximately 16.7 to 50 percent.
+
+ASTM D227 covers coal-tar saturated organic felt that may be used with coal-tar pitches conforming to the appropriate requirements of ASTM D450 in the construction of built-up roofs and in the membrane system of waterproofing. ASTM D450 covers three types of coal-tar pitch suitable for use in the construction of built-up roofing, dampproofing and membrane waterproofing systems. Only Type I or III can be used in code-recognized roofing systems. Type I is suitable for use in built-up roofing systems with felts conforming to the requirements of ASTM D227 or as specified by the manufacturer. Type III is suitable for use in built-up roofing systems, but has less-volatile components than Type I.
+
+ASTM D3909 covers asphalt-impregnated and coated glass felt roofing surfaced on the weather side with mineral granules for use as a cap sheet in the construction of built-up roofs. As noted, this list is not all-inclusive when compared to Table 1507.10.2, but includes materials commonly used as built-up roofing materials.
+1507.11 Modified bitumen roofing. The installation of modified bitumen roofing shall comply with the provisions of this section.
+
+Modified bitumen roofing is a membrane-type roofing made up of composite sheets consisting of polymer-modified bitumen often reinforced and sometimes surfaced with various types of mats, films, foils and mineral granules. The bitumen is modified through inclusion of one or more polymers. There are two general types of polymer-modified bitumen membranes: those with the principal modifier being atactic polypropylene (APP), and those with bitumen modified with styrene butadiene.
+
+===== Page 1482 =====
+styrene (SBS). They differ in characteristics, as well as application. For more information on the application of polymer-modified bitumen roofing membranes, refer to the NRCA Roofing Manual: Membrane Roof Systems.
+
+1507.11.1 Slope. Modified bitumen roofing shall have a design slope of not less than one-fourth unit vertical in 12 units horizontal (2-percent slope) for drainage.
+
+According to this section, all roofs must have a minimum slope of 1/4:12 so that there is positive drainage of storm water to gutters, roof drains and other components of an approved storm drainage system in order to divert water away from the building or structure.
+
+1507.11.2 Material standards. Modified bitumen roofing materials shall comply with ASTM D6162, ASTM D6163, ASTM D6164, ASTM D6222, ASTM D6223, ASTM D6298 or ASTM D6509.
+
+The materials and installation of modified bitumen roof coverings must be in accordance with the listed standards, which regulate modified bituminous roofing membranes, either prefabricated or reinforced. The standards are: ASTM D6162, which regulates SBS modified bituminous sheet materials; ASTM D6163, which regulates SBS using glass fiber reinforcements; ASTM D6164, which regulates SBS using polyester reinforcements; ASTM D6222, which regulates APP modified bituminous sheet materials; ASTM D6223, which regulates APP using polyester and glass fiber reinforcements; ASTM D6298, which regulates SBS with a metal surface; and ASTM D6509, which regulates APP using glass fiber reinforcements.
+
+1507.11.2.1 Base sheet. A base sheet that complies with the requirements of Section 1507.11.2, ASTM D1970 or ASTM D4601 shall be permitted to be used with a modified bitumen cap sheet.
+
+A common application of modified bitumen roof coverings includes a base sheet. This Section provides the applicable standards for base sheet materials that can be used without having a detrimental effect on structural performance or fire performance.
+
+1507.12 Single-ply roofing. The installation of single-ply roofing shall comply with the provisions of this Section.
+
+Single-ply roofing includes materials such as chlorosulfonated (CSPE), polyisobutylene (PIB), ethylene propylene diene monomer (EPDM), ketone ethylene ester (KEE), polyvinyl chloride (PVC or PVC/KEE) or thermoplastic polyolefin (TPO).
+1507.12.1 Slope. Single-ply membrane roofs shall have a design slope of not less than 1/4 unit vertical in 12 units horizontal (2-percent slope) for drainage.
+
+All roofs must have a minimum slope of 1/4:12 so that there is positive drainage of storm water to gutters, roof drains and other components of an approved storm drainage system in order to divert water away from the building or structure.
+
+1507.12.2 Material standards. Single-ply roof coverings shall comply with the material standards in Table 1507.12.2.
+
+This Section references Table 1507.12.2 for the material standards for single-ply roof coverings including materials such as chlorosulfonated (CSPE), polyisobutylene (PIB), ethylene propylene diene monomer (EPDM), ketone ethylene ester (KEE), polyvinyl chloride (PVC or PVC/KEE) or thermoplastic polyolefin (TPO).
+
+See the commentary to Section 1507.12.2.
+1507.12.3 Ballasted low-slope roofs. Ballasted low-slope roofs (roof slope < 2:12) shall be installed in accordance with this section and Section 1504.5. Stone used as ballast shall comply with ASTM D448 or ASTM D7655.
+
+The purpose of this section is to identify that this type of roof covering is allowed and to provide installation requirements. Further, this section specifies the minimum requirements for stone ballast to be used with this type of roofing system.
+
+1507.13 Sprayed polyurethane foam roofing. The installation of sprayed polyurethane foam roofing shall comply with the provisions of this section.
+
+Sprayed polyurethane foam is a foamed plastic material constructed by mixing a two-part liquid that is spray applied to form the base of an adhered roof system. The two-part component mixture reacts chemically and immediately expands when applied through special metering equipment to form a closed-cell foam. As the foam rises, it sets into a solid and a skin forms on the surface. The foam provides a thermal insulation and the skin provides a water-resistant surface.
+
+1507.13.1 Slope. Sprayed polyurethane foam roofs shall have a design slope of not less than one-fourth unit vertical in 12 units horizontal (2-percent slope) for drainage.
+
+All roofs must have a minimum slope of 1/4:12 so that there is positive drainage of storm water to gutters, roof drains and other components of an approved storm drainage system in order to divert water away from the building or structure.
+
+===== Page 1483 =====
+1507.13.2 Material standards. Spray-applied polyurethane foam insulation shall comply with ASTM C 1029 Type III or IV ASTM D7425.
+
+ASTM C1029 is the standard that regulates spray-applied rigid cellular polyurethane thermally insulated roof coverings. This specification covers the types and physical properties of spray-applied rigid cellular polyurethane intended for use as thermal insulation. Type III or IV foam insulation is required based on their higher compressive strengths. The operating temperatures of the surfaces to which the insulation is applied cannot be lower than  \( -30^{\circ} \) C or greater than  \( 107^{\circ} \) C.
+
+1507.13.3 Application. Foamed-in-place roof insulation shall be installed in accordance with the manufacturer's instructions. A liquid-applied protective coating that complies with Table 1507.13.3 shall be applied not less than 2 hours nor more than 72 hours following the application of the foam.
+
+The roof system must be protected from ultraviolet light and degradation through the use of surfacing. Liquid-applied protected elastomeric coatings are the recommended surfacing for sprayed polyurethane foam roofing systems.
+
+This table identifies the applicable material standards for protective coating materials that are suitable for sprayed polyurethane foam roof systems.
+
+1507.13.4 Foam plastics. Foam plastic materials and installation shall comply with Chapter 26.
+
+Chapter 26 addresses foam plastic materials and installation.
+
+1507.14 Liquid-applied roofing. The installation of liquid-applied roofing shall comply with the provisions of this section.
+
+See the commentary to Sections 1507.14.1 and 1507.14.2.
+
+1507.14.1 Slope. Liquid-applied roofing shall have a design slope of not less than one-fourth unit vertical in 12 units horizontal (2-percent slope).
+
+All roofs must have a minimum slope of 1/4:12 so that there is positive drainage of storm water to gutters, roof drains and other components of an approved storm drainage system in order to divert water away from the building or structure.
+
+1507.14.2 Material standards. Liquid-applied roofing shall comply with ASTM C836, ASTM C957, or ASTM D3468.
+
+Liquid-applied roof coatings must be installed in accordance with the manufacturer's instructions. The coatings must comply with one of the standards listed. ASTM C836 describes the required properties and test methods for a cold liquid-applied elastomeric membrane, one- or two-component, for waterproofing building decks subject to hydrostatic pressure in building areas to be occupied by personnel, vehicles or equipment. This specification only applies to a membrane system above which a separate wearing or traffic course will be applied. ASTM C957 describes the required properties and test methods for a cold liquid-applied elastomeric membrane for waterproofing building decks not subject to hydrostatic pressure. The specification applies only to a membrane system that has an integral wearing surface. It does not include specific requirements for skid resistance or fire retardance, although both may be important in specific applications. ASTM D3468 describes liquid-applied neoprene and CSPE synthetic rubber solutions suitable for use in roofing and waterproofing.
+
+1507.15 Vegetative roofs and landscaped roofs. Vegetative roofs and landscaped roofs shall comply with the requirements of this chapter, Section 1607.14.2.2 and SBC 801.
+
+The purpose of this Section is to require vegetative roofs and landscaped roofs to comply with the requirements for other roof systems contained in this chapter. Further, this Section requires these types of roofs to meet the requirements for special purpose roofs as contained in Chapter 15 and 16 as well as providing a reference to SBC 801.
+
+1507.15.1 Structural fire resistance. The structural frame and roof construction supporting the load imposed on the roof by the vegetative roof or landscaped roofs shall comply with the requirements of Table 601.
+
+This Section is a reminder to verify compliance with Table 601 for the portion of the structure that supports the additional load of a landscaped roof.
+
+1507.16 Photovoltaic shingles. The installation of photovoltaic shingles shall comply with the provisions of this section.
+
+This section provides guidance for the installation of photovoltaic shingles. These shingles are integrated with the building and provide both a roof covering and source of electrical power.
+
+1507.16.1 Deck requirements. Photovoltaic shingles shall be applied to a solid or closely fitted deck, except where the shingles are specifically designed to be applied over spaced sheathing.
+
+These provisions provide requirements and limitations for roof decks, roof deck slope, underlayment, underlayment application, underlayment attachment in high wind regions, fasteners that are considered appropriate for the installation of photovoltaic shingles. The
+
+===== Page 1484 =====
+specific requirements included here have been adapted from and are intended to be consistent with similar attributes for other steep-slope, shingle-type roof coverings.
+
+1507.16.2 Deck slope. Photovoltaic shingles shall be installed on roof slopes of not less than two units vertical in 12 units horizontal (2:12).
+
+* See the commentary to Section 1507.16.1.
+1507.16.3 Underlayment. Underlayment shall comply with Section 1507.1.1.
+
+* See the commentary to Section 1507.1.1.
+1507.16.4 Ice barrier. Not applicable in the Kingdom.
+
+1507.16.5 Fasteners. Fasteners for photovoltaic shingles shall be galvanized, stainless steel, aluminum or copper roofing nails, minimum 12-gage (2.67 mm) shank with a minimum 9 mm-diameter head of a length to penetrate through the roofing materials and a minimum of 19 mm into the roof sheathing. Where the roof sheathing is less than 19 mm thick, the nails shall penetrate through the sheathing. Fasteners shall comply with ASTM F1667.
+
+* See the commentary to Section 1507.17.1.
+1507.16.6 Material standards. Photovoltaic shingles shall be listed and labeled in accordance with UL 7103 or with both UL 61730-1 and UL 61730-2.
+
+This Section references UL 7103 or both UL 61730-1 and UL 61730-2 as the standards used for determining code compliance of photovoltaic shingles.
+
+1507.16.7 Attachment. Photovoltaic shingles shall be attached in accordance with the manufacturer's installation instructions.
+
+* Referring to the manufacturer’s instructions is appropriate since the required slope and fastening of the photovoltaic shingles are different for each manufacturer’s product.
+
+1507.16.8 Wind resistance. Photovoltaic shingles shall comply with the classification requirements of Table 1504.2 for the appropriate maximum nominal design wind speed.
+
+* For wind resistance, photovoltaic shingles shall comply with the classification requirements of Table 1504.2.
+
+1507.17 Building-integrated photovoltaic roof panels. The installation of building-integrated photovoltaic (BIPV) roof panels shall comply with the provisions of this section.
+
+This section addresses requirements for building integrated photovoltaic (BIPV) roof panels. These products form part of the building envelope and are subject to the same requirements as any other roof covering. In contrast to photovoltaic shingles, as regulated in Section 1507.16, these BIPV panels are larger and the wind resistance is determined by UL 1897, Uplift Tests for Roof Covering System. Consistent with other roof-covering materials, this section details requirements for the deck, underlayment, application and fastening.
+
+1507.17.1 Deck requirements. BIPV roof panels shall be applied to a solid or closely fitted deck, except where the roof covering is specifically designed to be applied over spaced sheathing.
+
+* See commentary, Section 1507.17.
+
+1507.17.2 Deck slope. BIPV roof panels shall be used only on roof slopes of two units vertical in 12 units (2:12) or greater.
+
+* Panels are required to be installed on roofs with at least a minimal slope to prevent water ponding on the panels and to allow debris to slide off the panel.
+
+1507.17.3 Underlayment. Underlayment shall comply with ASTM D226, ASTM D4869 or ASTM D6757.
+
+* See commentary, Section 1507.1.1.
+
+1507.17.4 Underlayment application. Underlayment shall be applied shingle fashion, parallel to and starting from the eave, lapped 50 mm and fastened sufficiently to hold in place.
+
+* See commentary, Section 1507.1.1.
+
+1507.17.4.1 High-wind attachment. Underlayment applied in areas subject to high winds [Vad greater than 49 m/s as determined in accordance with Section 1609.3.1] shall be applied in accordance with the manufacturer's instructions. Fasteners shall be applied along the overlap at not more than 900 mm on center. Underlayment installed where Vad is not less than 54 m/s shall comply with ASTM D226, Type III, ASTM D4869, Type IV or ASTM D6757. The underlayment shall be attached in a grid pattern of 300 mm between side laps with a 150 mm spacing at the side laps. The underlayment shall be applied in accordance with Section 1507.1.1 except all laps shall be not less than 100 mm. Underlayment shall be attached using cap nails or cap staples. Caps shall be metal or plastic with a nominal head diameter of not less than 25 mm. Metal caps shall have a thickness of not less than 0.25 mm. Power-driven metal caps shall have a thickness of not less than 0.25 mm. Thickness of the outside edge of plastic caps shall be not less than 0.89 mm. The cap nail shank shall be not less than 2.11 mm for ring shank cap nails and 2.31 mm for smooth shank cap nails. Staple gage shall be not less than 21 gage [0.81 mm]. Cap nail shank and cap staple legs shall have a length sufficient to penetrate through-the-roof sheathing or not less than 19 mm into the roof sheathing.
+
+===== Page 1485 =====
+Exception: As an alternative, adhered underlayment complying with ASTM D1970 shall be permitted.
+
+See commentary, Section 1507.1.1.
+1507.17.4.2 Ice barrier. Not applicable in the Kingdom
+
+1507.17.5 Material standards. BIPV roof panels shall be listed and labeled in accordance with UL 7103 or with both UL 61730-1 and UL 61730-2.
+
+See commentary, Section 1507.17.
+1507.17.6 Attachment. BIPV roof panels shall be attached in accordance with the manufacturer's installation instructions.
+
+See commentary, Section 1507.17.
+SECTION 1508 ROOF INSULATION
+
+1508.1 General. The use of above-deck thermal insulation shall be permitted provided that such insulation is covered with an approved roof covering and passes the tests of NFPA 276 or UL 1256 when tested as an assembly.
+
+Exceptions:
+
+1. Foam plastic roof insulation shall conform to the material and installation requirements of Chapter 26.
+
+2. Where a concrete or composite metal and concrete roof deck is used, and the above-deck thermal insulation is covered with an approved roof covering.
+
+This section addresses two requirements for the use of above-deck thermal insulation. The first requirement is that an approved roof covering be used. The second requirement is that an under-deck flame spread test must be conducted and passed using either NFPA 276 or the UL 1256 test methods. These tests were developed to evaluate the contribution of above-deck thermal insulations and their installation when exposed to a fire from below the deck. The primary construction for which these tests have been developed are roof assemblies that utilize a steel roof deck with above-deck insulation materials.
+
+In addition to serving as thermal insulation, roof insulation may be used as a substrate to which the roof membrane is applied. In protected roof membrane systems, the insulation is applied over the membrane and is not expected to act as a substrate. The insulation should provide adequate support for the membrane and other associated roof-top materials and stand up to limited roof-top traffic, such as for regular roof inspections and maintenance.
+
+Rigid board roof insulations currently among the most commonly used for low-slope roofs are cellular glass, glass fiber, mineral fiber, perlite, phenolic foam, polyisocyanurate foam, polystyrene foam, polyurethane foam, wood fiberboard and composite board.
+Nonrigid roof insulations are generally used in steep-slope and some metal-roof assembly construction. Commonly made from cellulose, glass fiber and mineral fiber, these nonrigid insulations may be available in bats, blankets and loose-fiber forms.
+
+Exception 2 recognizes that if a concrete deck is employed as part of the assembly, it will provide protection to the above-deck insulation materials. This exception will apply to nonfoam plastic roof insulation materials, since foam plastic roof insulations are covered under Exception 1 and Chapter 26 of the code.
+
+1508.2 Material standards. Above-deck thermal insulation board shall comply with the standards in Table 1508.2.
+
+The referenced material standards provide additional guidance on the physical properties of roof insulation when utilized as above-deck components of roof assemblies.
+
+This table incorporates industry-recognized material standards into the code for materials commonly used in above-deck insulation practices. For instance, the table references ASTM C726, which specifies the composition and physical properties for mineral fiber insulation board.
+
+## SECTION 1509 ROOF COATINGS
+
+1509.1 General. The installation of a roof coating on a roof covering shall comply with the requirements of Section 1505 and this Section.
+
+This Section provides specific requirements regarding the use of roof coating materials. The term “Roof coating” is defined in Chapter 2.
+
+1509.2 Material standards. Roof coating materials shall comply with the standards in TABLE 1509.2.
+
+This Section references
+
+TABLE 1509.2 for the material standards for roof coatings.
+
+## SECTION 1510 RADIANT BARRIERS INSTALLED ABOVE DECK
+
+1510.1 General. A radiant barrier installed above a deck shall comply with Sections 1510.2 through 1510.4.
+
+This section provides requirements for fire testing, proper installation, and the appropriate material standard for a radiant barrier installed above a roof deck. The definition of the term "Radiant barrier" in Chapter 2 is derived from the definition for radiant barrier in ASTM C1313.
+
+1510.2 Fire testing. Radiant barriers shall be permitted for use above decks where the radiant barrier is covered with an approved roof covering and the system consisting of the radiant barrier and
+
+===== Page 1486 =====
+the roof covering complies with the requirements of either FM 4550 or UL 1256.
+
+The key issue addressed in this section is how the fire testing of the system utilizing a radiant barrier is to be done. It clarifies that the testing must be done using the combination of the radiant barrier and the approved roof covering, and that the system must pass the fire test.
+
+1510.3 Installation. The low emittance surface of the radiant barrier shall face the continuous airspace between the radiant barrier and the roof covering.
+
+A radiant barrier product that is installed above the roof deck is typically located between the deck and the felt. This section clarifies orientation of the radiant barrier and air gap for above-deck radiant barriers.
+
+1510.4 Material standards. A radiant barrier installed above a deck shall comply with ASTM C1313/1313M.
+
+The standard that is referenced for radiant barriers that are used in buildings, ASTM C1313, Standard Specification for Sheet Radiant Barriers for Building Construction Applications, helps to differentiate these products from reflective insulations (see ASTM C1224, Standard Specification for Reflective Insulation for Building Applications). The abstract of ASTM C1313 reads as follows. "...The scope is specifically limited to requirements for radiant barrier sheet materials that consist of at least one surface, such as metallic foils or metallic deposits mounted or unmounted on substrates. Sheet radiant barrier materials shall consist of low emittance surface(s) that may be in combination with any substrates and adhesives required to meet the specified physical material properties."
+
+## SECTION 1511 ROOF-TOP STRUCTURES
+
+1511.1 General. The provisions of this section shall govern the construction of roof-top structures.
+
+This Section identifies and establishes the criteria used in evaluating penthouse-type roof structures. Other rooftop structures, such as water tanks, cooling towers, towers, spires, domes, cupolas, etc., are not to be considered as penthouses since the code has specific provisions for these structures.
+
+1511.1.1 Area limitation. The aggregate area of penthouses and other enclosed rooftop structures shall not exceed one-third the area of the supporting roof deck. Such penthouses and other enclosed rooftop structures shall not be required to be included in determining the building area or number of stories as regulated by Section 503.1. The area of such penthouses shall not be included in determining the fire area specified in Section 901.7.
+
+The aggregate area of penthouses and any other enclosed rooftop structure is limited to one-third of the supporting roof deck. If the area of the penthouse exceeds this threshold, regardless of height, then the penthouse or enclosed structure must be considered an additional story. This limitation is consistent with the limitations for mezzanines.
+
+1511.2 Penthouses. Penthouses in compliance with Sections 1511.2.1 through 1511.2.4 shall be considered as a portion of the story directly below the roof deck on which such penthouses are located. All other penthouses shall be considered as an additional story of the building.
+
+This Section introduces the requirements necessary for a penthouse to be considered as a portion of the story directly below.
+
+1511.2.1 Height above roof deck. Penthouses constructed on buildings of other than Type I construction shall not exceed 5500 mm in height above the roof deck as measured to the average height of the roof of the penthouse. Penthouses located on the roof of buildings of Type I construction shall not be limited in height.
+
+Exceptions: Where used to enclose tanks or elevators that travel to the roof level, penthouses shall be permitted to have a maximum height of 8500 mm above the roof deck.
+
+The height of roof structures is not limited on buildings of Type I construction. For other types of construction, the roof structure is limited to 5.5 m in height unless it encloses tanks or elevators that extend to the roof (see exception), for which the maximum height is 8.5 m. If the height exceeds that permitted, the roof structure should be counted as, and meet all the requirements for, an additional story. This section also addresses how the height of a penthouse is measured.
+
+1511.2.2 Use limitations. Penthouses shall not be used for purposes other than the shelter of mechanical or electrical equipment, tanks, elevators and related machinery, or vertical shaft openings in the roof assembly, including ancillary spaces used to access elevators and stairways.
+
+The use of the penthouse is limited.
+
+1511.2.3 Weather protection. Provisions such as louvers, louver blades or flashing shall be made to protect the mechanical and electrical equipment and the building interior from the elements.
+
+Since the penthouse is a shelter for equipment or vertical shaft openings, it is often necessary to incorporate air intake and ventilation
+
+===== Page 1487 =====
+openings in the penthouse construction. In order to protect the equipment and the building from the detrimental effects of weather exposure, this section requires that measures be taken to minimize exposure to the elements. In so doing, this section essentially reiterates other provisions that address the integrity of the building envelope.
+
+1511.2.4 Type of construction. Penthouses shall be constructed of building elements as required for the type of construction of the building on which such penthouses are built.
+
+Exceptions:
+
+1. On buildings of Type I construction, the exterior walls and roofs of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating. The exterior walls and roofs of penthouses with a fire separation distance of 6 m or greater shall not be required to have a fire-resistance rating.
+
+2. On buildings of Type I construction two stories or less in height above grade plane or of Type II construction, the exterior walls and roofs of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5 and be constructed of fire-retardant-treated wood. The exterior walls and roofs of penthouses with a fire separation distance of 6 m or greater shall be permitted to be constructed of fire-retardant-treated wood and shall not be required to have a fire-resistance rating. Interior framing and walls shall be permitted to be constructed of fire-retardant-treated wood.
+
+3. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less than a 1-hour fire-resistance rating or a lesser fire-resistance rating as required by Table 705.5. On buildings of Type III, IV or V construction, the exterior walls of penthouses with a fire separation distance greater than 1.5 m and less than 6 m shall be permitted to have not less
+
+===== Page 1488 =====
+Tanks are not permitted to be located above a stairway or elevator enclosure unless a solid roof or floor deck is provided underneath the tank. This is intended to prevent discharges from a leaking tank from affecting a shaft.
+
+1511.3.3 Tank cover. Unenclosed roof tanks shall have covers sloping toward the perimeter of the tanks.
+
+Roof tanks must be covered to prevent the accumulation of rain which may cause an uncovered tank to overflow.
+
+1511.4 Cooling towers. Cooling towers located on the roof deck of a building and greater than  \( 23 \, m^{2} \)  in base area or greater than  \( 4.6 \, m \)  in height above the roof deck, as measured to the highest point on the cooling tower, where the roof is greater than  \( 15 \, m \)  in height above grade plane shall be constructed of noncombustible materials. The base area of cooling towers shall not exceed one-third the area of the supporting roof deck.
+
+Exception: Drip boards and the enclosing construction shall be permitted to be of wood not less than 25 mm nominal thickness, provided the wood is covered on the exterior of the tower with noncombustible material.
+
+This section identifies and establishes criteria that require roof-top cooling towers to be of noncombustible construction.
+
+1511.5 Towers, spires, domes and cupolas. Towers, spires, domes and cupolas shall be of a type of construction having fire-resistance ratings not less than required for the building on top of which such tower, spire, dome or cupola is built. Towers, spires, domes and cupolas greater than 26 m in height above grade plane as measured to the highest point on such structures, and either greater than 18.6 m \( ^{2} \)  in horizontal area or used for any purpose other than a minaret or an architectural embellishment, shall be constructed of and supported on Type I or II construction.
+
+This section identifies the criteria used in evaluating structures such as towers, spires, domes and cupolas. When any of those structures exceed either 26 m in height above grade plane or are greater than 18.6 m \( ^{2} \)  in area, the construction type is limited to Type I or II. Section 1511.5.1 further restricts construction to noncombustible when the heights become more excessive (see commentary, Section 1511.5.1). These restrictions are related to the difficulty posed in fighting fires in such structures and also the danger to surrounding people, emergency responders and other buildings if such elements should fail during a fire.
+1511.5.1 Noncombustible construction required. Towers, spires, domes and cupolas greater than 18 m in height above the highest point at which such structure contacts the roof as measured to the highest point on such structure, or that exceeds 18.6 m \( ^{2} \)  in area at any horizontal section, or which is intended to be used for any purpose other than a minaret or architectural embellishment, or is located on the top of a building greater than 1.5 m in building height shall be constructed of and supported by noncombustible materials and shall be separated from the building below by construction having a fire-resistance rating of not less than 1.5 hours with openings protected in accordance with Section 711. Such structures located on the top of a building greater than 15 m in building height shall be supported by noncombustible construction.
+
+These roof-top structures include communication towers, spires, cupolas and similar structures. Such structures must generally be constructed of the same type of construction as the building to which they are attached. Because of the difficulty in fighting fires on tall buildings and structures and the hazards associated with locating combustible materials on roofs of taller buildings, when the height of such structures exceeds 18 m above the highest point at which it comes in contact with the roof or is in excess of 19 m \( ^{2} \)  in area at any horizontal section, the structure and its supports must be of noncombustible construction. In addition, they must be separated from the building with construction that has a minimum 1.5-hour fire-resistance rating. Any opening in that construction must be protected in accordance with Section 711, which addresses the protection of openings in horizontal assemblies. While openings in horizontal assemblies are typically protected with shaft enclosures, there are floor fire door assemblies that could be used in this situation. For similar reasons, most roof structures of any height or area placed on tall buildings [greater than 15 m in height] are required to be constructed of noncombustible materials and be supported by noncombustible construction.
+
+1511.5.2 Towers and spires. Enclosed towers and spires shall have exterior walls constructed as required for the building on top of which such towers and spires are built. The roof covering of spires shall be not less than the same class of roof covering required for the building on top of which the spire is located.
+
+As with penthouses and roof structures, the code intends to obtain construction and fire resistance for enclosed towers and spires that
+
+===== Page 1489 =====
+is consistent with that of the building on which they are supported.
+
+1511.6 Mechanical equipment screens. Mechanical equipment screens shall be constructed of the materials specified for the exterior walls in accordance with the type of construction of the building. Where the fire separation distance is greater than 1.5 m, mechanical equipment screens shall not be required to comply with the fire-resistance rating requirements.
+
+As the definition for “Mechanical equipment screen” makes clear, it is a roof-top structure that is not covered by a roof. This section conservatively requires that mechanical equipment screens must be constructed of the same materials as required for exterior walls, based on the type of construction of the building on which they are located. However, it does exempt them from any fire-resistance-rating requirement once the fire separation distance is greater than 1.5 m since, without a roof, they do not fully enclose a space and they pose a lesser exposure hazard than a penthouse.
+
+1511.6.1 Height limitations. Mechanical equipment screens shall not exceed 5.5 m in height above the roof deck, as measured to the highest point on the mechanical equipment screen.
+
+Exception: Where located on buildings of Type IA construction, the height of mechanical equipment screens shall not be limited.
+
+The height limits specified in this section are based on those required for penthouses in Section 1511.2.1. The exception for mechanical equipment screens located on buildings of Type IA construction is for consistency, since Table 504.3 does not limit the building height.
+
+1511.6.2 Type I, II, III and IV construction. Regardless of the requirements in Section 1511.6, mechanical equipment screens that are located on the roof decks of buildings of Type I, II, III or IV construction shall be permitted to be constructed of combustible materials in accordance with any one of the following limitations:
+
+1 The fire separation distance shall be not less than 6 m and the height of the mechanical equipment screen above the roof deck shall not exceed 1200 mm as measured to the highest point on the mechanical equipment screen.
+
+2 The fire separation distance shall be not less than 6 m and the mechanical equipment screen shall be constructed of fire-retardant-treated wood complying with Section 2303.2 for exterior installation.
+3 Where exterior wall covering panels are used, the panels shall have a flame spread index of 25 or less when tested in the minimum and maximum thicknesses intended for use, with each face tested independently in accordance with ASTM E84 or UL 723. The panels shall be tested in the minimum and maximum thicknesses intended for use in accordance with, and shall comply with the acceptance criteria of, NFPA 285 and shall be installed as tested. Where the panels are tested as part of an exterior wall assembly in accordance with NFPA 285, the panels shall be installed on the face of the mechanical equipment screen supporting structure in the same manner as they were installed on the tested exterior wall assembly.
+
+This section is an exception to the requirements in Section 1511.6 for the types of construction that typically require the exterior walls to be constructed of noncombustible materials. The three itemized limitations in this section allow for combustible materials to be used for the construction of mechanical equipment screens when the stated conditions are met.
+
+Item 1 recognizes that the hazard posed by a combustible mechanical equipment screen located on the roof of a Type I, II, III or IV building with a fire separation distance of at least 6 m and with the height of the mechanical equipment screen limited to 1200 mm above the roof deck is not significant.
+
+Item 2 is based on Exceptions 2 and 3 for penthouses in Section 1511.2.4. The two-story limit in Exception 2 for Type I buildings is omitted. This is considered reasonable since the hazard doesn't justify limiting the Type I buildings to two stories in height where fire-retardant-treated wood is used to construct an unenclosed mechanical equipment screen. The main difference between this limitation and Item 1 is that it does not include the 1200 mm height limit on the mechanical equipment screen. This is because it must be constructed of fire-retardant-treated wood as compared to any combustible material allowed by the code. The height of the mechanical equipment screen would still be limited to 5.5 m by Section 1511.6.1. It is also limited to the maximum building height, based on the type of construction of the building in accordance with Section 1511.6.1.
+
+Item 3 applies where the combustible materials used to build the mechanical equipment screen are limited to a maximum flame spread index of 25 (similar to fire-retardant-treated wood)
+
+===== Page 1490 =====
+and the materials are successfully tested in accordance with NFPA 285, Standard Method of Test for the Evaluation of Flammability Characteristics of Exterior Non load-Bearing Wall Assemblies Containing Combustible Components. This is the test method that is used to validate the use of foam plastic insulations in exterior walls of Types I, II, III and IV construction, as well as for the use of metal composite materials in accordance with Section 1408.10. Although the material would be tested as the outer face of the exterior wall in the NFPA 285 test as part of an exterior wall assembly, the test assesses the surface flame spread resistance of the materials constituting the outer face, as well as to a certain degree, the inner face where it is exposed to any open cavities in the wall assembly. The NFPA 285 test is conducted for a full 30 minutes under severe fire-exposure conditions to both the inside of the wall assembly and the outside of the wall assembly with an exterior window burner replicating a fire that has gone to post-flashover and has broken out a window, exposing the outside face of the exterior wall finish. Since the materials used to construct the mechanical equipment screen do not comprise a completely enclosed wall assembly, the maximum flame spread index of 25 has been proposed as a conservative limitation for the backside face of the material, which may not have been directly exposed to the exterior window burner flame in the NFPA 285 test. Since the NFPA 285 test is used to qualify combustible materials for use where noncombustible exterior walls are required, it seems reasonable to allow panels tested as wall assemblies to be installed as equipment screen panels, utilizing the materials tested on the exterior face of the wall system in accordance with NFPA 285.
+
+1511.6.3 Type V construction. The height of mechanical equipment screens located on the roof decks of buildings of Type V construction, as measured from grade plane to the highest point on the mechanical equipment screen, shall be permitted to exceed the maximum building height allowed for the building by other provisions of this code where complying with any one of the following limitations, provided the fire separation distance is greater than 1500 mm:
+
+1 Where the fire separation distance is not less than 6 m, the height above grade plane of the mechanical equipment screen shall not exceed 1200 mm more than the maximum building height allowed.
+
+2 The mechanical equipment screen shall be constructed of noncombustible materials.
+3 The mechanical equipment screen shall be constructed of fire-retardant-treated wood complying with Section 2303.2 for exterior installation; or
+
+4 Where the fire separation distance is not less than 6 m, the mechanical equipment screen shall be constructed of materials having a flame spread index of 25 or less when tested in the minimum and maximum thicknesses intended for use with each face tested independently in accordance with ASTM E84 or UL 723.
+
+This section is an exception to the height limitations in Section 1511.6.1. It is specific for Type V buildings, which are allowed to be constructed entirely of combustible materials. The one condition that must be met for all four options in this section is that the minimum fire separation distance must be greater than 1500 mm. That restriction is based on Section 1405. Item 1 is based on the belief that a 1200 mm height increase due to the presence of a mechanical equipment screen represents a relatively minor hazard on a building of Type V construction, particularly if the fire separation distance is at least 6 m.
+
+Item 2 allows these mechanical equipment screens to be taller when they are constructed of noncombustible materials where combustible materials would otherwise be permitted. Noncombustible materials pose no additional fire load or fire exposure to the building.
+
+Item 3 allows the use of fire-retardant-treated wood which, although combustible, does not pose a significant fire hazard when constructed as a mechanical equipment screen where there is a minimum 1500 mm fire separation distance.
+
+Item 4 criteria follow from Item 3 since fire-retardant-treated wood is required to have a maximum flame spread index of 25. There is an additional requirement that the fire separation distance is at least 6 m. The lesser fire hazard associated with this type of installation should allow the greater heights for the mechanical equipment screens installed on these Type V buildings.
+
+1511.7 Other roof-top structures. Roof-top structures not regulated by Sections 1511.2 through 1511.6 shall comply with Sections 1511.7.1 through 1511.7.5, as applicable.
+
+This section addresses other roof-top structures that are not specifically regulated by Sections 1511.2 through 1511.7. These include roof-top structures such as aerial supports, bulkheads, dormers, fences and flagpoles.
+
+===== Page 1491 =====
+1511.7.1 Aerial supports. Aerial supports shall be constructed of noncombustible materials.
+
+Exception: Aerial supports not greater than 3650 mm in height as measured from the roof deck to the highest point on the aerial supports shall be permitted to be constructed of combustible materials.
+
+This section addresses construction of aerial supports.
+
+1511.7.2 Bulkheads. Bulkheads used for the shelter of mechanical or electrical equipment or vertical shaft openings in the roof assembly shall comply with Section 1511.2 as penthouses. Bulkheads used for any other purpose shall be considered as an additional story of the building.
+
+This provision treats bulkheads like penthouses. A definition of the term “bulkhead” that is closest to the context of Section 1511 is “a projecting framework with a sloping door giving access to a cellar stairway or a shaft.”
+
+1511.7.3 Dormers. Dormers shall be of the same type of construction as required for the roof in which such dormers are located or the exterior walls of the building.
+
+This section recognizes typical dormer construction and requires dormers to be the same type of construction as the roof or exterior wall in which the dormer is located.
+
+1511.7.4 Fences. Fences and similar structures shall comply with Section 1511.6 as mechanical equipment screens.
+
+This section treats fences similar to mechanical equipment screens since they are similar structures and can be considered to have a similar fire hazard.
+
+1511.7.5 Flagpoles. Flagpoles and similar structures shall not be required to be constructed of noncombustible materials and shall not be limited in height or number.
+
+This section exempts flagpoles from the roof-top height and construction limitations that apply to most other roof-top structures.
+
+1511.8 Structural fire resistance. The structural frame and roof construction supporting imposed loads upon the roof by any roof-top structure shall comply with the requirements of Table 601. The fire-resistance reduction permitted by Table 601, Note a, shall not apply to roofs containing roof-top structures.
+
+This section is a reminder to verify compliance with Table 601 for roofs that support the additional load of a roof-top structure. Furthermore, it clarifies that the reduction permitted in Table 601, Note a, is not applicable where the roof supports a roof-top structure.
+
+## SECTION 1512 REROOFING
+
+1512.1 General. Materials and methods of application used for recovering or replacing an existing roof covering shall comply with the requirements of Chapter 15.
+
+Exceptions:
+
+1. Roof replacement or roof recover of existing low-slope roof coverings shall not be required to meet the minimum design slope requirement of one-quarter unit vertical in 12 units horizontal (2-percent slope) in Section 1507 for roofs that provide positive roof drainage.
+
+2. Recovering or replacing an existing roof covering shall not be required to meet the requirement for secondary (emergency overflow) drains or scuppers in Section 1502.2 for roofs that provide for positive roof drainage. For the purposes of this exception, existing secondary drainage or scupper systems required in accordance with this code shall not be removed unless they are replaced by secondary drains or scuppers designed and installed in accordance with Section 1502.2.
+
+This section simply states that when a roof is replaced or recovered it must comply with Chapter 15 for the materials and methods used with exceptions for low-sloped roofs as well as a waiver of the secondary drainage provision when rerofing an existing building where the roof drains properly. This section does not mandate that the entire roof be replaced but simply that the portion being replaced complies with Chapter 15.
+
+For low-sloped roofs, the exception indicates that rerofing (i.e., recovering or replacement) is not required to meet the 1/4:12 minimum slope requirement of Section 1507, provided that the roof has positive drainage. The term “positive drainage” is defined as the drainage condition in which consideration has been made for all loading deflections of the roof deck, and additional roof slope has been provided to ensure drainage of the roof area within 48 hours of rainfall.
+
+1512.2 Roof replacement. Roof replacement shall include the removal of all existing layers of roof assembly materials down to the roof deck.
+
+Exception: Not applicable in the Kingdom.
+
+1512.2.1 Roof recover. The installation of a new roof covering over an existing roof covering shall be permitted where any of the following conditions occur:
+
+===== Page 1492 =====
+1 Where the new roof covering is installed in accordance with the roof covering manufacturer's approved instructions.
+
+2 Complete and separate roofing systems, such as standing-seam metal roof panel systems, that are designed to transmit the roof loads directly to the building's structural system and that do not rely on existing roofs and roof coverings for support, shall not require the removal of existing roof coverings.
+
+3 Metal panel, metal shingle and concrete and clay tile roof coverings shall be permitted to be installed over existing wood shake roofs when applied in accordance with Section 1512.3.
+
+4 The application of a new protective roof coating over an existing protective roof coating, metal roof panel, built-up roof, spray polyurethane foam roofing system, metal roof shingles, mineral-surfaced roll roofing, modified bitumen roofing or thermoset and thermoplastic single-ply roofing shall be permitted without tear off of existing roof coverings.
+
+The term “Roof recover” is defined in Chapter 2 and this section identifies conditions where a recover is permitted. Item 2 states that new roofing systems that are designed to transmit all roof loads directly to the structural supports of the building do not necessitate that the existing roofing system be removed. Item 3 allows certain roof covering, including metal, concrete panel and clay, to be placed over wood shingle and shake roofs only if any concealed combustible spaces are properly addressed in accordance with Section 1512.3 (see commentary, Section 1512.3). Item 4 refers to the practice of “recoating” in which a new protective coating is placed over an existing spray polyurethane foam roofing system. Recoating can add many years to the effective life of a spray polyurethane foam roofing system without the downside of adding significant weight associated with other roofing-type systems.
+
+1512.2.1.1 Exceptions. A roof recover shall not be permitted where any of the following conditions occur:
+
+1 Where the existing roof or roof covering is water soaked or has deteriorated to the point that the existing roof or roof covering is not adequate as a base for additional roofing.
+
+2 Where the existing roof covering is slate, clay, cement or asbestos-cement tile.
+
+3 Where the existing roof has two or more applications of any type of roof covering.
+This section identifies the conditions where a recover is not permitted, and all layers of previously installed roof covering systems must be removed prior to the installation of the new roof covering system.
+
+When the existing roof or roof covering is water soaked, it must be allowed to dry completely so as not to trap moisture beneath the new layer of covering. This could cause a rapid deterioration of the new covering material, as well as the existing sheathing. The existing covering is required to be removed if it cannot adequately dry out or if its physical properties have been permanently altered.
+
+Existing roof coverings such as wood shake, slate, clay, cement or asbestos-cement tile historically do not provide an adequate base for new roof coverings and could prevent the new covering from achieving a weather-tight seal. They could also allow penetration of water etc. These types of existing coverings must always be removed.
+
+When the existing roof has two or more layers of any type of covering system, all layers need to be removed to enable the inspector and contractor to verify that the existing sheathing is not water damaged and still capable of providing an adequate nailing base.
+
+1512.3 Roof recovering. Where the application of a new roof covering over wood shingle or shake roofs creates a combustible concealed space, the entire existing surface shall be covered with gypsum board, mineral fiber, glass fiber or other approved materials securely fastened in place.
+
+“Roof recovering” is defined as the process of installing an additional roof covering over a prepared existing roof covering without removing the existing roof covering. Where recovering over wood shingles or shakes creates a combustible concealed space, the code requires that the entire surface of the wood shakes and shingles be covered with a material that will reduce the possibility of such materials adding fuel to a fire in such a space.
+
+1512.4 Reinstallation of materials. Existing slate, clay or cement tile shall be permitted for reinstallation, except that damaged, cracked or broken slate or tile shall not be reinstalled. Existing vent flashing, metal edgings, drain outlets, collars and metal counterflashings shall not be reinstalled where rusted, damaged or deteriorated. Existing ballast that is damaged, cracked or broken shall not be reinstalled. Existing aggregate surfacing materials from built-up roofs shall not be reinstalled.
+
+This section places conditions on the reuse of roof-covering materials. Historically, various types of materials have been removable
+
+===== Page 1493 =====
+without substantially damaging the material. Materials such as wood shingles and shakes, roll roofing and asphalt shingles are usually torn or cracked and cannot be reused. Fastener holes also violate the integrity of the material. Before reuse is allowed, materials such as slate, clay or cement tile should be examined thoroughly for cracks and deterioration.
+
+1512.5 Flashings. Flashings shall be reconstructed in accordance with approved manufacturer's installation instructions. Metal flashing to which bituminous materials are to be adhered shall be primed prior to installation.
+
+☑ Flashings to be reused or reconstructed must be in accordance with the manufacturer's installation instructions. Metal flashings that are to be reused for bituminous materials must be primed in accordance with the manufacturer's instructions.
+
+===== Page 1494 =====
+## Bibliography
+
+The following resource materials were used in the preparation of the commentary for this chapter of the code:
+
+1 ANSI/SPRI ES-1-11, Wind Design Standard for Edge Systems Used with Low-Slope Roofing Systems. Waltham, MA: Single-Ply Roofing Institute, 2011.
+
+2 ANSI/SPRI VF-1-10, External Fire Design Standard for Vegetative Roofs. Waltham, MA: Single-Ply Roofing Institute, 2010.
+
+3 ASTM C1167-11, Specification for Clay Roof Tiles. West Conshohocken, PA: ASTM International, 2011.
+
+4 ASTM C1313/C 1313M-12, Standard Specification for Sheet Radiant Barriers for Building Construction Applications. West Conshohocken, PA: ASTM International, 2012.
+
+5 ASTM D312-00 (2006), Specification for Asphalt Used in Roofing. West Conshohocken, PA: ASTM International, 2006.
+
+6 ASTM E108-11, Standard Test Method for Fire Tests of Roof Coverings. West Conshohocken, PA: ASTM International, 2011.
+
+7 CSSB, New Roof Construction Manual. Sumas, WA: Cedar Shake and Shingle Bureau, 2010.
+
+8 NFPA 285-12, Standard Fire Test Method for the Evaluation of Fire Propagation Characteristics of Exterior Nonload-bearing Wall Assemblies Containing Combustible Components. Quincy, MA: National Fire Protection Association, 2012.
+
+9 NRCA Roofing Manual: Membrane Roof Systems-2007. Rosemont, IL: National Roofing Contractors Association (NRCA), 2007.
+
+10 NRCA Roofing Manual: Steep-slope Roof Systems-2009. Rosemont, IL: National Roofing Contractors Association (NRCA), 2009.
+
+11 SBCCI SSTD 11-97, Standard for Determining Wind Resistance of Concrete or Clay Roof Tiles. Birmingham, AL: Southern Building Code Congress International, 1997.
+
+===== Page 1495 =====
+## TABLES AND FIGURES OF CHAPTER 15
+
+TABLE 1504.2
+
+CLASSIFICATION OF STEEP SLOPE ROOF SHINGLES TESTED IN ACCORDANCE WITH ASTM D3161 OR D71581
+
+<table>MAXIMUM BASIC WIND SPEED (m/s), V, FROM Figure 1609.3(1) through Figure 1609.3(4) OR SBC 301MAXIMUM ALLOWABLE STREWS WIND SPEED (m/s), V_{asd}, FROM Table 1609.3.1ASTM D7158^{a} CLASSIFICATIONASTM D3161 or UL 7103 CLASSIFICATION4938D, G or HA, D or F5240D, G or HA, D or F57.645G or HA, D or F63.549G or HF6954G or HF7558HF8162.6HF8767HF</table>
+
+a. The standard calculations contained in ASTM D7158 assume Exposure Category B or C and building height of 18 m or less. Additional calculations are required for conditions outside of these assumptions.
+
+TABLE 1504.9
+
+MINIMUM REQUIRED PARAPET HEIGHT (mm) FOR AGGREGATE SURFACED ROOFS \( ^{a,b,c} \)
+
+<table><td rowspan="2">AGGREGATE SIZE<td rowspan="2">MEAN ROOF HEIGHT (m)<td colspan="14">WIND EXPOSURE AND BASIC DESIGN WIND SPEED (m/s)Exposure B4244.5474951545862.5674244.54749<td rowspan="6">ASTM D1863 (No. 7 or No. 67)4.55050505030300400500600503253754505006505050503030040050060050325375450500950505032354255256257503504254755506001530030035040045525625750875425475550625700303504004755256067580092510505256006507258004542547555062567575090010251150575650725800875<td rowspan="6">ASTM D1863 (No. 6)4.5505050303003003754505050325375425550650505030300300425525505030037542547595050503030040050060050300350425475525153003003003003504005006007003003754254755503030030035040047552565075087540045052560065045300350425475550625750875450525575650725800</table>
+
+a. Interpolation shall be permitted for mean roof height and parapet height.
+
+b. Basic design wind speed, V, and wind exposure shall be determined in accordance with Section 1609.
+
+c. Where the minimum required parapet height is indicated to be 50 mm, a gravel stop shall be permitted and shall extend not less than 50 mm from the roof surface and not less than the height of the aggregate.
+
+d. For Exposure D, add 200 mm to the parapet height required for Exposure C and the parapet height shall not be less than 300 mm.
+
+===== Page 1496 =====
+TABLE 1507.1.1(1)
+
+UNDERLAYMENT TYPES
+
+<table>ROOF COVERINGSECTIONMAXIMUM BASIC DESIGN WIND SPEED, V &gt; 62.5 m/sMAXIMUM BASIC DESIGN WIND SPEED, V ≥ 62.5 m/s<td rowspan="2">Asphalt shingles<td rowspan="2">1507.2ASTM D226 Type I or IIASTM D226 Type IIASTM D4869 Type I, II, III or IVASTM D4869 Type IV<td rowspan="2">Clay and concrete tiles<td rowspan="2">1507.3ASTM D6757ASTM D6757ASTM D226 Type IIASTM D226 Type II<td rowspan="2">Metal panels<td rowspan="2">1507.4<td rowspan="2">ASTM D2626 Type IASTM D2626 Type IASTM D2626 Type I<td rowspan="2">Metal roof shingles<td rowspan="2">1507.5ASTM D26380 Class MASTM D26380 Class Mmineral surfaced roll roofingmineral surfaced roll roofing<td rowspan="2">Mineral-surfaced roll roofing<td rowspan="2">1507.6ASTM D226 Type I or IIASTM D226 Type IIASTM D4869 Type I, II, III or IVASTM D4869 Type IV<td rowspan="2">Slate shingles<td rowspan="2">1507.7ASTM D226 Type IIASTM D226 Type IIASTM D4869 Type II or IVASTM D4869 Type IV<td rowspan="2">Wood shingles<td rowspan="2">1507.8ASTM D226 Type I or IIASTM D226 Type IIASTM D4869 Type I, II, III or IVASTM D4869 Type IV<td rowspan="2">Wood shakes<td rowspan="2">1507.9ASTM D226 Type I or IIASTM D226 Type IIASTM D4869 Type I, II, III or IVASTM D4869 Type IV<td rowspan="2">Photovoltaic shingles<td rowspan="2">1507.17ASTM D226 Type I or IIASTM D226 Type IIASTM D4869 Type I, II, III or IVASTM D4869 Type IV</table>
+
+===== Page 1497 =====
+TABLE 1507.1.1(2)
+UNDERLAYMENT APPLICATION
+
+<table>ROOF COVERINGSECTIONMAXIMUM BASIC DESIGN WIND SPEED, V &lt; 62.5 m/sMAXIMUM BASIC DESIGN WIND SPEED, V ≥ 62.5 m/sAsphalt shingles1507.2For roof slopes from two units vertical in 12 units horizontal (2:12), up to four units vertical in 12 units horizontal (4:12), underlayment shall be two layers applied as follows: Apply a 475 mm strip of underlayment felt parallel to and starting at the eaves. Starting at the eave, apply 900 mm-wide sheets of underlayment, overlapping successive sheets 475 mm. End laps shall be 100 mm and shall be offset by 1800 mm. Distortions in the underlayment Wind Speed, V &lt; 62.5 m/s except shall not interfere with the ability of the shingles to seal. All laps shall be not less than 100 mm. For roof slopes from two units vertical in 12 units horizontal (4:12) or greater, underlayment shall be one layer applied as follows: Underlayment shall be applied shingle fashion, parallel to and starting from the eave and lapped 50 mm, Distortions in the underlayment shall not interfere with the ability of the shingles to seal. End laps shall be 100 mm and shall be offset by 1800 mm.Same as Maximum Basic Design Wind Speed, V &lt; 62.5 m/s except all laps shall be not less than 100 mm.Clay and concrete tile1507.3For roof slopes from two and one-half units vertical in 12 units horizontal (2:12), up to four units vertical in 12 units horizontal (4:12), underlayment shall be not forever than two layers applied as follows: Starting at the eave, a 475 mm strip of underlayment shall be applied parallel with the eave. Starting at the eave, a 900 mm-wide strip of underlayment felt shall be applied, overlapping successive sheets 475 mm. End laps shall be 100 mm and shall be offset by 1800 mm. For roof slopes of four units vertical in 12 units horizontal (4:12) or greater, underlayment shall be one layer applied as follows: Underlayment shall be applied shingle fashion, parallel to and starting from the eave and lapped 50 mm. End laps shall be 100 mm and shall be offset by 1800 mm.Same as Maximum Basic Design Wind Speed, V &lt; 62.5 m/s except all laps shall be not less than 100 mm.Metal panels1507.4<td rowspan="5">For roof slopes from two units vertical in 12 units horizontal (2:12), up to four units vertical in 12 units horizontal (4:12), underlayment shall be two layers applied as follows: Apply a 475 mm strip of underlayment felt parallel to and starting at the eaves. Starting at the eave, apply 900 mm-wide sheets of underlayment, overlapping successive sheets 475 mm. End laps shall be 100 mm and shall be offset by 1800 mm. For roof slopes of four units vertical in 12 units horizontal (4:12) or greater, underlayment shall be one layer applied as follows: Underlayment shall be applied shingle fashion, parallel to and starting from the eave and lapped 100 mm. End laps shall be 100 mm and shall be offset by 1800 mm.<td rowspan="5">For roof slopes from two units vertical in 12 units horizontal (2:12), up to four units vertical in 12 units horizontal (4:12), underlayment shall be two layers applied as follows: Apply a 475 mm strip of underlayment felt parallel to and starting at the eaves. Starting at the eave, apply 900 mm-wide sheets of underlayment, overlapping successive sheets 475 mm. End laps shall be 100 mm and shall be offset by 1800 mm. For roof slopes of four units vertical in 12 units horizontal (4:12) or greater, underlayment shall be one layer applied as follows: Underlayment shall be applied shingle fashion, parallel to and starting from the eave and lapped 100 mm. End laps shall be 100 mm and shall be offset by 1800 mm.Metal shingles1507.5Mineral-surfaced roofing1507.6Slate shingles1507.7Wood shakes1507.8Wood shingles1507.9Apply in accordance with the manufacturer&#x27;s installation instructionsSame as Maximum Basic Design Wind Speed, V &lt; 62.5 m/s except all laps shall be not less than 100 mm.</table>
+
+===== Page 1498 =====
+TABLE 1507.1.1(3)
+
+UNDERLAYMENT ATTACHMENT
+
+<table>ROOF COVERINGSECTIONMAXIMUM BASIC DESIGN WIND SPEED, V &lt; 62.5 m/sMAXIMUM BASIC DESIGN WIND SPEED, V ≥ 62.5 m/sAsphalt shingles1507.2<td rowspan="3">The underlayment shall be attached with corrosion-resistant fasteners in a grid pattern of 300 mm between side laps with a 150 mm spacing at side and end laps.<td rowspan="3">Underlayment shall be attached with corrosion-resistant fasteners in a grid pattern of 300 mm between side laps with a 150 mm spacing at side and end laps.Clay and concrete tile1507.3Photovoltaic shingles1507.17Metal roof panels1507.4<td rowspan="5">The underlayment shall be attached with corrosion-resistant fasteners in a grid pattern of 300 mm between side laps with a 150 mm spacing at side and end laps.<td rowspan="5">Underlayment shall be attached with corrosion-resistant fasteners in a grid pattern of 300 mm between side laps with a 150 mm spacing at side and end laps.Metal roof shingles1507.5Mineral surfaced Roll roofing1507.6Slate shingles1507.7Wood shingles1507.8Wood shakes1507.9The underlayment shall be attached with corrosion-resistant fasteners in a grid pattern of 300 mm between side laps with a 150 mm spacing at side and end laps.Underlayment shall be attached with corrosion-resistant fasteners in a grid pattern of 300 mm between side laps with a 150 mm spacing at side and end laps.</table>
+
+TABLE 1507.2.8.2
+
+VALLEY LINING MATERIAL
+
+<table>MATERIALMINIMUM THICKNESSGAGEWEIGHTAluminum0.61 mm——Cold-rolled copper0.55 mm-ASTM B370, 4.88 kg/m²Copper——454 gGalvanized steel0.455 mm26 (zinc coated G90)—High-yield copper0.41 mm-ASTM B370, 3.66 kg/m²Lead——1.135 kgLead-coated copper0.55 mm—ASTM B101, 4.88 kg/m²Lead-coated high-yield copper0.41 mm—ASTM B101, 3.66 kg/m²Zinc alloy0.686 mm——Stainless steel—28—Painted terne——9.08 kg</table>
+
+TABLE 1505.1 \( ^{a,b} \)
+
+MINIMUM ROOF COVERING CLASSIFICATION FOR
+
+TYPES OF CONSTRUCTION
+
+<table>IAIBIIAIIBIIIAIIIBIVVAVBBBBC°BC°BBC°</table>
+
+Unless otherwise required for Urban Wildland Interface or due to the location of the building within a fire district in accordance with Appendix D.
+
+Nonclassified roof coverings shall be permitted on buildings of Group R-3 and Group U occupancies, where there is a minimum fire-separation distance of 1.8 meters measured from the leading edge of the roof.
+
+Buildings that are not more than two stories in height and having not more than  \( 560 \, m^{2} \)  of projected roof area and where there is a minimum 3.0 meters fire-separation distance from the leading edge of the roof to a lot line on all sides of the building, except for street fronts or public ways, shall be permitted to have roofs of No. 1 cedar or redwood shakes and No. 1 shingles accordance with Section 1505.7.
+
+===== Page 1499 =====
+TABLE 1507.3.7
+
+CLAY AND CONCRETE TILE ATTACHMENT \( ^{a,b,c} \)
+
+<table><td colspan="5">General - Clay or Concrete Roof TileMaximum Allowable Stress Design Wind Speed, V_{asd} (m/s)Mean roof height (meters)Roof slope up to &lt; 3:12Roof slope 3:12 and over380-18Two fasteners per tile. Only one fastener on slopes of 7:12 and less for tiles with installed weight exceeding 0.36 kN/m^{2} having a width no greater than 400 mm.440-12One fastener per tile. Flat tile without vertical laps, two fasteners per tile.Two fasteners per tile. Only one fastener on slopes of 7:12 and less for tiles with installed weight exceeding 0.36 kN/m^{2} having a width no greater than 400 mm.44&gt; 12-18The head of all tiles shall be nailed. The nose of all eave tiles shall be fastened with approved clips. All rake tiles shall be nailed with two nails. The nose of all ridge, hip and rake tiles shall be set in a bead of roofer&#x27;s mastic.The head of all tiles shall be nailed. The nose of all eave tiles shall be fastened with approved clips. All rake tiles shall be nailed with two nails. The nose of all ridge, hip and rake tiles shall be set in a bead of roofer&#x27;s mastic.490-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.540-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.580-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.All0-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.<td colspan="5">Interlocking clay or concrete roof tile with projecting anchor lugs \( ^{d,e} \)  (Installations on spaced/solid sheathing with battens or spaced sheathing)Maximum Allowable Stress Design Wind Speed, V_{asd} (m/s)Mean roof height (meters)Roof slope up to &lt; 5:12Roof slope 5:12 &lt; 12:12Roof slope 5:12 &lt; 12:12380-18Fasteners are not required. One fastener per tile every other tile with installed weight row. All perimeter tiles require one fastener. Tiles with installed weight less than 0.43 kN/m^{2} require a minimum of one fastener per tile.One fastener per tile every other tile with installed weight row. All perimeter tiles require one fastener. Tiles with installed weight less than 0.43 kN/m^{2} require a minimum of one fastener per tile.One fastener required for every tile. Tiles with installed weight less than 0.43 kN/m^{2} require a minimum of one fastener per tile.440-12Tiles with installed weight row. All perimeter tiles require one fastener. Tiles with installed weight less than 0.43 kN/m^{2} require a minimum of one fastener per tile.One fastener per tile every other tile with installed weight row. All perimeter tiles require one fastener. Tiles with installed weight less than 0.43 kN/m^{2} require a minimum of one fastener per tile.One fastener required for every tile. Tiles with installed weight less than 0.43 kN/m^{2} require a minimum of one fastener per tile.44&gt; 12-18The head of all tiles shall be nailed. The nose of all eave tiles shall be fastened with approved clips. All rake tiles shall be nailed with two nails. The nose of all ridge, hip and rake tiles shall be set in a bead of roofer&#x27;s mastic.The head of all tiles shall be nailed. The nose of all eave tiles shall be fastened with approved clips. All rake tiles shall be nailed with two nails. The nose of all ridge, hip and rake tiles shall be set in a bead of roofer&#x27;s mastic.490-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.540-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.580-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.All0-18The fastening system shall resist the wind forces in SBC 301.The fastening system shall resist the wind forces in SBC 301.</table>
+
+a. Minimum fastener size. Corrosion-resistant nails not less than No. 11 gage with 8 mm head. Fasteners shall be long enough to penetrate into the sheathing 19 mm or through the thickness of the sheathing, whichever is less. Attaching wire for clay and concrete tile shall not be smaller than 2 mm.
+
+b. Not applicable to KSA.
+
+c. Roof slopes greater than 24:12. The nose of all tiles shall be securely fastened.
+
+d. Horizontal battens. Battens shall be not less than 25 by 50 mm nominal. Provisions shall be made for drainage by a minimum of 3.2 mm riser at each nail or by 1200 mm-long battens with at least a 12.5 mm separation between battens. Horizontal battens are required for slopes over 7:12.
+
+e. Perimeter fastening areas include three tile courses but not less than 900 mm from either side of hips or ridges and edges of eaves and gable rakes.
+
+f.  \( V_{asd} \)  shall be determined in accordance with Chapter 20.
+
+===== Page 1500 =====
+TABLE 1507.4.3(1)
+
+METAL ROOF COVERINGS
+
+<table>ROOF COVERING TYPESTANDARD APPLICATION RATE/THICKNESSAluminumASTM B 209, 0.61 mm minimum thickness for roll-formed panels and 0.48 mm minimum thickness for press-formed shingles.Aluminum-zinc alloy coated steelASTM A 792 AZ 50Cold-rolled copperASTM B370 minimum 0.0416 kg/m² and 0.0312 kg/m² high yield copper for metal-sheet roof covering systems: 3.66 kg/m² for preformed metal shingle systems.Copper0.0416 kg/m² for metal-sheet roof-covering systems; 0.0312 kg/m² for preformed metal shingle systems.Galvanized steelASTM A 653 G-90 zinc-coatedaLead-coated copperASTM B 101Hard lead9.76 kg/m²Soft lead14.646 kg/m²Prepainted steelASTM A 755Stainless steelASTM A240, 300 Series AlloysSteelASTM A924Terre (tin) and terme-coated stainlessTerme coating of 18.16 kg per double base box, field painted where applicable in accordance with manufacturer&#x27;s installation instructions.Zinc0.7 mm minimum thickness; 99.995% electrolytic high-grade zinc with alloy additives of copper (0.08% - 0.20%), titanium (0.07% - 0.12%) and aluminum (0.015%).</table>
+
+a. For Group U buildings, the minimum coating thickness for ASTM A653 galvanized steel roofing shall be G-60.
+
+TABLE 1507.4.3(2)
+
+MINIMUM CORROSION RESISTANCE
+
+<table>55% Aluminum-zinc alloy coated steelASTM A792 AZ 505% Aluminum alloy-coated steelASTM A875 GF60Aluminum-coated steelASTM A463 T2 65Galvanized steelASTM A653 G-90Prepainted steelASTM A755 \( ^{a} \)</table>
+
+a. Paint systems in accordance with ASTM A755 shall be applied over steel products with corrosion-resistant coatings complying with ASTM A792, ASTM A875, ASTM A463 or ASTM A653.
+
+TABLE 1507.7.6
+
+SLATE SHINGLE HEADLAP
+
+<table>SLOPEHEADLAP4:12 &lt; slope &lt; 8:12100 mm8:12 &lt; slope &lt; 20:1275 mmslope &gt; 20:1250 mm</table>
+
+===== Page 1501 =====
+TABLE 1507.8
+
+WOOD SHINGLE AND SHAKE INSTALLATION
+
+<table>ROOF ITEMWOOD SHINGLESWOOD SHAKES1. Roof slopeWood shingles shall be installed on slopes of three units vertical in 12 units horizontal (3:12) or greater.Wood shakes shall be installed on slopes of four units vertical in 12 units horizontal (4:12) or greater.2. Deck requirement——Temperate climateShingles shall be applied to roofs with solid or spaced sheathing. Where spaced sheathing is used, sheathing boards shall not be less than 25 mm × 100 mm nominal dimensions and shall be spaced on center equal to the weather exposure to coincide with the placement of fasteners.Shakes shall be applied to roofs with solid or spaced sheathing. Where spaced sheathing is used, sheathing boards shall not be less than 25 mm × 100 mm nominal dimensions and shall be spaced on center equal to the weather exposure to coincide with the placement of fasteners. When 25 mm × 100 mm spaced sheathing is installed at 250 mm, boards must be installed between the sheathing boards.3. InterlaymentNo requirements.Interlayment shall comply with ASTM D 226, Type 1.4. Underlayment——Temperate climateUnderlayment shall comply with Section 1507.1.1Underlayment shall comply with Section 1507.1.1.5. Application——AttachmentFasteners for wood shingles shall be corrosion resistant with a minimum penetration of 19 mm into the sheathing. For sheathing less than 12.5 mm thick, the fasteners shall extend through the sheathing.Fasteners for wood shakes shall be corrosion resistant with a minimum penetration of 19 mm into the sheathing. For sheathing less than 12.5 mm thick, the fasteners shall extend through the sheathing.No. of fastenersTwo per shingle.Two per shake.ExposureWeather exposures shall not exceed those set forth in Table 1507.8.7.Weather exposures shall not exceed those set forth in Table 1507.9.8.MethodShingles shall be laid with a side lap of not less than 40 mm between joints in courses, and no two joints in any three adjacent courses shall be in direct alignment. Spacing between shingles shall be 6.4 to 9.5 mm.Shakes shall be laid with a side lap of not less than 40 mm between joints in adjacent courses. Spacing between shakes shall not be less than 9.5 mm or more than 16 mm for shakes and tapersawn shakes of naturally durable wood and shall be 6.4 to 9.5 mm for preservative taper sawn shakes.FlashingIn accordance with Section 1507.8.8.In accordance with Section 1507.9.9.</table>
+
+TABLE 1507.8.5
+
+WOOD SHINGLE MATERIAL REQUIREMENTS
+
+<table>MATERIALAPPLICABLE MINIMUM GRADESGRADING RULESWood shingles of naturally durable wood1, 2 or 3CSSB</table>
+
+CSSB = Cedar Shake and Shingle Bureau
+
+===== Page 1502 =====
+TABLE 1507.8.7
+
+WOOD SHINGLE WEATHER EXPOSURE AND ROOF SLOPE
+
+<table><td rowspan="2">ROOFING MATERIAL<td rowspan="2">LENGTH<td rowspan="2">GRADE<td colspan="2">EXPOSURE3:12 pitch to &lt; 4:124:12 pitch or steeper<td rowspan="6">Shingles of naturally durable wood<td rowspan="3">400 mmNo. 195 mm125 mmNo. 290 mm100 mmNo. 375 mm90 mm<td rowspan="3">450 mmNo. 1108 mm140 mmNo. 2100 mm115 mmNo. 390 mm100 mm<td rowspan="3">600 mmNo. 1145 mm190 mmNo. 2140 mm165 mmNo. 3125 mm140 mm</table>
+
+TABLE 1507.9.6
+
+WOOD SHAKE MATERIAL REQUIREMENTS
+
+<table>MATERIALMINIMUM GRADESAPPLICABLE GRADING RULESWood shakes of naturally durable wood1CSSBTaper sawn shakes of naturally durable wood1 or 2CSSBPreservative-treated shakes and shingles of naturally durable wood1CSSBFire-retardant-treated shakes and shingles of naturally durable wood1CSSBPreservative-treated taper sawn shakes of Southern pine treated in accordance with AWPA U1 (Commodity Specification A, Special Requirement 4.6)1 or 2TFS</table>
+
+TFS = Forest Products Laboratory of the Texas Forest Services.
+
+TABLE 1507.9.8
+
+WOOD SHAKE WEATHER EXPOSURE AND ROOF SLOPE
+
+<table>ROOFING MATERIALLENGTHGRADEEXPOSURE4:12 PITCH OR STEEPERShakes of naturally durable wood450 mm600 mmNo. 1No. 1190 mm250 mm a<td rowspan="3">Preservative-treated taper sawn shakes of Southern yellow pine450 mm600 mmNo. 1No. 1190 mm250 mm450 mm600 mmNo. 2No. 2140 mm190 mm450 mm600 mmNo. 1No. 1190 mm250 mm<td rowspan="2">Taper sawn shakes of naturally durable wood450 mm600 mmNo. 2No. 2140 mm190 mm450 mm600 mmNo. 1No. 1190 mm250 mm</table>
+
+a For 600 mm by 9.5 mm handsplit shakes, the maximum exposure is 190 mm.
+
+===== Page 1503 =====
+TABLE 1507.10.2
+
+BUILT-UP ROOFING MATERIAL STANDARDS
+
+<table>MATERIAL STANDARDSTANDARDAcrylic coatings used in roofingASTM D 6083Aggregate surfacingASTM D 1863Asphalt adhesive used in roofingASTM D 3747Asphalt cements used in roofingASTM D 3019; D 2822; D 4586Asphalt-coated glass fiber base sheetASTM D 4601Asphalt coatings used in roofingASTM D 1227; D 2823; D 4479Asphalt glass feltASTM D 2178Asphalt primer used in roofingASTM D 41Asphalt-saturated and asphalt-coated organic felt base sheetASTM D 2626Asphalt-saturated organic felt (perforated)ASTM D 226Asphalt used in roofingASTM D 312Coal-tar cements used in roofingASTM D 4022; D 5643Coal-tar saturated organic feltASTM D 227Coal-tar pitch used in roofingASTM D 450; Type I or IICoal-tar primer used in roofing, damproofing and waterproofingASTM D 43Glass mat, coal tarASTM D 4990Glass mat, venting typeASTM D 4897Mineral-surfaced inorganic cap sheetASTM D 3909Thermoplastic fabrics used in roofingASTM D 5665; D 5726</table>
+
+TABLE 1507.12.2
+
+SINGLE-PLY ROOFING MATERIAL STANDARDS
+
+<table>MATERIALMATERIAL STANDARDChlorosulfonated polyethylene (CSPE) or poly-isobutylene (PIB)ASTM D5019Ethylene propylene diene monomer (EPDM)ASTM D4637Ketone Ethylene Ester (KEE)ASTM D6754Polyvinyl Chloride (PVC) or (PVC/KEE)ASTM D4434Thermoplastic polyolefin (TPO)ASTM D6878</table>
+
+TABLE 1507.13.3
+
+PROTECTIVE COATING MATERIAL STANDARDS
+
+<table>MATERIALSTANDARDAcrylic coatingASTM D6083Silicone coatingASTM D6694Moisture-cured polyurethane coatingASTM D6947</table>
+
+TABLE 1508.2
+
+MATERIAL STANDARDS FOR ROOF INSULATION
+
+<table>Cellular glass boardASTM C552Composite boardsASTM C1289, Type III, IV, V or VIIExpanded polystyreneASTM C578Extruded polystyreneASTM C578Fiber-reinforced gypsum boardASTM C1278Glass-faced gypsum boardASTM C1177High-density polyisocyanurate boardASTM C1289, Type II, Class 4Mineral fiber insulation boardASTM C726Perlite boardASTM C728Polyisocyanate boardASTM C1289, Type I or IIWood fiberboardASTM C208, Type II</table>
+
+===== Page 1504 =====
+TABLE 1509.2
+ROOF COATING MATERIAL STANDARDS
+
+<table>MATERIALSTANDARDAcrylic coatingASTM D6083Asphaltic emulsion coatingASTM D1227Asphalt coatingASTM D2823Asphalt roof coatingASTM D4479Aluminum-pigmented asphalt coatingASTM D2824Silicone coatingASTM D6694Moisture-cured polyurethane coatingASTM D6947</table>
+
+===== Page 1505 =====
+This page left intentionally blank
+

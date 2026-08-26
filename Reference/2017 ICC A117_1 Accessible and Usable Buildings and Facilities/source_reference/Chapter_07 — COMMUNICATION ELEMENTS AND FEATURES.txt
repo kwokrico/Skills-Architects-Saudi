@@ -1,0 +1,752 @@
+# CHAPTER 7
+COMMUNICATION ELEMENTS AND FEATURES
+
+## SECTION 701
+
+## GENERAL
+
+## 701.1 Scope.
+
+Communications elements and features required to be accessible by the scoping provisions adopted by the administrative authority shall comply with the applicable provisions of Chapter 7.
+
+## SECTION 702
+
+## ALARMS INSIGHTS
+
+
+## 702.1 General. INSIGHTS
+
+Audible and visible alarms and notification appliances that are part of a building fire alarm system shall be installed in accordance with NFPA-72 listed in Section 106.2.4, be powered by a commercial light and power source, be permanently connected to the wiring of the premises electric system and be permanently installed.
+
+Exception: Audible and visible notification appliances provided within dwelling or sleeping units shall comply with Sections 1106.2 through 1106.4.4.
+
+
+## SECTION 703
+
+## SIGNS
+
+## 703.1 General.
+
+Signs shall comply with Section 703. Tactile signs shall contain both raised characters and braille. Where signs with both visual and raised characters are required, either one sign with both visual and raised characters, or two separate signs, one with visual, and one with raised characters, shall be provided.
+
+## 703.1.1 Designations.
+
+Interior and exterior signs identifying permanent rooms and spaces shall comply with Sections 703.1, 703.2, and 703.3.
+
+Exception: Exterior signs that are not located at the door to the space they serve shall not be required to comply with Section 703.3.
+
+## 703.1.2 Directional and informational signs.
+
+Signs that provide direction to or information about interior spaces and facilities of the site shall comply with Section 703.2.
+
+## 703.1.3 Pictograms.
+
+Where pictograms are provided as designations of permanent interior rooms and spaces, the pictograms shall comply with Section 703.5 and shall have text descriptors located directly below the pictogram field and complying with Sections 703.2 and 703.3.
+
+Exception: Pictograms that provide information about a room or space, such as "No Smoking," occupant logos, and the International Symbol of Accessibility, shall not be required to have text descriptors.
+
+## 703.2 Visual characters. INSIGHTS
+
+
+## 703.2.1 General.
+
+Visual characters shall comply with the following:
+
+1. Visual characters that also serve as raised characters shall comply with Section 703.3, or
+
+2. Visual characters on VMS signage shall comply with Section 703.7, or
+
+3. Visual characters not covered in items 1 and 2 shall comply with Section 703.2.
+
+Exception: The visual and raised requirements of item 1 shall be permitted to be provided by two separate signs that provide corresponding information provided one sign complies with Section 703.2 and the second sign complies with Section 703.3.
+
+## 703.2.2 Case.
+
+Characters shall be uppercase, lowercase, or a combination of both.
+
+## 703.2.3 Style.
+
+Characters shall be conventional in form. Characters shall not be italic, oblique, script, highly decorative, or of other unusual forms.
+
+## 703.2.4 Character height. INSIGHTS
+
+The uppercase letter "I" shall be used to determine the allowable height of all characters of a font. The uppercase letter "I" of the font shall have a minimum height complying with Table 703.2.4. Viewing distance shall be measured as the horizontal distance between the character and an obstruction preventing further approach towards the sign.
+
+Exception: In assembly seating where the maximum viewing distance is 100 feet (30.5 m) or greater, the height of the uppercase "I" of fonts shall be permitted to be 1 inch (25 mm) for every 30 feet (9145 mm) of viewing distance, provided the character height is 8 inches (205 mm) minimum. Viewing distance shall be measured as the horizontal distance between the character and where someone is expected to view the sign.
+
+
+TABLE 703.2.4—VISUAL CHARACTER HEIGHT
+
+<table>Height above Floor to Baseline of Character \( ^{1} \)Horizontal Viewing DistanceMinimum Character Height<td rowspan="2">40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)Less than 6 feet (1830 mm)\( ^{5}/_{8} \)  inch (16 mm)6 feet (1830 mm) and greater\( ^{5}/_{8} \)  inch (16 mm), plus  \( ^{1}/_{8} \)  inch (3.2 mm) per foot (305 mm) of viewing distance above 6 feet (1830 mm)<td rowspan="2">Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm)Less than 15 feet (4570 mm)2 inches (51 mm)15 feet (4570 mm) and greater2 inches (51 mm), plus  \( ^{1}/_{8} \)  inch (3.2 mm) per foot (305 mm) of viewing distance above 15 feet (4570 mm)<td rowspan="2">Greater than 120 inches (3050 mm)Less than 21 feet (6400 mm)3 inches (75 mm)21 feet (6400 mm) and greater3 inches (75 mm), plus  \( ^{1}/_{8} \)  inch (3.2 mm) per foot (305 mm) of viewing distance above 21 feet (6400 mm)</table>
+
+1. The vertical height is measured from the floor of the viewing position to the baseline of the highest line of characters.
+
+## 703.2.5 Character width.
+
+The uppercase letter "O" shall be used to determine the allowable width of all characters of a font. The width of the uppercase letter "O" of the font shall be 55 percent minimum and 110 percent maximum of the height of the uppercase "I" of the font.
+
+## 703.2.6 Stroke width.
+
+The uppercase letter "I" shall be used to determine the allowable stroke width of all characters of a font. The stroke width shall be 10 percent minimum and 30 percent maximum of the height of the uppercase "I" of the font.
+
+## 703.2.7 Character spacing.
+
+Spacing shall be measured between the two closest points of adjacent characters within a message, excluding word spaces. Spacing between individual characters shall be 10 percent minimum and 35 percent maximum of the character height.
+
+## 703.2.8 Line spacing.
+
+Spacing between the baselines of separate lines of characters within a message shall be 135 percent minimum and 170 percent maximum of the character height.
+
+Exception: In assembly seating where the maximum viewing distance is 100 feet (30.5 m) or greater, the spacing between the baselines of separate lines of characters within a message shall be permitted to be 120 percent minimum and 170 percent maximum of the character height.
+
+## 703.2.9 Height above floor.
+
+Visual characters shall be 40 inches (1015 mm) minimum above the floor of the viewing position, measured to the baseline of the character. Heights shall comply with Table 703.2.4, based on the size of the characters on the sign.
+
+Exception: Visual characters indicating elevator car controls shall not be required to comply with Section 703.2.9.
+
+## 703.2.10 Finish and contrast.
+
+Characters and their background shall have a nonglare finish. Characters shall contrast with their background, with either light characters on a dark background, or dark characters on a light background.
+
+## 703.2.10.1 Nonglare finish. INSIGHTS
+
+The glare from coverings, the finish of characters and their background shall not exceed 19 gloss units (gu) as measured on a 60-degree gloss meter.
+
+
+## 703.3 Raised characters.
+
+## 703.3.1 General.
+
+Raised characters shall comply with Section 703.3, and shall be duplicated in braille complying with Section 703.4.
+
+## 703.3.2 Depth. INSIGHTS
+
+Raised characters shall be raised  \( \frac{1}{32} \)  inch (0.8 mm) minimum above their background.
+
+
+## 703.3.3 Case. INSIGHTS
+
+Characters shall be uppercase.
+
+
+## 703.3.4 Style. INSIGHTS
+
+Characters shall be sans serif. Characters shall not be italic, oblique, script, highly decorative or of other unusual forms.
+
+
+## 703.3.5 Character height. INSIGHTS
+
+The uppercase letter "I" shall be used to determine the allowable height of all characters of a font. The height of the uppercase letter "I" of the font, measured vertically from the baseline of the character, shall be  \( \frac{5}{8} \)  inch (16 mm) minimum, and 2 inches (51 mm) maximum.
+
+Exception: Where separate raised and visual characters with the same information are provided, the height of the raised uppercase letter "I" shall be permitted to be  \( \frac{1}{2} \)  inch (13 mm) minimum.
+
+
+## FIGURE 703.3.5 CHARACTER HEIGHT
+
+## 703.3.6 Character width. INSIGHTS
+
+The uppercase letter "O" shall be used to determine the allowable width of all characters of a font. The width of the uppercase letter "O" of the font shall be 55 percent minimum and 110 percent maximum of the height of the uppercase "I" of the font.
+
+
+## 703.3.7 Stroke width.
+
+Raised character stroke width shall comply with Section 703.3.7. The uppercase letter "I" of the font shall be used to determine the allowable stroke width of all characters of a font.
+
+## 703.3.7.1 Maximum.
+
+The stroke width shall be 15 percent maximum of the height of the uppercase letter "I" measured at the top surface of the character, and 30 percent maximum of the height of the uppercase letter "I" measured at the base of the character.
+
+## 703.3.7.2 Minimum.
+
+When characters are both visual and raised, the stroke width shall be 10 percent minimum of the height of the uppercase letter "I".
+
+## 703.3.8 Character spacing.
+
+Character spacing shall be measured between the two closest points of adjacent raised characters within a message, excluding word spaces. Spacing between individual raised characters shall be  \( \frac{1}{8} \)  inch (3.2 mm) minimum measured at the top surface of the characters,  \( \frac{1}{16} \)  inch (1.6 mm) minimum measured at the base of the characters, and four times the raised character stroke width maximum. Characters shall be separated from raised borders and decorative elements  \( \frac{3}{8} \)  inch (9.5 mm) minimum.
+
+## 703.3.9 Line spacing.
+
+Spacing between the baselines of separate lines of raised characters within a message shall be 135 percent minimum and 170 percent maximum of the raised character height.
+
+## 703.3.10 Height above floor. INSIGHTS
+
+Raised characters shall be 48 inches (1220 mm) minimum above the floor, measured to the baseline of the lowest raised character and 60 inches (1525 mm) maximum above the floor, measured to the baseline of the highest raised character.
+
+Exception: Raised characters for elevator car controls shall not be required to comply with Section 703.3.10.
+
+
+Note: For braille character mounting height see Section 703.4.5
+
+## FIGURE 703.3.10 HEIGHT OF RAISED CHARACTERS ABOVE FLOOR
+
+## 703.3.11 Location. INSIGHTS
+
+Where a sign containing raised characters and braille is provided at a door, the sign shall be alongside the door at the latch side. Where a sign containing raised characters and braille is provided at double doors with one active leaf, the sign shall be located on the inactive leaf. Where a sign containing raised characters and braille is provided at double doors with two active leaves, the sign shall be to the right of the right-hand door. Where there is no wall space on the latch side of a single door, or to the right side of double doors, signs shall be on the nearest adjacent wall. Signs containing raised characters and braille shall be located so that a clear floor area 18 inches (455 mm) minimum by 18 inches (455 mm) minimum, centered on the raised characters is provided beyond the arc of any door swing between the closed position and 45 degree open position.
+
+Exception: Signs containing raised characters and braille shall be permitted on the push side of doors with closers and without hold-open devices.
+
+
+## FIGURE 703.3.11 LOCATION OF SIGNS AT DOORS
+
+## 703.3.12 Finish and contrast.
+
+Characters and their background shall have a nonglare finish. Characters shall contrast with their background with either light characters on a dark background, or dark characters on a light background.
+
+Exception: Where separate raised characters and visual characters with the same information are provided, raised characters shall not be required to have nonglare finish or to contrast with their background.
+
+## 703.4 Braille INSIGHTS
+
+
+## 703.4.1 General.
+
+Braille shall be contracted (Grade 2) braille and shall comply with Section 703.4.
+
+## 703.4.2 Uppercase letters.
+
+The indication of an uppercase letter or letters shall only be used before the first word of sentences, proper nouns and names, individual letters of the alphabet, initials or acronyms.
+
+## 703.4.3 Dimensions.
+
+Braille dots shall have a domed or rounded shape and shall comply with Table 703.4.3.
+
+FIGURE 703.4.3 BRAILLE MEASUREMENT
+
+TABLE 703.4.3—BRAILLE DIMENSIONS
+
+<table>Measurement rangeMinimum in inchesMaximum in inchesDot base diameter0.059 (1.5 mm) to 0.063 (1.6 mm)Distance between two dots in the same cell0.090 (2.3 mm) to 0.100 (2.5 mm)Distance between corresponding dots in adjacent cells \( ^{1} \)0.241 (6.1 mm) to 0.300 (7.6 mm)Dot height0.025 (0.6 mm) to 0.037 (0.9 mm)Distance between corresponding dots from one cell directly below \( ^{1} \)0.395 (10.0 mm) to 0.400 (10.2 mm)</table>
+
+ \( ^{1} \) Measured center to center
+
+## 703.4.4 Position.
+
+Braille shall be below the corresponding text. If text is multilined, braille shall be placed below entire text. Braille shall be separated  \( \frac{3}{8} \)  inch (9.5 mm) minimum from any other raised characters and  \( \frac{3}{8} \)  inch (9.5 mm) minimum from raised borders and decorative elements. Braille provided on elevator car controls shall be separated  \( \frac{3}{16} \)  inch (4.8 mm) minimum either directly below or adjacent to the corresponding raised characters or symbols.
+
+FIGURE 703.4.4 POSITION OF BRAILLE
+
+## 703.4.5 Mounting height.
+
+Braille shall be 48 inches (1220 mm) minimum and 60 inches (1525 mm) maximum above the floor, measured to the baseline of the braille cells.
+
+Exception: Elevator car controls shall not be required to comply with this section.
+
+Note: For raised character mounting height see Section 703.3.10
+
+FIGURE 703.4.5 HEIGHT OF BRAILLE CHARACTERS ABOVE FLOOR
+
+## 703.5 Pictograms. INSIGHTS
+
+
+FIGURE 703.5 PICTOGRAM FIELD
+
+703.5.1 General.
+Pictograms shall comply with Section 703.5.
+
+703.5.2 Pictogram field.
+Pictograms shall have a field 6 inches (150 mm) minimum in height. Characters or braille shall not be located in the pictogram field.
+
+703.5.3 Finish and contrast.
+Pictograms and their fields shall have a nonglare finish. Pictograms shall contrast with their fields, with either a light pictogram on a dark field or a dark pictogram on a light field.
+
+703.5.3.1 Nonglare finish. INSIGHTS
+
+The glare from coverings and the finish of pictograms and their fields shall not exceed 19 gloss units (gu) as measured on a 60-degree gloss meter.
+
+
+703.5.3.2 Character contrast.
+Characters shall contrast with their background, with either light characters on a dark background or dark characters on a light background.
+
+703.6 Symbols of accessibility. INSIGHTS
+
+
+703.6.1 General.
+Symbols of accessibility shall comply with Section 703.6.
+
+703.6.2 Finish and contrast.
+
+Symbols of accessibility and their backgrounds shall have a nonglare finish. Symbols of accessibility shall contrast with their backgrounds, with either a light symbol on a dark background or a dark symbol on a light background.
+
+703.6.2.1 Nonglare finish. INSIGHTS
+
+The glare from coverings and the finish of symbols of accessibility and their backgrounds shall not exceed 19 gloss units (gu) as measured on a 60-degree gloss meter.
+
+
+703.6.3 Symbols.
+
+703.6.3.1 International symbol of accessibility.
+
+The International Symbol of Accessibility shall comply with Figure 703.6.3.1.
+
+FIGURE 703.6.3.1 INTERNATIONAL SYMBOL FOR ACCESSIBILITY
+
+703.6.3.2 International symbol of TTY.
+
+The International Symbol of TTY shall comply with Figure 703.6.3.2.
+
+## 703.6.3.3 Assistive listening systems.
+
+Assistive listening systems shall be identified by the International Symbol of Access for Hearing Loss complying with Figure 703.6.3.3.
+
+FIGURE 703.6.3.3 INTERNATIONAL SYMBOL OF ACCESS FOR HEARING LOSS
+
+## 703.6.3.4 Volume-controlled telephones.
+
+Telephones with volume controls shall be identified by a pictogram of a telephone handset with radiating sound waves on a square field complying with Figure 703.6.3.4.
+
+FIGURE 703.6.3.4 VOLUME-CONTROLLED TELEPHONE
+
+703.7 Variable message signs.
+
+## 703.7.1 General.
+
+High resolution variable message sign (VMS) characters shall comply with Sections 703.2 and 703.7.12 through 703.7.14. Low resolution variable message sign (VMS) characters shall comply with Section 703.7.
+
+Exception: Theatrical performance-related VMS signs, including but not limited to, text and translation delivery systems, surtitles and subtitles, shall not be required to comply with this section.
+
+## 703.7.2 Case.
+
+Low resolution VMS characters shall be uppercase.
+
+## 703.7.3 Style.
+
+Low resolution VMS characters shall be conventional in form, shall be san serif, and shall not be italic, oblique, script, highly decorative, or of other unusual forms.
+
+## 703.7.4 Character height. INSIGHTS
+
+The uppercase letter “I” shall be used to determine the allowable height of all low resolution VMS characters of a font. Viewing distance shall be measured as the horizontal distance between the character and an obstruction preventing further approach towards the sign. The uppercase letter “I” of the font shall have a minimum height complying with Table 703.7.4.
+
+Exception: In assembly seating where the maximum viewing distance is 100 feet (30.5 m) or greater, the height of the uppercase "I" of low resolution VMS fonts shall be permitted to be 1 inch (25 mm) for every 30 feet (9145 mm) of viewing distance, provided the character height is 8 inches (205 mm) minimum. Viewing distance shall be measured as the horizontal distance between the character and where someone is expected to view the sign.
+
+
+TABLE 703.7.4—LOW RESOLUTION VMS CHARACTER HEIGHT
+
+<table>Height above Floor to Baseline of Character¹Horizontal Viewing DistanceMinimum Character Height40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)Less than 10 feet (3050 mm)2 inches (51 mm)10 feet (3050 mm) and greater2 inches (51 mm), plus  \( \frac{1}{5} \)  inch (5.1 mm) per foot (305 mm) of viewing distance above 10 feet (3050 mm)Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm)Less than 15 feet (4570 mm)3 inches (75 mm)15 feet (4570 mm) and greater3 inches (75 mm), plus  \( \frac{1}{5} \)  inch (5.1 mm) per foot (305 mm) of viewing distance above 15 feet (4570 mm)Greater than 120 inches (3050 mm)Less than 20 feet (6095 mm)4 inches (100 mm)20 feet (6095 mm) and greater4 inches (100 mm), plus  \( \frac{1}{5} \)  inch (5.1 mm) per foot (305 mm) of viewing distance above 20 feet (6095 mm)</table>
+
+1. The vertical height is measured from the floor of the viewing position to the baseline of the highest line of characters.
+
+## 703.7.5 Character width.
+
+The uppercase letter “O” shall be used to determine the allowable width of all low resolution VMS characters of a font. Low resolution VMS characters shall comply with the pixel count for character width in Table 703.7.5.
+
+TABLE 703.7.5 PIXEL COUNT FOR LOW RESOLUTION VMS SIGNAGE¹
+
+<table>Character HeightCharacter Width RangeStroke Width RangeCharacter Spacing Range75-61286-71-22-396-81-22-3107-922-4118-1022-4128-1123-4139-122-33-51410-132-33-51511-142-33-5</table>
+
+1. Measured in pixels.
+
+<table>PropertyExample 1Example 2aCharacter Height14 PixelsbStroke Width2 PixelscCharacter Spacing3 PixelsdLine Spacing4 Pixels</table>
+
+FIGURE 703.7.5 LOW RESOLUTION VMS SIGNAGE CHARACTERS
+
+## 703.7.6 Stroke width.
+
+The uppercase letter "l" shall be used to determine the allowable stroke width of all low resolution VMS characters of a font. Low resolution VMS characters shall comply with the pixel count for stroke width in Table 703.7.5.
+
+## 703.7.7 Character spacing.
+
+Spacing shall be measured between the two closest points of adjacent low resolution VMS characters within a message, excluding word spaces. Low resolution VMS character spacing shall comply with the pixel count for character spacing in Table 703.7.5.
+
+## 703.7.8 Line spacing.
+
+Low resolution VMS characters shall comply with Section 703.2.8.
+
+## 703.7.9 Height above floor.
+
+Low resolution VMS characters shall be 40 inches (1015 mm) minimum above the floor of the viewing position, measured to the baseline of the character. Heights of low resolution variable message sign characters shall comply with Table 703.7.4, based on the size of the characters on the sign.
+
+## 703.7.10 Finish.
+
+The background of Low resolution VMS characters shall have a nonglare finish.
+
+## 703.7.11 Contrast.
+
+Low resolution VMS characters shall be light characters on a dark background.
+
+## 703.7.12 Protective covering.
+
+Where a protective layer is placed over VMS characters through which the VMS characters must be viewed, the protective covering shall have a nonglare finish.
+
+## 703.7.13 Brightness.
+
+The brightness of variable message signs in exterior locations shall automatically adjust in response to changes in ambient light levels.
+
+## 703.7.14 Rate of change.
+
+Where a VMS message can be displayed in its entirety on a single screen, it shall be displayed on a single screen and shall remain motionless on the screen for a minimum 3 seconds or one second minimum for every 7 characters of the message including spaces whichever is longer.
+
+## 703.8 Remote infrared audible sign (RIAS) systems.
+
+## 703.8.1 General.
+
+Remote Infrared Audible Sign Systems shall comply with Section 703.8.
+
+## 703.8.2 Transmitters.
+
+Where provided, Remote Infrared Audible Sign Transmitters shall be designed to communicate with receivers complying with Section 703.8.3.
+
+## 703.8.3 Infrared audible sign receivers.
+
+## 703.8.3.1 Frequency.
+
+Basic speech messages shall be frequency modulated at 25 kHz, with a  \( \frac{1}{2} \) - \( \frac{1}{2} \)  or 5 kHz deviation, and shall have an infrared wavelength from 850 to 950 nanometer (nm).
+
+## 703.8.3.2 Optical power density.
+
+Receiver shall produce a 12 decibel (dB) signal-plus-noise-to-noise ratio with a 1 kHz modulation tone at  \( \pm \) 1.2.5 kHz deviation of the 25 kHz subcarrier at an optical power density of 26 picowatts per square millimeter measured at the receiver photosensor aperture.
+
+## 703.8.3.3 Audio output.
+
+The audio output from an internal speaker shall be at 75 dBA minimum at 18 inches (455 mm) with a maximum distortion of 10 percent.
+
+## 703.8.3.4 Reception range.
+
+The receiver shall be designed for a high dynamic range and capable of operating in full-sun background illumination.
+
+## 703.8.3.5 Multiple signals.
+
+A receiver provided for the capture of the stronger of two signals in the receiver field of view shall provide a received power ratio on the order of 20 dB for negligible interference.
+
+## 703.9 Pedestrian signals.
+
+Accessible pedestrian signals shall comply with Section 4E.09 through 4E.13-Accessible Pedestrian Signals and Detectors of the Manual on Uniform Traffic Control Devices listed in Section 106.2.3.
+
+Exception: Pedestrian signals shall not be required to comply with the requirement for choosing audible tones.
+
+## SECTION 704
+
+## TELEPHONES
+
+## 704.1 General.
+
+Public telephones shall comply with Section 704.
+
+## 704.2 Wheelchair accessible telephones. INSIGHTS
+
+Wheelchair accessible public telephones shall comply with Section 704.2.
+
+Exception: Drive-up only public telephones shall not be required to be provided with a clear floor space complying with Section 704.2.
+
+
+## 704.2.1 Clear floor space.
+
+A clear floor space shall be provided. The clear floor space shall not be obstructed by bases, enclosures, or seats.
+
+## 704.2.1.1 Parallel approach.
+
+Where a parallel approach is provided, the distance from the edge of the telephone enclosure to the face of the telephone shall be 10 inches (255 mm) maximum.
+
+## FIGURE 704.2.1.1 CLEAR FLOOR SPACE FOR TELEPHONES PARALLEL APPROACH
+
+## 704.2.1.2 Forward approach.
+
+Where a forward approach is provided, the distance from the front edge of a counter within the enclosure to the face of the telephone shall be 20 inches (510 mm) maximum.
+
+## FIGURE 704.2.1.2 CLEAR FLOOR SPACE FOR TELEPHONES FORWARD APPROACH
+
+## 704.2.2 Operable parts.
+
+Operable parts shall comply with Section 309. Telephones shall have push button controls where service for such equipment is available.
+
+## 704.2.3 Telephone directories.
+
+Where provided, telephone directories shall comply with Section 309.
+
+## 704.2.4 Cord length.
+
+The telephone handset cord shall be 29 inches (735 mm) minimum in length.
+
+## 704.3 Volume-control telephones.
+
+Public telephones required to have volume controls shall be equipped with a receiver volume control that provides a gain adjustable up to 20 dB minimum. Incremental volume controls shall provide at least one intermediate step of gain of 12 dB minimum. An automatic reset shall be provided.
+
+TTYs required at a public pay telephone shall be permanently affixed within, or adjacent to, the telephone enclosure. Where an acoustic coupler is used, the telephone cord shall be of sufficient length to allow connection of the TTY and the telephone receiver.
+
+## 704.5 Height.
+
+When in use, the touch surface of TTY keypads shall be 34 inches (865 mm) minimum above the floor.
+
+Exception: Where seats are provided, TTYs shall not be required to comply with this section.
+
+## 704.6 TTY shelf.
+
+Where public pay telephones designed to accommodate a portable TTY are provided, they shall be equipped with a shelf and an electrical outlet within or adjacent to the telephone enclosure. The telephone handset shall be capable of being placed flush on the surface of the shelf. The shelf shall be capable of accommodating a TTY and shall have a vertical clearance 6 inches (150 mm) minimum in height above the area where the TTY is placed.
+
+## 704.7 Visual relay service booth. INSIGHTS
+
+Each public visual relay service booth shall accommodate one user with a seating and privacy enclosure, a two-way video communication system and diffuse lighting with a minimum lighting level of 20 foot candles (215 lux). The background of the seating area, and within range of the two-way video communication system, shall have a flat, non-textured surface and finish color in the bright green or blue range.
+
+
+## SECTION 705
+
+## DETECTABLE WARNING SURFACES
+
+## 705.1 General.
+
+Detectable warning surfaces shall comply with Section 705.
+
+## 705.2 Standardization. INSIGHTS
+
+Detectable warning surfaces shall be standard within a building, facility, site, or complex of buildings.
+
+
+## 705.3 Contrast. INSIGHTS
+
+Detectable warning surfaces shall contrast visually with adjacent surfaces, either light-on-dark or dark-on-light.
+
+
+## 705.4 Interior locations. INSIGHTS
+
+Detectable warning surfaces in interior locations shall differ from adjoining walking surfaces in resiliency or sound-on-cane contact.
+
+
+## 705.5 Truncated domes. INSIGHTS
+
+Detectable warning surfaces shall have truncated domes complying with Section 705.5.
+
+
+## FIGURE 705.5(A) TRUNCATED DOME SIZE AND SPACING
+
+## FIGURE 705.5(B) ELEVATION (ENLARGED)
+
+## 705.5.1 Size.
+
+Truncated domes shall have a base diameter of 0.9 inch (23 mm) minimum and 1.4 inch (36 mm) maximum, and a top diameter of 50 percent minimum and 65 percent maximum of the base diameter.
+
+## 705.5.2 Height.
+
+Truncated domes shall have a height of 0.2 inch (5.1 mm).
+
+## 705.5.3 Spacing.
+
+Truncated domes shall have a center-to-center spacing of 1.6 inches (41 mm) minimum and 2.4 inches (61 mm) maximum, and a base-to-base spacing of 0.65 inch (16.5 mm) minimum, measured between the most adjacent domes on the grid.
+
+## 705.5.4 Alignment.
+
+Truncated domes shall be aligned in a square or radial grid pattern.
+
+## 705.6 Depth and width of detectable warnings surfaces. INSIGHTS
+
+Detectable warnings shall comply with the following:
+
+1. Detectable warning surfaces shall extend 24 inches (610 mm) minimum in the direction of pedestrian travel.
+
+2. At curb ramps and blended transitions, detectable warning surfaces shall extend the full width of the curb ramp run excluding any flared sides or blended transition.
+
+3. At pedestrian at-grade rail crossings not located within a street or highway, detectable warnings shall extend the full width of the crossing.
+
+4. At boarding platforms for buses and rail vehicles, detectable warning surfaces shall extend the full length of the platform.
+
+5. At boarding and alighting areas at sidewalk or street level transit stops for rail vehicles, detectable warning surfaces shall extend the full length of the transit stop.
+
+
+FIGURE 705.6(A) EXTENT OF DETECTABLE WARNINGS - PERPENDICULAR
+
+FIGURE 705.6(B) EXTENT OF DETECTABLE WARNINGS - RETURNED CURB
+
+FIGURE 705.6(C) EXTENT OF DETECTABLE WARNINGS - PARALLEL
+
+## 705.7 Placement. INSIGHTS
+
+The placement of detectable warning surfaces shall comply with Section 705.7.
+
+
+## 705.7.1 Perpendicular curb ramps.
+
+On perpendicular curb ramps, detectable warning surfaces shall be placed as follows:
+
+1. Where the ends of the bottom grade break are in front of the back of curb, detectable warning surfaces shall be placed at the back of curb.
+
+2. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade break to the back of curb is 60 inches (1525 mm) or less, detectable warning surfaces shall be placed on the ramp run within one dome spacing of the bottom grade break.
+
+3. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade break to the back of curb is more than 60 inches (1525 mm), detectable warning surfaces shall be placed on the lower landing at the back of curb.
+
+FIGURE 705.7.1 PERPENDICULAR CURB RAMPS
+
+## 705.7.2 Parallel curb ramps.
+
+On parallel curb ramps, detectable warning surfaces shall be placed on the turning space at the flush transition between the street and sidewalk.
+
+FIGURE 705.7.2 PARALLEL CURB RAMPS
+
+## 705.7.3 Blended transitions.
+
+On blended transitions, detectable warning surfaces shall be placed at the back of curb. Where raised pedestrian street crossings, depressed corners or other level pedestrian street crossings are provided, detectable warning surfaces shall be placed at the flush transition between the street and the sidewalk.
+
+FIGURE 705.7.3 BLENDED TRANSITIONS
+
+## 705.7.4 Pedestrian refuge islands.
+
+At cut-through pedestrian refuge islands, detectable warning surfaces shall be placed at the edges of the pedestrian island and shall be separated by 24 inches (610 mm) minimum length of surface without detectable warnings.
+
+FIGURE 705.7.4 PEDESTRIAN REFUGE ISLANDS
+
+## 705.7.5 Pedestrian at-grade rail crossings.
+
+At pedestrian at-grade rail crossings not located within a street or highway, detectable warning surfaces shall be placed on each side of the rail crossing. The edge of the detectable warning surface nearest the rail crossing shall be 6 feet (1830 mm) minimum and 15 feet (4680 mm) maximum from the centerline of the nearest rail. Where pedestrian gates are provided, detectable warning surfaces shall be placed on the side of the gates opposite the rail.
+
+FIGURE 705.7.5 PEDESTRIAN AT-GRADE RAIL CROSSINGS
+
+## 705.7.6 Boarding platforms.
+
+At boarding platforms for buses and rail vehicles, detectable warning surfaces shall be placed at the boarding edge of the platform.
+
+## 705.7.7 Boarding and alighting areas.
+
+At boarding and alighting areas at sidewalk or street-level transit stops for rail vehicles, detectable warning surfaces shall be placed at the side of the boarding and alighting area facing the rail vehicles.
+
+## SECTION 706
+
+## ASSISTIVE LISTENING SYSTEMS INSIGHTS
+
+
+## 706.1 General.
+
+Where installed, assistive listening systems shall comply with Section 706.
+
+## 706.2 Receiver jacks.
+
+Receivers required for use with an assistive listening system shall include a  \( ^{1}/_{8} \)  inch (3.2 mm) standard monaural (monophonic) jack.
+
+## 706.3 Induction loop systems.
+
+Where induction hearing loop systems are provided, they shall comply with IEC-60118-4 as listed in Section 106.2.2.
+
+## 706.4 Receiver hearing-aid compatibility.
+
+Receivers required to be hearing aid compatible shall interface with telecoils in hearing aids through the provision of neck loops.
+
+## 706.5 Sound pressure level.
+
+Assistive listening systems shall be capable of providing a sound pressure level of 110 dB minimum and 118 dB maximum, with a dynamic range on the volume control of 50 dB.
+
+## 706.6 Signal-to-noise ratio.
+
+The signal-to-noise ratio for internally generated noise in assistive listening systems shall be 18 dB minimum.
+
+## 706.7 Peak clipping level.
+
+Peak clipping shall not exceed 18 dB of clipping relative to the peaks of speech.
+
+## SECTION 707
+
+## AUTOMATIC TELLER MACHINES (ATMS) AND
+
+## FARE MACHINES
+
+## 707.1 General.
+
+Automatic teller machines and fare machines shall comply with Section 707.
+
+## 707.2 Clear floor space.
+
+A clear floor space shall be provided in front of the machine.
+
+Exception: Clear floor space is not required at drive up only automatic teller machines and fare machines.
+
+## 707.3 Operable parts.
+
+Operable parts shall comply with Section 309. Unless a clear or correct key is provided, each operable part shall be able to be differentiated by sound or touch, without activation.
+
+Exception: Drive up only automatic teller machines and fare machines shall not be required to comply with Section 309.2 or 309.3.
+
+## 707.4 Privacy.
+
+Automatic teller machines shall provide the opportunity for the same degree of privacy of input and output available to all individuals.
+
+## 707.5 Numeric keys.
+
+Numeric keys shall be arranged in a 12-key ascending or descending telephone keypad layout. The number Five key shall have a single raised dot.
+
+FIGURE 707.5(B) NUMERIC KEY LAYOUT - 12-KEY DESCENDING
+
+## 707.6 Function keys.
+
+Function keys shall comply with Section 707.6.
+
+## 707.6.1 Raised symbols.
+
+Function key surfaces shall have raised symbols as shown in Table 707.6.1.
+
+## TABLE 707.6.1 - RAISED SYMBOLS
+
+<table>Key FunctionDescription of Raised SymbolRaised SymbolEnter or Proceed:CIRCLE○Clear or Correct:LEFT ARROW♦ or ♦Cancel:✗✗Add Value:PLUS SIGN+Decreased Value:MINUS SIGN-</table>
+
+## 707.6.2 Contrast.
+
+Function keys shall contrast visually from background surfaces. Characters and symbols on key surfaces shall contrast visually from key surfaces. Visual contrast shall be either light-on-dark or dark-on-light.
+
+Exception: Raised symbols required by Section 707.6.1 shall not be required to comply with this section.
+
+## 707.7 Display screen.
+
+The display screen shall comply with Section 707.7.
+
+## 707.7.1 Visibility.
+
+The display screen shall be visible from a point located 40 inches (1015 mm) above the center of the clear floor space in front of the machine.
+
+Exception: Drive up only automatic teller machines and fare machines shall not be required to comply with this section.
+
+## 707.7.2 Characters.
+
+Characters displayed on the screen shall be in a sans serif font. The uppercase letter "I" shall be used to determine the allowable height of all characters of the font. The uppercase letter "I" of the font shall be  \( \frac{3}{16} \)  inch (4.8 mm) minimum in height. Characters shall contrast with their background with either light characters on a dark background, or dark characters on a light background.
+
+## 707.8 Speech output.
+
+Machines shall be speech enabled. Operating instructions and orientation, visible transaction prompts, user input verification, error messages, and all displayed information for full use shall be independently usable by individuals with vision impairments. Speech shall be delivered through a mechanism that is readily available to all users including, but not limited to, an industry standard connector or a telephone handset. Speech shall be recorded or digitized human, or synthesized.
+
+## Exceptions:
+
+1. Audible tones shall be permitted in lieu of speech for visible output that is not displayed for security purposes, including but not limited to, asterisks representing personal identification numbers.
+
+2. Advertisements and other similar information shall not be required to be audible unless they convey information that is used in the transaction being conducted.
+
+3. Where speech synthesis is not supported, dynamic alphabetic output shall not be required to be audible.
+
+## 707.8.1 User control.
+
+Speech shall be capable of being repeated and interrupted by the user. There shall be a volume control for the speech function.
+
+Exception: Speech output for any single function shall be permitted to be automatically interrupted when a transaction is selected.
+
+## 707.8.2 Receipts.
+
+Where receipts are provided, speech output devices shall provide audible balance inquiry information, error messages, and all other information on the printed receipt necessary to complete or verify the transaction.
+
+## Exceptions:
+
+1. Machine location, date and time of transaction, customer account number, and the machine identifier shall not be required to be audible.
+
+2. Information on printed receipts that duplicates audible information available on-screen shall not be required to be presented in the form of an audible receipt.
+
+3. Printed copies of bank statements and checks shall not be required to be audible.
+
+## 707.9 Input controls.
+
+At least one tactually discernible input control shall be provided for each function. Where provided, key surfaces not on active areas of display screens shall be raised above surrounding surfaces. Where membrane keys are the only method of input, each shall be tactually discernable from surrounding surfaces and adjacent keys.
+
+## 707.10 Braille instructions.
+
+Braille instructions for initiating the speech mode shall be provided. Braille shall comply with Section 703.4.
+
+## SECTION 708
+
+## TWO-WAY COMMUNICATION SYSTEMS INSIGHTS
+
+
+## 708.1 General.
+
+Two-way communication systems shall comply with Section 708.
+
+## 708.2 Audible and visual indicators.
+
+The system shall provide both visual and audible signals.
+
+## 708.3 Handsets.
+
+Handset cords, if provided, shall be 29 inches (735 mm) minimum in length.
+
+## 708.4 Telephone entry systems.
+
+Telephone entry systems shall comply with ANSI/DASMA 303 listed in Section 106.2.5.
+

@@ -1,0 +1,1362 @@
+===== Page 1630 =====
+# CHAPTER 21—MASONRY
+
+## General Comments
+
+Masonry construction has been used for at least 10,000 years in a variety of structures-homes, private and public buildings and historical monuments. The masonry of ancient times involved two major materials: brick manufactured from sun-dried mud or burned clay and shale; and natural stone.
+
+The first masonry structures were unreinforced and intended to support mainly gravity loads. The weight of these structures stabilized them against lateral loads from wind and earthquakes.
+
+Masonry construction has progressed through several stages of development. Concrete masonry was introduced to construction during the early 1900s and, along with clay masonry, expanded in use to all types of structures.
+
+Historically, “rules of thumb” (now termed “empirical design”) were the only available methods of masonry design. Only in recent times have masonry structures been engineered using structural calculations. In the last 50 years, the introduction of engineered reinforced masonry has resulted in structures that are stronger and more stable against lateral loads, such as wind pressure and seismic ground motion.
+
+Masonry consists of a variety of materials. Raw materials are made into masonry units of different sizes and shapes, each having specific physical and mechanical properties. Both the raw materials and the method of manufacture affect masonry unit properties.
+
+The word “masonry” is a general term that applies to construction using hand-placed units of clay, concrete, structural clay tile, glass block, natural stones and the like. One or more types of masonry units are bonded together with mortar, metal ties, reinforcement and accessories to form walls and other structural elements.
+
+Proper masonry construction depends on correct design, materials, handling, installation and workmanship.
+
+With a fundamental understanding of the functions and properties of the materials that comprise masonry construction, and with proper design and construction, quality masonry structures are not difficult to obtain.
+
+Of the many types of fireplaces, the most common are single face. Multifaced fireplaces, such as a corner fire-place with two adjacent open sides, fireplaces with two opposite faces open (common exposure to two rooms) or fireplaces with three or all faces open also occur but are less common.
+
+While the provisions of this chapter are for single-faced fireplaces, almost all types of masonry fireplaces include the same basic construction features: the base assembly, which consists of a foundation and hearth support; the firebox assembly, which consists of a fire-place opening, a hearth, a firebox or combustion chamber; and the throat and the smoke chamber, which supports the chimney liner.
+
+Masonry fireplaces are made primarily of clay brick or natural stones, but also of concrete masonry or cast-in-place concrete. Chimneys for medium- and high-heat appliances require special attention for fire safety.
+
+## Purpose
+
+Chapter 21 provides comprehensive and practical requirements for masonry construction, based on the latest state of technical knowledge. The provisions of Chapter 21 require minimum accepted practices and the use of standards for the design and construction of masonry structures and elements of structures. The provisions address: material specifications and test methods; types of wall construction; criteria for engineered design (by the working stress and strength design methods, and direct design method); criteria for empirical design; required details of construction and other aspects of masonry, including execution of construction. The provisions are intended to result in safe and durable masonry. The provisions of Chapter 21 are also intended to prescribe minimum accepted practices for the design and construction of glass unit masonry, masonry fireplaces, masonry heaters and masonry chimneys.
+
+## SECTION 2101 GENERAL
+
+2101.1 Scope. This chapter shall govern the materials, design, construction and quality of masonry.
+
+Section 2101 prescribes general requirements for masonry designed in accordance with Chapter 21 of the code. It identifies masonry design methods and the conditions required for the use of each method. The methods are intended as a practical means for safety under a variety of potential service conditions.
+
+Chapter 21 contains the minimum code requirements for acceptance of masonry design and construction by the building official.
+
+===== Page 1631 =====
+Compliance with these requirements is intended to result in masonry construction with the minimum required structural adequacy and durability. Requirements more stringent than these are appropriate where mandated by sound engineering and judgment. Less restrictive requirements, however, are not permitted.
+
+2101.2 Design methods. Masonry shall comply with the provisions of SBC 305 as well as applicable requirements of this chapter.
+
+This section requires masonry to comply with one of seven design approaches and the requirements contained in Sections 2101 through 2104 for construction documents, materials and construction.
+
+Other provisions of the code may also impact the design of masonry construction. For example, fire-resistant construction using masonry must be in accordance with Chapter 7. Design loads and related requirements, including seismic forces and detailing, are in accordance with Chapter 16 and SBC 301. Masonry foundations are required to comply with the provisions of Chapter 18. Special inspections of masonry construction are required in Chapter 17, which references the quality assurance program requirements in SBC 305 and TMS 602/ACI 530.1/ASCE 6. Masonry veneer is addressed in Chapter 14. SBC 305 and TMS 602/ACI 530.1/ASCE 6 are referenced throughout Chapter 21. A description of the standard and specification is warranted here. SBC 305 contains minimum design requirements for masonry elements of structures. Topics include: construction documents; quality assurance; materials; analysis and design; strength and serviceability; flexural and axial stresses; shear; reinforcement; walls; columns; pilasters; beams and lintels; and empirical design.
+
+The Allowable Stress Design (ASD) method in SBC 305 assumes linearly elastic material behavior and properties and uses nominal loads (see Chapter 16). The standard also includes provisions for strength design, prestressed masonry design, empirical design, veneer, glass unit masonry and design of autoclaved aerated concrete (AAC) masonry.
+
+2101.2.1 Masonry veneer. Masonry veneer shall comply with the provisions of Chapter 14.
+
+This section requires masonry veneer to comply with the provisions of Chapter 14; specifically, Section 1405.6 for anchored masonry veneer and Section 1404.9 for adhered masonry veneer. These sections reference the appropriate provisions in Chapter 12 of SBC 305. Additional information on these provisions is given in the commentaries to Chapter 14 as well as SBC 305.
+
+2101.3 Special inspection. The special inspection of masonry shall be as defined in Chapter 17, or an itemized testing and inspection program shall be provided that meets or exceeds the requirements of Chapter 17.
+
+This section provides a cross reference to the code's special inspection and testing provisions for masonry that are found in Chapter 17.
+
+## SECTION 2102 NOTATIONS
+
+2102.1 General. The following notations are used in the chapter:
+
+## NOTATIONS:
+
+ \( d_{b}= \)  Diameter of reinforcement, mm.
+
+ \( F_{s}= \)  Allowable tensile or compressive stress in reinforcement, MPa.
+
+ \( f_{r}= \)  Modulus of rupture, MPa.
+
+ \( f_{AC}^{r} \)  = Specified compressive strength of AAC masonry, the minimum compressive strength for a class of AAC masonry as specified in ASTM C1386, MPa.
+
+ \( f_{m}^{r} \)  = Specified compressive strength of masonry at age of 28 days, MPa.
+
+ \( f_{mi}^{r} \)  = Specified compressive strength of masonry at the time of prestress transfer, MPa.
+
+K = The lesser of the masonry cover, clear spacing between adjacent reinforcement, or five times  \( d_{b} \) , mm.
+
+ \( L_{s}= \)  Distance between supports, mm.
+
+ \( L_{d}= \)  Required development length or lap length of reinforcement, mm.
+
+P = The applied load at failure, N.
+
+ \( S_{t} \)  = Thickness of the test specimen measured parallel to the direction of load, mm.
+
+ \( S_{w} \)  = Width of the test specimen measured parallel to the loading cylinder, mm.
+
+Explanations of the notations used in Chapter 21 that are listed here clarify the meaning of these terms and the appropriate units, if any, that apply to them.
+
+===== Page 1632 =====
+## SECTION 2103 MASONRY
+CONSTRUCTION MATERIALS
+
+2103.1 Masonry units. Concrete masonry units, clay or shale masonry units, stone masonry units, glass unit masonry and AAC masonry units shall comply with Article 2.3 of SBC 305. Architectural cast stone shall conform to ASTM C1364 and TMS 504. Adhered manufactured stone masonry veneer units shall conform to ASTM C1670.
+
+Exception: Structural clay tile for nonstructural use in fireproofing of structural members and in wall furring shall not be required to meet the compressive strength specifications. The fire-resistance rating shall be determined in accordance with ASTM E119 or UL 263 and shall comply with the requirements of Table 705.5.
+
+Proper selection of materials is essential to produce masonry with adequate strength and durability. The referenced material specifications set forth prescriptive and performance-based requirements (referenced standards) for masonry materials. Test procedures and criteria for establishing and verifying quality are included. Concrete masonry refers to solid and hollow concrete units, including concrete brick, concrete block, split-face block, slump block and other special units. This section requires conformance to ASTM International standards for each specific type of concrete masonry unit. The standards include requirements for materials; manufacture; physical properties; strength; absorption; minimum dimensions and permissible variations; inspection; testing; and rejection.
+
+Concrete masonry units are selected based on the desired use and appearance. Units are typically specified by density class and compressive strength. Hollow load-bearing concrete masonry units are manufactured in accordance with the requirements of ASTM C90 using Portland cement, water and mineral aggregates. Other suitable materials, such as approved admixtures, are permitted in accordance with ASTM C90. Hollow load-bearing concrete masonry units have three weight classifications: normal-weight units of 2000 kg per m³ or more; medium-weight units of between 1680 and 2000 kg per m³; and lightweight units of less than 1680 kg per m³. Lightweight aggregates generally are expanded blast-furnace slag or similar suitable materials. Normal-weight units are made from sand, gravel, crushed stone or air-cooled, blast-furnace-slag aggregates. Concrete brick is required to comply with ASTM C55. Concrete building brick and other solid concrete veneer and facing units are typically smaller than concrete masonry units conforming to ASTM C90. They are made from Portland cement, water and mineral aggregates, with or without inclusion of other approved materials.
+
+Concrete brick is manufactured as lightweight, medium-weight and normal-weight units as described above for hollow concrete masonry units. Concrete brick is manufactured in two grades: Grade N and Grade S. Grade N units are used as architectural veneer and facing units in exterior walls, where high strength and resistance to moisture penetration and freeze-thaw cycling are required. Grade S units are used when moderate strength and resistance to freeze-thaw action and moisture penetration are required.
+
+Calcium silicate face brick is a solid masonry unit complying with ASTM C73. These units are manufactured principally from silica sand, hydrated lime and water.
+
+Calcium silicate face brick is manufactured in two grades: Grade SW and Grade MW. Grade SW is required where exposure to moisture in the presence of freezing temperatures is anticipated. Grade MW is permitted where the anticipated exposure has freezing temperatures, but without water saturation.
+
+Grade SW units have a minimum permitted compressive strength on the gross area of 31 MPa (average of three units), but not less than 24 MPa for any individual unit. Grade MW units have a minimum permitted compressive strength on the gross area of 17 MPa (average of three units), but not less than 14 MPa for any individual unit.
+
+ASTM C744 is referenced for the manufacture of prefaced concrete and calcium silicate masonry units, commonly referred to as "glazed" concrete masonry units. The specified exposed surfaces of these units are covered during their manufacture with resin, resin and inert filler, or cement and inert filler to produce a smooth resinous tile-like facing.
+
+Facing requirements of that standard address resistance to chemicals; failure of adhesion of the facing material; abrasion; surface-burning characteristics; color and color change; soiling; and cleans-ability. The standard also covers dimensional tolerances, including face dimensions and distortions.
+
+The MSJC specification that is referenced in this section requires conformance to ASTM standards for masonry units manufactured from clay or shale. The various standards also include requirements for materials; manufacture; physical properties; minimum dimensions and permissible variations; inspections; and testing.
+
+===== Page 1633 =====
+Clay or shale masonry units are manufactured from clay and shale, which are compounds of silica or alumina. Shale is simply a hardened clay. The raw materials are formed into the desired shape by extrusion and cutting, molding or pressing while in the plastic state. The units are then fired in a kiln. The raw materials and the manufacturing process influence the physical properties of the manufactured unit.
+
+Clay or shale masonry units are selected for their intended use from a variety of shapes, sizes and strengths. Units are specified based on grades and type.
+
+Solid face brick units are required to conform to ASTM C216. This standard covers clay brick intended to be used in masonry supplying structural or facing components, or both, to the structure. These units are available in a variety of sizes, textures, colors and shapes.
+
+ASTM C216 contains requirements for two grades of durability: Grade SW and Grade MW. Grade SW brick is intended for use where high and uniform resistance to damage caused by freeze-thaw cycling is desired and where the brick may be subjected to such cycling while saturated with water. Grade MW brick is intended for use where moderate resistance to cyclic freeze-thaw damage is permissible or where the brick may be damp, but not saturated with water, when such cycling occurs. ASTM C216 further classifies face brick into three types of appearance: Types FBS, FBX and FBA. Type FBS (face brick standard) units are permitted for general use in masonry. Type FBX (face brick select) units are also for general use but have a higher degree of precision and lower permissible variation in size than Type FBS units. Type FBA (face brick architectural) units are also for general use but are intentionally manufactured to produce characteristic architectural effects resulting from nonuniformity in size and texture of the units.
+
+Solid units of building brick are required to conform to ASTM C62. This specification covers brick intended for use in both structural and nonstructural masonry where external appearance is not critical. This brick was formerly called “common brick,” and the standard does not contain appearance requirements.
+
+ASTM C62 contains requirements for three grades of durability: Grade SW, Grade MW and Grade NW. Grade SW brick is intended for use where high and uniform resistance to freeze-thaw damage is desired and where the brick may be subjected to such cycling while saturated with water. Grade MW brick is intended for use where moderate resistance to cyclic freeze-thaw damage is permissible or where the brick may be damp but not saturated with water when such cycling occurs. Grade NW, used where little resistance to cyclic freeze-thaw damage is required, is acceptable for applications protected from water absorption and freezing.
+
+Hollow brick is required to conform to ASTM C652, which regulates hollow building and hollow facing brick. Hollow brick differs from structural clay tile in that it has more stringent physical property requirements, such as thicker shell and web dimensions, and higher minimum compressive strengths. Hollow brick has two grades of durability: Grade SW and Grade MW. Grade SW is used where a high and uniform degree of resistance to freeze-thaw degradation and disintegration by weathering is desired and when the brick may be saturated while frozen. Grade MW is intended for use where a moderate and somewhat nonuniform degree of resistance to freeze-thaw degradation is permissible.
+
+ASTM C652 also classifies hollow brick into four types of appearance: Types HBS, HBX, HBA and HBB. Type HBS (hollow brick standard) units are permitted for general use. Type HBX (hollow brick select) units are also for general use, but have a higher degree of dimensional precision than Type HBS units. Type HBA (hollow brick architectural) units are also for general use, but are intentionally manufactured to produce characteristic architectural effects resulting from non-uniformity in size and texture of the units. Type HBB (hollow building brick) units are for general use in masonry where a particular color, texture, finish, uniformity or limits on cracks, warpage or other imperfections detracting from their appearance are not a consideration.
+
+ASTM C1088 regulates thin brick used in adhered veneer having a maximum actual thickness of 45 mm. Thin veneer brick units are specified in three types of appearance and two grades of durability.
+
+Exterior-grade units are for exposure to weather; interior-grade units are not. Type TBS (thin brick standard) units are permitted for general use. Type TBX (thin brick select) units are also for general use but have a higher degree of precision and lower permissible variation in size than Type TBS units. Type TBA (thin brick architectural) units are also for general use but are intentionally manufactured to produce characteristic effects in variations of size, color and texture.
+
+ASTM C34 is referenced for the manufacture of structural clay load-bearing wall tile. This type of tile has two grades: Grade LBX and LB.
+
+===== Page 1634 =====
+Grade LBX is suitable for general use in masonry construction and can be used in masonry exposed to weathering, provided that the units meet durability requirements for Grade SW of ASTM C216. This tile grade is also suit- able for the direct application of stucco.
+
+Grade LB is suitable for general use in masonry not exposed to freeze-thaw action, or for exposed masonry where protected with a minimum 75 mm facing of stone, brick or other masonry materials.
+
+Fire-resistant tile intended for use in load-bearing masonry is required to conform to ASTM C34. Tile intended for use in fireproofing structural members is required to be of such sizes and shapes as to cover completely the exposed surfaces of the members.
+
+ASTM C212, the referenced standard regulating structural clay facing tile, covers two types of structural clay load bearing facing tile: Types FTX and FTS.
+
+Type FTX clay facing tile is a smooth-face tile suit-able for use in exposed exterior and interior masonry walls, and partitions where low absorption, easy cleaning and resistance to staining are required. The physical characteristics of this tile require a high degree of mechanical perfection, narrow color range and minimum variation in face dimensions.
+
+Type FTS clay facing tile is a smooth- or rough-textured face tile suitable for general use in exposed exterior and interior masonry walls and partitions where moderate absorption, variation in face dimensions, minor defects in surface finish and moderate color variations are permissible.
+
+There are two classes of tile for Types FTS and FTX: standard (for general use) and special duty (having superior resistance to impact and moisture transmission and supporting greater lateral and vertical loads).
+
+ASTM C56 is the standard regarding the manufacture of nonload-bearing tile, which is made from the same materials as other types of tile previously mentioned and is used for partitions, fireproofing and fur-ring.
+
+ASTM C126 prescribes requirements for ceramic-glazed structural clay load bearing facing tile and brick and other solid masonry units made from clay, shale, fire clay or combinations thereof. The standard specifies two grades and two types of ceramic-glazed masonry: Grade S is used with comparatively narrow mortar joints, while Grade SS is used where variations in face dimensions are very small; Type I units are used where only one finished face is to be exposed, while Type II units are used where both finished faces are to be exposed.
+The finish of glazed units is important. Requirements and test methods are prescribed for imperviousness, opacity, resistance to fading and crazing, hardness, abrasion resistance and flame spread smoke density. Compressive strength requirements, dimensional tolerances and permissible distortions are also prescribed by the standard. Many types of natural stone, including marble, granite, slate, limestone and sandstone, are used in building construction. This section covers natural stones that are sawed, cut, split or otherwise shaped for masonry purposes. Natural stones for building purposes are specified in various grades, textures and finishes, and are required to have physical properties appropriate to their intended use. Where applicable to specific kinds of natural stone, the finished units are required to be sound and free from spills, cracks, open seams, pits and other defects that would impair structural strength and durability and, when applicable, fire resistance.
+
+This section requires conformance to the following ASTM standards for natural stone masonry: ASTM C503 for marble building stone (exterior), ASTM C568 for limestone building stone, ASTM C615 for granite building stone, ASTM C616 for sandstone building stone, ASTM C629 for slate building stone or ASTM C1670 for adhered masonry stone units. The standards contain requirements for absorption, density (except for slate), compressive strength (except for slate), modulus of rupture, abrasion resistance (except for granite) and acid resistance (slate only). The exception to this section allows structural clay tile that does not meet the compressive strength specifications to be used as nonstructural fireproofing for structural members. The fire-resistance rating must be determined in accordance with ASTM E119.
+
+2103.1.1 Second-hand units. Second-hand masonry units shall not be reused unless they conform to the requirements of new units. The units shall be of whole, sound materials and free from cracks and other defects that will interfere with proper laying or use. Old mortar shall be cleaned from the unit before reuse.
+
+Most second-hand masonry units come from the demolition of old buildings. Masonry units manufactured in the past do not generally
+
+===== Page 1635 =====
+compare with the quality of masonry made by modern manufacturing methods under controlled conditions. Therefore, designers should expect salvaged masonry units to have lower strength and durability than new units. Generally, the difference between walls laid up with new masonry units and second-hand units of the same type is the adhesion of the mortar to the masonry surfaces. When new masonry units are laid in fresh mortar, water and fine cementitious particles are absorbed into the masonry, thereby improving bond strength. In contrast, pores in the bed faces of second-hand masonry units, regardless of cleaning, are filled with particles of cement, lime and deleterious substances that impede adequate absorption, thereby adversely affecting bond between the mortar and the masonry.
+
+2103.2 Mortar. Mortar for masonry construction shall com- ply with Section 2103.2.1, 2103.2.2, 2103.2.3, 2103.2.4.
+
+This section requires mortar to comply with the applicable sections for masonry mortar, surface bonding mortar, ceramic tile mortar and mortar for adhered masonry veneer.
+
+2103.2.1 Masonry mortar. Mortar for use in masonry construction shall conform to Articles 2.1 and 2.6 A of SBC 305.
+
+Masonry mortar bonds masonry units to form an integral structure. Mortar provides a tight and weather-resistant seal between units; bonds with steel joint reinforcement, ties and other metal accessories; and compensates for dimensional variations in masonry units. It can also serve aesthetic purposes through contrasts of color, texture and shadow lines created by different types of tooled joints. The code recognizes ASTM C270 as the standard regulating mortar to be used in masonry construction. The standard covers mortars for use in the construction of non-reinforced and reinforced unit masonry structures. It specifies types of mortar and two alter-native specifications—the proportion specification and the property specification.
+
+Type M mortar has the highest compressive and tensile bond strength. Its use should be limited only to those conditions where it is needed, such as high compressive loads or extreme environments.
+
+Type S mortar is a general-purpose mortar with high compressive and tensile bond strengths. It is often used in reinforced masonry and in unreinforced masonry that requires high strength to resist out-of-plane lateral loads.
+
+Type N mortar is a general-purpose mortar with medium compressive and tensile bond strengths. It is used where high vertical and lateral loads are not expected.
+
+The materials used in mortar are required to conform to the following standard specifications referenced in ASTM C5, ASTM C91, ASTM C150, ASTM C207, ASTM C270 and ASTM C595.
+
+In addition to type, mortar for masonry is further classified according to its primary cementitious materials. In Portland cement-lime mortar, the cementitious materials are Portland cement and hydrated mason's lime. In masonry-cement mortar and mortar-cement mortar, the principal cementitious material is Portland cement, which is contained in the masonry cement and the mortar cement.
+
+Regardless of a masonry mortar's principal cementitious constituents, each ingredient cement, lime (when used), sand and water contribute to the mortar's overall performance. Portland cement, mortar cement, masonry cement or blended hydraulic cement makes the hardened mortar strong and durable. Lime contributes to the workability and water retention of fresh mortar and to the flexibility, compressive strength and tensile bond strength of hardened mortar. Sand serves as a filler material, increases strength and reduces shrinkage. Water determines the consistency of fresh mortar and also hydrates the cementitious materials, resulting in hardening of the mortar.
+
+Tables 1 and 2 of ASTM C270 provide requirements for the production of mortar by the proportion method (by volume) and by the property method (by compressive strength and other properties), respectively. Whether the proportion or property specification governs depends on the contract documents. When neither proportion nor property specification is prescribed, the proportion specification governs, unless data are presented to and accepted by the specifier to show that mortar meets the requirements of the property specification.
+
+ASTM C270 also covers materials and testing requirements for water retention, compressive strength and air content.
+
+The types of mortar recommended for use in various types of masonry construction are shown in the appendix to ASTM C270. The performance of masonry is influenced by mortar workability, water retentivity, bond strength, compressive strength and long-term deformability (creep). Each mortar type has corresponding use limitations.
+
+Glass-block units are required to be laid in Type S or N mortar. Admixtures containing set
+
+===== Page 1636 =====
+accelerators or antifreeze compounds are not permitted in mortars for glass-block masonry.
+
+2103.2.2 Surface-bonding mortar. Surface-bonding mortar shall comply with ASTM C887. Surface bonding of concrete masonry units shall comply with ASTM C946.
+
+Specifications for materials to be used in premixed surface-bonding mortar and for the properties of the mortar are contained in ASTM C887. Requirements for masonry units and other materials used in constructing dry-stacked, surface-bonded masonry for walls and for the construction itself are contained in ASTM C946.
+
+In addition to its primary function of bonding masonry units, surface-bonding mortar can provide resistance to penetration by wind-driven rain.
+
+2103.2.3 Mortars for ceramic wall and floor tile. Portland cement mortars for installing ceramic wall and floor tile shall comply with ANSI A108.1A and ANSI A108.1B and be of the compositions indicated in Table 2103.2.3.
+
+This section pertains to cement mortars and organic adhesives used for setting ceramic wall and floor tiles. Each mortar type has certain qualities that make it suitable for installing tile over different kinds of backing materials or under a certain set of conditions. Cement mortars are “thick-bed” mortars applied in thicknesses of 19 to 32 mm on floors and 19 to 25 mm on walls to achieve the specified slopes and flatness in the finished tile work. Portland cement mortars are suitable for setting ceramic tile in most installations. They can be applied over properly prepared backings of clay or concrete masonry; concrete; wood frame; rough wood floors and plywood floors; foam insulation board; gypsum wallboard; and Portland cement or gypsum plaster. Cement mortars can be reinforced with metal lath or wire mesh. In such cases, however, additional mortar thickness may be required. Cement mortars have good structural strength and are not affected by prolonged contact with water.
+
+Complete material and installation specifications are contained in ANSI A108.1A and A108.1B, which include required specifications for: installation of wire lath and scratch coats; mortar mixes, bond coat mixes and mortar application; installation methods on floors, walls and countertops; grouting of tile; and general requirements for tile installations. Portland cement-lime mortars are a mixture of Port-land cement (ASTM C150), hydrated lime (ASTM C207) and damp mason's sand. Proportions of these ingredients are given in Table 2103.2.3, dealing with the Portland cement-lime mortars most commonly used for setting ceramic tile on wall, floor and ceiling construction and measured in parts by volume. Complete material and installation specifications are contained in ANSI A108.1A and A108.1B.
+
+2103.2.3.1 Dry-set Portland cement mortars. Premixed prepared Portland cement mortars, which require only the addition of water and are used in the installation of ceramic tile, shall comply with ANSI A118.1. The shear bond strength for tile set in such mortar shall be as required in accordance with ANSI A118.1. Tile set in dry-set Portland cement mortar shall be installed in accordance with ANSI A108.5.
+
+Dry-set Portland cement mortar for ceramic tile is required to comply with ANSI A118.1, which describes test methods and minimum requirements for dry-set mortar, including sampling, free water content, setting characteristics, shrinkage, shear strength and staining.
+
+Dry-set mortar is a mixture of Portland cement, sand and perhaps water-retention admixtures. Dry-set mortars are suitable for use over properly prepared backings of clay or concrete masonry; concrete; cut-cell expanded polystyrene or rigid closed-cell urethane insulation board; gypsum wallboard; lean Portland cement mortar; and hardened wall and floor setting beds.
+
+Installation must comply with ANSI A108.5. The "thin-bed" mortars are applied in a single layer as thin as 2.5 mm, but usually in thicknesses of 3.0 to 6.5 mm. The use of dry-set mortar for leveling work is limited to a maximum thickness of 6.5 mm.
+
+This material has excellent water and impact resistance. It is also water-cleanable, nonflammable, good for exterior use and requires no presoaking of the tile. Dry-set mortar is intended for use with glazed wall tile, ceramic mosaics, pavers and quarry tile.
+
+Shear bond strength (of tile set in mortar) is required to be tested in accordance with standards applicable to the mortar used. Tile set with dry-set mortar must be installed in accordance with ANSI A108.5.
+
+2103.2.3.2 Latex-modified Portland cement mortar. Latex-modified Portland cement thin-set mortars in which latex is added to dry-set mortar as a replacement for all or part of the gauging water that are used for the installation of ceramic tile shall comply with ANSI A118.4. Tile set in latex-modified Portland cement shall be installed in accordance with ANSI A108.5.
+
+Latex-modified Portland cement mortar is a mixture of Portland cement, sand and special
+
+===== Page 1637 =====
+latex admixtures. It is applied as a thin-bed material, like dry-set Portland cement mortar (see commentary section 2103.2.3.2). Since the latex used in these mortars varies among manufacturers, instructions for mixing and use must be followed carefully. Applicable material and installation standards are ANSI A108.5 and A118.4.
+
+2103.2.3.3 Epoxy mortar. Ceramic tile set and grouted with chemical-resistant epoxy shall comply with ANSI A118.3. Tile set and grouted with epoxy shall be installed in accordance with ANSI A108.6.
+
+Epoxy mortar is a two-part system consisting of an epoxy resin and hardener. It is applied as a layer of 1.5 to 3.0 mm in thickness and is suitable for use on properly prepared floors of concrete, wood, plywood, steel plate or ceramic tile. It is particularly suitable where chemical resistance or high bond strength is required. Deflection control is critical for the successful use of this material, and floor systems should not deflect more than 1/360 of their span. Epoxy mortar is recommended for setting ceramic mosaics, quarry tile and paver tile. Applicable material and installation standards are ANSI A108.6 and A118.3.
+
+2103.2.3.4 Furan mortar and grout. Chemical-resistant furan mortar and grout that are used to install ceramic tile shall comply with ANSI A118.5. Tile set and grouted with furan shall be installed in accordance with ANSI A108.8.
+
+Furan mortar is a two-part system consisting of a furan resin and hardener. It is suitable where chemical resistance is critical. It is used primarily on floors in laboratories and industrial plants. Acceptable sub-floors include concrete, steel plate and ceramic tile. Furan grout is intended for quarry tile and pavers, mainly in industrial areas requiring maximum chemical resistance.
+
+ANSI A118.5 is the standard regulating both furan mortar and grout. Installation must comply with ANSI A108.8.
+
+2103.2.3.5 Modified epoxy-emulsion mortar and grout. Modified epoxy-emulsion mortar and grout that are used to install ceramic tile shall comply with ANSI A118.8. Tile set and grouted with modified epoxy-emulsion mortar and grout shall be installed in accordance with ANSI A108.9.
+
+Modified epoxy-emulsion mortar and grout used to install ceramic tile are required to comply with ANSI A118.8 and to be installed in accordance with ANSI A108.9.
+
+ANSI A118.8 describes the test methods and the minimum requirements for modified epoxy-emulsion mortar and grout. The chemical and solvent resistance of these mortars and grouts tends to exceed those of organic adhesives and equal those of latex-modified Portland cement mortars. They are not, however, designed to meet the requirements of ANSI A108.6 or A118.3.
+
+These types of mortars and grouts are three-part systems that include emulsified epoxy resins and hardeners, preblended Portland cement and silica sand. They are used as a bond-coat setting mortar or grout and can be cleaned from wall and floor sur-faces using a wet sponge prior to initial set.
+
+ANSI A118.8 regulates water absorption, flexural strength, thermal expansion, linear shrinkage, tensile strength and compressive strength.
+
+2103.2.3.6 Organic adhesives. Water-resistant organic adhesives used for the installation of ceramic tile shall comply with ANSI A136.1. The shear bond strength after water immersion shall be not less than 275 kPa for Type I adhesive and not less than 140 kPa for Type II adhesive when tested in accordance with ANSI A136.1. Tile set in organic adhesives shall be installed in accordance with ANSI A108.4.
+
+Organic adhesives are prepared materials that cure or set by evaporation and that are ready to use without adding liquid or powder. Adhesives are suitable for installing tiles on prepared wall and floor surfaces, including: brick and concrete masonry; concrete; gypsum wallboard; Portland cement or gypsum plaster; and wood-flooring systems.
+
+Organic adhesives (mastics) are applied as a thin layer approximately 1.5 mm thick. An underlayment is used to level and true surfaces.
+
+Organic adhesive does not permit the soaking of tiles and is not suitable for exterior use. Bond strength varies greatly among the numerous brands of organic adhesives available for use in construction. Adhesives must meet minimum bond-strength requirements of this section of ANSI A136.1 for Type I and II adhesives. The installation of tile with organic adhesives is required to conform to ANSI A108.4.
+
+2103.2.3.7 Portland cement grouts. Portland cement grouts used for the installation of ceramic tile shall comply with ANSI A118.6. Portland cement grouts for tile work shall be installed in accordance with ANSI A108.10.
+
+Portland cement grouts are the most commonly used grouts for tile walls. The mixture of Portland cement and other ingredients is water resistant and uniform in color. The water in the grout is essential to promote a good bond and to develop full grout strength. This type of grout is required to
+
+===== Page 1638 =====
+comply with ANSI A118.6 and to be installed in accordance with ANSI A108.10.
+
+2103.2.4 Mortar for adhered masonry veneer. Mortar for use with adhered masonry veneer shall conform to ASTM C270 for Type N or S or shall comply with ANSI A118.4 for latex-modified Portland cement mortar.
+
+This section lists the types of mortars that can be used for adhered masonry veneer. The general requirements for adhered masonry veneer can be found in Chapter 14.
+
+2103.3 Grout. Grout shall comply with Article 2.2 of SBC 305.
+
+Grout intended for use in the construction of engineered and empirically designed masonry structures is required to comply with ASTM C476, which regulates materials, measurement, mixing and storage of materials. Two types of grout are used in masonry: fine and coarse. Fine grout is made of Portland Cement, sand and water, with optional small quantities of lime. Coarse grout includes the same ingredients, plus pea gravel, which is limited to 10 mm in size.
+
+Whether fine or coarse grout is used depends on the size of the grout space to be filled and the height of the grout pour to be used in construction. SBC 305 places limits on cavity and cell sizes for a given grout pour height for both fine and coarse grouts.
+
+The materials used in masonry grout are required to be listed in ASTM C476 and must conform to the following standard specifications: ASTM C5, ASTM C150, ASTM C207 and ASTM C595.
+
+2103.4 Metal reinforcement and accessories. Metal reinforcement and accessories shall conform to Article 2.4 of SBC 305. Where unidentified reinforcement is approved for use, not less than three tension and three bending tests shall be made on representative specimens of the reinforcement from each shipment and grade of reinforcing steel proposed for use in the work.
+
+This section contains standards and material requirements for anchors, joint reinforcement, wire accessories, ties and wire fabric, and for required corrosion protection of these items.
+
+## SECTION 2104 CONSTRUCTION
+
+2104.1 Masonry construction. Masonry construction shall comply with the requirements of Sections 2104.1.1 and 2104.1.2 and with the requirements of SBC 305 or TMS 604.
+
+This section establishes the requirements, based on accepted practice and referenced standards, regulating materials and construction methods used in engineered and empirically designed masonry construction. SBC 305 prescribes tolerances for placement of reinforcement and masonry units. TMS 604 provides the same for architectural cast stone. Specific tolerances listed include cross sections of elements, thicknesses of mortar joints, widths of grout spaces, variation from level, variation from plumb, trueness to a line, alignment of columns and walls, location of elements, and placement of reinforcement and accessories. These required tolerances are intended to inhibit corrosion, provide placement locations reflecting those assumed in design, provide clearance for mortar and grout, and maintain compatible lateral deflections of parallel wythes. Tolerances are relatively strict since masonry is a structural material and is also exposed to weather. Aesthetics are not a factor in these requirements. Installation of wall ties requires adequate embedment in mortar, and adequate strength and durability of ties. Wall ties are not permitted to be bent after being embedded in grout or mortar, since movement of the ties will reduce the effectiveness of the embedment and subsequent bonding.
+
+Workmanship is of primary importance in providing strong and durable masonry construction. This is especially true for the placement of mortar and masonry units. Water penetration can often be traced to bond breaks at the mortar-unit interface. Additionally, masonry strength relies on the mortar-bedded areas required in SBC 305. Chases and recesses must be designed so that they do not reduce the required strength of the walls or affect the required fire-resistance rating of the wall. Any required chases must be formed during construction of the masonry wall and not by cutting out a section of the finished wall, which could create a weak point and jeopardize the wall strength.
+
+SBC 305 also covers masonry construction in hot or cold weather. When masonry construction is conducted in temperatures below  \( 4^{\circ} \) C, both the masonry components and the structure are required to be protected. One of the main concerns of these provisions is to prevent fresh mortar from freezing. During cold-weather construction, particularly in temperatures below freezing, the curing and subsequent performance of masonry are influenced by the temperature and properties of the mortar and the masonry units, as well as the severity of the exposure (temperature and wind). During hot-weather conditions, special precautions must be taken for adequate strength gain of the masonry. Temperature, solar radiation, humidity and wind affect the rate of absorption of masonry units and the rate of mortar set.
+
+===== Page 1639 =====
+2104.1.1 Support on wood. Masonry shall not be supported on wood girders or other forms of wood construction except as permitted in Section 2304.13.
+
+Masonry is only permitted to be supported on wood construction in accordance with Section 2304.13 because of the serviceability considerations noted here.
+
+Masonry is brittle and relatively weak in tension. It can crack when subjected to deformations. Wood is flexible and usually exhibits elastic deformation and creep (additional deflection from long-term loads). Because of this, masonry supported on wood tends to crack. Therefore, masonry that is permanently supported by wood members must consider long-term deflection effects in accordance with Section 2304.13, which references the American Wood Council (AWC) National Design Specification (NDS). The exception in Section 2304.13 permits concrete nonstructural floor or roof surfacing not more than 100 mm thick to be used without being checked for long-term deflection.
+
+2104.1.2 Molded cornices. Unless structural support and anchorage are provided to resist the overturning moment, the center of gravity of projecting masonry or molded cornices shall lie within the middle one-third of the supporting wall. Terra cotta and metal cornices shall be provided with a structural frame of approved noncombustible material anchored in an approved manner.
+
+Unless cornices or other projections are specifically designed to be supported and anchored to the wall or other adequate structural supports, such as columns, beams, spandrels or floor slabs, the center of gravity of the projecting element is required to fall within the middle third (kern) of the supporting wall. Commentary Figure 2104.1.2 illustrates this requirement.
+
+Cornices are usually ornamental and may or may not support other loads. They can be made of cast-in-place or precast concrete; cast or natural stone; terra cotta; brick or even metal.
+
+Metal and terra-cotta cornices are commonly furnished with a structural frame of noncombustible material that can be anchored to the masonry wall or to other building supports as approved by the building official.
+
+## SECTION 2105 QUALITY ASSURANCE
+
+2105.1 General. A quality assurance program shall be used to ensure that the constructed masonry is in compliance with the approved construction documents.
+
+The quality assurance program shall comply with the inspection and testing requirements of Chapter 17 and SBC 305.
+This section requires a quality assurance program to be used so that the masonry is constructed according to the construction documents. The quality assurance program must comply with the inspection and testing requirements of Chapter 17 as well as SBC 305.
+
+The quality assurance provisions emphasize verification of masonry compressive strengths. This is accomplished by comparing conservatively estimated strengths (based on unit strength and mortar type) or tested prism strengths to the specified compressive strength of the masonry.  \( f_{m} \) , and, when required, by mortar, grout or both to verify that they are in compliance.
+
+These quality assurance methods are for general consistency of the constructed masonry. Masonry is relatively strong in compression and thus rarely fails in that manner, but rather in flexural tension. Compression tests are required, however, because they are simple ways of assessing quality.
+
+## SECTION 2106 SEISMIC DESIGN
+
+2106.1 Seismic design requirements for masonry. Masonry structures and components shall comply with the requirements in Chapter 7 of SBC 305 depending on the structure's seismic design category.
+
+Section 2106 references Chapter 7 of SBC 305 for minimum seismic design requirements for masonry structures based on their seismic design category. This section requires the use of SBC 305 for specific seismic design criteria. Requirements established for various seismic risk categories are cumulative from lower to higher categories. These prescriptive and design-oriented provisions have been established to improve the performance of masonry structures during seismic events by providing additional structural strength, ductility and stability against the dynamic effects of earthquake ground motion. As the seismic demand increases, the provisions require more seismic detailing, increased ductility and greater material reliability.
+
+To comply with the provisions in Section 2106, the seismic design category must be determined for the building or structure under consideration. Section 1613 contains criteria for determining a structure's seismic design category and references SBC 301 for calculating seismic load effects. The requirements for seismic resistance (for example, design forces and detailing) remain applicable and are discussed in the commentary for Chapter 16. Compliance with
+
+===== Page 1640 =====
+Chapter 21 is not a substitute for compliance with the seismic provisions required by Section 1613. More information on seismic design is contained in the commentaries to SBC 301 and the 2009 National Earthquake Hazards Reduction Program (NEHRP) Recommended Provisions for Seismic Regulations for New Buildings and Other Structures (FEMA P-750). The reader is also referred to the commentary to SBC 305 for additional background on seismic design requirements for masonry structures.
+
+## SECTION 2107 ALLOWABLE STRESS DESIGN
+
+2107.1 General. The design of masonry structures using allowable stress design shall comply with Section 2106 and the requirements of Chapters 1 through 8 of SBC 305 except as modified by Sections 2107.2 through 2107.3.
+
+Section 2107 adopts the ASD method of SBC 305 with modifications deemed necessary by SBC 201 Structural Committee. This method of engineered masonry design has been used successfully for years and remains a popular method for designing masonry structures. Refer to the commentary of SBC 305 for additional information on the allowable stress design method for masonry. This section also requires conformance to the seismic design provisions of Section 2106.
+
+2107.2 SBC 305, Section 6.1.6.1.1, lap splices. As an alternative to Section 6.1.6.1.1, it shall be permitted to design lap splices in accordance with Section 2107.2.1.
+
+The section provides an alternative to SBC 305 lap splice requirement.
+
+2107.2.1 Lap splices. The minimum length of lap splices for reinforcing bars in tension or compression,  \( l_{d} \) , shall be
+
+ \[ l_{d}=0.29d_{b}f_{s} \quad (21-1) \]
+
+but not less than 300 mm. In no case shall the length of the lapped splice be less than 40 bar diameters, where:
+
+ \( d_{b} \)  = Diameter of reinforcement, mm.
+
+ \( f_{s} \)  = Computed stress in reinforcement due to design loads, MPa.
+
+In regions of moment where the design tensile stresses in the reinforcement are greater than 80 percent of the allowable steel tension stress,  \( F_{s} \) , the lap length of splices shall be increased not less than 50 percent of the minimum required length but need not be greater than 72 db. Other equivalent means of stress transfer to accomplish the same 50 percent increase shall be permitted. Where epoxy coated bars are used, lap length shall be increased by 50 percent.
+This alternative provision is based on allowable stress detailing requirements that were used in the Uniform Building Code. Lap splice and development length requirements for allowable stress and strength design of masonry differ, due in part to the slightly more conservative nature of the ASD requirements. Note that Section 2107.3 prohibits the lap splicing of reinforcement larger than 32 mm bars.
+
+2107.3 SBC 305, Section 8.1.6.7, splices of reinforcement. Modify Section 8.1.6.7 as follows: 8.1.6.7 – Splices of reinforcement. Lap splices, welded splices or mechanical splices are permitted in accordance with the provisions of this section. All welding shall conform to AWS D1.4. Welded splices shall be of ASTM A706 steel reinforcement. Reinforcement larger than Dia 32 mm shall be spliced using mechanical connections in accordance with Section 8.1.6.7.3.
+
+Research has shown that effectively lap splicing large reinforcing bars in masonry is difficult and impractical because of the excessive lap lengths required. This section adds a provision not in SBC 305 requiring mechanical splices for all bars larger than 32 mm in diameter. If splices are welded, the use of ASTM A706 reinforcing steel is mandatory, because this steel specification has controlled chemistry and can, therefore, be more reliably welded than steel produced without such controls (see commentary, Section 2108.3 for additional information).
+
+## SECTION 2108 STRENGTH DESIGN OF MASONRY
+
+2108.1 General. The design of masonry structures using strength design shall comply with Section Section 2106 and the requirements of Chapters 1 through 7 and Chapter 9 of SBC 305, except as modified by Sections 2108.2 through 2108.3
+
+Exception: AAC masonry shall comply with the requirements of Chapters 1 through 7 and Chapter 11 of SBC 305.
+
+Like ASD, this section also invokes the minimum seismic requirements of Section Section 2106 for all masonry designed by the strength method. Additionally, masonry designed by this method (as with any engineered masonry construction) must be inspected during construction in accordance with the special inspection provisions of Section 1705.4, which in turn references the quality assurance provisions of SBC 305.
+
+2108.2 SBC 305, Section 6.1.5.1.1, development. Modify the second paragraph of Section 6.1.5.1.1 as follows:
+
+The required development length of reinforcement shall be determined by Equation (6-1) but shall not
+
+===== Page 1641 =====
+be less than 300 mm and need not be greater than 72 db.
+
+This section modifies SBC 305 by placing a limit on the calculated development length, which in turn limits the maximum required splice length. The limit is based on historical limits used in the UBC. It is intended to address concerns that at times, SBC 305 requires excessive lap splice lengths.
+
+2108.3 SBC 305, Section 9.3.3.4, splices. Modify items (c) and (d) of Section 9.3.3.4 as follows:
+
+9.3.3.4 (c) – A welded splice shall have the bars butted and welded to develop not less than 125 percent of the yield strength,  \( f_{y} \) , of the bar in tension or compression, as required. Welded splices shall be of ASTM A706 steel reinforcement. Welded splices shall not be permitted in plastic hinge zones of intermediate or special reinforced walls.
+
+9.3.3.4 (d) – Mechanical splices shall be classified as Type 1 or 2 in accordance with Section 18.2.7.1 of SBC 304. Type 1 mechanical splices shall not be used within a plastic hinge zone or within a beam-column joint of intermediate or special reinforced masonry shear walls. Type 2 mechanical splices are permitted in any location within a member.
+
+This section modifies the strength design splice requirements for consistency with the NEHRP Recommended Provisions. Splices for reinforcement can be achieved by lapping the reinforcement, welding the reinforcement or mechanical splicing.
+
+Two modifications are made to welded splice requirements. Splices in reinforcing steel used in the lateral force-resisting system subjected to high-seismic strains must be able to develop the strength of the steel in order to achieve the required performance. To be successfully welded, the chemistry of the steel must be controlled to limit carbon content, as well as other elements, such as sulfur and phosphorus. Since the chemistry of reinforcing steel conforming to ASTM A615, for example, is not controlled and is likely to be unknown, a weld that develops the strength of the steel is not guaranteed. ASTM A706 steel, on the other hand, has controlled chemistry and can be more reliably welded. Therefore, if splices are to be accomplished by welding, the use of ASTM A706 reinforcing steel becomes mandatory.
+
+Welded splices are required to be able to develop at least 125 percent of the yield strength of the spliced rebars. However, reinforcing steel conforming to ASTM A615, ASTM A706 or ASTM A996 can have an actual yield strength greater than 125 percent of the minimum required yield strength. This means a code-conforming welded splice may conceivably fail before the spliced bars have yielded, thereby limiting the inelastic deformability of that structural member. The use of welded splices is, therefore, prohibited at locations where there is the potential for plastic hinging of members in structural systems that are expected to undergo significant inelastic response in resisting forces caused by earthquake ground motion.
+
+The modification to mechanical splices in 6.1.6.1.3 of SBC 305 requires that the splice be classified in accordance with SBC 304 as Type 1 or Type 2. This is because reinforcing steel is predominantly produced from remelted steel scrap, making it difficult to control the strength. The resulting products tend to have strengths considerably higher than the specified yield strength. This is similar to the situation that has occurred in structural steel where the actual yield strength can be much greater than the specified yield strength. Since there is no upper limit on the yield strength (except for ASTM A706) and only a minimum required yield strength, most reinforcing steel will have a higher yield point than that specified.
+
+Testing by the California Department of Transportation (Caltrans) indicates the overstrength can be as much as 60 percent over the specified strength. Cyclic tests of splices meeting only the 125-percent criterion (i.e., Type 1) show that, in many cases, they cannot survive several excursions in the post yield range as imposed by cyclic testing. Splices in reinforcing steel used in the seismic force-resisting system in plastic hinge zones and beam-column joints are subjected to high seismic strains so they must be able to develop the strength of the steel in order to achieve the required performance; hence, the requirement for a Type 2 splice that develops the specified tensile strength of the bar.
+
+## SECTION 2109 EMPIRICAL DESIGN OF ADOBE MASONRY
+
+2109.1 General. Empirically designed adobe masonry shall conform to the requirements of Appendix A of SBC 305, except where otherwise noted in this section.
+
+This section permits empirical design of adobe masonry utilizing Appendix A of SBC 305 as further noted in this section. Empirical provisions are design rules developed by experience rather than engineering analysis. The empirical rules in these provisions are based on records dating back as far as 1889, in A Treatise on Masonry Construction by Ira Baker, and more recently ANSI A41.1, first published in 1944.
+
+This empirical design method is based on several premises: gravity loads are reasonably
+
+===== Page 1642 =====
+centered on bearing walls; effects of reinforcement are neglected; buildings have limited height, seismic risk and wind loading. The requirements of and limitations regarding the use of empirical design reflect these assumptions.
+
+2109.1.1 Limitations. The use of empirical design of adobe masonry shall be limited as noted in Section A.1.2 of SBC 305. In buildings that exceed one or more of the limitations of Section A.1.2 of SBC 305, masonry shall be designed in accordance with the engineered design provisions of Section 2101.2 or the foundation wall provisions of Section 6.5 of SBC 303.
+
+Section A.1.2.2 of SBC 305 shall be modified as follows:
+
+A.1.2.2 – Wind. Empirical requirements shall not apply to the design or construction of masonry for buildings, parts of buildings, or other structures to be located in areas where  \( V_{asd} \)  as determined in accordance with Section 1609.3.1 of SBC 201 exceeds 49 m/s.
+
+Empirical design is permitted for structures having limited seismic risk, wind loading and height. These limitations are justified, since buildings that were representative of the historically based empirical provisions are uncommon today. For example, buildings of the past were smaller, had more interior masonry walls and typically had different floor construction than modern buildings.
+
+Where any one of the limitations in Appendix A of SBC 305 is exceeded, the adobe masonry structure is not permitted to be empirically designed. Engineered masonry design in accordance with Section 2107 or Section 2108 or SBC 305 would be required in such instances. Masonry foundation walls complying with Section 6.5 of SBC 303 are also acceptable. The empirical provisions are adequate for the level of risk associated with the seismic force-resisting systems of buildings located in Seismic Design Category A. Where masonry is used for purposes other than the seismic force-resisting system, the empirical design method may be used in buildings assigned to Seismic Design Category A, B or C. Engineered design is required for buildings in higher seismic design categories.
+
+In addition, empirical design of the lateral load-resisting system is limited to locations where the nominal design wind speed,  \( V_{asd} \)  determined in accordance with Section 1609.3.1, does not exceed 49 m/s. Other limits on various building elements are based on the type of element, its location and the building height, as well as the basic wind speed.
+2109.2 Adobe construction. Adobe construction shall comply with this section and shall be subject to the requirements of this code for Type V construction, Appendix A of SBC 305, and this section.
+
+Requirements for adobe construction are a combination of empirical provisions and rudimentary engineering. Since there are no ASTM standards for adobe materials, test methods have been included in the code. Design is based on gross cross-sectional dimensions.
+
+Requirements for unstabilized adobe are contained in Section 2109.2.1. Requirements for stabilized adobe are contained in Section 2109.2.2. Requirements in Sections 2109.2.3 and 2109.2.4 apply to both unstabilized and stabilized adobe. This is one of the few sources for such design information.
+
+2109.2.1 Unstabilized adobe. Unstabilized adobe shall comply with Sections 2109.2.1.1 through 2109.2.1.4.
+
+Unstabilized adobe is generally not as durable or dimensionally stable as stabilized adobe.
+
+2109.2.1.1 Compressive strength. Adobe units shall have an average compressive strength of 2100 kPa when tested in accordance with ASTM C67. Five samples shall be tested and individual units are not permitted to have a compressive strength of less than 1750 kPa.
+
+Average compressive strength, based on five specimens tested in accordance with ASTM C67, must be at least 2100 kPa.
+
+2109.2.1.2 Modulus of rupture. Adobe units shall have an average modulus of rupture of 350 kPa when tested in accordance with the following procedure. Five samples shall be tested and individual units shall not have a modulus of rupture of less than 250 kPa.
+
+Average modulus of rupture, based on five specimens tested in accordance with Sections 2109.2.1.2.1 through 2109.2.1.2.4, must be at least 350 kPa.
+
+2109.2.1.2.1 Support conditions. A cured unit shall be simply supported by 50 mm-diameter cylindrical supports located 50 mm in from each end and extending the full width of the unit.
+
+These required support conditions are typical for modulus of rupture tests.
+
+2109.2.1.2.2 Loading conditions. A 50 mm-diameter cylinder shall be placed at midspan parallel to the supports.
+
+Loading through a hydraulic cylinder at midspan is common for these tests.
+
+===== Page 1643 =====
+2109.2.1.2.3 Testing procedure. A vertical load shall be applied to the cylinder at the rate of 37 N/s until failure occurs.
+
+The required application of vertical load is easily controlled in testing laboratories.
+
+2109.2.1.2.4 Modulus of rupture determination. The modulus of rupture shall be determined by the
+
+equation:
+
+ \[ f_{r}=3\frac{P L_{s}}{2}S_{w}(S_{r}^{2}) \]
+
+(Equation 21-2)
+
+Where, for the purposes of this section only:
+
+ \( S_{w} \)  = Width of the test specimen measured parallel to the loading cylinder, mm.
+
+ \( f_{r} \)  = Modulus of rupture, MPa.
+
+ \( L_{s} \)  = Distance between supports, mm.
+
+ \( S_{r} \)  = Thickness of the test specimen measured parallel to the direction of load, mm.
+
+P = The applied load at failure, N.
+
+Equation 21-2 is based on basic engineering mechanics and is valid for all rectangular specimens tested in this fashion.
+
+2109.2.1.3 Moisture content requirements. Adobe units shall have a moisture content not exceeding 4 percent by weight.
+
+This section limits the moisture content of unstabilized adobe units to acceptable levels.
+
+2109.2.1.4 Shrinkage cracks. Adobe units shall not contain more than three shrinkage cracks and any single shrinkage crack shall not exceed 75 mm in length or 3 mm in width.
+
+As adobe units dry, they shrink and can crack. This section places limits on those potential cracks to keep the masonry structurally sound and reasonably water resistant.
+
+2109.2.2 Stabilized adobe. Stabilized adobe shall comply with Section 2109.2.1 for unstabilized adobe in addition to Sections 2109.2.2.1 and 2109.2.2.2.
+
+This type of adobe is manufactured with stabilizers to increase its durability and decrease its water absorption. Stabilized adobe must also meet the requirements for unstabilized adobe prescribed in Section 2109.2.1.
+
+2109.2.2.1 Soil requirements. Soil used for stabilized adobe units shall be chemically compatible with the stabilizing material.
+
+The soil and stabilizing materials must be chemically compatible so that the stabilized units will be durable.
+
+2109.2.2.2 Absorption requirements. A 100 mm cube, cut from a stabilized adobe unit dried to a constant weight in a ventilated oven at  \( 100^{\circ} \) C to  \( 115^{\circ} \) C, shall not absorb more than  \( 2\frac{1}{2} \)  percent moisture by weight when placed on a constantly water-saturated, porous surface for seven days. Not fewer than five specimens shall be tested, and each specimen shall be cut from a separate unit.
+
+This section prescribes a test method to verify that stabilized adobe units meet absorption limits.
+
+2109.2.3 Allowable stress. The allowable compressive stress based on gross cross-sectional area of adobe shall not exceed 200 kPa.
+
+This section prescribes the allowable compressive stress of adobe based on its gross cross-sectional area.
+
+2109.2.3.1 Bolts. Bolt values shall not exceed those set forth in Table 2109.2.3.1.
+
+This section requires the capacity of bolts to be based on Table 2109.2.3.1. Specific types of bolts are not identified, but headed, bent bar and plate anchors should all be acceptable.
+
+The allowable shear values in this table are based on the capacity of the adobe masonry. The capacity of the anchor-bolt steel is much higher, so the lower strength of the adobe controls the allowable shear value.
+
+2109.2.4 Detailed requirements. Adobe construction shall comply with Sections 2109.2.4.1 through 2109.2.4.9.
+
+This section contains detailed construction requirements including height restrictions, mortar restrictions, mortar joint construction and water-resistance requirements for parapet walls, wall thickness, foundations, isolated piers and columns, tie beams, exterior finish and lintels.
+
+2109.2.4.1 Number of stories. Adobe construction shall be limited to buildings not exceeding one story, except that two-story construction is allowed where designed by a registered design professional.
+
+Because of the low strength of adobe masonry, it is limited to use in single-story buildings, unless designed by a registered design professional, in which case two-story buildings are permitted.
+
+2109.2.4.2 Mortar. Mortar for adobe construction shall comply with Sections 2109.2.4.2.1 and 2109.2.4.2.2.
+
+A variety of mortars are acceptable for stabilized adobe, as noted in Section 2109.2.4.2.1.
+
+2109.2.4.2.1 General. Mortar for adobe units shall be in accordance with Section 2103.2.1 or be composed of adobe soil of the same composition and stabilization as the adobe brick units. Unstabilized adobe soil mortar is permitted in conjunction with unstabilized adobe brick units.
+
+A variety of mortars are acceptable for stabilized adobe as noted; however, Portland
+
+===== Page 1644 =====
+cement-lime mortars are required for unstabilized adobe. Selection of a relatively weak mortar that is compatible with the units is appropriate.
+
+2109.2.4.2.2 Mortar joints. Adobe units shall be laid with full head and bed joints and in full running bond.
+
+Full mortar joints, the same as for other solid units, are required for adobe construction. Units are required to be laid in running bond.
+
+2109.2.4.3 Parapet walls. Parapet walls constructed of adobe units shall be waterproofed.
+
+Waterproofing parapets reduces moisture infiltration into the adobe.
+
+2109.2.4.4 Wall thickness. The minimum thickness of exterior walls in one-story buildings shall be 250 mm. The walls shall be laterally supported at intervals not exceeding 7.3 m. The minimum thickness of interior load-bearing walls shall be 200 mm. The unsupported height of any wall constructed of adobe units shall not exceed 10 times the thickness of such wall.
+
+Because of the low strength of adobe masonry walls, thicker walls with more closely spaced supports are required.
+
+2109.2.4.5 Foundations. Foundations for adobe construction shall be in accordance with Sections 2109.2.4.5.1 and 2109.2.4.5.2.
+
+This section prescribes foundation requirements for adobe masonry.
+
+2109.2.4.5.1 Foundation support. Walls and partitions constructed of adobe units shall be supported by foundations or footings that extend not less than 150 mm above adjacent ground surfaces and are constructed of solid masonry (excluding adobe) or concrete. Footings and foundations shall comply with SBC 303.
+
+So that adobe masonry is properly supported, solid masonry or concrete foundations are required.
+
+2109.2.4.5.2 Lower course requirements. Stabilized adobe units shall be used in adobe walls for the first 100 mm above the finished first-floor elevation.
+
+Because of their greater durability, stabilized adobe units are required at the base of adobe walls. Conventional masonry units can also be used to satisfy this requirement.
+
+2109.2.4.6 Isolated piers or columns. Adobe units shall not be used for isolated piers or columns in a loadbearing capacity. Walls less than 600 mm in length shall be considered to be isolated piers or columns.
+
+Adobe units are not strong enough to carry significant loads and are, therefore, not permitted to be used as isolated piers or columns.
+
+2109.2.4.7 Tie beams. Exterior walls and interior loadbearing walls constructed of adobe units shall have a continuous tie beam at the level of the floor or roof bearing and meeting the following requirements.
+
+To distribute loads more evenly into the adobe, tie beams are required at the floor or roof level. Tie beams can be constructed of concrete or wood, as described in Sections 2109.2.4.7.1 and 2109.2.4.7.2, respectively.
+
+2109.2.4.7.1 Concrete tie beams. Concrete tie beams shall be 150 mm or more in depth 250 mm or more in width. Concrete tie beams shall be continuously reinforced with not fewer than two Dia 12 mm reinforcing bars. The specified compressive strength of concrete shall be not less than 17 MPa.
+
+This section provides requirements for concrete tie beams to be cast above adobe masonry walls to distribute loads from floors and roofs.
+
+2109.2.4.7.2 Wood tie beams. Wood tie beams shall be solid or built up of lumber having a nominal thickness of not less than 25 mm and shall have a depth of not less than 150 mm and a width of not less than 250 mm. Joints in wood tie beams shall be spliced not less than 150 mm. Splices shall not be allowed within 300 mm of an opening. Wood used in tie beams shall be approved naturally decay resistant or preservative-treated wood.
+
+This section provides requirements for wood tie beams to be constructed above adobe masonry walls to distribute loads from floors and roofs.
+
+2109.2.4.8 Exterior finish. Exterior finishes applied to adobe masonry walls shall be of any type permitted by this section or Chapter 14, except where stated otherwise in this section.
+
+Even more than wood frame or conventional masonry structures, adobe walls require vapor permeable finishes to ensure appropriate performance and service life. Moisture that is trapped within adobe wall assemblies can cause failures due to finish separation, salt attack, coving and freeze-thaw-related spalling.
+
+2109.2.4.8.1 Where required. Unstabilized adobe masonry walls shall receive a weather protective exterior finish in accordance with Section 2109.2.4.8.
+
+Where required, adobe is to be coated with a weather-protective exterior finish to increase its durability.
+
+===== Page 1645 =====
+2109.2.4.8.2 Vapor permeance. Plaster and finish assemblies shall have a vapor permeance of not less than 5 perms.
+
+Exception: Insulation products applied to the exterior of stabilized adobe masonry walls in Climate Zones 2, 3, 4 and 5 shall not have a vapor permeance requirement.
+
+This section provides requirements for the vapor permeance of the adobe finish. In dry climates, such as Climate Zones 2, 3, 4 and 5, there is no vapor permeance requirement.
+
+2109.2.4.8.3 Plaster thickness and coats. Plaster applied to adobe masonry shall be not less than 22 mm and not greater than 50 mm thick. Plaster shall be applied in not less than two coats.
+
+Limits on the maximum thickness of applied plasters are required to ensure that the applied renders are securely bonded to the substrate.
+
+2109.2.4.8.4 Plaster application. Where plaster is applied directly to adobe masonry walls, no intermediate membrane shall be used.
+
+An intermediate membrane would interfere where plaster is applied directly to the adobe.
+
+2109.2.4.8.5 Lath for plaster. Lath shall be provided for all plasters, except where not required elsewhere in Section 2109.2.4.8. Fasteners shall be corrosion resistant and spaced at a maximum of 400 mm on center with a minimum 40 mm penetration into the adobe wall. Metal lath shall comply with ASTM C1063, as modified by this section, and shall be corrosion resistant. Plastic lath shall comply with ASTM C1788, as modified by this section. Wood substrates shall be protected with No. 15 asphalt felt, an approved wood preservative or other protective coating prior to lath application.
+
+This section provides requirements pertaining to the different types of lath for plaster.
+
+2109.2.4.8.6 Cement plaster. Cement plaster shall conform to ASTM C926 and shall comply with Chapter 25, except that the proportion of lime in plaster coats shall be not less than 1 part lime to 4 parts cement. The combined thickness of cement plaster coats shall not exceed 25 mm.
+
+This section provides the specific requirements for cement plaster utilized as the exterior finish for adobe construction.
+
+2109.2.4.8.7 Lime plaster. Lime plaster is any plaster with a binder composed of calcium hydroxide, including Type N or S hydrated lime, hydraulic lime, natural hydraulic lime, or slaked quicklime. Hydrated lime shall comply with ASTM C206. Hydraulic lime shall comply with ASTM C1707. Natural hydraulic lime shall comply with ASTM C141 and EN 459. Quicklime shall comply with ASTM C5.
+
+Lime plasters are a finishing system that is relatively durable and vapor permeable. However, as they have different properties from other plasters, specific requirements for this material are stipulated.
+
+2109.2.4.8.8 Cement-lime plaster. Cement-lime plaster shall be any plaster mix type CL, F or FL, as described in ASTM C926.
+
+The cement-lime plaster types allowed, as described in ASTM C926, each contain between 75 to 200 percent as much lime as cement, with an expected vapor permeance of at least 7 perms.
+
+2109.2.4.8.9 Clay plaster. Clay plaster shall comply with this section.
+
+These subsections provide the material requirements for clay plaster finishing systems.
+
+2109.2.4.8.9.1 General. Clay plaster shall be any plaster having a clay or clay subsoil binder. Such plaster shall contain sufficient clay to fully bind the aggregate and shall be permitted to contain reinforcing fibers. Acceptable reinforcing fibers include chopped straw, sisal, and animal hair.
+
+Reinforcing fibers are frequently added to clay plasters to improve their fabric strength as well as to inhibit and control cracking. As clay plasters may be successfully installed without reinforcing fiber (depending on the material qualities of the clay/sand/aggregate mix), this section does not require them.
+
+2109.2.4.8.9.2 Clay subsoil requirements. The suitability of clay subsoil shall be determined in accordance with the Figure 2 Ribbon Test and the Figure 3 Ball Test in the appendix of ASTM E2392/E2392M.
+
+Some types of clay are not suitable for use in clay plasters as they are too expansive or do not provide sufficient binding characteristics. This section requires the use of field tests from ASTM E2392 to assess suitability.
+
+2109.2.4.8.9.3 Weather-exposed locations. Clay plaster exposed to water from direct or wind-driven rain shall be finished with an approved erosion-resistant finish. The use of clay plasters shall not be permitted on weather-exposed parapets.
+
+When directly exposed to weather, clay plasters are susceptible to erosion. This section provides protection requirements for clay plasters exposed to water from direct or wind-driven rain. Adobe parapet walls are more susceptible to weather damage than other building surfaces due to their exposed location, more complicated detailing. Lime and linseed oil-treated clay plasters do not provide sufficient protection for these conditions; as
+
+===== Page 1646 =====
+such, use of clay plasters in these locations is prohibited.
+
+2109.2.4.8.9.4 Prohibited finish coat. Plaster containing Portland cement shall not be permitted as a finish over clay plaster.
+
+This section clarifies that plasters containing Portland cement are not allowed as finish over clay plaster. Cement plasters, including soil cement plasters, have not been demonstrated to perform adequately where applied over clay plasters.
+
+2109.2.4.8.9.5 Conditions where lathing is not required. For unstabilized adobe walls finished with unstabilized clay plaster, lathing shall not be required.
+
+Lathing is not required for unstabilized adobe walls finished with unstabilized clay plaster.
+
+2109.2.4.9 Lintels. Lintels shall be considered to be structural members and shall be designed in accordance with the applicable provisions of Chapter 16.
+
+Lintels over door and window openings are required to be structurally designed to carry imposed loads and to distribute those loads into the supporting adobe.
+
+## SECTION 2110 GLASS UNIT MASONRY
+
+2110.1 General. Glass unit masonry construction shall comply with Chapter 13 of SBC 305 and this section.
+
+Section 2110 contains provisions for glass unit masonry walls, which are nearly identical to the glass unit masonry provisions in Chapter 13 of SBC 305. Glass unit masonry panels are permitted to be used in interior or exterior walls, provided that they are nonload bearing and comply with the requirements of Section 2110, which are partly empirical and partly based on tests.
+
+2110.1.1 Limitations. Solid or hollow approved glass block shall not be used in fire walls, party walls, fire barriers, fire partitions or smoke barriers, or for load-bearing construction. Such blocks shall be erected with mortar and reinforcement in metal channel-type frames, structural frames, masonry or concrete recesses, embedded panel anchors as provided for both exterior and interior walls or other approved joint materials. Wood strip framing shall not be used in walls required to have a fire-resistance rating by other provisions of this code.
+
+## Exceptions:
+
+1. Glass-block assemblies having a fire protection rating of not less than 3/4 hour shall be permitted as opening protectives in accordance with Section 716 in fire barriers, fire partitions and smoke barriers that have a required fire-resistance rating of 1 hour or less and do not enclose exit stairways and ramps or exit passageways.
+
+2. Glass-block assemblies as permitted in Section 404.6, Exception 2.
+
+Structural glass blocks are not permitted in fire walls, party walls, fire barrier walls or fire partitions, with two exceptions. Exception 1 permits glass blocks that have been tested and classified for a 3/4-hour fire protection rating in openings to be used in smoke barriers, fire barrier walls or fire partitions with a required fire-resistance rating of 1 hour or less. Since 1-hour fire barrier walls can be utilized to enclose interior exit stairways and exit ramps (see Section 1023.2), as well as exit passageways (see Section 1024.3), the exception does not apply to those locations. This is consistent with Sections 1023.4 and 1024.5, which limit openings in these exit components to those that are necessary for egress purposes. Exception 2 permits glass blocks to be installed in accordance with the requirements in Section 404.6, Exception 2, as the fire barrier enclosure of atrium. The two exceptions differ in that Exception 1 addresses the use of glass block for opening protectives (fire windows) while Exception 2 permits the acceptance of complying glass block assemblies as 1-hour fire barriers.
+
+## SECTION 2111 MASONRY FIREPLACES
+
+2111.1 General. The construction of masonry fireplaces, consisting of concrete or masonry, shall be in accordance with this section.
+
+The provisions of this section apply to the design and construction of concrete and masonry fireplaces, which for simplicity are referred to as “masonry fireplaces.” Commentary Figure 2111.1 shows a cross section of a typical masonry fireplace. In accordance with the definition in Section 202, a fireplace consists of a hearth and fire chamber and it is built in conjunction with a chimney.
+
+2111.2 Fireplace drawings. The construction documents shall describe in sufficient detail the location, size and construction of masonry fireplaces. The thickness and characteristics of materials and the clearances from walls, partitions and ceilings shall be indicated.
+
+This section requires the submission of construction documents for all fireplaces so that compliance with appropriate code sections can be properly determined during plan review. The type of information and its format for plan review are established in this section. Construction documents, showing relationships of components and details related to the specific characteristics of the materials and techniques to be used when erecting the
+
+===== Page 1647 =====
+fireplace and chimney system, are required. Details are to include the type of brick or stone; refractory brick; concrete masonry; mortar requirements; wall thicknesses; clearances; dimensions of openings; and dimensions of the firebox and hearth extension.
+
+2111.3 Footings and foundations. Footings for masonry fireplaces and their chimneys shall be constructed of concrete or solid masonry not less than 300 mm thick and shall extend not less than 150 mm beyond the face of the fireplace or foundation wall on all sides. Footings shall be founded on natural undisturbed earth or engineered fill. In areas not subjected to freezing, footings shall be not less than 300 mm below finished grade.
+
+Masonry fireplaces and chimneys must be supported on adequate footings due to their weight and the forces imposed on them by wind, earthquakes and other effects. This section prescribes minimum footing requirements that are typically adequate for standard fireplaces and chimneys. Extremely large, tall or heavy fireplaces and chimneys, however, may need more substantial foundations (see Commentary Figure 2111.1).
+
+2111.3.1 Ash dump cleanout. Cleanout openings, located within foundation walls below fireboxes, where provided, shall be equipped with ferrous metal or masonry doors and frames constructed to remain tightly closed, except when in use. Cleanouts shall be accessible and located so that ash removal will not create a hazard to combustible materials.
+
+Noncombustible, tightly sealed cleanout doors are required to reduce the danger of fire spread through the cleanout openings. Cleanout openings are required to be easily accessible to allow ash to be readily removed.
+
+2111.4 Seismic reinforcement In structures assigned to Seismic Design Category A or B, seismic reinforcement is not required. In structures assigned to Seismic Design Category C or D, masonry fireplaces shall be reinforced and anchored in accordance with Sections 2111.4.1, 2111.4.2 and 2111.5.
+
+Unreinforced masonry fireplaces and chimneys subjected to moderate ground motion have sustained damage in past earthquakes. The requirements in this section provide minimum reinforcement in an effort to increase structural integrity in structures classified as Seismic Design Category C or D.
+
+2111.4.1 Vertical reinforcing. For fireplaces with chimneys up to 1000 mm wide, four Dia 12 continuous vertical bars, anchored in the foundation, shall be placed in the concrete between wythes of solid masonry or within the cells of hollow unit masonry and grouted in accordance with Article 202 of SBC 305. For fireplaces with chimneys greater than 1000 mm wide, two additional Dia 12 vertical bars shall be provided for each additional 1000 mm in width or fraction thereof.
+
+These requirements are traditional minimum prescriptive provisions to help maintain the integrity of fireplaces and chimneys during earthquakes. To resist strong earthquakes, however, more substantial reinforcement may be required.
+
+2111.4.2 Horizontal reinforcing. Vertical reinforcement shall be placed enclosed within 6 mm ties or other reinforcing of equivalent net cross-sectional area, spaced not to exceed 450 mm on center in concrete; or placed in the bed joints of unit masonry at a minimum of every 450 mm of vertical height. Two such ties shall be provided at each bend in the vertical bars.
+
+These requirements are traditional minimum prescriptive provisions to help maintain the integrity of fireplaces and chimneys during earthquakes. The vertical reinforcement required by Section 2111.4.1 must be enclosed within the horizontal reinforcement required by this section. To resist strong earthquakes, however, more substantial reinforcement may be required.
+
+2111.5 Seismic anchorage Masonry fireplaces and foundations shall be anchored at each floor, ceiling or roof line more than 1800 mm above grade with two 5 mm by 25 mm straps embedded not less than 300 mm into the chimney. Straps shall be hooked around the outer bars and extend 150 mm beyond the bend. Each strap shall be fastened to not fewer than four floor joists with two 12.5 mm bolts.
+
+Exception: Seismic anchorage is not required for the following:
+
+1. In structures assigned to Seismic Design Category A or B.
+
+2. Where the masonry fireplace is constructed completely within the exterior walls.
+
+Fireplace chimneys can fail by overturning during earthquakes. This section duplicates the chimney anchorage requirements in Section F4. The prescriptive requirements in this section are traditional for typical chimney construction. More substantial anchorage may be required in structures having an elevated seismic risk or for chimneys where the distance between floor and roof diaphragms is large. Seismic anchorage to floors and roof diaphragms is required for exterior chimneys in order to prevent detachment from the structure. While it is not required for a chimney that is enclosed within the exterior walls, anchorage could be utilized to minimize the risk of damage.
+
+===== Page 1648 =====
+to floor or roof framing caused by pounding on the framing from the effects of a seismic event. 2111.6 Firebox walls Masonry fireboxes shall be constructed of solid masonry units, hollow masonry units grouted solid, stone or concrete. Where a lining of firebrick not less than 50 mm in thickness or other approved lining is provided, the minimum thickness of back and sidewalls shall each be 200 mm of solid masonry, including the lining. The width of joints between firebricks shall be not greater than 6 mm. Where a lining is not provided, the total minimum thickness of back and sidewalls shall be 250 mm of solid masonry. Firebrick shall conform to ASTM C27 or ASTM C1261 and shall be laid with medium-duty refractory mortar conforming to ASTM C199.
+
+This section specifies the minimum thicknesses of refractory brick or solid masonry necessary to contain the generated heat.
+
+Solid masonry walls forming the firebox are required to have a minimum total thickness of 200 mm, including the refractory lining. The refractory lining is to consist of a low-duty, fireclay refractory brick with a minimum thickness of 50 mm, laid with medium-duty refractory mortar. Mortar joints are generally 1.5 to 5.0 mm thick, but not thicker than 6.5 mm, to reduce thermal movements and prevent joint deterioration.
+
+Where a firebrick lining is not used in firebox construction, the wall thickness is not to be less than 250 mm of solid masonry. Firebrick is required to conform to ASTM C27 or ASTM C1261. Firebrick must be laid with medium-duty refractory mortar conforming to ASTM C199.
+
+2111.6.1 Steel fireplace units. Steel fireplace units are permitted to be installed with solid masonry to form a masonry fireplace provided that they are installed according to either the requirements of their listing or the requirements of this section. Steel fireplace units incorporating a steel firebox lining shall be constructed with steel not less than 6 mm in thickness, and an air-circulating chamber that is ducted to the interior of the building. The firebox lining shall be encased with solid masonry to provide a total thickness at the back and sides of not less than 200 mm, of which not less than 100 mm shall be of solid masonry or concrete. Circulating air ducts employed with steel fireplace units shall be constructed of metal or masonry.
+
+This section provides minimum requirements for steel linings used in masonry fireplaces to improve heat flow.
+
+2111.7 Firebox dimensions The firebox of a concrete or masonry fireplace shall have a minimum depth of 500 mm. The throat shall be not less than 200 mm above the fireplace opening. The throat opening shall not be less than 100 mm in depth. The cross-sectional area of the passageway above the firebox, including the throat, damper and smoke chamber, shall be not less than the cross-sectional area of the flue.
+
+Exception: Rumford fireplaces shall be permitted provided that the depth of the fireplace is not less than 300 mm and at least one-third of the width of the fireplace opening, and the throat is not less than 300 mm above the lintel, and at least 1/20, the cross-sectional area of the fireplace opening.
+
+The proper functioning of the fireplace depends on the size of the face opening and the chimney dimensions, which in turn are related to the room size (see Commentary Figure 2111.1). This section specifies a minimum depth of 500 mm for the combustion chamber because that depth influences the draft requirement. The dimensions of the firebox (depth, opening size and shape) are usually based on two considerations: aesthetics and the need to prevent the room from over-heating. Suggested dimensions for single-opening fireboxes are given in technical publications of the Brick Institute of America (BIA) and the National Concrete Masonry Association (NCMA).
+
+This section also provides additional criteria for the throat's location and minimum cross-sectional area. Those criteria are based on many years of construction of successfully functioning fireplaces.
+
+The exception permits the use of Rumford-style fireplaces and the dimensions associated with this design style. Rumford fireplaces are tall and shallow to reflect more heat, and they have streamlined throats to eliminate turbulence and to carry away the smoke with little loss of heated room air.
+
+The code reference to the depth of the fireplace is interpreted as the depth of the firebox (see Commentary Figure 2111.7). The throat is required to be made at least 300 mm above the lintel and at least one-twentieth of the cross-sectional area of the fireplace opening. Smoke chambers and flues for Rumford fireplaces should be sized and built like other masonry fireplaces. While those who build Rumford fireplaces do not completely agree about how they work, many books and guides address their construction.
+
+2111.8 Lintel and throat Masonry over a fireplace opening shall be supported by a lintel of noncombustible material. The minimum required bearing length on each end of the fireplace opening shall be 100 mm. The fireplace throat or damper
+
+===== Page 1649 =====
+shall be located not less than 200 mm above the top of the fireplace opening.
+
+Permanent support for the masonry above the fireplace opening is provided by noncombustible lintels of steel, masonry or concrete. Combustible lintels (for example, those made from wood) are not appropriate because of the risk of fire damage and the probable collapse of the masonry above the opening.
+
+The minimum bearing requirement of 100 mm is empirical, based on typical masonry fireplace openings. Lintels that support more than the typical weight of masonry above the fireplace opening may require a larger bearing area.
+
+The throat of a fireplace is the slot-like opening above the firebox through which flames, smoke and hot combustion gases pass into the smoke chamber. The throat is as wide as the combustion chamber and is required to be located at least 200 mm above the lintel for conventional fireplaces. The back wall of the combustion chamber extends up to the throat, which is provided with a metal damper.
+
+2111.8.1 Damper. Masonry fireplaces shall be equipped with a ferrous metal damper located not less than 200 mm above the top of the fireplace opening. Dampers shall be installed in the fireplace or at the top of the flue venting the fireplace and shall be operable from the room containing the fireplace. Damper controls shall be permitted to be located in the fireplace.
+
+A damper is used to close the chimney flue when the fireplace is not in use. This section provides guidance on its location and construction.
+
+2111.9 Smoke chamber walls Smoke chamber walls shall be constructed of solid masonry units, hollow masonry units grouted solid, stone or concrete. The total minimum thickness of front, back and sidewalls shall be 200 mm of solid masonry. The inside surface shall be parged smooth with refractory mortar conforming to ASTM C 199. Where a lining of firebrick not less than 50 mm thick, or a lining of vitrified clay not less than 16 mm thick, is provided, the total minimum thickness of front, back and sidewalls shall be 150 mm of solid masonry, including the lining. Firebrick shall conform to ASTM C 1261 and shall be laid with refractory mortar conforming to ASTM C 199. Vitrified clay linings shall conform to ASTM C 315.
+
+The minimum wall thickness specified for the throat and smoke chamber is required to provide support for the flue construction, as well as adequate thermal insulation for the adjacent combustible construction.
+In conventional fireplace construction, the smoke chamber is a tapering section whose vertical dimension is measured from the damper or throat to the bottom of the chimney flue. The actual height is a function of the fireplace opening.
+
+2111.9.1 Smoke chamber dimensions. The inside height of the smoke chamber from the fireplace throat to the beginning of the flue shall be not greater than the inside width of the fireplace opening. The inside surface of the smoke chamber shall not be inclined more than 45 degrees from vertical where prefabricated smoke chamber linings are used or when the smoke chamber walls are rolled or sloped rather than corbeled. Where the inside surface of the smoke chamber is formed by corbeled masonry, the walls shall not be corbeled more than 30 degrees from vertical.
+
+This section specifies the smoke chamber configuration that is needed for the proper function of the masonry chimney (see Commentary Figure 2111.1).
+
+2111.10 Hearth and hearth extension Masonry fireplace hearths and hearth extensions shall be constructed of concrete or masonry, supported by noncombustible materials, and reinforced to carry their own weight and all imposed loads. Combustible material shall not remain against the underside of hearths or hearth extensions after construction.
+
+The fireplace hearth consists of two parts. The hearth, commonly called the "inner hearth," is the floor of the combustion chamber and is obviously constructed of noncombustible material. The outer hearth, commonly known as the "hearth extension," projects beyond the face of the fireplace into the room and also consists of noncombustible materials, such as brick or concrete masonry, concrete, floor tile or stone (see Commentary Figure 2111.11). The hearth extension may continue out from the inner hearth at the same level or be stepped down to a lower level. Minimum dimensions for the hearth extension are prescribed in Section 2111.11 and are discussed in the commentary to that section.
+
+Combustible forms and centers could ignite from exposure to heat from the adjacent fireplace and from burning embers that escape the firebox. These and other similar concealed, combustible components must be removed.
+
+2111.10.1 Hearth thickness. The minimum thickness of fireplace hearths shall be 100 mm.
+
+The required minimum thickness of 100 mm is an empirical requirement that has historically been successful.
+
+===== Page 1650 =====
+2111.10.2 Hearth extension thickness. The minimum thickness of hearth extensions shall be 50 mm.
+
+Exception: When the bottom of the firebox opening is raised not less than 200 mm above the top of the hearth extension, a hearth extension of not less than 10 mm brick, concrete, stone, tile or other approved noncombustible material is permitted.
+
+These requirements are empirical and have historically been successful.
+
+2111.11 Hearth extension dimensions
+Hearth extensions shall extend not less than 400 mm in front of, and not less than 200 mm beyond, each side of the fireplace opening. Where the fireplace opening is 0.6 m² or larger, the hearth extension shall extend not less than 500 mm in front of, and not less than 300 mm beyond, each side of the fireplace opening.
+
+The hearth extension is required to extend the full width of the fireplace opening and at least 200 mm beyond each side of the opening. It is also required to extend at least 400 mm out from the face of the fireplace. For fireplace openings larger than 0.6 m² in area, the hearth extension is required to extend at least 500 mm beyond the face of the fireplace and at least 300 mm beyond each side of the fireplace opening (see Commentary Figure 2111.11).
+
+The hearth extension is intended to serve as a fire protective separation between the firebox and adjacent combustible flooring or furnishings and to prevent accidental spills of hot embers or logs from the fire.
+
+2111.12 Fireplace clearance Any portion of a masonry fireplace located in the interior of a building or within the exterior wall of a building shall have a clearance to combustibles of not less than 50 mm from the front faces and sides of masonry fireplaces and not less than 100 mm from the back faces of masonry fireplaces. The airspace shall not be filled, except to provide fire blocking in accordance with Section 2111.13.
+
+## Exceptions:
+
+1. Masonry fireplaces listed and labeled for use in contact with combustibles in accordance with UL 127 and installed in accordance with the manufacturer's instructions are permitted to have combustible material in contact with their exterior surfaces.
+
+2. When masonry fireplaces are constructed as part of masonry or concrete walls, combustible materials shall not be in contact with the masonry or concrete walls less than 300 mm from the inside surface of the nearest firebox lining.
+
+3. Exposed combustible trim and the edges of sheathing materials, such as wood siding, flooring and drywall, are permitted to abut the masonry fireplace sidewalls and hearth extension, in accordance with Figure 2111.12, provided that such combustible trim or sheathing is not less than 300 mm from the inside surface of the nearest firebox lining.
+
+4. Exposed combustible mantels or trim is permitted to be placed directly on the masonry fireplace front surrounding the fireplace opening, provided that such combustible materials shall not be placed within 150 mm of a fireplace opening. Combustible material directly above and within 300 mm of the fireplace opening shall not project more than 3 mm for each 25 mm distance from such opening. Combustible materials located along the sides of the fireplace opening that project more than 40 mm from the face of the fireplace shall have an additional clearance equal to the projection.
+
+Combustible materials, such as framing studs and joists, must not be installed closer than 50 mm from the front or side surfaces of fireplace walls because of the fire hazard to materials in this location. Heat transmitted through fireplace walls can ignite combustible structural materials in contact with the walls. For this reason, a minimum required clearance has been established from the fireplace to combustibles. The exceptions cover specific instances where the clearance requirements vary. For a discussion and illustration of Exception 3, see Figure 2111.12 and commentary.
+
+Exception 4 regulates the location of mantels and trim adjacent to fireplace openings. Commentary Figure 2111.12(1) illustrates the limits above the opening. A less restrictive projection limit is applicable to combustible materials along the side of the fireplace opening, because radiant heat and convection heat are greater problems for combustible material above the fireplace opening than for combustible material at the side of the fireplace opening.
+
+Commentary Figure 2111.12 depicts the provisions of Exception 3 to Section 2111.12 for combustible trim and sheathing adjacent to masonry fireplaces and hearth extensions.
+
+2111.13 Fireplace fire blocking All spaces between fireplaces and floors and ceilings through which fireplaces pass shall be fire blocked with
+
+===== Page 1651 =====
+noncombustible material securely fastened in place. The fire blocking of spaces between wood joists, beams or headers shall be to a depth of 25 mm and shall only be placed on strips of metal or metal lath laid across the spaces between combustible material and the chimney.
+
+Fireblocking is required to prevent the travel of flames, smoke or hot gases to other areas of the building through gaps between the chimney and the floor or ceiling assemblies. The 25 mm depth requirement is intended to be both a minimum and a maximum.
+
+2111.14 Exterior air Factory-built or masonry fireplaces covered in this section shall be equipped with an exterior air supply to ensure proper fuel combustion unless the room is mechanically ventilated and controlled so that the indoor pressure is neutral or positive.
+
+Adequate airflow is needed to provide exterior oxygen for the fire and to maintain draft through the chimney so that toxic combustion gases can be exhausted. Adequate airflow is especially important in modern, tightly sealed buildings. Note that this requirement applies to factory-built fireplaces, as well as masonry fireplaces.
+
+2111.14.1 Factory-built fireplaces Exterior combustion air ducts for factory-built fireplaces shall be listed components of the fireplace and installed according to the fireplace manufacturer's instructions.
+
+Factory-built fireplaces are required to include exterior combustion air ducts (see Commentary Figure 2111.14.1). To function properly, these units need to be installed according to the manufacturer's recommendations.
+
+2111.14.2 Masonry fireplaces Listed combustion air ducts for masonry fireplaces shall be installed according to the terms of their listing and manufacturer's instructions.
+
+For proper functioning and airflow, air ducts for masonry fireplaces must be installed according to the manufacturer's recommendations (also see commentary, Section 2111.13).
+
+2111.14.3 Exterior air intake. The exterior air intake shall be capable of providing all combustion air from the exterior of the dwelling. The exterior air intake shall not be located within a garage, attic, basement or crawl space of the dwelling nor shall the air intake be located at an elevation higher than the firebox. The exterior air intake shall be covered with a corrosion-resistant screen of 6 mm mesh.
+
+Air intakes are required to provide air from outside of the building. The air intakes are not permitted to be placed in garages, basements, crawl spaces or other areas where gases from the exhaust of automobiles, furnaces and other sources could be brought into the building.
+
+Air intakes should be covered with screens to prevent pests from entering the building when the fireplace is not functioning.
+
+2111.14.4 Clearance Unlisted combustion air ducts shall be installed with a minimum 25 mm clearance to combustibles for all parts of the duct within 1500 mm of the duct outlet.
+
+The 25 mm clearance is required to reduce the risk of fire through the air intakes.
+
+2111.14.5 Passageway The combustion air passageway shall be not less than 3870 mm \( ^{2} \)  and not more than 0.035 m \( ^{2} \) , except that combustion air systems for listed fireplaces or for fireplaces tested for emissions shall be constructed according to the fireplace manufacturer's instructions.
+
+These minimum requirements are intended to provide adequate airflow through the fireplace.
+
+2111.14.6 Outlet The exterior air outlet is permitted to be located in the back or sides of the firebox chamber or within 600 mm of the firebox opening on or near the floor. The outlet shall be closable and designed to prevent burning material from dropping into concealed combustible spaces.
+
+The requirements for the location of the outlet in the firebox chamber are needed to ensure that adequate airflow to the fire is provided, while avoiding the direct flow of air into the adjacent room. Such openings must not become clogged with ash, which would restrict airflow. Even more important, burning material must not drop into concealed combustible spaces because of the risk of fire damage to the building. Outlets must therefore be both closable and adequately designed to prevent this.
+
+## SECTION 2112—MASONRY HEATERS
+
+2112.1 Definition A masonry heater is a heating appliance constructed of concrete or solid masonry, hereinafter referred to as "masonry", which is designed to absorb and store heat from a solid fuel fire built in the firebox by routing the exhaust gases through internal heat exchange channels in which the flow path downstream of the firebox may include flow in a horizontal or downward direction before entering the chimney and which delivers heat by radiation from the masonry surface of the heater.
+
+Masonry heaters are appliances designed to absorb and store heat from a relatively small fire and to radiate that heat into the building interior. They are thermally more efficient than traditional fireplaces because of their design. Interior passageways through the heater allow hot exhaust gases from the fire to transfer heat
+
+===== Page 1652 =====
+into the masonry, which then radiates into the building.
+
+2112.2 Installation Masonry heaters shall be installed in accordance with this section and comply with one of the following:
+
+1 Masonry heaters shall comply with the requirements of ASTM E 1602.
+
+2 Masonry heaters shall be listed and labeled in accordance with UL 1482 or EN 15250 and installed in accordance with the manufacturer's instructions.
+
+* The listed referenced standards provide guidelines for installing masonry heaters.
+
+2112.3 Footings and foundation The firebox floor of a masonry heater shall be a minimum thickness of 100 mm of noncombustible material and be supported on a noncombustible footing and foundation in accordance with Section 2113.3.
+
+This section refers the user to the foundation requirements for masonry chimneys.
+
+2112.4 Seismic reinforcing In structures assigned to Seismic Design Category D, E or F, masonry heaters shall be anchored to the masonry foundation in accordance with Section F3. Seismic reinforcing shall not be required within the body of a masonry heater with a height that is equal to or less than 3.5 times its body width and where the masonry chimney serving the heater is not supported by the body of the heater. Where the masonry chimney shares a common wall with the facing of the masonry heater, the chimney portion of the structure shall be reinforced in accordance with Section 2113.
+
+Because of the large bulk and squat geometry of these heaters, seismic reinforcement is not typically required. Flexural tensile stresses, which typically cause damage to unreinforced masonry, rarely occur. Where chimneys extend above these heaters, however, seismic reinforcement is required by Section 2113. See the commentary to that section for additional information on this requirement.
+
+2112.5 Masonry heater clearance Combustible materials shall not be placed within 900 mm or the distance of the allowed reduction method from the outside surface of a masonry heater in accordance with NFPA 211, Section 12.6, and the required space between the heater and combustible material shall be fully vented to permit the free flow of air around all heater surfaces.
+
+Exceptions:
+
+1. Where the masonry heater wall thickness is not less than 200 mm of solid masonry and the wall thickness of the heat exchange channels is not less than 125 mm of solid masonry, combustible materials shall not be placed within 100 mm of the outside surface of a masonry heater. A clearance of not less than 200 mm shall be provided between the gas-tight capping slab of the heater and a combustible ceiling.
+
+2. Masonry heaters listed and labeled in accordance with UL 1482 or EN 15250 and installed in accordance with the manufacturer's instructions.
+
+Heat conducted through masonry heater walls can ignite combustible structural materials in contact with these walls. For this reason, a minimum required clearance to combustibles from masonry heaters has been established. Because masonry heaters typically generate more heat for a longer period of time than traditional fireplaces, greater clearances to combustible materials are needed to reduce the risk of fire.
+
+Note that NFPA 211 allows reductions to the prescribed clearance when certain conditions are met. Similarly, the exceptions address conditions that may warrant a reduction from the prescribed clearance.
+
+## SECTION 2113—MASONRY CHIMNEYS
+
+2113.1 General The construction of masonry chimneys consisting of solid masonry units, hollow masonry units grouted solid, stone or concrete shall be in accordance with this section.
+
+A masonry chimney is a field-constructed assembly that can consist of masonry units, grout, reinforced concrete, rubble stone, fire-clay liners and mortars. SBC 1201 and SBC 501 address the installation of chimneys and venting systems that are required to convey products of combustion from fuel burning appliances to the outdoors so that the operation of the appliance does not adversely affect building occupants. A masonry chimney is permitted to serve residential (low-heat), medium and high-heat appliances. A masonry chimney is required for masonry fireplaces constructed in accordance with Section 2111. This section provides the construction requirements for all masonry chimneys.
+
+2113.2 Footings and foundations Footings for masonry chimneys shall be constructed of concrete or solid masonry not less than 300 mm thick and shall extend not less than 150 mm beyond the face of the foundation or support wall on all sides. Footings shall be founded on natural undisturbed earth or engineered fill. In areas not subjected to freezing, footings shall be not less than 300 mm below finished grade.
+
+* Masonry chimneys must be supported on adequate foundations due to their weight and the forces imposed on them by wind, earthquakes and other effects. This section
+
+===== Page 1653 =====
+prescribes minimum foundation requirements that are typically adequate for standard chimneys.
+
+Extremely large, tall or heavy chimneys, however, may need more substantial foundations. Also, a chimney foundation probably will support a larger load than the adjacent building foundations. For this reason, chimney footings and foundations are often separated from the building foundation. A chimney foundation monolithic with the building foundation is permitted, provided the soil pressure and anticipated settlement are approximately uniform.
+
+2113.3 Seismic reinforcement In structures assigned to Seismic Design Category A or B, seismic reinforcement is not required. In structures assigned to Seismic Design Category C or D, masonry chimneys shall be reinforced and anchored in accordance with Sections 2113.3.1, 2113.3.2 and 2113.4.
+
+Unreinforced masonry fireplaces and chimneys subjected to moderate ground motion have been severely damaged in past earthquakes. The requirements in this section provide minimum reinforcement in an effort to keep these structures intact during such events. More substantial reinforcement, however, may be required in areas of high seismicity or for atypical chimneys.
+
+2113.3.1 Vertical reinforcement. For chimneys up to 1000 mm wide, four Dia 12 continuous vertical bars anchored in the foundation shall be placed in the concrete between wythes of solid masonry or within the cells of hollow unit masonry and grouted in accordance with Article 2.2 of SBC 305. Grout shall be prevented from bonding with the flue liner so that the flue liner is free to move with thermal expansion. For chimneys greater than 1000 mm wide, two additional Dia 12 vertical bars shall be provided for each additional 1000 mm in width or fraction thereof.
+
+These requirements are traditional minimum prescriptive provisions to help maintain the structural integrity of fireplaces and chimneys during earthquakes. More reinforcement may be required in areas of high seismicity or for atypical chimneys.
+
+2113.3.2 Horizontal reinforcement. Vertical reinforcement shall be placed enclosed within 6 mm ties, or other reinforcing of equivalent net cross-sectional area, spaced not to exceed 450 mm on center in concrete, or placed in the bed joints of unit masonry, at not less than every 450 mm of vertical height. Two such ties shall be provided at each bend in the vertical bars.
+These requirements are traditional minimum prescriptive provisions intended to help maintain the integrity of fireplaces and chimneys during earthquakes. The vertical reinforcement required by Section 2113.3.1 must be enclosed within the horizontal reinforcement required by this section. More reinforcement may be required in areas of high seismicity or for atypical chimneys.
+
+2113.4 Seismic anchorage Masonry chimneys and foundations shall be anchored at each floor, ceiling or roof line more than 1800 mm above grade with two 5 mm by 25 mm straps embedded not less than 300 mm into the chimney. Straps shall be hooked around the outer bars and extend 150 mm beyond the bend. Each strap shall be fastened to not less than four floor joists with two 12.5 mm bolts.
+
+Exception: Seismic anchorage is not required for the following;
+
+1. In structures assigned to Seismic Design Category A or B.
+
+2. Where the masonry fireplace is constructed completely within the exterior walls.
+
+Chimneys must be connected to floor and roof diaphragms to prevent overturning during earthquakes. Chimneys must be anchored at the ceiling line of roof or ceiling assemblies and at floor levels below the roof. Such anchorage is of lesser importance where the floor assembly is 1800 mm or less above grade. The prescriptive requirements in this section are traditional for typical fireplaces and chimneys. More substantial anchorage may be required in areas of high seismicity, for large fireplaces or where the distance between floor and roof diaphragms is large.
+
+2113.5 Corbeling Masonry chimneys shall not be corbelled more than half of the chimney's wall thickness from a wall or foundation, nor shall a chimney be corbelled from a wall or foundation that is less than 300 mm in thickness unless it projects equally on each side of the wall, except that on the second story of a two-story dwelling, corbeling of chimneys on the exterior of the enclosing walls is permitted to equal the wall thickness. The projection of a single course shall not exceed one-half the unit height or one-third of the unit bed depth, whichever is less.
+
+A corbel is formed by projecting courses of masonry with the first or lowest course projecting out from the face of the wall and each successive course projecting out from the supporting course below. The angle of a corbel is limited so that the structural capacities of the masonry are not exceeded.
+
+Commentary Figure 2113.5 illustrates the limitations of corbeling in an eccentrically loaded masonry chimney. The total corbeled
+
+===== Page 1654 =====
+projection cannot exceed 150 mm. Where corbeling projects from the wall on one side only, the minimum allowable thickness of the wall is 300 mm. The maximum allowable horizontal projection of an individual course of brick cannot exceed one-half the height and one-third the thickness of the masonry unit.
+
+A chimney that projects equally on each side of the wall loads the wall concentrically. The requirement for a minimum wall thickness of 300 mm does not apply to this chimney configuration.
+
+This section contains an exception to the limitations on corbel projection. In single-family homes, traditional chimneys originated in the second story and commonly served heating appliances in bedrooms, studies and sewing rooms. The exception allows corbeling to project from the exterior masonry wall a distance equivalent to the masonry wall thickness. This exception, however, does not affect the limitation on minimum wall thickness stated in the second sentence of this section. For example, a chimney in the second story of a two-story building cannot be corbeled at all if the wall is less than 300 mm thick and the corbeling is to project from one side only. If the corbeling is to project equally from both sides of the wall, the minimum wall thickness does not apply.
+
+2113.6 Changes in dimension The chimney wall or chimney flue lining shall not change in size or shape within 150 mm above or below where the chimney passes through floor components, ceiling components or roof components.
+
+At changes in shape or direction, masonry chimneys can have thinner walls, making them susceptible to leakage of water from the outside, and to hot spots and leakage of combustion gases from the inside. This is a fire hazard. The intent of this provision is to prohibit changes in shape and size near combustible construction. This section prohibits any change in dimension or direction of a masonry chimney from 150 mm below the combustible construction to 150 mm above it (see Commentary Figure 2113.6).
+
+2113.7 Offsets Where a masonry chimney is constructed with a fireplace flue liner surrounded by one wythe of masonry, the maximum offset shall be such that the centerline of the flue above the offset does not extend beyond the center of the chimney wall below the offset. Where the chimney offset is supported by masonry below the offset in an approved manner, the maximum offset limitations shall not apply. Each individual corbeled masonry course of the offset shall not exceed the projection limitations specified in Section 2113.5.
+An offset requires two changes in direction and causes two vertical sections of a chimney to be misaligned (offset) from each other. The intent of this section is to provide an upper portion of an offset that is structurally stable with respect to the lower portion.
+
+The offset limitation does not apply when the inclined portion of the chimney and the portion above the offset are supported in an approved manner by underlying masonry construction.
+
+2113.8 Additional load Chimneys shall not support loads other than their own weight unless they are designed and constructed to support the additional load. Masonry chimneys are permitted to be constructed as part of the masonry walls or concrete walls of the building.
+
+Because the requirements for chimneys in Section 2113 are based on past performance, chimneys should not be used to support other loads unless they are specifically designed to do so.
+
+2113.9 Termination Chimneys shall extend not less than 600 mm higher than any portion of the building within 3000 mm but shall not be less than 900 mm above the highest point where the chimney passes through the roof.
+
+Chimneys must be terminated well above adjacent portions of the building so that flue gases are exhausted away from combustible materials and for proper airflow through the chimney. The termination requirements are illustrated in Commentary Figure 2113.9. These requirements are applicable to chimneys serving masonry fireplaces or residential-type appliances. More restrictive termination requirements are specified for medium and high-heat appliances.
+
+2113.9.1 Chimney caps. Masonry chimneys shall have a concrete, metal or stone cap, sloped to shed water, a drip edge and a caulked bond break around any flue liners in accordance with ASTM C 1283.
+
+The section requires masonry chimneys to have caps and references ASTM C1283, which covers the minimum requirements for installing a clay flue lining for residential concrete or masonry chimneys. A chimney cap protects the top of the masonry surrounding the flue. Although masonry chimneys typically have some type of weatherproof cap, this section specifically requires a chimney cap and prescribes the minimum criteria for its construction. The cap must be sloped to the outside, overhang the face of the masonry chimney and provide a drip edge. The prescribed caulking of the joint between the masonry and the flue serves as both a sealant and a bond break for any differential movement. The requirements for chimney caps are
+
+===== Page 1655 =====
+consistent with the referenced standard ASTM C1283, Standard Practice for Installing Clay Flue Lining, and consistent with ASTM C315, Standard Specification for Clay Flue Liners and Chimney Pots (see Commentary Figure 2113.9.1). See also Section 2113.9.3 for requirements for rain caps.
+
+2113.9.2 Spark arrestors. Where a spark arrestor is installed on a masonry chimney, the spark arrestor shall meet all of the following requirements:
+
+1 The net free area of the arrestor shall be not less than four times the net free area of the outlet of the chimney flue it serves.
+
+2 The arrestor screen shall have heat and corrosion resistance equivalent to 19-gage galvanized steel or 24-gage stainless steel.
+
+3 Openings shall not permit the passage of spheres having a diameter greater than 12.5 mm nor block the passage of spheres having a diameter less than 10 mm.
+
+4 The spark arrestor shall be accessible for cleaning and the screen or chimney cap shall be removable to allow for cleaning of the chimney flue.
+
+This section provides specifications for spark arrestors, if they are provided. Their use is not mandated by the model code, but they may be required by law and owners or builders often install them.
+
+2113.9.3 Rain caps. Where a masonry or metal rain cap is installed on a masonry chimney, the net free area under the cap shall be not less than four times the net free area of the outlet of the chimney flue it serves.
+
+Rain caps are installed a prescribed distance above a chimney flue termination to limit the amount of rain entering the flue. Because an improperly designed chimney rain cap can reduce the draft of a chimney, the section requires the net free area under the rain cap to be at least four times the area of the outlet of the flue opening. Rain caps are also used to keep animals such as rodents and birds from nesting in the chimney or fireplace. As the language indicates, rain caps are not required by the code, but when they are installed they must have the minimum clearance above the flue termination to provide the minimum net free area required by the section (see Commentary Figure 2113.9.1).
+
+2113.10 Wall thickness Masonry chimney walls shall be constructed of concrete, solid masonry units or hollow masonry units grouted solid with not less than 100 mm nominal thickness. The minimum chimney wall thickness is necessary to achieve a thermal mass that will predictably control heat transmission through the walls of the chimney. This thickness is applicable to chimneys serving masonry fireplaces or residential-type appliances. More restrictive thicknesses are specified for medium and high-heat appliances.
+
+2113.10.1 Masonry veneer chimneys. Where masonry is used as veneer for a framed chimney, through flashing and weep holes shall be provided as required by Chapter 14.
+
+While the definition of “Masonry chimney” would not necessarily include a framed chimney with masonry veneer, this cross reference to Chapter 14 is provided as a precaution.
+
+2113.11 Flue lining (material) Masonry chimneys shall be lined. The lining material shall be appropriate for the type of appliance connected, according to the terms of the appliance listing and the manufacturer's instructions.
+
+The liner forms the flue passageway and is the actual conduit for all products of combustion. The temperature and composition of flue gases will vary based on the type of appliance being vented. The flue lining is required to withstand exposure to high temperatures and corrosive chemicals. It protects the masonry construction of the chimney walls and allows the chimney to be gas tight. A mismatch between an appliance and the type of chimney can result in a hazardous operating condition.
+
+2113.11.1 Residential-type appliances (general). Flue lining systems shall comply with one of the following:
+
+1 Clay flue lining complying with the requirements of ASTM C 315.
+
+2 Listed chimney lining systems complying with UL 1777.
+
+3 Factory-built chimneys or chimney units listed for installation within masonry chimneys.
+
+4 Other approved materials that will resist corrosion, erosion, softening or cracking from flue gases and condensate at temperatures up to  \( 982^{\circ} \) C.
+
+This section requires that the lining systems for residential-type appliances comply with ASTM C315 or other approved materials that are capable of resisting degradation from flue gas. Chimney liner systems that are tested and labeled by an approved agency in accordance with UL 1777 are also permitted.
+
+2113.11.1.1 Flue linings for specific appliances. Flue linings other than those covered in Section 2113.11.1 intended for use with specific appliances
+
+===== Page 1656 =====
+shall comply with Sections 2113.11.1.2 through 2113.11.1.4, 2113.11.2 and 2113.11.3.
+
+This section identifies flue lining materials to be used for specific appliances.
+
+2113.11.1.2 Gas appliances. Flue lining systems for gas appliances shall be in accordance with SBC 1201.
+
+SBC 1201 must be used to determine appropriate flue-lining systems for gas appliances.
+
+2113.11.1.3 Pellet fuel-burning appliances. Flue lining and vent systems for use in masonry chimneys with pellet fuel-burning appliances shall be limited to flue lining systems complying with Section 2113.11.1 and pellet vents listed for installation within masonry chimneys (see Section 2113.11.1.5 for marking).
+
+Flue lining and vent systems in masonry chimneys of pellet fuel-burning appliances can either conform to Section 2113.11.1 or be an approved listed system.
+
+2113.11.1.4 Oil-fired appliances approved for use with L-vent. Flue lining and vent systems for use in masonry chimneys with oil-fired appliances approved for use with Type L vent shall be limited to flue lining systems complying with Section 2113.11.1 and listed chimney liners complying with UL 641 (see Section 2113.11.1.5 for marking).
+
+Flue lining and vent systems in masonry chimneys of oil-fired appliances with Type L vents can either conform to Section 2113.11.1 or be an approved listed system (UL 641).
+
+2113.11.1.5 Notice of usage. When a flue is relied with a material not complying with Section 2113.11.1, the chimney shall be plainly and permanently identified by a label attached to a wall, ceiling or other conspicuous location adjacent to where the connector enters the chimney. The label shall include the following message or equivalent language: "This chimney is for use only with (type or category of appliance) that burns (type of fuel). Do not connect other types of appliances."
+
+Clearly displayed information on the appropriate use and fuel for appliances is required to protect against the use of improper types of fuel that could cause fire.
+
+2113.11.2 Concrete and masonry chimneys for medium-heat appliances. Concrete and masonry chimneys for medium-heat appliances shall comply with Sections 2113.11.2.1 through 2113.11.2.5.
+
+This section establishes requirements for masonry chimneys serving medium-heat appliances, including the chimney materials, lining, termination height and proper clearances to combustibles.
+2113.11.2.1 Construction. Chimneys for medium-heat appliances shall be constructed of solid masonry units or of concrete with walls not less than 200 mm thick, or with stone masonry not less than 300 mm thick.
+
+Masonry chimneys for medium-heat appliances must be constructed of concrete in accordance with Chapter 19, or of solid masonry units in accordance with this chapter. Chimneys constructed of solid masonry units or reinforced concrete are required to have a minimum wall thickness of 200 mm. The minimum thickness requirement is necessary to achieve a thermal mass that will predictably control heat transmission through the walls of the chimney. Chimneys constructed of rubble stone masonry (irregular or roughly shaped stones) are required to have a wall thickness of not less than 300 mm. The rate of heat transmission through stone walls is not predictable because of the varying thickness of the individual stones and the nonuniform mortar joints between the stones. For these reasons, stone wall chimneys are required to be thicker to provide a reasonable margin of safety.
+
+2113.11.2.2 Lining. Concrete and masonry chimneys shall be lined with an approved medium-duty refractory brick not less than 110 mm thick laid on the 110 mm in an approved medium-duty refractory mortar. The lining shall start 600 mm or more below the lowest chimney connector entrance. Chimneys terminating 7500 mm or less above a chimney connector entrance shall be lined to the top.
+
+A medium-heat appliance produces flue-gas temperatures up to  \( 1100^{\circ} \) C. The chimney lining reduces heat transmission to the walls of the chimney and contains flue gases within a continuous duct until they are away from the building. This section requires at least a medium-duty refractory brick. A 110 mm medium-duty refractory brick lining tested and classified in accordance with ASTM C27 meets this criterion. Each course of the refractory brick liner is required to be installed on a full bed of refractory mortar to form a structurally stable, continuous, gastight liner.
+
+Commentary Figure 2113.11.2.3 depicts a masonry chimney serving a medium-heat appliance. The liner extends from 600 mm below the lowest inlet to the top of the chimney, which is located less than 7500 mm above the highest inlet.
+
+A chimney liner is required in all portions of the chimney that are exposed to flue gases. The liner is required to extend below the lowest inlet to provide protection to the masonry from flue gases, which can deteriorate the masonry and the mortar joints.
+
+===== Page 1657 =====
+2113.11.2.3 Multiple passageway. Concrete and masonry chimneys containing more than one passageway shall have the liners separated by a minimum 100 mm concrete or solid masonry wall.
+
+When a chimney requires multiple passageways, a 100 mm partition of solid masonry is required between them to act as a barrier and to enhance structural integrity.
+
+2113.11.2.4 Termination height. Concrete and masonry chimneys for medium-heat appliances shall extend not less than 3000 mm higher than any portion of any building within 7500 mm.
+
+Chimneys for medium-heat appliances are required to extend at least 3000 mm above the highest portion of the building within 7500 mm horizontally. This is intended to provide an acceptable height to carry away the flue gases safely and to provide adequate clearance to the roof and surrounding structures to allow any burning embers to extinguish before landing.
+
+2113.11.2.5 Clearance. A minimum clearance of 100 mm shall be provided between the exterior surfaces of a concrete or masonry chimney for medium-heat appliances and combustible material.
+
+A 100 mm minimum airspace clearance to combustibles is required for a medium-heat masonry chimney. This large clearance is needed because of the higher temperatures produced by medium-heat appliances.
+
+2113.11.3 Concrete and masonry chimneys for high-heat appliances. Concrete and masonry chimneys for high-heat appliances shall comply with 2113.11.3.1 through 2113.11.3.4.
+
+This section establishes the requirements for concrete and masonry chimneys serving high-heat appliances, including chimney materials, lining, termination height and proper clearances to combustibles.
+
+Chimneys serving high-heat appliances are required to comply with the general chimney requirements in Sections 2113.11.3.1 through 2113.11.3.4, including minimum provisions for footings and foundations, seismic reinforcement, and anchorage and corbeling.
+
+2113.11.3.1 Construction. Chimneys for high-heat appliances shall be constructed with double walls of solid masonry units or of concrete, each wall to be not less than 200 mm thick with a minimum airspace of 50 mm between the walls.
+
+The flue gases produced by a high-heat appliance can have temperatures above  \( 1,100^{\circ} \) C. To prevent fire, such chimneys must be enclosed by two wythes of masonry with an airspace between them. Thus, the chimney liner is required to be protected by two solid masonry unit walls or reinforced concrete walls, each a minimum of 200 mm thick with an airspace between them of at least 50 mm. The airspace is intended to provide thermal insulation and to allow for thermal expansion of the chimney components.
+
+2113.11.3.2 Lining. The inside of the interior wall shall be lined with an approved high-duty refractory brick, not less than 110 mm thick laid on the 110 mm in an approved high-duty refractory mortar. The lining shall start at the base of the chimney and extend continuously to the top.
+
+High-heat appliances can produce flue gases with temperatures exceeding  \( 1093^{\circ} \) C. The chimney lining reduces heat transmission to the walls of the chimney and contains flue gases within a continuous passageway until they are outside the building. This section permits only a high-duty refractory brick having a minimum thickness of 110 mm to be used in a masonry chimney serving a high-heat appliance. An approved high-duty refractory lining usually consists of brick tested and classified in accordance with ASTM C27. To provide a structurally stable and continuous gas-tight liner, each course of the refractory brick liner must be laid on a full bed of refractory mortar approved for high-heat appliances.
+
+2113.11.3.3 Termination height. Concrete and masonry chimneys for high-heat appliances shall extend not less than 6100 mm higher than any portion of any building within 15200 mm.
+
+Chimneys for high-heat appliances must terminate at least 6100 mm above the highest portion of the building within 15200 mm horizontally. This allows flue gases to be safely carried away and provides enough clearance to allow any burning embers to extinguish before landing on combustibles.
+
+2113.11.3.4 Clearance. Concrete and masonry chimneys for high-heat appliances shall have approved clearance from buildings and structures to prevent overheating combustible materials, permit inspection and maintenance operations on the chimney and prevent danger of burns to persons.
+
+The extremely high-temperature flue gas produced by a high-heat appliance is a major fire safety concern, and requiring sufficient clearance from buildings protects nearby combustible material, permits inspection and maintenance of the chimney and minimizes danger to persons.
+
+2113.12 Clay flue lining (installation)
+Clay flue liners shall be installed in accordance with ASTM C 1283 and extend from a point not less than 203 mm below the lowest inlet or, in the case of fireplaces, from the top of the smoke chamber to a point above the enclosing walls. The lining shall be carried up vertically, with a maximum slope not greater than 30 degrees from the vertical.
+
+Clay flue liners shall be laid in medium-duty non
+
+===== Page 1658 =====
+water-soluble refractory mortar conforming to ASTM C 199 with tight mortar joints left smooth on the inside and installed to maintain an airspace or insulation not to exceed the thickness of the flue liner separating the flue liners from the interior face of the chimney masonry walls. Flue lining shall be supported on all sides. Only enough mortar shall be placed to make the joint and hold the liners in position.
+
+Section 2113.11.1 lists clay flue liners as an acceptable flue-lining system for masonry chimneys serving residential-type appliances, as well as masonry fireplaces. This section provides the installation requirements for clay flue liners. The liner forms the flue passageway and is the actual conduit of all products of combustion. It must withstand exposure to high temperatures and corrosive chemicals from the flue gases. The chimney lining protects the masonry construction of the chimney walls and allows the chimney to be constructed gas tight. Installation must comply with ASTM C1283. The liner is required to extend below the lowest inlet to provide protection to the masonry from flue gases, which can deteriorate the masonry and mortar joints.
+
+Refractory mortar must comply with ASTM C199. Since it is exposed to the weather, non-water-soluble mortar must be used in the joints of chimneys so that it does not wash out of the joints.
+
+## 2113.13 Additional requirements
+
+This section contains requirements for listed materials to be used as flue linings and for spaces surrounding chimney lining systems.
+
+2113.13.1 Listed materials. Listed materials used as flue linings shall be installed in accordance with the terms of their listings and the manufacturer's instructions.
+
+Listed materials for flue linings must be installed in accordance with the manufacturer's instructions. Such instructions are not listed in the code since they vary with each system.
+
+2113.13.2 Space around lining. The space surrounding a chimney lining system or vent installed within a masonry chimney shall not be used to vent any other appliance.
+
+Exception: This shall not prevent the installation of a separate flue lining in accordance with the manufacturer's instructions.
+
+Where a listed flue lining system, such as a flexible metallic pipe, is installed in a chimney flue, an annular space can be created. This annular space will have an irregular shape that is not conducive to the flow of flue gas. In addition, the annular space surrounding a chimney lining system provides a thermal buffer between the flue and the surrounding masonry. Using it for another purpose is prohibited.
+
+The exception simply clarifies that a separate flue lining in a chimney does not constitute the "space" referred to in the main text.
+
+2113.14 Multiple flues Where two or more flues are located in the same chimney, masonry wythes shall be built between adjacent flue linings. The masonry wythes shall be not less than 100 mm thick and bonded into the walls of the chimney.
+
+Exception: Where venting only one appliance, two flues are permitted to adjoin each other in the same chimney with only the flue lining separation between them. The joints of the adjacent flue linings shall be staggered not less than 100 mm.
+
+A single masonry chimney can contain any number of flue-gas passageways. Where more than two flues are contained in the same chimney, the flue liners are required to be subdivided by masonry wythes into groups of not more than two (see Commentary Figure 2113.14). The purpose of the masonry wythes is to unify the chimney structurally and to isolate pairs of flues serving dissimilar appliances.
+
+2113.15 Flue area (appliance) Chimney flues shall not be smaller in area than the area of the connector from the appliance. Chimney flues connected to more than one appliance shall be not less than the area of the largest connector plus 50 percent of the areas of additional chimney connectors.
+
+Exceptions:
+
+1. Chimney flues serving oil-fired appliances sized in accordance with NFPA 31.
+
+2. Chimney flues serving gas-fired appliances sized in accordance with SBC 1201.
+
+Flues are sized to match the opening at the top of the appliance so that appliances function properly. Smaller flues are not permitted since they may constrict the passage of gases out from the appliance.
+
+This rule does not apply to certified appliances regulated by NFPA 31 or gas-filled appliances regulated by SBC 1201.
+
+2113.16 Flue area (masonry fireplace). Flue sizing for chimneys serving fireplaces shall be in accordance with Section 2113.16.1 or 2113.16.2
+
+This section provides requirements for the net cross-sectional area of the flue and throat between the firebox and the smoke chamber. Airflow through the fireplace is affected by the dimensions of the firebox opening, the shape and cross-sectional area of the flue and the height of the chimney (see Figure 2113.16). For
+
+===== Page 1659 =====
+proper fireplace operation, the required cross-sectional area is about one-tenth that of the fireplace opening. This ratio may vary somewhat with the height of the chimney and the configuration (round or rectangular) of the chimney flue.
+
+This section states that either of the two options may be used to determine the flue area. Section 2113.16.1 prescribes the minimum flue area based on the fireplace opening alone, while Section 2113.16.2 prescribes it based on the height of the fireplace, the fireplace opening area and flue type.
+
+Figure 2113.16 prescribes minimum flue sizes as a function of chimney height and the fireplace opening area. For example, for a 6100 mm height chimney and a fireplace opening area of  \( 1.3 \, m^2 \) , the minimum cross-sectional area is  \( 1.05 \, m^2 \)  for a round flue or  \( 0.12 \, m^2 \)  for a square or rectangular flue. Using Table 2113.16(1), that minimum required cross-sectional area can be met by a circular flue with a diameter of  \( 380 \, mm \) . Using Table 2113.16(2), the minimum cross-sectional area would require a rectangular flue with a nominal outside dimension of  \( 400 \, \text{by} \, 500 \, \text{mm} \) .
+
+2113.16.1 Minimum area. Round chimney flues shall have a minimum net cross-sectional area of not less than 1/12 of the fireplace opening. Square chimney flues shall have a minimum net cross-sectional area of not less than 1/10 of the fireplace opening. Rectangular chimney flues with an aspect ratio less than 2 to 1 shall have a minimum net cross-sectional area of not less than 1/10 of the fireplace opening. Rectangular chimney flues with an aspect ratio of 2 to 1 or more shall have a minimum net cross-sectional area of not less than 1/8 of the fireplace opening.
+
+This section prescribes the minimum flue area based on the fireplace opening and the shape of the flue. For a given size fireplace opening, circular chimney flues are permitted to have a smaller area than rectangular flues. Wide, narrow flues require a larger area for adequate airflow.
+
+2113.16.2 Determination of minimum area. The minimum net cross-sectional area of the flue shall be determined in accordance with Figure 2113.16. A flue size providing not less than the equivalent net cross-sectional area shall be used. Cross-sectional areas of clay flue linings are as provided in Table 2113.16 (1) and Table 2113.16 (2) or as provided by the manufacturer or as measured in the field. The height of the chimney shall be measured from the firebox floor to the top of the chimney flue.
+
+This section provides an alternative method to determine flue size based on the height of the chimney, the fireplace opening area and the flue type [see Table 2113.16 (1) and Table 2113.16 (2), and Code Figure 2113.16].
+
+Table 2113.16 (1) gives the areas of circular flues of standard sizes so that users of the code can easily determine a flue size complying with Code Figure 2113.16 The flue areas shown in this table are determined by the equation  \( A = \pi \times (d/2)^{2} \) , where A is the cross-sectional area, d is the inside diameter of the flue and  \( \pi \)  is approximated as 3.14. Alternatively, a minimum diameter can be calculated as  \( d = [(A/\pi)^{1/2}]/4 \) .
+
+Clay flue liners are designated according to their nominal outside dimensions. Table 2113.16 (2) gives the net cross-sectional area of standard size square and rectangular flues so code users can readily determine a flue size that provides the minimum required area.
+2113.17 Inlet Inlets to masonry chimneys shall enter from the side. Inlets shall have a thimble of fireclay, rigid refractory material or metal that will prevent the connector from pulling out of the inlet or from extending beyond the wall of the liner.
+
+* The inlet must be noncombustible and strong enough not to be pulled out.
+
+2113.18 Masonry chimney cleanout openings Cleanout openings shall be provided within 150 mm of the base of each flue within every masonry chimney. The upper edge of the cleanout shall be located not less than 150 mm below the lowest chimney inlet opening. The height of the opening shall be not less than 150 mm. The cleanout shall be provided with a noncombustible cover.
+
+Exception: Chimney flues serving masonry fireplaces, where cleaning is possible through the fireplace opening.
+
+This section requires a clean out to be installed in a chimney to facilitate cleaning and inspection. A fireplace inherently provides access to its chimney through the firebox, throat and smoke chamber. The cleanout cover and opening frame are to be of an approved noncombustible material, such as cast iron or precast concrete, and must be arranged to remain tightly closed. The requirement for placing the cleanout at least 150 mm below the lowest connection to the chimney is intended to minimize the possibility of combustion products exiting the chimney through the cleanout.
+
+2113.19 Chimney clearances Any portion of a masonry chimney located in the interior of the building or within the exterior wall of the building shall have a minimum airspace clearance to combustibles of 50 mm. Chimneys located entirely outside the exterior walls of the building, including chimneys that pass through the soffit or cornice, shall have a minimum airspace clearance of 25 mm.
+
+===== Page 1660 =====
+The airspace shall not be filled, except to provide fire blocking in accordance with Section 2113.20.
+
+## Exceptions:
+
+1. Masonry chimneys equipped with a chimney lining system listed and labeled for use in chimneys in contact with combustibles in accordance with UL 1777, and installed in accordance with the manufacturer's instructions, are permitted to have combustible material in contact with their exterior surfaces.
+
+2. Where masonry chimneys are constructed as part of masonry or concrete walls, combustible materials shall not be in contact with the masonry or concrete wall less than 300 mm from the inside surface of the nearest flue lining.
+
+3. Exposed combustible trim and the edges of sheathing materials, such as wood siding, are permitted to abut the masonry chimney sidewalls, in accordance with Figure 2113.19, provided that such combustible trim or sheathing is not less than 300 mm from the inside surface of the nearest flue lining. Combustible material and trim shall not overlap the corners of the chimney by more than 25 mm.
+
+Clearance between the external surfaces of the masonry chimney and all combustible materials must be maintained. The intent of this section is to require a 50 mm minimum airspace clearance between combustibles and surfaces of all chimneys located in the interior of a building or within an exterior wall assembly. A 25 mm airspace clearance is allowed only where the chimney is located entirely outside of the building.
+
+If any portion of a chimney is located in an exterior wall, that chimney must be considered as an interior chimney and must have a 50 mm minimum airspace clearance. The 25 mm clearance is allowed because the exterior surface of an outdoor chimney can dissipate heat. An outdoor chimney is exposed to outdoor ambient temperatures, allowing it to operate with cooler surface temperatures. Like all airspace clearances, the 25 mm airspace clearance is not permitted to be filled with any material except the noncombustible material necessary for fireblocking. The required clearance for exterior chimneys applies to all combustible materials, including sheathing, siding, insulation, framing and trim.
+
+The exception recognizes a variety of chimney liners that are tested and labeled in accordance with UL 1777.
+UL 1777 covers metallic and nonmetallic chimney liners intended for field installation into new and existing masonry chimneys used for natural draft venting of gas, oil and solid fuel-burning appliances having maximum continuous flue-gas temperatures not exceeding  \( 540^{\circ} \) C. Some lining systems are labeled for reduced clearance applications and could allow for the construction or rehabilitation of chimneys in contact with combustibles, without compromising the safety normally provided by the code-prescribed airspace clearances.
+
+Chimney liner systems are typically metal or poured-in-place concrete and incorporate insulation to retard the transfer of heat to the surrounding masonry walls of the chimney. This figure clarifies Exception 3 to the clearance requirements for masonry chimneys. The edge abutment of combustible sheathing or trim where there is an adequate thickness of masonry is a long-standing practice that is considered safe, provided the minimum clearance to the flue lining is maintained. See Figure 2113.19.
+
+2113.20 Chimney fire blocking All spaces between chimneys and floors and ceilings through which chimneys pass shall be fire blocked with noncombustible material securely fastened in place. The fire blocking of spaces between wood joists, beams or headers shall be self-supporting or be placed on strips of metal or metal lath laid across the spaces between combustible material and the chimney.
+
+Fire-blocking is required to prevent the travel of flames, smoke and hot gases to other areas of the building through the gaps between the chimney and the floor or ceiling assemblies [see Commentary Figure 2113.20(1) and Figure 2113.20(2)].
+
+## SECTION 2114 DRY-STACK MASONRY
+
+2114.1 General. The design of dry-stack masonry structures shall comply with the requirements of Chapters 1 through 8 of SBC 301 except as modified by Sections 2114.2 through 2114.5.
+
+Dry-stacked masonry walls consist of courses of concrete masonry units without mortar joints assembled to form unreinforced walls. Both sides of the walls are coated with a 1.6 to 3.2 mm-thick layer of cementitious mortar reinforced with glass fibers capable of increasing the tensile strength of the masonry and unifying the construction. Chapters 1 through 8 of SBC 305 are applicable, along with the modifications detailed in Sections 2114.2 through 2114.5.
+
+2114.2 Limitations. Dry-stack masonry shall be prohibited in Risk Category IV structures.
+
+===== Page 1661 =====
+Dry-stack masonry is permitted for structures in Risk Categories, I, II and III. Risk Category IV includes essential facilities such as hospital emergency rooms, police stations and fire stations. These structures are designed for higher stresses to enable them to survive an extreme seismic event or high winds and be operational in the aftermath. Dry-stack masonry cannot be designed to perform as required for Risk Category IV structures.
+
+2114.3 Materials. Concrete masonry units complying with ASTM C90 shall be used.
+
+* ASTM C90 is the basic material standard for concrete masonry construction. It is called out here to clarify that dry-stack masonry is concrete masonry and not another type, such as brick masonry.
+
+2114.4 Strength. Dry-stack masonry shall be of adequate strength and proportions to support all superimposed loads without exceeding the allowable stresses listed in Table 2114.4. Allowable stresses not specified in Table 2114.4 shall comply with the requirements of Chapter 8 of SBC 305.
+
+The strength of surface-bonded masonry construction is less than conventional masonry construction because of the lack of solid contact between the units.
+
+Where stresses are not specified in Table 2114.4, engineered design in accordance with Sections 2107 or 2108 is required.
+
+The values for allowable stresses based on the gross cross-sectional area of masonry units are given in this table. The gross cross-sectional area is the actual area of a section perpendicular to the direction of the load, without subtraction of the core areas of hollow masonry units.
+
+The flexural strength of surface-bonded walls is about the same as conventional masonry with mortar joints. In the vertical direction, where walls are supported top and bottom, Table 2114.4 allows a maximum flexural tensile stress of 0.12 MPa based on the gross area. In the horizontal direction, where walls span laterally between supports, a maximum flexural stress of 0.21 MPa is permitted based on the gross area where units are dry stacked in running bond. The shear strength of surface-bonded walls is less than that of conventional, mortar-jointed
+
+2114.5 Construction. Construction of dry-stack masonry shall comply with ASTM C946.
+
+Requirements for masonry units and other materials used in constructing dry-stacked, surface-bonded masonry for walls and for the construction itself are contained in ASTM C946. In addition, ASTM C946 includes requirements for construction procedures and workmanship for dry-stack masonry. The strength of surface-bonded masonry construction is less than conventional masonry construction because of the lack of solid contact between the units.
+
+Where stresses are not specified in Table 2114.4, engineered design in accordance with Section 2107 or 2108 is required.
+
+The values for allowable stresses based on the gross cross-sectional area of masonry units are given in this table. The gross cross-sectional area is the actual area of a section perpendicular to the direction of the load, without subtraction of the core areas of hollow masonry units.
+
+The flexural strength of surface-bonded walls is about the same as conventional masonry with mortar joints. In the vertical direction, where walls are supported top and bottom, Table 2114.4 allows a maximum flexural tensile stress of 0.12 MPa based on the gross area. In the horizontal direction, where walls span laterally between supports, a maximum flexural stress of 0.21 MPa is permitted based on the gross area where units are dry stacked in running bond. The shear strength of surface-bonded walls is less than that of conventional, mortar-jointed walls. This table allows a shear strength of 0.069 MPa based on the gross area.
+
+===== Page 1662 =====
+## Bibliography
+
+1 ANSI A41.1-53, American Standard Building Code Requirements for Masonry. New York: American National Standards Institute, 1953.
+
+2 ASTM A70 Specification for Low and Intermediate Tensile Strength Carbon-Steel, ASTM International, West Conshohocken, PA, 1947.
+
+3 ASTM A615/A615M-16, Standard Specification for Deformed and Plain Carbon-Steel Bars for Concrete Reinforcement, ASTM International, West Conshohocken, PA, 2016.
+
+4 ASTM A706/A706M-09a, Specification for Low-alloy Steel Deformed Bars for Concrete Reinforcement, West Conshohocken, PA: ASTM International, 2009.
+
+5 ASTM A996/A996M-09, Standard Specification for Rail-Steel and Axle-Steel Deformed Bars for Concrete Reinforcement, ASTM International, West Conshohocken, PA, 2009.
+
+6 ASTM C5-10, Standard Specification for Quickline for Structural Purposes, ASTM International, West Conshohocken, PA, 2010.
+
+7 ASTM C34-17, Standard Specification for Structural Clay Loadbearing Wall Tile, ASTM International, West Conshohocken, PA, 2017.
+
+8 ASTM C55-17, Standard Specification for Concrete Building Brick, ASTM International, West Conshohocken, PA, 2017.
+
+9 ASTM C56-13, Standard Specification for Structural Clay Non-load-bearing Tile, ASTM International, West Conshohocken, PA, 2017.
+
+10 ASTM C62-17, Standard Specification for Building Brick (Solid Masonry Units Made from Clay or Shale), ASTM International, West Conshohocken, PA, 2017.
+
+11 ASTM C67-17, Standard Test Methods for Sampling and Testing Brick and Structural Clay Tile, ASTM International, West Conshohocken, PA, 2017.
+
+12 ASTM C73-17, Standard Specification for Calcium Silicate Brick (Sand-Lime Brick), ASTM International, West Conshohocken, PA, 2017.
+
+13 ASTM C90-16a, Standard Specification for Loadbearing Concrete Masonry Units, ASTM International, West Conshohocken, PA, 2016.
+
+14 ASTM C91/C91M-12, Standard Specification for Masonry Cement, ASTM International, West Conshohocken, PA, 2012.
+
+15 ASTM C126-17, Standard Specification for Ceramic Glazed Structural Clay Facing Tile, Facing Brick, and Solid Masonry Units, ASTM International, West Conshohocken, PA, 2017.
+
+16 ASTM C150 / C150M-17, Standard Specification for Portland Cement, ASTM International, West Conshohocken, PA, 2017.
+
+17 ASTM C207-06, Standard Specification for Hydrated Lime for Masonry Purposes, ASTM International, West Conshohocken, PA, 2011.
+
+18 ASTM C212-17, Standard Specification for Structural Clay Facing Tile, ASTM International, West Conshohocken, PA, 2017.
+
+19 ASTM C216-17a, Standard Specification for Facing Brick (Solid Masonry Units Made from Clay or Shale), ASTM International, West Conshohocken, PA, 2017.
+
+20 ASTM C270-14a, Standard Specification for Mortar for Unit Masonry, ASTM International, West Conshohocken, PA, 2014.
+
+21 ASTM C476-16, Standard Specification for Grout for Masonry, ASTM International, West Conshohocken, PA, 2016.
+
+22 ASTM C503/C503M-15, Standard Specification for Marble Dimension Stone, ASTM International, West Conshohocken, PA, 2015.
+
+23 ASTM C568/C568M-15, Standard Specification for Limestone Dimension Stone, ASTM International, West Conshohocken, PA, 2015.
+
+24 ASTM C595/C595M-17, Standard Specification for Blended Hydraulic Cements, ASTM International, West Conshohocken, PA, 2017.
+
+25 ASTM C615 / C615M-11, Standard Specification for Granite Dimension Stone, ASTM International, West Conshohocken, PA, 2011.
+
+26 ASTM C616 / C616M-15, Standard Specification for Quartz-Based Dimension Stone, ASTM International, West Conshohocken, PA, 2015.
+
+===== Page 1663 =====
+27 ASTM C629 / C629M-15, Standard Specification for Slate Dimension Stone, ASTM International, West Conshohocken, PA, 2015.
+
+28 ASTM C652-17a, Standard Specification for Hollow Brick (Hollow Masonry Units Made from Clay or Shale), ASTM International, West Conshohocken, PA, 2017.
+
+29 ASTM C744-16, Standard Specification for Prefaced Concrete and Calcium Silicate Masonry Units, ASTM International, West Conshohocken, PA, 2016.
+
+30 ASTM C887-13, Standard Specification for Packaged, Dry, Combined Materials for Surface Bonding Mortar, ASTM International, West Conshohocken, PA, 2013.
+
+31 ASTM C926-18, Standard Specification for Application of Portland Cement-Based Plaster, ASTM International, West Conshohocken, PA, 2018.
+
+32 ASTM C946-10, Standard Practice for Construction of Dry-Stacked, Surface-Bonded Walls, ASTM International, West Conshohocken, PA, 2010.
+
+33 ASTM C1063-17a, Standard Specification for Installation of Lathing and Furring to Receive Interior and Exterior Portland Cement-Based Plaster, ASTM International, West Conshohocken, PA, 2017.
+
+34 ASTM C1088-17, Standard Specification for Thin Veneer Brick Units Made from Clay or Shale, ASTM International, West Conshohocken, PA, 2017.
+
+35 ASTM C1364-17, Standard Specification for Architectural Cast Stone, ASTM International, West Conshohocken, PA, 2017.
+
+36 ASTM C1386-07, Standard Specification for Precast Autoclaved Aerated Concrete (AAC) Wall Construction Units, ASTM International, West Conshohocken, PA, 2007
+
+37 ASTM E119-16a, Standard Test Methods for Fire Tests of Building Construction and Materials, ASTM International, West Conshohocken, PA, 2016.
+
+38 Baker, Ira. A Treatise on Masonry Construction. Chicago: University of Illinois, 1889.
+
+39 FEMA P750, NEHRP Recommended Provisions for Seismic Regulations for New Buildings and Other Structures Part 1. Washington, DC: Federal Emergency Management Agency, 2009.
+
+40 FEMA P750, NEHRP Recommended Provisions for Seismic Regulations for New Buildings and Other Structures Part 2: Commentary. Washington, DC: Federal Emergency Management Agency, 2009.
+
+41 SBC 301, Minimum Design Loads for Buildings and Other Structures, Saudi Standard, Metrology and Quality organization, 2017
+
+42 SBC 304, Building Code Requirements for Structural Concrete, Saudi Standard, Metrology and Quality organization, 2017.
+
+43 SBC 305, Building Code Masonry Structures Requirements, Saudi Standard, Metrology and Quality organization, 2017.
+
+44 TMS 602-13/ACI 530.1-13/ASCE 6-13, Specifications for Masonry Structures. Farmington Hills, MI: American Concrete Institute; Reston, VA: Structural Engineering Institute of the American Society of Civil Engineers; Boulder, CO: The Masonry Society, 2013.
+
+45 UBC-97, Uniform Building Code. Whittier, CA: International Conference of Building Officials, 1997.
+
+===== Page 1664 =====
+## TABLES AND FIGURES OF CHAPTER 21
+
+TABLE 2103.2.3
+
+CERAMIC TILE MORTAR COMPOSITION
+
+<table>LOCATIONMORTARCOMPOSITIONScratch coat1 cement; 1/5 hydrated lime; 4 dry or 5 damp sandWallsSetting bed and leveling 1 cement; 1/2 hydrated lime; 5 damp sand to 1 cement.coat1 hydrated lime, 7 damp sandFloors1 cement; 1/10 hydrated lime; 5 dry or 6 damp sand; or 1 cement; 5 dry or 6 damp sandCeilings1 cement; 1/2 hydrated lime; 21/2 dry sand or 3 damp sand</table>
+
+TABLE 2109.2.3.1
+
+ALLOWABLE SHEAR ON BOLTS IN ADOBE MASONRY
+
+<table>DIAMETER OF BOLTS (mm)MINIMUM EMBEDMENT (mm)SHEAR (N)12.5------15.930089019375133422450178025525222428.56002669</table>
+
+Table 2113.16 (1)
+
+Net cross-sectional area of round flue sizes \( ^{a} \)
+
+<table>FLUE SIZE, INSIDE DIAMETER (mm)CROSS-SECTIONAL AREA (mm²)150175001752375020031250250487502705625030070625375110000450158750</table>
+
+ \( ^{a} \)  Flue sizes are based on ASTM C 315.
+
+===== Page 1665 =====
+Table 2113.16 (2)
+
+Net cross-sectional area of square and rectangular flue sizes
+
+<table>FLUE SIZE, OUTSIDE NOMINAL DIMENSIONS (mm)CROSS-SECTIONAL AREA (Square mm)115 × 21514375115 × 32521250200 × 20026250215 × 21530625200 × 30041875215 × 32547500300 × 30063750215 × 45063125325 × 32579375300 × 40081875325 × 450108125400 × 400113125400 × 500138750450 × 450145625500 × 500186250500 × 600209375600 × 600269375</table>
+
+TABLE 2114.4
+
+GROSS CROSS-SECTIONAL AREA ALLOWABLE STRESS FOR DRY-STACK MASONRY
+
+<table>DESCRIPTIONMAXIMUM ALLOWABLE STRESS (MPa)Compression0.31Flexural tensionHorizontal span0.21Vertical span0.12Shear0.07</table>
+
+===== Page 1666 =====
+FIGURE 2111.1
+SECTION THROUGH FIREPLACE
+
+===== Page 1667 =====
+FIGURE 2111.11
+HEARTH EXTENSION
+
+===== Page 1668 =====
+FIGURE 2111.12
+ILLUSTRATION OF EXCEPTION TO FIREPLACE CLEARANCE PROVISION
+
+FIGURE 2111.12(1)
+COMBUSTIBLE MATERIALS PROJECTION ABOVE FIREPLACE OPENING
+
+===== Page 1669 =====
+FIGURE 2111.14.1
+FACTORY-BUILT FIREPLACE EXTERIOR COMBUSTION AIR DUCT
+
+FIGURE 2113.16
+FLUE SIZES FOR MASONRY CHIMNEYS
+
+===== Page 1670 =====
+FIGURE 2113.19
+
+ILLUSTRATION OF EXCEPTION THREE CHIMNEY CLEARANCE PROVISION
+
+FIGURE 2113.5
+CORBELING LIMITATIONS
+
+===== Page 1671 =====
+FIGURE 2113.6
+MASONRY CHIMNEY CHANGE IN SHAPE (OFFSET)
+
+===== Page 1672 =====
+FIGURE 2113.9
+MINIMUM TERMINATION OF CHIMNEYS
+
+===== Page 1673 =====
+FIGURE 2113.9.1
+MASONRY CHIMNEY CAP AND RAIN CAP
+
+FIGURE 2113.11.2.3
+MASONRY CHIMNEY FOR MEDIUM-HEAT APPLIANCE
+
+===== Page 1674 =====
+PLAN
+
+STAGGER JOINTS OF ADJOINING FLUE LINERS A MIN. OF 100 MM
+
+FIGURE 2113.14
+LOW-HEAT CHIMNEY WITH MORE THAN TWO FLUES
+
+FIGURE 2113.20(1)
+FIREBLOCKING
+
+===== Page 1675 =====
+FIGURE 2113.20(2)
+FIREBLOCKING (SECTION)
+
+===== Page 1676 =====
+This page left intentionally blank
+
